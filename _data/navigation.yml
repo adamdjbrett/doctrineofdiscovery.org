@@ -1,4 +1,18 @@
 main:
+- title: "What is it?"
+    url: /what-is-the-doctrine-of-discovery/
+  - title: "Papal Bulls"
+    url: /papal-bulls/
+  - title: "Law"
+    url: /Law/
+  - title: "Repuidations"
+    url: /faith-communities/
+  - title: "UN"
+    url: /united-nations/
+  - title: "Give"
+    url: /give/    
+  - title: "Posts"
+    url: /posts/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
@@ -7,3 +21,9 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Bibliography"
+    url: /bibliography/
+  - title: "Online Resources"
+    url: /online-resources/
+  - title: "Privacy Policy"
+    url: /privacy-policy/
