@@ -20,7 +20,7 @@ email: contact@doctrineofdiscovery.org
 description: >- # this means to ignore newlines until "baseurl:"
   "Papal Bulls of the 15th century gave Christian explorers the right to claim lands they "discovered" and lay claim to those lands for their Christian Monarchs. Any land that was not inhabited by Christians was available to be "discovered", claimed, and exploited."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://stl3.theological.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://doctrineofdiscovery.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: indigenousVI
 #github_username: username
 minimal_mistakes_skin: default
