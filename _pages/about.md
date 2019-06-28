@@ -3,7 +3,10 @@ title: "About"
 
 permalink: /about/
 ---
-## About
+
+## Overview
+Doctrine of Discovery is an educational resource maintained by [Indigenous Values Initiative](indigenousvalues.org) and the [American Indian Law Alliance](https://aila.ngo).
+
 *   [What is the Doctrine of Discovery?](/what-is-the-doctrine-of-discovery/)
 *   [Give](/give/)
 *   [Contact](/contact/)
