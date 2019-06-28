@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+locale: en-US
+title: Doctrine of Discovery
 email: contact@doctrineofdiscovery.org
 description: >- # this means to ignore newlines until "baseurl:"
   "Papal Bulls of the 15th century gave Christian explorers the right to claim lands they "discovered" and lay claim to those lands for their Christian Monarchs. Any land that was not inhabited by Christians was available to be "discovered", claimed, and exploited."
@@ -56,8 +57,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Indigenous Values Initiative"
+  avatar : "/assets/images/indigenousvalues.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
