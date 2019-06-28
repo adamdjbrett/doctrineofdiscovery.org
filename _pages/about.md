@@ -5,19 +5,16 @@ permalink: /about/
 ---
 
 ## Overview
-Doctrine of Discovery is an educational resource maintained by [Indigenous Values Initiative](indigenousvalues.org) and the [American Indian Law Alliance](https://aila.ngo).
+[The Doctrine of Discovery](/) educational resource, is lovingly maintained by [Indigenous Values Initiative](https://indigenousvalues.org) and the [American Indian Law Alliance](https://aila.ngo). It is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). View the [privacy and cookies policy](/privacy-policy/). Subscribe to the [Feed](/atom.xml). [Verify SSL](https://www.sslshopper.com/ssl-checker.html#hostname=doctrineofdiscovery.org).
 
 *   [What is the Doctrine of Discovery?](/what-is-the-doctrine-of-discovery/)
 *   [Give](/give/)
-*   [Contact](/contact/)
-    *   [Privacy Policy](/privacy-policy/)
-*   [Study Group](/study-group/)
 *   [Papal Bulls](/papal-bulls/)
 *   [Faith Communities](/faith-communities/)
 *   [Law](/law/)
     *   [“US Indian Law”](/us-indian-law-panel/)
 *   [United Nations](/united-nations/)
-    *   [The International Law of Colonialism](/the-doctrine-of-discovery-the-international-law-of-colonialism/)
+    *   [The International Law of Colonialism](/the-doctrine-of-discovery-the-international-law-of-colonialism)
 *   Resources
       *   [Bibliography](/bibliography/)
       *   [Online Resources](/online-resources/)
