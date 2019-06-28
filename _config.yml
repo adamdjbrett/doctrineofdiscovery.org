@@ -25,6 +25,8 @@ minimal_mistakes_skin: default
 search: true
 teaser: "/assets/images/onondaga-lake-east-shoreline-1.jpg"
 logo: /assets/images/compass.svg
+breadcrumbs: true # true, false (default)
+words_per_minute: 200
 
 # Build settings
 markdown: kramdown
@@ -37,6 +39,10 @@ timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 include:
   - _pages
+
+# Site settings
+atom_feed:
+  path: atom.xml
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
