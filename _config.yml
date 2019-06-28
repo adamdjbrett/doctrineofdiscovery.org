@@ -44,7 +44,7 @@ include:
 
 # Site settings
 atom_feed:
-  path: atom.xml
+  path: 
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

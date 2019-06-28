@@ -7,10 +7,11 @@ adamdjbrett:
       icon: "fas fa-fw fa-link"
       url: "https://adamdjbrett.com"
     - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/adjbx"
+    - label: "Github"
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/adamdjbrett"
-    - label: Github
-      icon: "fab fa-fw fa-github"
 
 pparnold:
   name: Philip P. Arnold
