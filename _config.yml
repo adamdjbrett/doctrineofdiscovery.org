@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Indigenous Values Initiative"
   avatar : "/assets/images/indigenousvalues.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "The Indigenous Values Initiative is dedicated to articulating, disseminating and promoting values expressed by the leadership of the Onondaga Nation, the Central Fire of the Haudenosaunee Confederacy."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
