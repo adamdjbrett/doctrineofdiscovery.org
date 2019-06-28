@@ -1,8 +1,44 @@
 ---
-permalink: /about/
 title: "About"
+layout: page
+permalink: /about/
 ---
+## About
+*   [What is the Doctrine of Discovery?](/what-is-the-doctrine-of-discovery/)
+*   [Give](/give/)
+*   [Contact](/contact/)
+    *   [Privacy Policy](/privacy-policy/)
+*   [Study Group](/study-group/)
+*   [Papal Bulls](/papal-bulls/)
+*   [Faith Communities](/faith-communities/)
+*   [Law](/law/)
+    *   [“US Indian Law”](/us-indian-law-panel/)
+*   [United Nations](/united-nations/)
+    *   [The International Law of Colonialism](/the-doctrine-of-discovery-the-international-law-of-colonialism/)
+*   Resources
+      *   [Bibliography](/bibliography/)
+      *   [Online Resources](/online-resources/)
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+### Collaborators
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+*   [American Indian Law Alliance](https://aila.ngo/)
+*   [Indigenous Values Initiative](https://indigenousvalues.org/)
+*   [Onondaga Nation](http://www.onondaganation.org/)
+*   [Kanatsiohareke Mohawk Community](http://www.mohawkcommunity.com/)
+*   [Matilda Josyln Gage Foundation](http://www.matildajoslyngage.org/)
+*   [Neighbors of the Onondaga Nation](http://www.peacecouncil.net/noon/)
+*   [Sullivan/Clinton Campaign THEN & NOW](http://sullivanclinton.com/)
+*   [Syracuse University](https://www.syracuse.edu/)
+*   [Syracuse University Department of Religion](http://religion.syr.edu/)
+*   [Jugaad: A Material Religions Project](https://jugaad.pub)
+*   [Tonatierra](http://www.Tonatierra.org)
+
+### License
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+### Sponsors
+Doctrine of Discovery is an educational resource and study group maintained by the [Indigenous Values Initiative](https://indigenousvalues.org) and the [American Indian Law Alliance](https://aila.ngo)
+
+#### Webmaster
+[**Adam DJ Brett**](https://adamdjbrett.com)
