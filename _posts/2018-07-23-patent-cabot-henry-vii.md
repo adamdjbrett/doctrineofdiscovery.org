@@ -1,7 +1,8 @@
 ---
 ID: 8831
 title: "Patent Granted by Henry VII to John Cabot"
-image: /assets/images/john-cabot-patent.jpg
+header:
+  image: /assets/images/john-cabot-patent.jpg
 caption: 'John Cabot Patent'
 author: admin
 excerpt: "By this public document, Henry VII indicated his official, royal support for Cabot's enterprise."
