@@ -1,5 +1,5 @@
 main:
-- title: "What is it?"
+  - title: "What is it?"
     url: /what-is-the-doctrine-of-discovery/
   - title: "Papal Bulls"
     url: /papal-bulls/
@@ -10,7 +10,7 @@ main:
   - title: "UN"
     url: /united-nations/
   - title: "Give"
-    url: /give/    
+    url: /give/
   - title: "Posts"
     url: /posts/
   - title: "Posts"
