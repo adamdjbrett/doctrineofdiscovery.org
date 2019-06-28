@@ -1,6 +1,6 @@
 ---
 title: Give
-
+author_profile: false
 permalink: /give/
 ---
 # Give to the Doctrine of Discovery Healing fund.

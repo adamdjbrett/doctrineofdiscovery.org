@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-
+author_profile: false
 permalink: /contact/
 redirect_from: /table/
 ---

@@ -1,6 +1,6 @@
 ---
 title: PDF Archive Index
-
+author_profile: false
 permalink: /pdf-archive/
 ---
 ## PDF Archive
