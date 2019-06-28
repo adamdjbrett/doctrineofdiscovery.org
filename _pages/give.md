@@ -1,6 +1,6 @@
 ---
 title: Give
-layout: page
+
 permalink: /give/
 ---
 # Give to the Doctrine of Discovery Healing fund.

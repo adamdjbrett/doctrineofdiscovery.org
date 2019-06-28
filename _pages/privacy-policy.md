@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-layout: page
+
 permalink: /privacy-policy/
 redirect_from: "/privacy-policy-2/"
 ---

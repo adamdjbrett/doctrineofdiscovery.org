@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-layout: page
+
 permalink: /contact/
 redirect_from: /table/
 ---

@@ -1,6 +1,6 @@
 ---
 title: PDF Archive Index
-layout: page
+
 permalink: /pdf-archive/
 ---
 ## PDF Archive
