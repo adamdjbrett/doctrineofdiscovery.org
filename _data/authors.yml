@@ -1,7 +1,7 @@
 adamdjbrett:
   name: Adam DJ Brett
   bio: "Ph.D. Candidate in Religion at Syracuse University. Webmaster for the Doctrine of Discovery educational resource."
-  avatar: /images/authors/adamdjbrett.png
+  avatar: /assets/images/authors/adamdjbrett.png
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
