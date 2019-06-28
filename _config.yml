@@ -116,6 +116,16 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # assets
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+  - scope:
+      path: "assets/pdfs"
+    values:
+      pdf: true
+
 
 category_archive:
   type: liquid
