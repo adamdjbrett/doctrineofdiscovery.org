@@ -1,14 +1,42 @@
 adamdjbrett:
   name: Adam DJ Brett
-  twitter: adamdjbrett
-  picture: /images/authors/adamdjbrett.png
+  bio: "Ph.D. Candidate in Religion at Syracuse University. Webmaster for the Doctrine of Discovery educational resource."
+  avatar: /images/authors/adamdjbrett.png
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://adamdjbrett.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/adamdjbrett"
+    - label: Github
+      icon: "fab fa-fw fa-github"
 
 pparnold:
   name: Philip P. Arnold
-  twitter: arnold_philip
-  picture: /assets/images/pparnold.jpg
+  bio: "Associate Professor and Chair of the Department of Religion at Syracuse University, Founding Director of the Skä·noñh—Great Law of Peace Center, and President of Indigenous Values Initiative."
+  avatar: /assets/images/pparnold.jpg
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@indigenousvalues.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
 
 admin:
   name: Indigenous Values
-  twitter: IndigenousVI
-  picture: /assets/images/compass.svg
+  avatar: /assets/images/indigenousvalues.png
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@indigenousvalues.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://indigenousvalues.org"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/indigenousvi"
