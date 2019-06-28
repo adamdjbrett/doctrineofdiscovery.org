@@ -26,7 +26,7 @@ twitter_username: indigenousVI
 minimal_mistakes_skin: default
 search: true
 teaser: "/assets/images/onondaga-lake-east-shoreline-1.jpg"
-logo: "/assets/images/compass.svg"
+logo: /assets/images/compass.png
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 
