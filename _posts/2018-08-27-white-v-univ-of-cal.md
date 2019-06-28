@@ -3,7 +3,7 @@ ID: 9497
 title: "White v. Univ. of Cal."
 author: admin
 excerpt: "Aboriginal interest in land generally is described as a tribe’s right to occupy the land."
-layout: post
+
 permalink: /white-v-univ-of-cal/
 published: true
 date: 2018-08-27 12:06:04

@@ -5,7 +5,7 @@ image: /assets/images/papal-bull-doctrine-of-discovery.jpg
 caption: 'Romanus Pontifex Papal Bull'
 author: admin
 excerpt: "The Bull Romanus Pontifex (Nicholas V) January 8, 1454"
-layout: post
+
 permalink: /the-bull-romanus-pontifex-nicholas-v/
 published: true
 date: 2018-07-23 15:11:47

@@ -2,7 +2,7 @@
 title: "The Doctrine of Discovery and Colonial Terrorism: A Dialogue Between Sovereign Women, Weaving Indigenous Truths Across Time and Space"
 author: adamdjbrett
 excerpt: "Like the rings of a tree, the record of our people, our indigenous truth, is carried in the bones of indigenous women, which we bear forth with every birth onto our lands."
-layout: post
+
 permalink: /event-colonial-terrorism/
 published: true
 date: 2019-04-26 14:27:22

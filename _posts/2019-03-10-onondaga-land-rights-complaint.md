@@ -2,7 +2,7 @@
 title: "Onondaga Nation Land Rights Complaint"
 author: 'Onondaga Nation'
 excerpt: "The Onondaga People wish to bring about a healing between themselves and all others who live in this region that has been the homeland of the Onondaga Nation since the dawn of time."
-layout: post
+
 permalink: /onondaga-nation-land-rights/
 published: true
 date: 2019-03-10 23:47:22

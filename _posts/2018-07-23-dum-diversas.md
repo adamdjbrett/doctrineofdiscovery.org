@@ -3,7 +3,7 @@ ID: 8814
 title: "Dum Diversas"
 author: admin
 excerpt: "Papal Bull Dum Diversas 18 June, 1452"
-layout: post
+
 permalink: /dum-diversas/
 published: true
 date: 2018-07-23 15:08:34

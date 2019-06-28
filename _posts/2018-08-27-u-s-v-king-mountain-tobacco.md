@@ -3,7 +3,7 @@ ID: 9502
 title: "U.S. v. KING MOUNTAIN TOBACCO"
 author: 'Joseph J. Heath'
 excerpt: "Tobacco company, owned by a Yakima Nation citizen, makes cigarettes using 54 % tobacco that is grown on allotted nation land, held in trust by US. The 9th Circuit affirmed the District Court holding that federal excise taxes still applied to these tobacco products"
-layout: post
+
 permalink: /u-s-v-king-mountain-tobacco/
 published: true
 date: 2018-08-27 12:16:23

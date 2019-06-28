@@ -3,7 +3,7 @@ ID: 9478
 title: "Cayuga v. Pataki"
 author: admin
 excerpt: "We understand Sherrill to hold that equitable doctrines, such as laches, acquiescence, and impossibility, can in appropriate circumstances, be applied to Indian land claims, **even when such a claim is legally viable and with in the statute of limitations"
-layout: post
+
 permalink: /cayuga-v-pataki/
 published: true
 date: 2018-08-27 11:35:51

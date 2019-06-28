@@ -2,7 +2,7 @@
 title: "Basic Call to Consciousness"
 author: adamdjbrett
 excerpt: "Basic Call to Consciousness copies are available in English and Spanish."
-layout: post
+
 permalink: /basic-call/
 published: true
 date: 2019-03-26 03:47:22

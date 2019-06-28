@@ -3,7 +3,7 @@ ID: 8838
 title: "Online Resources"
 author: admin
 excerpt: "Online Resources about the Doctrine of Discovery"
-layout: post
+
 permalink: /online-resources/
 published: true
 date: 2018-07-24 09:19:59

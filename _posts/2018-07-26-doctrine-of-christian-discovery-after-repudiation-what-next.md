@@ -3,7 +3,7 @@ ID: 8868
 title: 'Doctrine of Christian Discovery: After Repudiation, What Next?'
 author: admin
 excerpt: "Doctrine of Christian Discovery: After Repudiation, What Next? Conference May 24-25 2014 The Skä·noñh — Great Law of Peace Center."
-layout: post
+
 permalink: doctrine-of-christian-discovery-after-repudiation-what-next/
 published: true
 date: 2018-07-26 11:37:00

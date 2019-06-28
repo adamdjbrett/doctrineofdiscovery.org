@@ -3,7 +3,7 @@ ID: 9492
 title: "Onondaga Nation v. NY"
 author: adamdjbrett
 excerpt: "This appeal is decided on the basis of the equitable bar on recovery of ancestral lands in Sherrill, and this Court’s cases of Cayuga and Oneida. Three specific factors determine when ancestral land claims are foreclosed on equitable grounds:  (1) the length of time between an historic injustice and the present day;  (2) the disruptive nature of claims long delayed; and  (3) the degree to which these claims upset the justifiable expectations of individuals far removed from the events giving rise to the plaintiffs’ injury."
-layout: post
+
 permalink: /onondaga-nation-v-ny/
 published: true
 date: 2018-08-27 11:54:22

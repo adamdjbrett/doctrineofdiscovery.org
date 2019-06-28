@@ -3,7 +3,7 @@ ID: 9351
 title: "'United States Indian Law' Panel"
 author: Betty Lyons
 excerpt: "Resources from the 'United States Indian Law Panel' at the Taking on the Doctrine of Discovery, What are our Next Steps?"
-layout: post
+
 permalink: /us-indian-law-panel/
 published: true
 date: 2018-08-08 16:30:24

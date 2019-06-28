@@ -3,7 +3,7 @@ ID: 8914
 title: "Roman Catholic Organizations Repudiate the Doctrine of Discovery"
 author: admin
 excerpt: "Roman Catholic Organization Statements Repudiating the Doctrine of Discovery."
-layout: post
+
 permalink: /roman-catholic-organizations-repudiate-the-doctrine-of-discovery/
 published: true
 date: 2018-07-27 11:31:27

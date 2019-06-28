@@ -3,7 +3,7 @@ ID: 8836
 title: "Bibliography"
 author: admin
 excerpt: "The Doctrine of Discovery Working Bibliography"
-layout: post
+
 permalink: /bibliography/
 published: true
 date: 2018-07-24 09:15:28

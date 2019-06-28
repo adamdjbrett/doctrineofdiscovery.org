@@ -3,7 +3,7 @@ ID: 8834
 title: "Requerimiento"
 author: admin
 excerpt: "Spanish conquistadors read this document, composed in 1514, to Indians of the new world. It briefly explains Spain's assertion of its legal and moral right to rule over the inhabitants of Latin America. It also provides a rationale for a 'just war'."
-layout: post
+
 permalink: /requerimiento/
 published: true
 date: 2018-07-24 09:12:22

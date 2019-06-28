@@ -3,7 +3,7 @@ ID: 8858
 title: "Indigenous delegates ask Pope to repudiate Doctrine of Discovery"
 author: Gale Courey Toensing
 excerpt: "Indigenous delegates ask Pope to repudiate Doctrine of Discovery"
-layout: post
+
 permalink: /indigenous-delegates-ask-pope-to-repudiate-doctrine-of-discovery/
 published: true
 date: 2018-07-26 11:16:47

@@ -3,7 +3,7 @@ ID: 8864
 title: "Roosevelt Corollary"
 author: admin
 excerpt: "Roosevelt asserted that European nations should not intervene in countries to the south of the US, however under certain conditions, United States intervention might be justified."
-layout: post
+
 permalink: /roosevelt-corollary/
 published: true
 date: 2018-07-26 11:24:53

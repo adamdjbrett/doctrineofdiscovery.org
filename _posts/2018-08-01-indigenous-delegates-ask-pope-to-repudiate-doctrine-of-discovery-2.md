@@ -3,7 +3,7 @@ ID: 9212
 title: "Indigenous delegates ask Pope to repudiate Doctrine of Discovery"
 author: Gale Courey Toensing
 excerpt: "The Doctrine, a fundamentally racist philosophy from the 15th century, continues to allow powerful nation-states to dehumanize people and devastate the living earth in their endless search for resources and markets, the delegation said."
-layout: post
+
 permalink: /indigenous-delegates-ask-pope-to-repudiate-doctrine-of-discovery-2/
 published: true
 date: 2018-08-01 11:14:36

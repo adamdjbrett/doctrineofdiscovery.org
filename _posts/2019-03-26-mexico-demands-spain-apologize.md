@@ -2,7 +2,7 @@
 title: "Mexico demands Spain apologize for colonial abuse of indigenous people"
 author: adamdjbrett
 excerpt: "In letter to Spanish king, President Obrador cites massacres and oppression during conquest of Mexico."
-layout: post
+
 permalink: /mexico-spain-colonial-abuse/
 published: true
 date: 2019-03-26 03:47:22

@@ -3,7 +3,7 @@ ID: 8946
 title: "Friends General Conference Repudiates the Doctrine of Discovery"
 author: admin
 excerpt: "Minute on the Doctrine of Discovery, Approved July 25, 2012, New York Yearly Meeting Summer Sessions Silver Bay, New York"
-layout: post
+
 permalink: /friends-general-conference/
 published: true
 date: 2018-07-27 22:40:26

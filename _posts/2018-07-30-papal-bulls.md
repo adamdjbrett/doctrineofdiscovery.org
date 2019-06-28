@@ -4,7 +4,7 @@ title: "Papal Bulls"
 image: assets/images/papal-bull-doctrine-of-discovery.jpg
 author: admin
 excerpt: "Papal Bulls that create the foundation of the Doctrine of Discovery"
-layout: post
+
 permalink: /papal-bulls/
 published: true
 date: 2018-07-30 17:45:04
