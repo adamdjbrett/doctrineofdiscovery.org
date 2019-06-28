@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 locale: en-US
 title: Doctrine of Discovery
+title_separator: "-"
 email: contact@doctrineofdiscovery.org
 description: >- # this means to ignore newlines until "baseurl:"
   "Papal Bulls of the 15th century gave Christian explorers the right to claim lands they "discovered" and lay claim to those lands for their Christian Monarchs. Any land that was not inhabited by Christians was available to be "discovered", claimed, and exploited."
@@ -22,6 +23,8 @@ twitter_username: indigenousVI
 #github_username: username
 minimal_mistakes_skin: default
 search: true
+teaser: "/assets/images/onondaga-lake-east-shoreline-1.jpg"
+logo: /assets/images/compass.svg
 
 # Build settings
 markdown: kramdown
