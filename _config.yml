@@ -55,35 +55,42 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Site Author
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name             : "Indigenous Values Initiative"
+  avatar           : "/assets/images/indigenousvalues.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "The Indigenous Values Initiative is dedicated to articulating, disseminating and promoting values expressed by the leadership of the Onondaga Nation, the Central Fire (or Capital) of the Haudenosaunee Confederacy (made up of the Seneca, Tuscarora, Cayuga, Onondaga, Oneida and Mohawk nations)."
+  location         : "Onondaga Nation Territory"
+  #email            :
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+        url: mailto:info@indigenousvalues.org
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+        url: "https://indigenousvalues.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+        url: "https://twitter.com/indigenousVI"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+        url: "https://facebook.com/indigenousvalues"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+        url: "https://instagram.com/indigenousVI"
+# Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+        url: https://twitter.com/indigenousVI
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+       url: https://facebook.com/indigenousvalues
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+        url: https://instagram.com/indigenousVI
+
 
 defaults:
   # _posts
