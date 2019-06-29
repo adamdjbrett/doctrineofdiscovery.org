@@ -44,3 +44,13 @@ admin:
     - label: "Twitter"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://twitter.com/indigenousvi"
+
+gale:
+  name: Gale Courey Toensing
+
+jdk:
+  name: John Dieffenbacher-Krall
+  links:
+    - label: "Linkedin"
+    - icon: "fas fa-fw fa-linkedin-square"
+    - url: "https://www.linkedin.com/in/john-dieffenbacher-krall-13a851101/"
