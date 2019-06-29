@@ -1,1 +1,2 @@
 /category/:slug/    /categories#:slug
+atom.xml            feed.xml
