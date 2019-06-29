@@ -1,7 +1,8 @@
 ---
 ID: 8817
 title: "The Bull Romanus Pontifex"
-image: /assets/images/papal-bull-doctrine-of-discovery.jpg
+header:
+  image: /assets/images/papal-bull-doctrine-of-discovery.jpg
 caption: 'Romanus Pontifex Papal Bull'
 author: admin
 excerpt: "The Bull Romanus Pontifex (Nicholas V) January 8, 1454"
