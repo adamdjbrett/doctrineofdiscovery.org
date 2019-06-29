@@ -1,7 +1,8 @@
 ---
 ID: 9424
 title: 'The Doctrine of Discovery, Unmasking The Domination Code'
-image: /assets/images/doctrine-of-discovery-unmasking-domination-code.jpg
+header:
+  image: /assets/images/doctrine-of-discovery-unmasking-domination-code.jpg
 author: Steve T. Newcomb
 excerpt: "The first Christian people to locate lands inhabited by non-Christians ('infidels, heathens, and savages') claimed the right to assert a right of domination to be in themselves. On the basis of this religiously premised argument, the U.S. Supreme Court has defined the land title of the Indian nations as a 'mere right of occupancy' subject to a right of domination on the part of the United States."
 

@@ -1,7 +1,8 @@
 ---
 ID: 8805
 title: "Study Group"
-image: /assets/images/book-1659717_1920.jpg
+header:
+  image: /assets/images/book-1659717_1920.jpg
 author: pparnold
 excerpt: "The Doctrine of Discovery has had profoundly negative impacts on Indigenous Peoples for the last 500+ years. Governments and various organizations have used the Doctrine of Discovery to justify the taking lands, the extermination of people and cultures, and the breaking of agreements and treaties. Since 2007 we have been reading, discussing and educating ourselves ourselves about Indigenous Peoples' history, worldviews, and struggles."
 
