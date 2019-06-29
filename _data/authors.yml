@@ -52,5 +52,8 @@ jdk:
   name: John Dieffenbacher-Krall
   links:
     - label: "Linkedin"
-    - icon: "fas fa-fw fa-linkedin-square"
+    - icon: "fas fa-fw fa-linkedin"
     - url: "https://www.linkedin.com/in/john-dieffenbacher-krall-13a851101/"
+
+chaffee:
+  name: John Chaffee
