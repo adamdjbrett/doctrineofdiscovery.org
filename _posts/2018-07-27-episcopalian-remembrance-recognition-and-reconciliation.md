@@ -1,7 +1,7 @@
 ---
 ID: 8937
 title: "Episcopalian Remembrance, Recognition and Reconciliation"
-author: John Dieffenbacher-Krall
+author: jdk
 excerpt: "Before we judge the papal edicts too harshly, we need to know of the Anglican connection to this Doctrine of Discovery."
 
 permalink: /episcopalian-remembrance-recognition-and-reconciliation/

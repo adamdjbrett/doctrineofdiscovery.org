@@ -1,7 +1,7 @@
 ---
 ID: 9324
 title: 'Resources by Peter d&#8217;Errico'
-author: Peter d&#8217;Errico
+author: derrico
 excerpt: "Replacing the Doctrine of Christian Discovery and Implementing the United Nations Declaration on the Rights of Indigenous People"
 
 permalink: /resources-by-peter-derrico/

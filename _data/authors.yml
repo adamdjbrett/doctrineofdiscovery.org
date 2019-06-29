@@ -39,10 +39,10 @@ admin:
       icon: "fas fa-fw fa-link"
       url: "https://indigenousvalues.org"
     - label: "Facebook"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://Facebook.com/indigenousvalues"
-    - label: "Twitter"
       icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/indigenousvalues"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/indigenousvi"
 
 gale:
@@ -50,10 +50,92 @@ gale:
 
 jdk:
   name: John Dieffenbacher-Krall
-  links:
-    - label: "Linkedin"
-    - icon: "fas fa-fw fa-linkedin"
-    - url: "https://www.linkedin.com/in/john-dieffenbacher-krall-13a851101/"
 
 chaffee:
   name: John Chaffee
+
+heath:
+  name: Joseph J. Heath
+  bio: "General Counsel for Onondaga Nation."
+
+rjmiller:
+  name: Robert J. Miller
+
+ecusa:
+  name: "Episcopal Church (USA)"
+  bio: "The Episcopal Church is a member church of the worldwide Anglican Communion based in the United States with dioceses elsewhere."
+  avatar: /assests/images/authors/ecusa.png
+  links:
+    - label: "Website"
+    - icon: "fas fa-fw fa-link"
+    - url: "https://www.episcopalchurch.org/"
+
+derrico:
+  name: "Peter d&#8217;Errico"
+  bio: "Professor d'Errico continues to engage in law-related writing and consulting, primarily on issues of concern to indigenous peoples."
+
+newcomb:
+  name: "Steven T. Newcomb"
+  bio: "Steven Newcomb is a Shawnee, Lenape scholar and author. He is co-founder and co-director of the Indigenous Law Institute."
+
+bettylyons:
+  name: Betty Lyons
+  bio: "Betty Lyons, President & Executive Director of the American Indian Law Alliance (AILA), is an Indigenous and environmental activist and citizen of the Onondaga Nation."
+  avatar: /assets/images/authors/aila-logo.png
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aila@aila.ngo"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://aila.ngo"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/americanindianlawalliance"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ailanyc"
+
+emmiller:
+  name: "Emily McFarlan Miller"
+  bio: "Emily McFarlan Miller is a national reporter for RNS based in Chicago. She covers evangelical and mainline Protestant Christianity."
+  avatar: /assets/images/authors/emmiller.jpg
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://religionnews.com/author/emiller/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/emmillerwrites"
+
+jkent:
+  name: Jim Kent
+  bio: "Freelance writer, radio producer, columnist"
+  avatar: /assets/images/authors/jkent.jpg
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jimkentvfte"
+
+ssharjo:
+  name: Suzan Shown Harjo
+  bio: "Suzan Shown Harjo, Cheyenne & Hodulgee Muscogee, is a writer, curator and policy advocate, who has helped Native Peoples protect and recover sacred places and over one million acres of lands."
+  avatar: /assets/images/authors/ssharjo.jpg
+
+onondaga:
+  name: Onondaga Nation
+  bio: "The Onondaga Nation is a member of the Haudenosaunee (“People of the Long House”), an alliance of native nations united for hundreds of years by traditions, beliefs and cultural values."
+  avatar: /assets/images/authors/onondaga.jpg
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:admin@onondaganation.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.onondaganation.org"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-faecbook-square"
+      url: "https://facebook.com/onondaganation"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/onondageh"
