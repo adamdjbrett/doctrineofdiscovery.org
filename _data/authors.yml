@@ -61,15 +61,6 @@ heath:
 rjmiller:
   name: Robert J. Miller
 
-ecusa:
-  name: "Episcopal Church (USA)"
-  bio: "The Episcopal Church is a member church of the worldwide Anglican Communion based in the United States with dioceses elsewhere."
-  avatar: /assests/images/authors/ecusa.png
-  links:
-    - label: "Website"
-    - icon: "fas fa-fw fa-link"
-    - url: "https://www.episcopalchurch.org/"
-
 derrico:
   name: "Peter d&#8217;Errico"
   bio: "Professor d'Errico continues to engage in law-related writing and consulting, primarily on issues of concern to indigenous peoples."
@@ -139,3 +130,57 @@ onondaga:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/onondaganation"
+
+ecusa:
+  name: "Episcopal Church (USA)"
+  bio: "The Episcopal Church is a member church of the worldwide Anglican Communion based in the United States with dioceses elsewhere."
+  avatar: /assests/images/authors/ecusa.png
+  links:
+    - label: "Website"
+    - icon: "fas fa-fw fa-link"
+    - url: "https://www.episcopalchurch.org/"
+
+ccdoc:
+  name: "Christian Church (Disciples of Christ)"
+  bio: "A mainline Protestant denomination centered in the United States and Canada"
+  avatar: /asseets/images/authors/doc.png
+  links:
+    - label: "Website"
+    - icon: "fas fa-fw fa-link"
+    - url: "https://disciples.org/"
+
+uua:
+  name: "Unitarian Universalist Association"
+  bio: "The Unitarian Universalist Association (UUA) is the central organization for the Unitarian Universalist (UU) religious movement in the United States. The UUA’s 1000+ member congregations are committed to Seven Principles that include the worth of each person, the need for justice and compassion, and the right to choose one’s own beliefs."
+  avatar: /assets/images/authors/uua.png
+  links:
+    - label: "Website"
+    - icon: "fas fa-fw fa-link"
+    - url: "https://www.uua.org/"
+
+wcc:
+  name: "World Council of Churches"
+  bio: "A worldwide fellowship of churches seeking unity, a common witness and Christian service"
+  avatar: /assets/images/authors/wcc.gif
+  links:
+    - label: "Website"
+    - icon: "fas fa-fw fa-link"
+    - url: "https://www.oikoumene.org/en"
+
+united-church-canada:
+  name: "United Church of Canada"
+  bio: "The United Church of Canada is the largest Protestant denomination in Canada."
+  avatar: /assets/images/authors/united-church-canada.png
+  links:
+    - label: "Website"
+    - icon: "fas fa-fw fa-link"
+    - url: "https://www.united-church.ca/"
+
+united-church-christ:
+  name: "United Church of Christ"
+  bio: "The United Church of Christ (UCC) is a distinct and diverse community of Christians that come together as one church to join faith and action."
+  avatar: /assets/images/authors/united-church-christ.jpg
+  links:
+    - label: "Website"
+    - icon: "fas fa-fw fa-link"
+    - url: "https://www.ucc.org/"

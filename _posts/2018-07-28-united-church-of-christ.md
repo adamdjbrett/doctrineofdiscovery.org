@@ -1,7 +1,7 @@
 ---
 ID: 8956
 title: "United Church of Christ Repudiates the Doctrine of Discovery"
-author: United Church of Christ
+author: united-church-christ
 excerpt: "Calling for the United Church of Christ to Repudiate the Doctrine of Discovery Which Authorized the Genocide of Native Peoples and the Theft of Native Lands."
 
 permalink: /united-church-of-christ/
