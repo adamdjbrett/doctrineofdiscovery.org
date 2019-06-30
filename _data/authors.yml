@@ -134,7 +134,7 @@ onondaga:
       icon: "fas fa-fw fa-link"
       url: "https://www.onondaganation.org"
     - label: "Facebook"
-      icon: "fab fa-fw fa-faecbook-square"
+      icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/onondageh"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
