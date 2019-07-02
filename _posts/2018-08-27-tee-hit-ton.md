@@ -3,7 +3,6 @@ ID: 9468
 title: "TEE-HIT-TON"
 author: admin
 excerpt: "Every America schoolboy knows that the savage tribes of this continent were deprived of their ancestral ranges by force and that, even when the Indians ceded millions of acres by treaty in return for blankets, food and trinkets, it was not a sale but the conquerors’ will that deprived them of their land"
-
 permalink: /tee-hit-ton/
 published: true
 date: 2018-08-27 00:24:16
