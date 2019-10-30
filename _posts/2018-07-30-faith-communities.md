@@ -25,6 +25,7 @@ tags:
 *   [Anglican Church of Canada](/anglican-church-of-canada-repudiates-the-doctrine-of-discovery/)
 *   [Roman Catholic Organizations](/roman-catholic-organizations-repudiate-the-doctrine-of-discovery/)
 *   [The Christian Church (Disciples of Christ, the U.S and Canada)](/the-christian-church-disciples-of-christ-the-u-s-and-canada/)
+*   [The Evangelical Lutheran Church of America](/elca/)
 *   [Episcopal Church (USA)](/the-episcopal-church-usa/)
 *   [Friends General Conference](/friends-general-conference/)
 *   [Presbyterian Church (USA)](/presbyterian-church-usa-repudiates-the-doctrine-of-discovery/)
