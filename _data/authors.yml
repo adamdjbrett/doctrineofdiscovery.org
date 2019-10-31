@@ -137,8 +137,8 @@ ecusa:
   avatar: /assets/images/authors/ecusa.png
   links:
     - label: "Website"
-    - icon: "fas fa-fw fa-link"
-    - url: "https://www.episcopalchurch.org/"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.episcopalchurch.org/"
 
 ccdoc:
   name: "Christian Church (Disciples of Christ)"
@@ -146,8 +146,8 @@ ccdoc:
   avatar: /assets/images/authors/doc.png
   links:
     - label: "Website"
-    - icon: "fas fa-fw fa-link"
-    - url: "https://disciples.org/"
+      icon: "fas fa-fw fa-link"
+      url: "https://disciples.org/"
 
 uua:
   name: "Unitarian Universalist Association"
@@ -155,8 +155,8 @@ uua:
   avatar: /assets/images/authors/uua.png
   links:
     - label: "Website"
-    - icon: "fas fa-fw fa-link"
-    - url: "https://www.uua.org/"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.uua.org/"
 
 wcc:
   name: "World Council of Churches"
@@ -164,8 +164,8 @@ wcc:
   avatar: /assets/images/authors/wcc.gif
   links:
     - label: "Website"
-    - icon: "fas fa-fw fa-link"
-    - url: "https://www.oikoumene.org/en"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.oikoumene.org/en"
 
 united-church-canada:
   name: "United Church of Canada"
@@ -173,8 +173,8 @@ united-church-canada:
   avatar: /assets/images/authors/united-church-canada.png
   links:
     - label: "Website"
-    - icon: "fas fa-fw fa-link"
-    - url: "https://www.united-church.ca/"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.united-church.ca/"
 
 united-church-christ:
   name: "United Church of Christ"
@@ -182,8 +182,8 @@ united-church-christ:
   avatar: /assets/images/authors/united-church-christ.jpg
   links:
     - label: "Website"
-    - icon: "fas fa-fw fa-link"
-    - url: "https://www.ucc.org/"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.ucc.org/"
 
 umc:
   name: "United Methodist Church"
@@ -191,8 +191,8 @@ umc:
   avatar: /assets/images/authors/umc.png
   links:
     - label: "Website"
-    - icon: "fas fa-fw fa-link"
-    - url: "http://www.umc.org/"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.umc.org/"
 
 elca:
   name: "Evangelical Lutheran Church of America"
@@ -200,5 +200,5 @@ elca:
   avatar: /assets/images/authors/elca.jpg
   links:
     - label: "Website"
-    - icon: "fas fa-fw fa-link"
-    - url: "https://www.elca.org/"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.elca.org/"
