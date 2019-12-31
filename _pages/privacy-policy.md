@@ -9,164 +9,154 @@ redirect_from: "/privacy-policy-2/"
 Our website address is: [http://doctrineofdiscovery.org](http://doctrineofdiscovery.org).
 
 www.doctrineofdiscovery.org & doctrineofdiscovery.org Privacy Policy
+# ONLINE PRIVACY POLICY AGREEMENT
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+December 30, 2019
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+## Preamble
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your email address, mailing address or other details to help you with your experience.
+Doctrine Of Discovery/Indigenous Values Initiative (Doctrine Of Discovery) values its users' privacy. This Privacy Policy ("Policy") will help you understand how we collect and use personal information from those who visit our website or make use of our online facilities and services, and what we will and will not do with the information we collect. Our Policy has been designed and created to ensure those affiliated with Doctrine Of Discovery/Indigenous Values Initiative of our commitment and realization of our obligation not only to meet, but to exceed, most existing privacy standards.
 
-**When do we collect information?**
+We reserve the right to make changes to this Policy at any given time. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this page. If at any point in time Doctrine Of Discovery/Indigenous Values Initiative decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether to permit the use of their information in this separate manner.
 
-We collect information from you when you register on our site, subscribe to a newsletter, fill out a form or enter information on our site.
+This Policy applies to Doctrine Of Discovery/Indigenous Values Initiative, and it governs any and all data collection and usage by us. Through the use of https://doctrineofdiscovery.org/, you are therefore consenting to the data collection procedures expressed in this Policy.
 
-**How do we use your information?**
+Please note that this Policy does not govern the collection and use of information by companies that Doctrine Of Discovery/Indigenous Values Initiativedoes not control, nor by individuals not employed or managed by us. If you visit a website that we mention or link to, be sure to review its privacy policy before providing the site with information. It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent to better understand the way in which websites garner, make use of and share the information collected.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+Specifically, this Policy will inform you of the following
 
-      **•** To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+1.  What personally identifiable information is collected from you through our website;
 
-      **•** To improve our website in order to better serve you.
+2.  Why we collect personally identifiable information and the legal basis for such collection;
 
-      **•** To allow us to better service you in responding to your customer service requests.
+3.  How we use the collected information and with whom it may be shared;
 
-      **•** To send periodic emails regarding your order or other products and services.
+4.  What choices are available to you regarding the use of your data; and
 
-**How do we protect your information?**
+5.  The security procedures in place to protect the misuse of your information.
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+Information We Collect
 
-We use regular Malware Scanning.
+It is always up to you whether to disclose personally identifiable information to us, although if you
 
-We do not use an SSL certificate
+elect not to do so, we reserve the right not to register you as a user or provide you with any products or services. This website collects various types of information, such as:
 
-      **•** We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
+*   Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc. which may be used when you purchase products and/or services and to deliver the services you have requested.
+*   Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs.
 
-**Do we use ‘cookies’?**
+In addition, Doctrine Of Discovery/Indigenous Values Initiative may have the occasion to collect non-personal anonymous demographic information, such as age, gender, household income, political affiliation, race and religion, as well as the type of browser you are using, IP address, or type of operating system, which will assist us in providing and maintaining superior quality service.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Doctrine Of Discovery/Indigenous Values Initiativemay also deem it necessary, from time to time, to follow websites that our users may frequent to gleam what types of services and products may be the most popular to customers or the general public.
 
-**We use cookies to:**
+Please rest assured that this site will only collect personal information that you knowingly and willingly provide to us by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested, and any additional uses specifically provided for on this Policy.
 
-      **•** Understand and save user’s preferences for future visits.
+## Why We Collect Information and For How Long
 
-      **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+We are collecting your data for several reasons:
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+*   To better understand your needs and provide you with the services you have requested; To fulfill our legitimate interest in improving our services and products;
+*   To send you promotional emails containing information we think you may like when we have your consent to do so;
+*   To contact you to fill out surveys or participate in other types of market research, when we have your consent to do so;
+*   To customize our website according to your online behavior and personal preferences.
 
-If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
+The data we collect from you will be stored for no longer than necessary. The length of time we retain said information will be determined based upon the following criteria: the length of time your personal information remains relevant; the length of time it is reasonable to keep records to demonstrate that we have fulfilled our duties and obligations; any limitation periods within which claims might be made; any retention periods prescribed by law or recommended by regulators, professional bodies or associations; the type of contract we have with you, the existence of your consent, and our legitimate interest in keeping such information as stated in this Policy.
 
-**Third-party disclosure**
+## Use of Information Collected
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
+Doctrine Of Discovery/Indigenous Values Initiative does not now, nor will it in the future, sell, rent or lease any of its customer lists and/or names to any third parties.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Doctrine Of Discovery/Indigenous Values Initiative may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from https://doctrineofdiscovery.org/
 
-**Third-party links**
+Doctrine Of Discovery/Indigenous Values Initiative may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Doctrine Of Discovery/Indigenous Values Initiativeuses various third-party social media features including but not limited to Facebook, Twitter, Instagram, LinkedIn, Pinterest and other interactive programs. These may collect your IP address and require cookies to work properly. These services are governed by the privacy policies of the providers and are not within Doctrine Of Discovery/Indigenous Values Initiative's control.
 
-**Google**
+## Disclosure of Information
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+Doctrine Of Discovery/Indigenous Values Initiative may not use or disclose the information provided by you except under the following circumstances:
 
-We use Google AdSense Advertising on our website.
+*   as necessary to provide services or products you have ordered;  
+    in other ways described in this Policy or to which you have otherwise consented; in the aggregate with other information in such a way so that your identity cannot
+*   reasonably be determined; as required by law, or in response to a subpoena or search warrant; to outside auditors who have agreed to keep the information confidential;
+*   as necessary to enforce the Terms of Service;
+*   as necessary to maintain, safeguard and preserve all the rights and property of Doctrine Of Discovery/Indigenous Values Initiative.
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+## Non-Marketing Purposes
 
-**We have implemented the following:**
+Doctrine Of Discovery/Indigenous Values Initiative greatly respects your privacy. We do maintain and reserve the right to contact you if needed for non-marketing purposes (such as bug alerts, security breaches, account issues, and/or changes in Doctrine Of Discovery/Indigenous Values Initiative products and services). In certain circumstances, we may use our website, newspapers, or other public means to post a notice.
 
-      **•** Demographics and Interests Reporting
+## Children under the age of 13
 
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+Doctrine Of Discovery/Indigenous Values Initiative's website is not directed to, and does not knowingly collect personal identifiable information from, children under the age of thirteen (13). If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system's database, or in the alternative, that verifiable parental consent is obtained for the use and storage of such information. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website.
 
-**Opting out:**  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+## Unsubscribe or Opt-Out
 
-**California Online Privacy Protection Act**
+All users and visitors to our website have the option to discontinue receiving communications from us by way of email or newsletters. To discontinue or unsubscribe from our website please send an email that you wish to unsubscribe to Info@indigenousvalues.org. If you wish to unsubscribe or opt-out from any third-party websites, you must go to that specific website to unsubscribe or opt-out. Doctrine Of Discovery/Indigenous Values Initiative will continue to adhere to this Policy with respect to any personal information previously collected.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+## Links to Other Websites
 
-**According to CalOPPA, we agree to the following:**
+Our website does contain links to affiliate and other websites.Doctrine Of Discovery/Indigenous Values Initiative does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of every website that collects personally identifiable information. This Privacy Policy Agreement applies only and solely to the information collected by our website.
 
-Users can visit our site anonymously.
+## Notice to European Union Users
 
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+Doctrine Of Discovery/Indigenous Values Initiative's operations are located primarily in the United States. If you provide information to us, the information will be transferred out of the European Union (EU) and sent to the United States. (The adequacy decision on the EU-US Privacy became operational on August 1, 2016\. This framework protects the fundamental rights of anyone in the EU whose personal data is transferred to the United States for commercial purposes. It allows the free transfer of data to companies that are certified in the US under the Privacy Shield.) By providing personal information to us, you are consenting to its storage and use as described in this Policy.
 
-Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+## Your Rights as a Data Subject
 
-You will be notified of any Privacy Policy changes:
+Under the regulations of the General Data Protection Regulation ("GDPR") of the EU you have certain rights as a Data Subject. These rights are as follows:
 
-      **•** On our Privacy Policy Page
+*   The right to be informed: this means we must inform you of how we intend to use your personal data and we do this through the terms of this Policy.
+*   The right of access: this means you have the right to request access to the data we hold about you and we must respond to those requests within one month. You can do this by sending an email to info@indigenousvalues.org.
+*   The right to rectification: this means that if you believe some of the date, we hold is incorrect, you have the right to have it corrected. You can do this by logging into your account with us, or by sending us an email with your request.
+*   The right to erasure: this means you can request that the information we hold be deleted, and we will comply unless we have a compelling reason not to, in which case you will be informed of same. You can do this by sending an email to info@indigenousvalues.org.
+*   The right to restrict processing: this means you can change your communication preferences or opt-out of certain communications. You can do this by sending an email to Info@indigenousvalues.org.
+*   The right of data portability: this means you can obtain and use the data we hold for your own purposes without explanation. If you wish to request a copy of your information, contact us at info@indigenousvalues.org.
+*   The right to object: this means you can file a formal objection with us regarding our use of your information with regard to third parties, or its processing where our legal basis is our legitimate interest in it. To do this, please send an email to info@indigenousvalues.org.
 
-Can change your personal information:
+In addition to the rights above, please rest assured that we will always aim to encrypt and anonymize your personal information whenever possible. We also have protocols in place in the unlikely event that we suffer a data breach and we will contact you if your personal information is ever at risk. For more details regarding our security protections see the section below or visit our website at https://doctrineofdiscovery.org/.
 
-      **•** By emailing us
+## Security
 
-**How does our site handle Do Not Track signals?**
+Doctrine Of Discovery/Indigenous Values Initiative takes precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (e.g. credit card information), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a lock icon in the address bar and looking for "https" at the beginning of the address of the webpage.
 
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers and servers in which we store personally identifiable information are kept in a secure environment. This is all done to prevent any loss, misuse, unauthorized access, disclosure or modification of the user's personal information under our control.
 
-**Does our site allow third-party behavioral tracking?**
+The company also uses Secure Socket Layer (SSL) for authentication and private communications to build users' trust and confidence in the internet and website use by providing simple and secure access and communication of credit card and personal information.
 
-It’s also important to note that we allow third-party behavioral tracking
+## Acceptance of Terms
 
-**COPPA (Children Online Privacy Protection Act)**
+By using this website, you are hereby accepting the terms and conditions stipulated within the Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you agree and acceptance of such changes.
 
-When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+## How to Contact Us
 
-We do not specifically market to children under the age of 13 years old.
+If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
 
-Do we let third-parties, including ad networks or plug-ins collect PII from children under 13?
+Email: info@indigenousvalues.org
 
-**Fair Information Practices**
+Mailing Address:
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+<address>
 
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+Indigenous Values Initiative
 
-We will notify you via email
+PO Box 336  
+De Witt, New York  
+13214-9211, USA
 
-      **•** Within 7 business days
+</address>
 
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+The data controller responsible for your personal information for the purposes of GDPR compliance is:
 
-**CAN SPAM Act**
+Philip P. Arnold Info@indigenousvalues.org
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+## GDPR Disclosure:
 
-**We collect your email address in order to:**
+If you answered "yes" to the question Does your website comply with the General Data Protection Regulation ("GDPR")? then the Privacy Policy above includes language that is meant to account for such compliance. Nevertheless, in order to be fully compliant with GDPR regulations your company must fulfill other requirements such as: (i) doing an assessment of data processing activities to improve security; (ii) have a data processing agreement with any third party vendors; (iii) appoint a data protection officer for the company to monitor GDPR compliance; (iv) designate a representative based in the EU under certain circumstances; and (v) have a protocol in place to handle a potential data breach. For more details on how to make sure your company is fully compliant with GDPR, please visit the official website at https://gdpr.eu. FormSwift and its subsidiaries are in no way responsible for determining whether or not your company is in fact compliant with GDPR and takes no responsibility for the use you make of this Privacy Policy or for any potential liability your company may face in relation to any GDPR compliance issues.
 
-      **•** Send information, respond to inquiries, and/or other requests or questions
+## COPPA Compliance Disclosure:
 
-      **•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+This Privacy Policy presumes that your website is not directed at children under the age of 13 and does not knowingly collect personal identifiable information from them or allow others to do the same through your site. If this is not true for your website or online service and you do collect such information (or allow others to do so), please be aware that you must be compliant with all COPPA regulations and guidelines in order to avoid violations which could lead to law enforcement actions, including civil penalties.
 
-**To be in accordance with CANSPAM, we agree to the following:**
+In order to be fully compliant with COPPA your website or online service must fulfill other requirements such as: (i) posting a privacy policy which describes not only your practices, but also the practices of any others collecting personal information on your site or service — for example, plug-ins or ad networks; (ii) include a prominent link to your privacy policy anywhere you collect personal information from children; (iii) include a description of parental rights (e.g. that you won't require a child to disclose more information than is reasonably necessary, that they can review their child's personal information, direct you to delete it, and refuse to allow any further collection or use of the child's information, and the procedures to exercise their rights); (iv) give parents "direct notice" of your information practices before collecting information from their children; and (v) obtain the parents' "verifiable consent" before collecting, using or disclosing personal information from a child. For more information on the definition of these terms and how to make sure your website or online service is fully compliant with COPPA please visit https://www.ftc.gov/tips-advice/business- center/guidance/childrens-online-privacy-protection-rule-six-step-compliance. FormSwift and its subsidiaries are in no way responsible for determining whether or not your company is in fact compliant with COPPA and takes no responsibility for the use you make of this Privacy Policy or for any potential liability your company may face in relation to any COPPA compliance issues.
 
-      **•** Not use false or misleading subjects or email addresses.
-
-      **•** Identify the message as an advertisement in some reasonable way.
-
-      **•** Include the physical address of our business or site headquarters.
-
-      **•** Monitor third-party email marketing services for compliance, if one is used.
-
-      **•** Honor opt-out/unsubscribe requests quickly.
-
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
-
-and we will promptly remove you from **ALL** correspondence.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy, you may contact us using the information below.
-
-Doctrine of Discovery | doctrineofdiscovery.org
-
-P.O. Box 336  
-DeWitt, New York 13214-9211 USA
-
-info@indigenousvalues.org
-
-Last Edited on 2019-03-07
+Last Edited on 2019-12-30
