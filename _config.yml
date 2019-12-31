@@ -30,6 +30,13 @@ logo: /assets/images/compass.png
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-96037973-2"
+    anonymize_ip: false # default
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
