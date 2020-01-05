@@ -9,6 +9,8 @@ main:
     url: /faith-communities/
   - title: "UN"
     url: /united-nations/
+  - title: "About"
+    url: /about/
   - title: "Give"
     url: /give/
   - title: "Posts"
@@ -17,8 +19,6 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
   - title: "Bibliography"
     url: /bibliography/
   - title: "Online Resources"
