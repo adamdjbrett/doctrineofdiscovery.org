@@ -23,5 +23,7 @@ main:
     url: /bibliography/
   - title: "Online Resources"
     url: /online-resources/
+  - title: "Feed"
+    url: /atom.xml
   - title: "Privacy Policy"
     url: /privacy-policy/
