@@ -6,10 +6,10 @@ header:
 caption: 'Clergy from around the nation stood in solidarity with indigenous nations at Standing Rock Nov. 3. Photo/Ellin Jimmerson.'
 author: admin
 excerpt: "Religious Communities who have Repudiated the Doctrine of Discovery."
-
 permalink: /faith-communities/
 published: true
 date: 2018-07-30 17:36:53
+last_modified_at: 2020-01-06T19:57:02-05:00
 categories:
   - Faith-Communities
   - Repudiations
@@ -32,6 +32,7 @@ tags:
 *   [United Church of Christ](/united-church-of-christ/)
 *   [United Church of Canada](/united-church-of-canada-repudiates-the-doctrine-of-discovery/)
 *   [United Methodist Church](/united-methodist-church/)
+*   [Uniting Church in Sweden/Equmeniakyrkan](/sweden/)
 *   [Unitarian Universalist Association of Congregations](/unitarian-universalist-association-of-congregations/)
 *   [World Council of Churches](/world-council-of-churches/)
 
