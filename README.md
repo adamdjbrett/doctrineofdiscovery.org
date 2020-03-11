@@ -1,4 +1,7 @@
 # Doctrine of Discovery
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adamdjbrett/nabpr)
+[![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
 I have become frustrated with how slow and limited in accessibility WordPress is so I decided to start moving sites I administer over to [Jekyll](http://jekyllrb.com) because as static site generator it is faster, more reliable and I have more control over making it accessible..
 
