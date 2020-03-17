@@ -39,7 +39,7 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.19.1
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
