@@ -23,6 +23,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://doctrineofdiscovery.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: indigenousVI
 #github_username: username
+# Theme
+remote_theme: mmistakes/minimal-mistakes@4.19.1
 minimal_mistakes_skin: default
 search: true
 teaser: "/assets/images/onondaga-lake-east-shoreline-1.jpg"
@@ -38,20 +40,54 @@ analytics:
     anonymize_ip: false # default
 
 # Build settings
+# Conversion
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes@4.19.1
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-include:
-  - _pages
-
 # Site settings
 atom_feed:
   path:
+
+include:
+  - _pages
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

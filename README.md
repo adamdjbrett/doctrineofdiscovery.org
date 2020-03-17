@@ -13,7 +13,7 @@ I have become frustrated with how slow and limited in accessibility WordPress is
 [![Ruby gem](https://img.shields.io/gem/v/jekyll-theme-basically-basic.svg)](https://rubygems.org/gems/jekyll-theme-basically-basic)
 [![Tip @mmmistakes via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/mmistakes).
 
-I decided to go with @mmistakes theme [Basically Basic Jekyll Theme](https://github.com/mmistakes/jekyll-theme-basically-basic) because in [Lighthouse](https://developers.google.com/web/tools/lighthouse/). The theme has straight 💯's. If you are reading this stop by and check out the theme and/or support @mmistakes on PayPal.
+I decided to go with @mmistakes theme [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes) because in [Lighthouse](https://developers.google.com/web/tools/lighthouse/). The theme has straight 💯's. If you are reading this stop by and check out the theme and/or support @mmistakes on PayPal.
 
 ![Screenshot-2019-03-11-02.46.46.png](Screenshot-2019-03-11-02.46.46.png "Screenshot of the Doctrine of Discovery Lighthouse tools Score as of 2019-03-11")
 
@@ -32,13 +32,12 @@ I decided to go with @mmistakes theme [Basically Basic Jekyll Theme](https://git
   - 0.5s via [GT Metrix](https://gtmetrix.com/)
   - 1.496s via [WebPageTest](https://www.webpagetest.org)
 
-### Basically Basic
-Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as
+### Minimal Mistakes
+Minimal Mistakes is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as
 a substitute for the default [Minima](https://github.com/jekyll/minima), with a
 few enhancements thrown in for good measure:
 
 - Clean responsive design with six customizable skins
-- Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
 - About page layout
 - Site-wide search provided by [Algolia](https://www.algolia.com/) or [Lunr](https://lunrjs.com/).
 - Disqus Comments and Google Analytics support
@@ -56,10 +55,10 @@ few enhancements thrown in for good measure:
 - Github Pages
 
 ## Built With
-* [Basically Basic](https://mmistakes.github.io/jekyll-theme-basically-basic/)
+* [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes)
 * [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
-* [Font Awesome 4.7.0](https://fontawesome.com/v4.7.0/)
-* [Bootstrap CDN](https://www.bootstrapcdn.com/)
+
+
 
 ## Modifications
 - Normally this theme uses Google Fonts. I removed the Google fonts in order to improve load time and fix some formatting issues. In order to switch [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/) I modified the following files:
@@ -114,17 +113,23 @@ Please read [humans.txt](humans.txt) for the contributors.
 
 ### Icons + Demo Images:
 
-- [Simple Icons](https://simpleicons.org/)
-- [Noun Project](https://thenounproject.com)
+- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
+- [Font Awesome](http://fontawesome.io/)
 - [Unsplash](https://unsplash.com/)
 
 ### Other:
-- System Font Stack
-- Doctrine of Discovery Compass Logo by[Font Awesome](https://fontawesome.com)
-- [SVGO](https://github.com/svg/svgo)
+
 - [Jekyll](http://jekyllrb.com/)
+- [jQuery](http://jquery.com/)
 - [Susy](http://susy.oddbird.net/)
 - [Breakpoint](http://breakpoint-sass.com/)
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+- [FitVids.JS](http://fitvidsjs.com/)
+- [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav)
+- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+- [Gumshoe](https://github.com/cferdinandi/gumshoe)
+- [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/)
+- [Lunr](http://lunrjs.com)
 
 ## License
 
