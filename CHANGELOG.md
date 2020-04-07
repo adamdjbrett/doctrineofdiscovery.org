@@ -1,5 +1,8 @@
 # CHANGELOG.md
 
+## April 6, 2020
+updating Minimist
+
 ## 1.0.0 (unreleased)
 
 Features:
