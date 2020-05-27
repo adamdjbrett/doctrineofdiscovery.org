@@ -13,4 +13,4 @@ tags:
 ---
 
 Greenberg, Joy, "REVIEW ESSAY: The Doctrine of Discovery as a Doctrine of Domination," in _JSRNC_ JSRNC 10.2 (2016), 236-244. doi: 10.1558/jsrnc.v10i2.28942.
-[view on academia.edu](https://www.academia.edu/27450723/REVIEW_ESSAY_The_Doctrine_of_Discovery_as_a_Doctrine_of_Domination)
+[⤓ download as a pdf](/wp-content/uploads/2020/Greenberg--ReviewEssayDoctrineofDomination.Final.pdf) or [view on academia.edu](https://www.academia.edu/27450723/REVIEW_ESSAY_The_Doctrine_of_Discovery_as_a_Doctrine_of_Domination).
