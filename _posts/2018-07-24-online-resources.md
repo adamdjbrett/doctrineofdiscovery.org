@@ -41,8 +41,10 @@ tags:
 #### Others
 
 *   [Indigenous Values Initiative](https://indigenousvalues.org/)
+*   [American Indian Law Alliance](https://aila.ngo)
 *   [NOON - Neighbors of the Onondaga Nation](http://www.peacecouncil.net/noon/)
 *   [Syracuse Post Standard pictorial essay on the Onondaga](http://blog.syracuse.com/specialreports/2007/03/the_onondaga_people_of_the_hil_1.html)
+*   [Dismantling the Doctrine of Discovery: A movement of Anabaptist people of faith](https://dofdmenno.org/)
 
 #### Important Links
 
