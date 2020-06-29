@@ -5,6 +5,7 @@ excerpt: "TThis conference will connect the dots between our current pandemic, e
 date: 2020-06-29 13:15:09
 header:
   image: /assets/images/Broken-Treaties-Brandon-Lazore-Web-credit.jpg
+  caption: "Photo credit: Broken Treaties by Brandon Lazore"
 categories:
   - Event
   - Education
