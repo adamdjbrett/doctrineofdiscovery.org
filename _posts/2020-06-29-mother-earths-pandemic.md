@@ -1,7 +1,7 @@
 ---
 title: "Mother Earth‘s Pandemic: The Doctrine of Discovery"
 author: adamdjbrett
-excerpt: "TThis conference will connect the dots between our current pandemic, environmental devastation, the Doctrine of Discovery, and a way forward."
+excerpt: "This conference will connect the dots between our current pandemic, environmental devastation, the Doctrine of Discovery, and a way forward."
 date: 2020-06-29 13:15:09
 header:
   image: /assets/images/Broken-Treaties-Brandon-Lazore-Web-credit.jpg
