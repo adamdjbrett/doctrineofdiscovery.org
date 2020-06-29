@@ -1,7 +1,7 @@
 ---
 title: "Mother Earth‘s Pandemic: The Doctrine of Discovery"
 author: adamdjbrett
-excerpt: "The “Doctrine of Discovery,” better described as the “Doctrine of Christian Discovery and World Domination,” established the worldview that not only brought devastation to the natural world, but also impaired the ability for human beings to live in proper relationship with the Earth."
+excerpt: "TThis conference will connect the dots between our current pandemic, environmental devastation, the Doctrine of Discovery, and a way forward."
 date: 2020-06-29 13:15:09
 header:
   image: /assets/images/Broken-Treaties-Brandon-Lazore-Web-credit.jpg
