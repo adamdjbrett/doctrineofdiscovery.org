@@ -3,6 +3,7 @@ ID: 8904
 title: "Faith Communities"
 header:
   image: /assets/images/Doctrine-of-discovery-Standing-Rock-1-1200x500.jpg
+  caption: "Clergy from around the nation stood in solidarity with indigenous nations at Standing Rock Nov. 3. [(**Photo/Ellin Jimmerson**)](https://baptistnews.com/article/clergy-repudiate-doctrine-of-discovery-as-hundreds-support-indigenous-rights-at-standing-rock/)"
 caption: 'Clergy from around the nation stood in solidarity with indigenous nations at Standing Rock Nov. 3. Photo/Ellin Jimmerson.'
 author: admin
 excerpt: "Religious Communities who have Repudiated the Doctrine of Discovery."
@@ -35,5 +36,3 @@ tags:
 *   [Uniting Church in Sweden/Equmeniakyrkan](/sweden/)
 *   [Unitarian Universalist Association of Congregations](/unitarian-universalist-association-of-congregations/)
 *   [World Council of Churches](/world-council-of-churches/)
-
-Photo Credit: Clergy from around the nation stood in solidarity with indigenous nations at Standing Rock Nov. 3. (Photo/Ellin Jimmerson) [Baptist News Global](https://baptistnews.com/article/clergy-repudiate-doctrine-of-discovery-as-hundreds-support-indigenous-rights-at-standing-rock/).
