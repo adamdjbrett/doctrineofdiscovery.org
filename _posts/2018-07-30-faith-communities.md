@@ -1,6 +1,6 @@
 ---
 ID: 8904
-title: "Faith Communities"
+title: "Repudiations by Faith Communities"
 header:
   image: /assets/images/Doctrine-of-discovery-Standing-Rock-1-1200x500.jpg
   caption: "Clergy from around the nation stood in solidarity with indigenous nations at Standing Rock Nov. 3. [(**Photo/Ellin Jimmerson**)](https://baptistnews.com/article/clergy-repudiate-doctrine-of-discovery-as-hundreds-support-indigenous-rights-at-standing-rock/)"
