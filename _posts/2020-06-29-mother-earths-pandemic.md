@@ -23,6 +23,7 @@ tags:
 
 *   **Title**: Mother Earth’s Pandemic: The Doctrine of Discovery
 *   **Dates**: Thursday August 6, 13, and 20, 2020
+*   **Location**: Online
 *   **Times**: 6-9 PM EST each Thursday, followed by caucuses/small group discussions.
 *   **Sponsors**: [Indigenous Values Initiative](https://indigenousvalues.org) and [American Indian Law Alliance](https://aila.ngo)
 
