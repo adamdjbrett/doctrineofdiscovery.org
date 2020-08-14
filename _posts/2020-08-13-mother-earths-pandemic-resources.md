@@ -13,6 +13,8 @@ tags:
   - Resources
 ---
 
+[Subscribe to the Indigenous Values Initiative YouTube Channel](https://www.youtube.com/channel/UC_5IjjVpNv7iuIkBC7O-1hQ){: .btn .btn--danger .btn--large}
+
 ## Session I Resources
 ### Session Videos
   - Watch the missed sessions on the [Indigenous Values Initiative YouTube channel](https://www.youtube.com/channel/UC_5IjjVpNv7iuIkBC7O-1hQ)
@@ -108,10 +110,6 @@ tags:
  - [Buddhist Peace Fellowship](https://www.bpf.org)
  - [Miki Kashtan](https://thefearlessheart.org/)
  - [Friends of Sabeel (North America)](https://countercufi.yuvi.in/)
-
-Subscribe to the Indigenous Values Initiative YouTube Channel https://www.youtube.com/channel/UC_5IjjVpNv7iuIkBC7O-1hQ
-
-
 
 ### “’Discovery,’ Disease, and Survival in Native California,” Abel Gomez
 *   COVID-19 Relief for Muwekma Ohlone Families | Created by Muwekma Ohlone Allies 
