@@ -18,7 +18,7 @@ tags:
 author: heath  
 ---
 
-
+[Watch Joe's talk](https://www.youtube.com/watch?v=Hte9ZBIeKp4){: .btn .btn--danger .btn--large}
 
 ## THE GOOD, THE BAD & THE UGLY IN McGIRT v. OKLAHOMA
 
