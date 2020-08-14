@@ -16,6 +16,7 @@ tags:
 [Subscribe to the Indigenous Values Initiative YouTube Channel](https://youtube.com/c/IndigenousValuesInitiative){: .btn .btn--danger .btn--large}
 
 ## Session I Resources
+
 ### Session Videos
   - Watch the missed sessions on the [Indigenous Values Initiative YouTube channel](https://youtube.com/c/IndigenousValuesInitiative)
 ### Texts
@@ -38,7 +39,7 @@ tags:
   - Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance” by Nick Estes
 
 ### Films and Television
-  - [The Doctrine of Discovery: Unmasking the Domination Code - Sheldon P Wolfchild & Steven Newcomb](https://doctrineofdiscovery.org/the-doctrine-of-discovery-unmasking-the-domination-code/)
+  - [The Doctrine of Discovery: Unmasking the Domination Code - Sheldon P Wolfchild & Steven Newcomb](/the-doctrine-of-discovery-unmasking-the-domination-code/)
   - Even the Rain
   - We Were Children
 
@@ -56,6 +57,17 @@ tags:
     *   “Protecting Indigenous Relationships to Place during the Pandemic,” Angela Mooney D’Arcy
     *   “’Discovery,’ Disease, and Survival in Native California,” Abel Gomez
 
+### Legal dimensions of the Doctrine of Discovery
+####  Resources from [“Doctrine of Christian Discovery and Domination,”](https://doctrineofdiscovery.org/law/resources/event/mother-earths-pandemic-resources/) Joe Heath
+
+#### “The Doctrine of Domination,” Steve Newcomb
+  - [Original Free Nations](http://originalfreenations.com/)
+  - [Indigenous Law Institute](http://ili.nativeweb.org/)
+  - _Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery_
+  - _The Doctrine of Discovery: Unmasking the Domination Code_, directed by Sheldon Wolfchild (Dakota).
+
+#### “Towards Justice with nature and her peoples,” Makayla Loeb
+  - [The International Union for Conservation of Nature (IUCN)](https://www.iucn.org/)
 
 ### More Resources on the law panel
  * [A Concept of Native Title by Leroy Littlebear (1982)](https://doctrineofdiscoveryforum.blogspot.com/2013/11/a-concept-of-native-title-by-leroy_25.html)
