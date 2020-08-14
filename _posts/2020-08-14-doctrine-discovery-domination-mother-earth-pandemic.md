@@ -16,8 +16,6 @@ tags:
   - US-Indian-Law
   - Indigenous-Peoples
 author: heath  
-published: false
-date: 2020-08-14
 ---
 
 
