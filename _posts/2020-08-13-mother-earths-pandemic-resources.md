@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Mother Earth‘s Pandemic Resources"
 excerpt_separator: "<!--more-->"
 categories:
   - Law
@@ -13,11 +13,11 @@ tags:
   - Resources
 ---
 
-[Subscribe to the Indigenous Values Initiative YouTube Channel](https://www.youtube.com/channel/UC_5IjjVpNv7iuIkBC7O-1hQ){: .btn .btn--danger .btn--large}
+[Subscribe to the Indigenous Values Initiative YouTube Channel](https://youtube.com/c/IndigenousValuesInitiative){: .btn .btn--danger .btn--large}
 
 ## Session I Resources
 ### Session Videos
-  - Watch the missed sessions on the [Indigenous Values Initiative YouTube channel](https://www.youtube.com/channel/UC_5IjjVpNv7iuIkBC7O-1hQ)
+  - Watch the missed sessions on the [Indigenous Values Initiative YouTube channel](https://youtube.com/c/IndigenousValuesInitiative)
 ### Texts
   - [Thanksgiving Address: 11 languages](https://www.thetrackingproject.org/products/the-tracking-project-teaching-resources/)
   - Basic Call to Consciousness, Akwesasne Notes, Oren Lyons, et. al.
