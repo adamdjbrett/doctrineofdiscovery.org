@@ -16,6 +16,9 @@ tags:
   - US-Indian-Law
   - Indigenous-Peoples
 author: heath  
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "fire"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 [Watch Joe's talk](https://www.youtube.com/watch?v=Hte9ZBIeKp4){: .btn .btn--danger .btn--large}
