@@ -141,7 +141,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/indigenousvalues/"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
+      icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/indigenousvalues"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
