@@ -45,6 +45,10 @@ tags:
 *   [NOON - Neighbors of the Onondaga Nation](http://www.peacecouncil.net/noon/)
 *   [Syracuse Post Standard pictorial essay on the Onondaga](http://blog.syracuse.com/specialreports/2007/03/the_onondaga_people_of_the_hil_1.html)
 *   [Dismantling the Doctrine of Discovery: A movement of Anabaptist people of faith](https://dofdmenno.org/)
+*   [Then and Now Project](https://www.thenandnow.us)
+     * [Sullivan-Clinton Campaign](https://www.sullivanclinton.com)
+     * [Derryveagh Evictions](https://www.derryveagh.com)
+     * [Staked Plains](https://www.stakedplains.com)
 
 #### Important Links
 
