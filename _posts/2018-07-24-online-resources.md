@@ -81,6 +81,6 @@ tags:
 *   [Doctrine of Discovery: A scandal in plain sight](https://www.ncronline.org/news/justice/doctrine-discovery-scandal-plain-sight)
 *   [The call to rescind the Doctrine of Discovery](https://www.ncronline.org/blogs/ncr-today/call-rescind-doctrine-discovery)
 
-#### [Bibliography](/bibliography/)
+***
 
-#### [Online Resources](/online-resources/)
+#### For books and articles visit the [Bibliography](/bibliography/)

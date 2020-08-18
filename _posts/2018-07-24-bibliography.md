@@ -44,6 +44,5 @@ tags:
 - _Story Earth, Native Voices on the Environment_, Compiled by _Inter Press Service_. This book draws a clear distinction between cultures and how the environment is viewed.  
 - To purchase a copy of the _Basic Call to Consciousness_ in English or Spanish contact Indigenous Values Initiative at info@indigenousvalues.org
 
-#### *   [Bibliography](/bibliography/)
-
-#### *   [Online Resources](/online-resources/)
+***
+#### Also view our list of [Online Resources](/online-resources/)
