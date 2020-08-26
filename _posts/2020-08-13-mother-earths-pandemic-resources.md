@@ -158,5 +158,5 @@ tags:
 * [Please sign the petition for the Iroquois Nationals](https://www.change.org/p/international-world-games-association-iwga-support-the-iroquois-nationals-lacrosse-team-inclusion-2022-world-games-birmingham-usa)
 * [Seas of Emergence video](https://www.youtube.com/watch?v=BeFvT1yLuDw)
 * [Berta Cáceres, Hondoran Doctrine of Discovery Advocate](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres)
-* [Tonya Gonnella Frichner, The “Preliminary Study” on the Doctrine of Discovery, 28 Pace Envtl. L. Rev. 339 (2010) (PDF)](/assets/pdfs/The _Preliminary Study_ on the Doctrine of Discovery.pdf) Available at: [https://digitalcommons.pace.edu/pelr/vol28/iss1/11](https://digitalcommons.pace.edu/pelr/vol28/iss1/11)
+* [Tonya Gonnella Frichner, The “Preliminary Study” on the Doctrine of Discovery, 28 Pace Envtl. L. Rev. 339 (2010) (Download as PDF)](/assets/pdfs/The _Preliminary Study_ on the Doctrine of Discovery.pdf) Available at: [https://digitalcommons.pace.edu/pelr/vol28/iss1/11](https://digitalcommons.pace.edu/pelr/vol28/iss1/11)
 * [Kia Mau – Resisting Colonial Fictions by Tina Ngata](https://tinangata.com/2020/06/14/kia-mau-resisting-colonial-fictions/)
