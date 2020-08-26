@@ -1,6 +1,7 @@
 ---
 title: "Mother Earth‘s Pandemic Resources"
 excerpt_separator: "<!--more-->"
+excerpt: "Resources mentioned durined the sessions."
 categories:
   - Law
   - Resources
