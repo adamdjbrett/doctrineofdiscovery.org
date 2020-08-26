@@ -1,6 +1,7 @@
 ---
 title: "Mother Earth‘s Pandemic: The Doctrine of Discovery Session Videos"
 excerpt_separator: "<!--more-->"
+excerpt: "Complete list of all of the talks and bonus content"
 categories:
   - Resources
   - Event
