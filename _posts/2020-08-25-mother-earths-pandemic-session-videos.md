@@ -19,20 +19,18 @@ author: adamdjbrett
 ---
 [Subscribe to the Indigenous Values Initiative YouTube Channel](https://youtube.com/c/IndigenousValuesInitiative){: .btn .btn--danger .btn--large}
 
-## Bonus Content
-* [McGirt v Oklahoma: Plenary Power & the Doctrine of Christian Discovery by Steve Newcomb & Joe Heath](https://youtu.be/NBi3TCrZTCU)
-* [Expanded analysis of Johnson v. McIntosh by Steven Newcomb](https://youtu.be/Wo8LpsfIr-4)
-* [The Spiritual Traditions of the New World by Oren Lyons](https://youtu.be/NiiHyf4ICRY)
+## Session I
+* [Thanksgiving Address and Friendship song by ﻿Tadodaho Sid Hill, Sr., Betty ﻿Lyons, and Sid Hill, Jr. ](https://youtu.be/-iuNsTsz3AA)
+* [God, Glory, Gold by Faithkeeper Oren Lyons](https://youtu.be/0GpIkrqOlHA)
+* [Land Acknowledgement read by Blake Garland-Tirado](https://youtu.be/sIxQYpiEElQ)
+* [Introduction to Mother Earth's Pandemic: The Doctrine of Discovery](https://youtu.be/a88U1iqHr78)
+* [The Doctrine of Discovery's Impact Today by Betty Lyons](https://youtu.be/Kq3G3syLRXw)
+* [NYA•WEÑHA SKÄ•NOÑH: Thank you for being well by Jake Edwards](https://youtu.be/-99EdD6sWys)
+* [Introduction to the Haudenosaunee Confederacy by Jake Edwards](https://youtu.be/7T7ooQWJKOo)
 
-
-## Session III
-* [Situating Mother Earth’s Pandemic The Doctrine of Discovery](https://youtu.be/gwHsCcsjoWg)
-* [Panel on International work and the Doctrine of Discovery](https://youtu.be/5YGXPo_9d2I)
-* [Reflections on the Doctrine of Discovery by Philip P. Arnold and Sandy Bigtree](https://youtu.be/pp45m7U9KFI)
-* [Why the Iroquois Nationals should be in the Olympics by Betty Lyons](https://youtu.be/PJoZ1hLaTpY)
-* [Reflections on the Doctrine of Discovery by Tink Tinker](https://youtu.be/pJC8S8Hum2w)
-* [Two Row Wampum and Canandaigua Treaties explained by Jake Edwards](https://youtu.be/mC2G96C-R0w)
-* [The Closing by Jake Edwards](https://youtu.be/dgUXUONBeFo)
+### Keynote
+  * [God, Glory, Gold by Faithkeeper Oren Lyons](https://youtu.be/0GpIkrqOlHA)
+  * [The Spiritual Traditions of the New World by Oren Lyons](https://youtu.be/NiiHyf4ICRY)
 
 ## Session II
 * [Doctrine of Christian Discovery and Domination, by Joe Heath](https://youtu.be/Hte9ZBIeKp4)
@@ -48,15 +46,16 @@ author: adamdjbrett
   * [Expanded Talk on Protecting Indigenous Relationships to Place During the Pandemic by Angela Mooney D'Arcy](https://youtu.be/33_AU401qeI)
 * [’Discovery,’ Disease, and Survival in Native California, by Abel Gomez](https://youtu.be/K3A00Al2aj4)
 
+## Session III
+* [Situating Mother Earth’s Pandemic The Doctrine of Discovery](https://youtu.be/gwHsCcsjoWg)
+* [Panel on International work and the Doctrine of Discovery](https://youtu.be/5YGXPo_9d2I)
+* [Reflections on the Doctrine of Discovery by Philip P. Arnold and Sandy Bigtree](https://youtu.be/pp45m7U9KFI)
+* [Why the Iroquois Nationals should be in the Olympics by Betty Lyons](https://youtu.be/PJoZ1hLaTpY)
+* [Reflections on the Doctrine of Discovery by Tink Tinker](https://youtu.be/pJC8S8Hum2w)
+* [Two Row Wampum and Canandaigua Treaties explained by Jake Edwards](https://youtu.be/mC2G96C-R0w)
+* [The Closing by Jake Edwards](https://youtu.be/dgUXUONBeFo)
 
-## Session I
-* [Thanksgiving Address and Friendship song](https://youtu.be/-iuNsTsz3AA)
-* [God, Glory, Gold by Faithkeeper Oren Lyons](https://youtu.be/0GpIkrqOlHA)
-* [Land Acknowledgement read by Blake Garland-Tirado](https://youtu.be/sIxQYpiEElQ)
-* [Introduction to Mother Earth's Pandemic: The Doctrine of Discovery](https://youtu.be/a88U1iqHr78)
-* [The Doctrine of Discovery's Impact Today by Betty Lyons](https://youtu.be/Kq3G3syLRXw)
-* [NYA•WEÑHA SKÄ•NOÑH: Thank you for being well by Jake Edwards](https://youtu.be/-99EdD6sWys)
-* [Introduction to the Haudenosaunee Confederacy by Jake Edwards](https://youtu.be/7T7ooQWJKOo)
-### Keynote
-  * [God, Glory, Gold by Faithkeeper Oren Lyons](https://youtu.be/0GpIkrqOlHA)
-  * [The Spiritual Traditions of the New World by Oren Lyons](https://youtu.be/NiiHyf4ICRY)
+## Bonus Content
+* [McGirt v Oklahoma: Plenary Power & the Doctrine of Christian Discovery by Steve Newcomb & Joe Heath](https://youtu.be/NBi3TCrZTCU)
+* [Expanded analysis of Johnson v. McIntosh by Steven Newcomb](https://youtu.be/Wo8LpsfIr-4)
+* [The Spiritual Traditions of the New World by Oren Lyons](https://youtu.be/NiiHyf4ICRY)

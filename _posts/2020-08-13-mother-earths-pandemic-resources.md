@@ -159,4 +159,6 @@ tags:
 * [Seas of Emergence video](https://www.youtube.com/watch?v=BeFvT1yLuDw)
 * [Berta Cáceres, Hondoran Doctrine of Discovery Advocate](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres)
 * [Tonya Gonnella Frichner, The “Preliminary Study” on the Doctrine of Discovery, 28 Pace Envtl. L. Rev. 339 (2010) (Download as PDF)](/assets/pdfs/The _Preliminary Study_ on the Doctrine of Discovery.pdf) Available at: [https://digitalcommons.pace.edu/pelr/vol28/iss1/11](https://digitalcommons.pace.edu/pelr/vol28/iss1/11)
+* [Framework of Dominance: UN Preliminary Study on the Doctrine of Discovery](http://unpfip.blogspot.com/p/framework-of-dominance-preliminary_03.html)
+* [Indigenous Peoples Forum on the Impact of the Doctrine of Discovery Purpose Goals and Objectives](https://doctrineofdiscoveryforum.blogspot.com/p/purpose-goals-and-objectives.html)
 * [Kia Mau – Resisting Colonial Fictions by Tina Ngata](https://tinangata.com/2020/06/14/kia-mau-resisting-colonial-fictions/)
