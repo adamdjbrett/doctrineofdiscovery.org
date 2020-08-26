@@ -46,19 +46,23 @@ tags:
 
 ## Session II Resources
 *   6:00-7:00 PM Legal dimensions of the Doctrine of Discovery
-    *   “Doctrine of Christian Discovery and Domination,” Joe Heath,
-    *   “Do rivers have rights?” Dana Lloyd
-    *   “The Doctrine of Domination,” Steve Newcomb
-    *   “Towards Justice with nature and her peoples,” Makayla Loeb
+    * [Doctrine of Christian Discovery and Domination, by Joe Heath](https://youtu.be/Hte9ZBIeKp4)
+      * [Resource: The Good, The Bad & The Ugly In Mcgirt V. Oklahoma](/law/resources/event/doctrine-discovery-domination-mother-earth-pandemic/)
+    *   [Do rivers have rights? by Dana Lloyd](https://youtu.be/-A1tilRlFro)
+    *   [The Doctrine of Domination by Steven Newcomb](https://youtu.be/Y2IY7A-E4KE)
+    *   [Towards Justice with Nature and Her Peoples, by Makayla Loeb](https://youtu.be/VENIJr7pr5U)
 *   7:00-8:00 PM Mother Earth’s Pandemic in other contexts
-    *   “The Doctrine of Discovery in the Lithuanian Context,” Eglute Trinkauskaite
-    *   “Social Change and Indigenous History and Wisdom,” Rob Ruehl
-    *   “Glimpses into Black and POC Perspectives,” Sarah Nahar
-    *   “Protecting Indigenous Relationships to Place during the Pandemic,” Angela Mooney D’Arcy
-    *   “’Discovery,’ Disease, and Survival in Native California,” Abel Gomez
+    *   [The Doctrine of Discovery in the Lithuanian Context by Eglutė Trinkauskaitė](https://youtu.be/XWCc0gOJfho)
+    *   [Social Change and Indigenous History and Wisdom by Rob Ruehl](https://youtu.be/stQ3SKnDtdY)
+    *   [Glimpses into Black and POC Perspectives by Sarah Nahar](https://youtu.be/FxXqEEc0Pxw)
+      * [Expanded Glimpses into Black and other POC Perspectives on the Doctrine of Discovery by Sarah Nahar](https://youtu.be/8FKa81cS2_E)
+    *   [Protecting Indigenous Relationships to Place during the Pandemic, Angela Mooney D’Arcy as aired.](https://youtu.be/ImTkc33gHi0)
+      * [Protecting Indigenous Relationships to Place during the Pandemic, Angela Mooney D’Arcy as aired.](https://youtu.be/ImTkc33gHi0)
+    *   [’Discovery,’ Disease, and Survival in Native California, by Abel Gomez](https://youtu.be/K3A00Al2aj4)
+
 
 ### Legal dimensions of the Doctrine of Discovery
-####  Resources from [“Doctrine of Christian Discovery and Domination,”](https://doctrineofdiscovery.org/law/resources/event/mother-earths-pandemic-resources/) Joe Heath
+####  Resources from [“Doctrine of Christian Discovery and Domination,”](/law/resources/event/mother-earths-pandemic-resources/) Joe Heath
 
 #### “The Doctrine of Domination,” Steve Newcomb
   - [Original Free Nations](http://originalfreenations.com/)
@@ -143,3 +147,15 @@ tags:
 *   Morgado, Martin J. _Junípero Serra's Legacy_. Mount Carmel, 1987. 
 *   O’Connell, Gerard. “Pope Hails Junipero Serra as 'One of the Founding Fathers of the United States'.” _America Magazine_, 5 June 2017, [www.americamagazine.org/faith/2015/05/02/pope-hails-junipero-serra-one-founding-fathers-united-states](http://www.americamagazine.org/faith/2015/05/02/pope-hails-junipero-serra-one-founding-fathers-united-states). 
 *   Sandos, James A. _Converting California: Indians and Franciscans in the Missions_. Yale University Press, 2008.
+
+## Session III Resources
+* [Kings and Kingdoms: Doctrine and Domination](https://doctrineofdiscoveryforum.blogspot.com/2019/11/kings-and-kingdoms-doctrine-and.html)
+
+> It became necessary to format the public consciousness in a systematic manner, manufacturing consent for the rationalization and expansion of territorial dominion via political acts of allegiance to the Divine Right of States. It became necessary to manufacture the mythology of America.
+
+* Watch Spirit Game: Pride of a Nation [amazon](https://www.amazon.com/Spirit-Game-Nation-Oren-Lyons/dp/B071758P96), [tubi](https://tubitv.com/movies/498407/spirit_game_pride_of_a_nation)
+* [Please sign the petition for the Iroquois Nationals](https://www.change.org/p/international-world-games-association-iwga-support-the-iroquois-nationals-lacrosse-team-inclusion-2022-world-games-birmingham-usa)
+* [Seas of Emergence video](https://www.youtube.com/watch?v=BeFvT1yLuDw)
+* [Berta Cáceres, Hondoran Doctrine of Discovery Advocate](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres)
+* [Tonya Gonnella Frichner, The “Preliminary Study” on the Doctrine of Discovery, 28 Pace Envtl. L. Rev. 339 (2010) (PDF)](/assets/pdfs/The _Preliminary Study_ on the Doctrine of Discovery.pdf) Available at: [https://digitalcommons.pace.edu/pelr/vol28/iss1/11](https://digitalcommons.pace.edu/pelr/vol28/iss1/11)
+* [Kia Mau – Resisting Colonial Fictions by Tina Ngata](https://tinangata.com/2020/06/14/kia-mau-resisting-colonial-fictions/)
