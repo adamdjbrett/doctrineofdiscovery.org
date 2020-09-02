@@ -40,6 +40,7 @@ author: adamdjbrett
 * [Towards Justice with Nature and Her Peoples, by Makayla Loeb](https://youtu.be/VENIJr7pr5U)
 * [The Doctrine of Discovery in the Lithuanian Context by Eglutė Trinkauskaitė](https://youtu.be/XWCc0gOJfho)
 * [Social Change and Indigenous History and Wisdom by Rob Ruehl](https://youtu.be/stQ3SKnDtdY)
+  * [Resources on Social Change, Indigenous History and Wisdom](/resources/social-change-indigenous-history/)
 * [Glimpses into Black and POC Perspectives by Sarah Nahar](https://youtu.be/FxXqEEc0Pxw)
   * [Expanded Glimpses into Black and other POC Perspectives on the Doctrine of Discovery by Sarah Nahar](https://youtu.be/8FKa81cS2_E)
 * [Protecting Indigenous Relationships to Place during the Pandemic, Angela Mooney D’Arcy as aired.](https://youtu.be/ImTkc33gHi0)

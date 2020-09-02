@@ -80,6 +80,7 @@ tags:
 
 
 ### “Social Change and Indigenous History and Wisdom,” Rob Ruehl
+  * [Resources on Social Change, Indigenous History and Wisdom](/resources/social-change-indigenous-history/)
   * [Let's Change the Subject: Grounding Social Change in Indigenous History and Philosophy](https://digitalcommons.brockport.edu/sfd/)
 #### WORKS CITED
 
@@ -93,7 +94,7 @@ tags:
 *   Eakin, Marshall. The History of Latin America: Collision of Cultures. St. Martin's Griffin, 2007.
 *   Galtung, Johan. “Cultural Violence.” Journal of Peace Research, vol. 27, no. 3, 1990, pp. 291-305.
 *   Gonyea, Wendy. “Who Are the Haudenosaunee?” Neighbor to Neighbor, Nation to Nation: Readings about the Relationship of the Onondaga Nation with Central New York, USA, edited and published by Neighbors of the Onondaga Nation, 2014, pp. 9-12.
-*   Gover, Kevin. “Keynote Remarks of Kevin Gover, Assistant Secretary - Indian Affairs.” 175th Anniversary of the Establishment of the Bureau of Indian Affairs, 8 September 2000, [https://www.bia.gov/](https://www.bia.gov/sites/bia.gov/files/assets/as-ia/opa/pdf/idc1-) 032248.pdf.
+*   Gover, Kevin. “Keynote Remarks of Kevin Gover, Assistant Secretary - Indian Affairs.” 175th Anniversary of the Establishment of the Bureau of Indian Affairs, 8 September 2000, [https://www.bia.gov/](https://www.bia.gov/sites/bia.gov/files/assets/as-ia/opa/pdf/idc1-032248.pdf).
 *   Grande, Sandy. Red Pedagogy: Native American Social and Political Thought. Rowman and Littlefield, 2015.
 *   Jacques, Freida J. “Discipline of the Good Mind.” Neighbor to Neighbor, Nation to
 *   Nation: Readings about the Relationship of the Onondaga Nation with Central New York, USA, edited and published by Neighbors of the Onondaga Nation, 2014, pp. 13-14.
@@ -129,24 +130,22 @@ tags:
  - [Friends of Sabeel (North America)](https://countercufi.yuvi.in/)
 
 ### “’Discovery,’ Disease, and Survival in Native California,” Abel Gomez
-*   COVID-19 Relief for Muwekma Ohlone Families | Created by Muwekma Ohlone Allies 
-*   [https://charity.gofundme.com/o/en/campaign/covid-19-relief-for-muwekma-ohlone-families](https://charity.gofundme.com/o/en/campaign/covid-19-relief-for-muwekma-ohlone-families) 
-*   Amah Mutsun Families COVID-19 Relief Fund | Created by Humunya Tribal Foundation 
-*   [https://charity.gofundme.com/o/en/campaign/amah-mutsun-families-covid-19-relief](https://charity.gofundme.com/o/en/campaign/amah-mutsun-families-covid-19-relief) 
+*   [COVID-19 Relief for Muwekma Ohlone Families | Created by Muwekma Ohlone Allies](https://charity.gofundme.com/o/en/campaign/covid-19-relief-for-muwekma-ohlone-families) 
+*   [Amah Mutsun Families COVID-19 Relief Fund | Created by Humunya Tribal Foundation](https://charity.gofundme.com/o/en/campaign/amah-mutsun-families-covid-19-relief) 
 
 #### Works Cited
 
 *   Milliken, Randall, Laurence Shoup, and Beverly Ortiz. _Ohlone/Costanoan Indians of the San Francisco Peninsula and their Neighbors, Yesterday and Today_. National Park Service Gold Gate National Recreation Area, 2009. 
 *   Baldy, Cutcha Risling. _We Are Dancing for You: Native Feminisms and the Revitalization of Women's Coming-of-Age Ceremonies_. University of Washington Press, 2018. 
-*   Chamings, Andrew. “Murders of California Indigenous Women 7 Times Less Likely to Be Solved, Report Finds.” _SFGate_, San Francisco Chronicle, 4 Aug. 2020, [www.sfgate.com/crime/article/Report-Murders-of-indigenous-women-california-15457912.php](http://www.sfgate.com/crime/article/Report-Murders-of-indigenous-women-california-15457912.php). 
-*   Eagen, Siobhan. “Kumeyaay Nation Protests Border Wall Construction.” _Golden Gate Xpress_, 37 July 2020, [goldengatexpress.org/93485/protests/kumeyaay-nation-protests-border-wall-construction/](http://goldengatexpress.org/93485/protests/kumeyaay-nation-protests-border-wall-construction/). 
+*   Chamings, Andrew. “Murders of California Indigenous Women 7 Times Less Likely to Be Solved, Report Finds.” _SFGate_, San Francisco Chronicle, 4 Aug. 2020, [sfgate.com](http://www.sfgate.com/crime/article/Report-Murders-of-indigenous-women-california-15457912.php). 
+*   Eagen, Siobhan. “Kumeyaay Nation Protests Border Wall Construction.” _Golden Gate Xpress_, 37 July 2020, [Golden Gate Express](http://goldengatexpress.org/93485/protests/kumeyaay-nation-protests-border-wall-construction/). 
 *   Hackel, Steven W. _Children of Coyote, Missionaries of Saint Francis Indian-Spanish Relations in Colonial California, 1769-1850_. The University of North Carolina Press, 2012. 
 *   Milliken, Randall, Laurence Shoup, and Beverly Ortiz. _Ohlone/Costanoan Indians of the San Francisco Peninsula and their Neighbors, Yesterday and Today_. National Park Service Gold Gate National Recreation Area, 2009. 
 *   Miranda, Deborah. _Bad Indians: A Tribal Memoir_. Heyday, 2013. 
 *   ---. “Extermination of the Joyas: Gendercide in Spanish California.”GLQ: A Journal of Lesbian
 *   and Gay Studies (2010) 16 (1-2): 253-284. 
 *   Morgado, Martin J. _Junípero Serra's Legacy_. Mount Carmel, 1987. 
-*   O’Connell, Gerard. “Pope Hails Junipero Serra as 'One of the Founding Fathers of the United States'.” _America Magazine_, 5 June 2017, [www.americamagazine.org/faith/2015/05/02/pope-hails-junipero-serra-one-founding-fathers-united-states](http://www.americamagazine.org/faith/2015/05/02/pope-hails-junipero-serra-one-founding-fathers-united-states). 
+*   O’Connell, Gerard. “Pope Hails Junipero Serra as 'One of the Founding Fathers of the United States'.” _America Magazine_, 5 June 2017, [America Magazine](http://www.americamagazine.org/faith/2015/05/02/pope-hails-junipero-serra-one-founding-fathers-united-states). 
 *   Sandos, James A. _Converting California: Indians and Franciscans in the Missions_. Yale University Press, 2008.
 
 ## Session III Resources
