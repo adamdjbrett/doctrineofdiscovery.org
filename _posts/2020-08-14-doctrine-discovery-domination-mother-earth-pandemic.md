@@ -75,11 +75,11 @@ On October 19, 2012, one week after oral argument on Columbus Day, the Circuit g
 
 “Three specific factors determine when ancestral land claims are foreclosed on equitable grounds:
 
-  1.The length of time at issue between on historic injustice and the present day;
+  1. The length of time at issue between on historic injustice and the present day;
 
-  2.The disruptive nature of claims long delayed; and
+  2. The disruptive nature of claims long delayed; and
 
-  3.The degree to which these claims upset the justifiable expectations of individuals and entities far removed from the events giving rise to the the plaintiffs’ injury.”
+  3. The degree to which these claims upset the justifiable expectations of individuals and entities far removed from the events giving rise to the the plaintiffs’ injury.”
 
 When we compare these now somewhat discredited excuses, it is clear that nothing in the Constitution says that treaties are no long valid simply because they are old; that “disruption” is not sufficient to break treaty promises; and that white settlers moving in does not disestablish a reservation.
 
