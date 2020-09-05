@@ -9,9 +9,15 @@ adamdjbrett:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/__adjb"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "http://instagram.com/__adjb"
     - label: "Github"
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/adamdjbrett"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/adamdjbrett"
 
 pparnold:
   name: Philip P. Arnold
@@ -24,9 +30,9 @@ pparnold:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://thecollege.syr.edu/people/faculty/pages/rel/arnold-philip.html"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/arnold_philip"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://youtube.com/c/IndigenousValuesInitiative"
 
 admin:
   name: Indigenous Values
@@ -41,9 +47,15 @@ admin:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/indigenousvalues"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/indigenousVI"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/indigenousvi"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://youtube.com/c/IndigenousValuesInitiative"
 
 gale:
   name: Gale Courey Toensing
