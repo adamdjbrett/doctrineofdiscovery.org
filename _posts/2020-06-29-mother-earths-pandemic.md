@@ -25,9 +25,9 @@ tags:
 *   **Dates**: Thursday August 6, 13, and 20, 2020
 *   **Location**: Online
 *   **Times**: 6-9 PM EST each Thursday, followed by caucuses/small group discussions.
-*   **Sponsors**: [Indigenous Values Initiative](https://indigenousvalues.org) and [American Indian Law Alliance](https://aila.ngo)
+*   **Sponsors**: [Indigenous Values Initiative](https://indigenousvalues.org), [American Indian Law Alliance](https://aila.ngo), Syracuse Unviersity ‘CUSE GRANT, the Syracuse University Department of Religion
 
-[Register for the Conference](https://indigenousvalues.org/mother-earths-pandemic/){: .btn .btn--success}  
+[Learn more about the conference](https://indigenousvalues.org/mother-earths-pandemic/){: .btn .btn--success}  
 
 The “Doctrine of Discovery,” better described as the “Doctrine of Christian Discovery and World Domination,” established the worldview that not only brought devastation to the natural world, but also impaired the ability for human beings to live in proper relationship with the Earth. 15<sup>th</sup> century Papal Bulls, issued by the Vatican, justified the assault upon Indigenous Peoples as an artificial justification to take possession of their bodies, lands and resources in order to finance their New World Order. This worldview advanced the Age of Discovery as an extension of the Crusades, and was the conceptual framework behind the Protestant Reformation, the establishment of Nation States around the world, and later secularized to define colonialism, white supremacy and global capitalism.
 
@@ -37,5 +37,11 @@ This current pandemic and the escalating climate chaos clarify to everyone that 
 
 This conference will connect the dots between our current pandemic, environmental devastation, the Doctrine of Discovery, and a way forward. Too often these are thought of as unrelated concepts, rather than being the core impediment in working towards social justice in an ecologically balanced Earth. Our speakers have been working in these areas for many decades. Participants will hear the wisdom from the traditions of the Haudenosaunee (Iroquois), as well as other Indigenous Peoples. Through virtual discussion groups, you will be able to interact on how best to implement these values of respect, thanksgiving, and peace into your lives. Please join us in August 2020 for conversations about the Doctrine of Discovery, so we can begin the process of decolonization back to understanding our proper relationship to the natural world and peace.
 
-[View the schedule](https://indigenousvalues.org/mother-earths-pandemic/){: .btn .btn--success}
-[Download the flyer as a PDF](/assets/pdfs/mother-earth-pandemic-doctrine-discovery-2020.pdf){: .btn .btn--info}
+## Conference Details
+* [View the schedule](https://indigenousvalues.org/mother-earths-pandemic/){: .btn .btn--success}
+* [Download the flyer as a PDF](/assets/pdfs/mother-earth-pandemic-doctrine-discovery-2020.pdf){: .btn .btn--info}
+* [Videos Index](https://doctrineofdiscovery.org/resources/event/mother-earths-pandemic-session-videos/)
+* [Watch the Talks on YouTube](https://youtube.com/c/IndigenousValuesInitiative)
+* [Mother Earth‘s Pandemic Resources](/law/resources/event/mother-earths-pandemic-resources/)
+* [The Good, The Bad & The Ugly In Mcgirt V. Oklahoma](/law/resources/event/doctrine-discovery-domination-mother-earth-pandemic/)
+* [Let‘s Change the Subject: Grounding Social Change in Indigenous History and Philosophy](/resources/social-change-indigenous-history/)
