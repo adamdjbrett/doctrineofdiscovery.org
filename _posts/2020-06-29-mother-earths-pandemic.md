@@ -37,8 +37,8 @@ This current pandemic and the escalating climate chaos clarify to everyone that 
 
 This conference will connect the dots between our current pandemic, environmental devastation, the Doctrine of Discovery, and a way forward. Too often these are thought of as unrelated concepts, rather than being the core impediment in working towards social justice in an ecologically balanced Earth. Our speakers have been working in these areas for many decades. Participants will hear the wisdom from the traditions of the Haudenosaunee (Iroquois), as well as other Indigenous Peoples. Through virtual discussion groups, you will be able to interact on how best to implement these values of respect, thanksgiving, and peace into your lives. Please join us in August 2020 for conversations about the Doctrine of Discovery, so we can begin the process of decolonization back to understanding our proper relationship to the natural world and peace.
 
-* [View the schedule](https://indigenousvalues.org/mother-earths-pandemic/){: .btn .btn--success}
-* [Download the flyer as a PDF](/assets/pdfs/mother-earth-pandemic-doctrine-discovery-2020.pdf){: .btn .btn--info}
+[View the schedule](https://indigenousvalues.org/mother-earths-pandemic/){: .btn .btn--success}
+[Download the flyer as a PDF](/assets/pdfs/mother-earth-pandemic-doctrine-discovery-2020.pdf){: .btn .btn--info}
 
 ## Conference Details
 * [Videos Index](https://doctrineofdiscovery.org/resources/event/mother-earths-pandemic-session-videos/)
