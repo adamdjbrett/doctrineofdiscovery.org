@@ -28,7 +28,7 @@ remote_theme: mmistakes/minimal-mistakes@4.19.1
 minimal_mistakes_skin: default
 search: true
 teaser: "/assets/images/onondaga-lake-east-shoreline-1.jpg"
-logo: /assets/images/compass.png
+logo: /assets/images/doctrineofdiscovery_logo_new-88x88.png
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 
