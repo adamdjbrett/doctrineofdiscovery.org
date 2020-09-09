@@ -90,3 +90,8 @@ As promising as this decision is, deeply racist problems remain in US law.Left u
 ## Downloads
 
 [⬇︎ Download Joe Heath's PowerPoint](/assets/pdfs/Doctrine-Christian-Discovery-Domination-Joe-Heath-2020.pdf)
+
+### Further Videos
+* [The McGirt Decision and Federal Indian Law by Joe Heath](https://youtu.be/IhY1W3Xva9Y)
+* [McGirt v Oklahoma: Plenary Power & the Doctrine of Christian Discovery by Steve Newcomb & Joe Heath](https://youtu.be/NBi3TCrZTCU)
+* [Expanded analysis of Johnson v. McIntosh by Steven Newcomb](https://youtu.be/Wo8LpsfIr-4)
