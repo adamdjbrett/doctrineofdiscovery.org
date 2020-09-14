@@ -33,7 +33,7 @@ The opinions of [Betty Lyons](https://www.syracuse.com/opinion/2020/06/columbus-
 
 \###
 
- **Philip P. Arnold** | Associate Professor and Chair, Department of Religion, Syracuse University [**Skä·noñh—Great Law of Peace Center**](http://www.skanonhcenter.org/) **|** Founding Director [**Indigenous Values Initiative**](https://indigenousvalues.org/)  
+ **Philip P. Arnold** | Associate Professor and Chair, Department of Religion, Syracuse University [**Skä·noñh—Great Law of Peace Center**](http://www.skanonhcenter.org/) | Founding Director [**Indigenous Values Initiative**](https://indigenousvalues.org/)  
 
 
-**Sandy Bigtree** | Mohawk Nation of Akwesasne [**Skä·noñh—Great Law of Peace Center**](http://www.skanonhcenter.org/) **|** Collaborative [**Indigenous Values Initiative**](https://indigenousvalues.org/)
+**Sandy Bigtree** | Mohawk Nation of Akwesasne [**Skä·noñh—Great Law of Peace Center**](http://www.skanonhcenter.org/) | Collaborative [**Indigenous Values Initiative**](https://indigenousvalues.org/)
