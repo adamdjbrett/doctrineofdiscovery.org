@@ -130,8 +130,8 @@ tags:
  - [Friends of Sabeel (North America)](https://countercufi.yuvi.in/)
 
 ### “’Discovery,’ Disease, and Survival in Native California,” Abel Gomez
-*   [COVID-19 Relief for Muwekma Ohlone Families | Created by Muwekma Ohlone Allies](https://charity.gofundme.com/o/en/campaign/covid-19-relief-for-muwekma-ohlone-families) 
-*   [Amah Mutsun Families COVID-19 Relief Fund | Created by Humunya Tribal Foundation](https://charity.gofundme.com/o/en/campaign/amah-mutsun-families-covid-19-relief) 
+*   [COVID-19 Relief for Muwekma Ohlone Families \| Created by Muwekma Ohlone Allies](https://charity.gofundme.com/o/en/campaign/covid-19-relief-for-muwekma-ohlone-families) 
+*   [Amah Mutsun Families COVID-19 Relief Fund \| Created by Humunya Tribal Foundation](https://charity.gofundme.com/o/en/campaign/amah-mutsun-families-covid-19-relief) 
 
 #### Works Cited
 
