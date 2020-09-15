@@ -2,6 +2,9 @@
 title: "Mother Earth‘s Pandemic Resources"
 excerpt_separator: "<!--more-->"
 excerpt: "Resources mentioned durined the sessions."
+header:
+  image: /assets/images/Broken-Treaties-Brandon-Lazore-Web-credit.jpg
+  caption: "Photo credit: Broken Treaties by **Brandon Lazore**"
 categories:
   - Law
   - Resources
@@ -12,6 +15,7 @@ tags:
   - Conference
   - Education
   - Resources
+author: adamddjbrett
 ---
 
 [Subscribe to the Indigenous Values Initiative YouTube Channel](https://youtube.com/c/IndigenousValuesInitiative){: .btn .btn--danger .btn--large}

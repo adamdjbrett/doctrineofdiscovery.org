@@ -1,6 +1,9 @@
 ---
 title: "Embrace Indigenous Values and Remove Iconic Fascist Memorials"
 date: 2020-07-13T14:00:30-05:00
+header:
+  image: /assets/images/Broken-Treaties-Brandon-Lazore-Web-credit.jpg
+  caption: "Photo credit: Broken Treaties by **Brandon Lazore**"
 categories:
   - blog
 tags:

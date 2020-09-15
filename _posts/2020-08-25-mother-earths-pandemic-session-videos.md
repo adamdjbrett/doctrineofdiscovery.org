@@ -2,6 +2,9 @@
 title: "Mother Earth‘s Pandemic: The Doctrine of Discovery Session Videos"
 excerpt_separator: "<!--more-->"
 excerpt: "Complete list of all of the talks and bonus content"
+header:
+  image: /assets/images/Broken-Treaties-Brandon-Lazore-Web-credit.jpg
+  caption: "Photo credit: Broken Treaties by **Brandon Lazore**"
 categories:
   - Resources
   - Event
