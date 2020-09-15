@@ -9,6 +9,6 @@ link: https://blogs.umass.edu/derrico/2020/09/14/misconceptions-about-mcgirt-v-o
 author: derrico
 ---
 
-> The “many other legal doctrines” and the congressional “tools” are, like the “plenary power” put forth in _Lone Wolf_, all derivatives of “Christian discovery.” Gorsuch hid that fact in a cryptic citation to the 1868 _Treatise on the American Law of Real Property_ by Emory Washburn. The _Treatise_ discusses “the discovery and settlement of this country by Europeans.”
+> The many other legal doctrines [...] like plenary power put forth in _Lone Wolf_, all derivatives of Christian discovery. 
 
 Some [Misconceptions About McGirt v. Oklahoma by Peter d’Errico](https://blogs.umass.edu/derrico/2020/09/14/misconceptions-about-mcgirt-v-oklahoma/).
