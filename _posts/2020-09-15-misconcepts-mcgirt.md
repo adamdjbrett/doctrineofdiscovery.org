@@ -1,6 +1,6 @@
 ---
 title: "Misconceptions About McGirt v. Oklahoma"
-excerpt: "The many other legal doctrines [...] like plenary power put forth in _Lone Wolf_, all derivatives of Christian discovery."
+excerpt: "federal Indian law displaces the historical ‘starting point’ — the original free existence of Native nations — with a subsequent condition — the doctrine of Christian discovery."
 categories:
   - Blog
 tags:
