@@ -1,6 +1,6 @@
 ---
 title: "Misconceptions About McGirt v. Oklahoma"
-excerpt: "federal Indian law displaces the historical ‘starting point’ — the original free existence of Native nations — with a subsequent condition — the doctrine of Christian discovery."
+excerpt: "Federal Indian law displaces the historical ‘starting point’ — the original free existence of Native nations..."
 categories:
   - Blog
 tags:
