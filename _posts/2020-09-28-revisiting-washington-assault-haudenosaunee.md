@@ -40,6 +40,6 @@ Washington’s soldiers were paid with land.  As a result, the Haudenosaunee cr
 *   Streaming on Twitter: [@SkaNonhCenter](https://twitter.com/SkaNonhCenter), [@IndigenousVI](https://twitter.com/indigenousVI)
 *   Streaming on YouTube: [@IndigenousValuesInitiative](https://youtube.com/c/IndigenousValuesInitiative)
 
-Download event flyer as a [⤓ image](/assets/images/Sullivan-Clinton-Campaign-Flyer.jpg) or as a [⤓ PDF](/asssets/pdfs/Sullivan-Clinton-Campaign-Flyer.pdf).
+Download event flyer as a [⤓ image](/assets/images/Sullivan-Clinton-Campaign-Flyer.png) or as a [⤓ PDF](/assets/pdfs/Sullivan-Clinton-Campaign-Flyer.pdf).
 
 [➡︎ Learn more about the Sullivan-Clinton Campaign](https://www.sullivanclinton.com/).
