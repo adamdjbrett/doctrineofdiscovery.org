@@ -15,7 +15,7 @@ tags:
   - Conference
   - Education
   - Resources
-author: adamddjbrett
+author: adamdjbrett
 ---
 
 [Subscribe to the Indigenous Values Initiative YouTube Channel](https://youtube.com/c/IndigenousValuesInitiative){: .btn .btn--danger .btn--large}
