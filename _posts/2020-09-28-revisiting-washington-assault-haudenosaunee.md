@@ -42,4 +42,8 @@ Washington’s soldiers were paid with land.  As a result, the Haudenosaunee cr
 
 Download event flyer as a [⤓ image](/assets/images/Sullivan-Clinton-Campaign-Flyer.png) or as a [⤓ PDF](/assets/pdfs/Sullivan-Clinton-Campaign-Flyer.pdf).
 
-[➡︎ Learn more about the Sullivan-Clinton Campaign](https://www.sullivanclinton.com/).
+* [➡︎ Learn more about the Sullivan-Clinton Campaign](https://www.sullivanclinton.com/).
+* [Watch on Youtube](https://youtu.be/HMJOtMjCSAE)
+
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/HMJOtMjCSAE?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
