@@ -90,6 +90,19 @@ derrico:
 newcomb:
   name: "Steven T. Newcomb"
   bio: "Steven Newcomb is a Shawnee, Lenape scholar and author. He is co-founder and co-director of the Indigenous Law Institute."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://originalfreenations.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/steventnewcomb"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/originally_free"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/steve-newcomb-a5a15828/"
 
 bettylyons:
   name: Betty Lyons
