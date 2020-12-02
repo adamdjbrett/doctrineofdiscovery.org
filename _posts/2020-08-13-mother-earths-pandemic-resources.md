@@ -24,6 +24,8 @@ author: adamdjbrett
 
 ### Session Videos
   - Watch the missed sessions on the [Indigenous Values Initiative YouTube channel](https://youtube.com/c/IndigenousValuesInitiative)
+  - [Video Index](/resources/event/mother-earths-pandemic-session-videos/)
+  - [⤓ Download the Study Guide as a PDF](/assets/pdfs/Study-Guide-Mother-Earths-Pandemic.pdf)
 ### Texts
   - [Thanksgiving Address: 11 languages](https://www.thetrackingproject.org/products/the-tracking-project-teaching-resources/)
   - Basic Call to Consciousness, Akwesasne Notes, Oren Lyons, et. al.

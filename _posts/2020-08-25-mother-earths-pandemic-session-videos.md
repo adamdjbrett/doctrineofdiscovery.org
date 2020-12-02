@@ -64,3 +64,7 @@ author: adamdjbrett
 * [McGirt v Oklahoma: Plenary Power & the Doctrine of Christian Discovery by Steve Newcomb & Joe Heath](https://youtu.be/NBi3TCrZTCU)
 * [Expanded analysis of Johnson v. McIntosh by Steven Newcomb](https://youtu.be/Wo8LpsfIr-4)
 * [The Spiritual Traditions of the New World by Oren Lyons](https://youtu.be/NiiHyf4ICRY)
+
+## Resources
+* [Mother Earth‘s Pandemic Resources](/law/resources/event/mother-earths-pandemic-resources/)
+* [⤓ Download the Study Guide as a PDF](/assets/pdfs/Study-Guide-Mother-Earths-Pandemic.pdf)

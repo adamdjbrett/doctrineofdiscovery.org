@@ -42,6 +42,7 @@ This conference will connect the dots between our current pandemic, environmenta
 
 ## Conference Details
 * [Videos Index](https://doctrineofdiscovery.org/resources/event/mother-earths-pandemic-session-videos/)
+* [⤓ Download the Study Guide as a PDF](/assets/pdfs/Study-Guide-Mother-Earths-Pandemic.pdf)
 * [Watch the Talks on YouTube](https://youtube.com/c/IndigenousValuesInitiative)
 * [Mother Earth‘s Pandemic Resources](/law/resources/event/mother-earths-pandemic-resources/)
 * [The Good, The Bad & The Ugly In Mcgirt V. Oklahoma](/law/resources/event/doctrine-discovery-domination-mother-earth-pandemic/)
