@@ -47,7 +47,7 @@ tags:
 
 ### Film
 
-- Newcomb, Steven T. [_The Doctrine of Discovery, Unmasking The Domination Code_](/the-doctrine-of-discovery-unmasking-the-domination-code/), [38 plus 2 Productions](https://www.38plus2productions.com/).
+- Newcomb, Steven T. [_The Doctrine of Discovery, Unmasking The Domination Code_](/the-doctrine-of-discovery-unmasking-the-domination-code/), [38 plus 2 Productions](https://www.38plus2productions.com/). [Watch on Vimeo](https://vimeo.com/ondemand/dominationcode)
 
 ### Presentation
 
