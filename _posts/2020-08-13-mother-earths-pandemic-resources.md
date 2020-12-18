@@ -75,7 +75,7 @@ author: adamdjbrett
   - [Original Free Nations](http://originalfreenations.com/)
   - [Indigenous Law Institute](http://ili.nativeweb.org/)
   - _Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery_
-  - _The Doctrine of Discovery: Unmasking the Domination Code_, directed by Sheldon Wolfchild (Dakota).
+  - [_The Doctrine of Discovery: Unmasking the Domination Code_](https://vimeo.com/ondemand/dominationcode), directed by Sheldon Wolfchild (Dakota).
 
 #### “Towards Justice with nature and her peoples,” Makayla Loeb
   - [The International Union for Conservation of Nature (IUCN)](https://www.iucn.org/)
