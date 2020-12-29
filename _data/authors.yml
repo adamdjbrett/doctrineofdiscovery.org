@@ -39,7 +39,7 @@ pparnold:
 
 admin:
   name: Indigenous Values
-  avatar: /assets/images/indigenousvalues.png
+  avatar: /assets/images/indigenousvalues-2020.png
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
