@@ -19,4 +19,6 @@ tags:
 
 Gratis by order of our most holy lord, the pope."
 
-June. For the referendary, For J. Bufolinus, A. de Mucciarellis. A. Santoseverino. L. Podocatharus. (Reproduced from Nativeweb.org)
+June. For the referendary, For J. Bufolinus, A. de Mucciarellis. A. Santoseverino. L. Podocatharus.
+
+[(Reproduced from Nativeweb.org)](http://www.nativeweb.org/pages/legal/indig-inter-caetera.html)
