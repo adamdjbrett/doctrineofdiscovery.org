@@ -3,9 +3,9 @@ ID: 8808
 title: "Papal Bulls"
 header:
   image: assets/images/papal-bull-doctrine-of-discovery.jpg
+  caption: "Photo Credit: [Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection](https://www.gilderlehrman.org/content/doctrine-discovery-1493)"
 author: admin
 excerpt: "Papal Bulls that create the foundation of the Doctrine of Discovery"
-
 permalink: /papal-bulls/
 published: true
 date: 2018-07-30 17:45:04
@@ -30,5 +30,3 @@ tags:
     *   [Treaty of Tordesillas, June 7, 1494](https://doctrineofdiscovery.org/treaty-of-tordesillas/)
     *   [Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496](https://doctrineofdiscovery.org/patent-cabot-henry-vii/)
     *   [The Requerimiento, 1512](https://doctrineofdiscovery.org/requerimiento/)
-
-Photo Credit: [Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection](https://www.gilderlehrman.org/content/doctrine-discovery-1493)
