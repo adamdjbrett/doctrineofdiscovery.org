@@ -23,7 +23,7 @@ Key Excerpts:
 
 [Back to Law](https://doctrineofdiscovery.org/law/).
 
-\* * *
+***
 
 # The Legal Battle and Spiritual War against the Native People
 
