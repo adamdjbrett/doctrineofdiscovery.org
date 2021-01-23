@@ -12,7 +12,7 @@ categories:
 tags:
   - Catholic
 ---
-## Requerimiento, 1510
+## Requerimiento, 1514
 
 Requerimiento \["Requirement\], by Charles I of Spain \[abridged\]: Spanish conquistadors read this document, composed in 1514, to Indians of the new world. It briefly explains Spain's assertion of its legal and moral right to rule over the inhabitants of Latin America. It also provides a rationale for a "just war." Legalistic Spaniards devised this doctrine so that you could "legally" enslave Indians who refused to agree with all the statements of the requerimiento. Notice the dire warning in the last paragraph to those who do not submit. Of course, not knowing Latin, most Indians had no idea what transpired with the reading, but found themselves enslaved nonetheless.
 
