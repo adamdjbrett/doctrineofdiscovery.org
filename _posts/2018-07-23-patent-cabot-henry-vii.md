@@ -3,10 +3,9 @@ ID: 8831
 title: "Patent Granted by Henry VII to John Cabot"
 header:
   image: /assets/images/john-cabot-patent.jpg
-caption: 'John Cabot Patent'
+  caption: "Photo of John Cabot Charter via [heritage.nf.ca](http://web.archive.org/web/20190319231251/https://www.heritage.nf.ca/articles/exploration/1496-cabot-patent.php)"
 author: admin
 excerpt: "By this public document, Henry VII indicated his official, royal support for Cabot's enterprise."
-
 permalink: /patent-cabot-henry-vii/
 published: true
 date: 2018-07-23 15:32:15
@@ -16,6 +15,7 @@ tags:
   - Law
   - England
   - US
+redirect_from: /cabot/  
 ---
 ### Patent Granted by King Henry VII to John Cabot and his Sons
 
@@ -38,6 +38,6 @@ By the King himself, etc.
 
 Reproduced from H.P. Biggar, ed., _The Precursors of Jacques Cartier 1497-1534: A Collection of Documents relating to the Early History of the Dominion of Canada_ (Ottawa: Government Printing Bureau 1911) 7-10. Original document housed in the Public Record Office, London.
 
-Photo of John Cabot Charter via [heritage.nf.ca](https://www.heritage.nf.ca/articles/exploration/images/john-cabot-patent.jpg). Thanks to Dave Ratcliffe for finding this image.
+Photo of John Cabot Charter via [heritage.nf.ca](http://web.archive.org/web/20190319231251/https://www.heritage.nf.ca/articles/exploration/1496-cabot-patent.php). Thanks to Dave Ratcliffe for finding this image.
 
 - [Back to law](/law/)
