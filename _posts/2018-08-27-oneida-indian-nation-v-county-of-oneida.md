@@ -15,6 +15,7 @@ tags:
   - Indigenous-Peoples
   - Haudenosaunee-Confederacy
   - Oneida-Nation
+redirect_from: /617/  
 ---
 Excerpt:
 
