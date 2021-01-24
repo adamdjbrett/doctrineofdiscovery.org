@@ -12,6 +12,7 @@ categories:
 tags:
   - Law
   - US-Law
+redirect_from: /jvm/  
 ---
 Key Excerpts:
 
