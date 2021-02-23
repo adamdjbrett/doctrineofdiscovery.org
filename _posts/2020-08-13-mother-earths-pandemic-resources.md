@@ -118,7 +118,7 @@ author: adamdjbrett
 *   Smith, Andrea. “Boarding School Abuses, Human Rights, and Reparations.” Social Justice, vol. 31, no. 4, 2004, pp. 89-102.
 *   ---. Conquest: Sexual Violence and American Indian Genocide. Duke UP, 2005.
 *   Neighbors of the Onondaga Nation. Historical Timeline of the Haudenosaunee-U.S. History. Neighbors of the Onondaga Nation, n.d.,
-*   Newcomb, Steven T. “The Evidence of Christian Nationalism in Federal Indian Law: The Doctrine of Discovery, Johnson v. McIntosh, and Plenary Power." New York University Review of Law & Social Change, vol. 20, no. 2 (1992): pp. 303-342.
+*   Newcomb, Steven T. “The Evidence of Christian Nationalism in Federal Indian Law: The Doctrine of Discovery, Johnson v. M’Intosh, and Plenary Power." New York University Review of Law & Social Change, vol. 20, no. 2 (1992): pp. 303-342.
 *   Whitt, Laurie Anne, et al. “Indigenous Perspectives.” A Companion to Environmental Philosophy, edited by Dale Jamieson, Blackwell Publishing, 2001, pp. 3-20.
 *   Woolford, Andrew. “Discipline, Territory, and the Colonial Mesh: Indigenous Boarding Schools in the United States and Canada.” Colonial Genocide in Indigenous North America, edited by Alexander Laban Hinton, Andrew Woolford, and Jeff Benvenuto, Duke UP, 2015, pp. 29-48.
 * ---. This Benevolent Experiment: Indigenous Boarding Schools, Genocide, and Redress in Canada and the United States. University of Nebraska Press, 2015.

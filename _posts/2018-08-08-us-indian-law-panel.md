@@ -39,7 +39,7 @@ tags:
 - \_\_\_\_\_. [Statement on the Historical Use of the Doctrine of Christian Discovery by the United States Supreme Court Since 1823. (PDF for Download)](/assets/pdfs/DoctrineOfDiscovery5-24-14.pdf).
 - Miller, Robert J. (Eastern Shawnee). _Native America, Discovered and Conquered, Thomas Jefferson, Lewis and Clark and Manifest Destiny_.
 - Newcomb, Steven T. (Shawnee/Lanape). _Pagans in the Promise Land, Decoding the Doctrine of Christian Discovery_ (Fulcrum 2008).
-- \_\_\_\_\_\_\_. [Evidence of Christian Nationalism In Federal Indian Law: The Doctrine of Discovery, Johnson v. McIntosh, and Plenary Power” in _NYU Review of Law and Social Change_ (volume 20, issue 2), 1992. (⤓ PDF for Download)](/assets/pdfs/Evidence-of-Christian-Nationalism-In-Federal-Indian-Law.pdf).
+- \_\_\_\_\_\_\_. [Evidence of Christian Nationalism In Federal Indian Law: The Doctrine of Discovery, Johnson v. M’Intosh, and Plenary Power” in _NYU Review of Law and Social Change_ (volume 20, issue 2), 1992. (⤓ PDF for Download)](/assets/pdfs/Evidence-of-Christian-Nationalism-In-Federal-Indian-Law.pdf).
 - \_\_\_\_\_\_\_. [The Biblical Basis of Federal Indian Law & Policy](/the-biblical-basis-of-federal-indian-law-policy/).
 - Williams, Robert A. Jr. _The American Indian in Western Legal Thought: The Discourses of Conquest_ (OUP 1992).
 
