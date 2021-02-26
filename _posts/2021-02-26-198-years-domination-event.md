@@ -2,9 +2,6 @@
 title: "198 Years of Domination: Screening of _The Doctrine of Discovery: Unmasking the Domination Code_ with Panel"
 excerpt_separator: "<!--more-->"
 excerpt: "A Screening Of _The Domination Code_ followed by an incredible panel discussion with Sheldon Wolfchild (Dakota), Steven Newcomb (Shawnee/Lenape), Buffy Sainte Marie (Cree), Dr. Luis Rivera-Pagán, JoDe Goudy (Yakama Nation), Steve Schwartzberg, Shawna Bluestar Newcomb (Shawnee/Lenape/Azteca), and Peter d'Errico"
-header:
-  image: /assets/images/198-years-domination-domination-code.png
-  caption: "Event Flyer Photo credit: REDTHOUGHT and Original Free Nations"
 categories:
   - Event
 tags:
@@ -34,3 +31,6 @@ On February 28, 1823, the US Supreme Court issued a unanimous decision in the ca
 After the one hour screening, there will be a two-hour panel with Sheldon Wolfchild, Steven Newcomb, Buffy Sainte Marie (Cree), Dr. Luis Rivera-Pagán, a theologian from Puerto Rico, JoDe Goudy (Yakama Nation), Steve Schwartzberg, and Shawna Bluestar Newcomb (Shawnee/Lenape/Azteca), and Peter d'Errico, professor emeritus UMass/Amherst.
 
 ### [Register](https://redthought.org/)
+
+!["Event Flyer Photo credit: REDTHOUGHT and Original Free Nations!"](/assets/images/198-years-domination-domination-code.png)
+>"Event Flyer Photo credit: REDTHOUGHT and Original Free Nations!"
