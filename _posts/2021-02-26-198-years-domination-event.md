@@ -1,7 +1,7 @@
 ---
-title: "198 Years of Domination: **Screening of "The Doctrine of Discovery: Unmasking the Domination Code" with Panel**"
+title: "198 Years of Domination: Screening of _The Doctrine of Discovery: Unmasking the Domination Code_ with Panel"
 excerpt_separator: "<!--more-->"
-excerpt: "A Screening Of_The Domination Code _followed by an incredible panel discussion"
+excerpt: "A Screening Of _The Domination Code _followed by an incredible panel discussion"
 header:
   image: /assets/images/198-years-domination-domination-code.png
   caption: "Event Flyer Photo credit: REDTHOUGHT and Original Free Nations"
