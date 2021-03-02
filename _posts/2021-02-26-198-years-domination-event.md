@@ -36,4 +36,6 @@ After the one hour screening, there will be a two-hour panel with Sheldon Wolfch
 ### [Register](https://redthought.org/)
 
 !["Event Flyer Photo credit: REDTHOUGHT and Original Free Nations!"](/assets/images/198-years-domination-domination-code.png)
->"Event Flyer Photo credit: REDTHOUGHT and Original Free Nations!"
+```
+"Event Flyer Photo credit: REDTHOUGHT and Original Free Nations!"
+```
