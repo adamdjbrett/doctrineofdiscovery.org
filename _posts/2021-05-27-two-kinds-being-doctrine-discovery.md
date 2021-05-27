@@ -1,10 +1,7 @@
 ---
 title: "Two Kinds of Beings: The Doctrine of Discovery And Its Implications for Yesterday and Today"
 excerpt_separator: "<!--more-->"
-excerpt: "A Screening Of _The Domination Code_ followed by an incredible panel discussion with Sheldon Wolfchild (Dakota), Steven Newcomb (Shawnee/Lenape), Buffy Sainte Marie (Cree), Dr. Luis Rivera-Pagán, JoDe Goudy (Yakama Nation), Steve Schwartzberg, Shawna Bluestar Newcomb (Shawnee/Lenape/Azteca), and Peter d'Errico"
-header:
-  - image: /assets/images/doctrine-of-discovery-unmasking-domination-code.jpg
-  - caption: "_The Doctrine of Discovery: Unmasking The Domination Code_ directed by Sheldon Wolfchild and co-produced by Steven T. Newcomb"
+excerpt: "On August 6, 2001, Ralph Boyd, Jr., U.S. Assistant Attorney for Civil Rights and Lorne Craner, Assistant Secretary of State for Democracy, Human Rights and Labor, testified before the United Nations Committee for the Elimination of Racial Discrimination. Among many other questions concerning race relations in the United States, the two high-level U.S. officials were asked, 'What is the United States position with respect to its 1863 treaty with the Western Shoshone Indians?'"
 categories:
   - Blog
 tags:
@@ -14,15 +11,15 @@ tags:
   - Resources
 author: "Robert Francis"
 ---
-[Archived from the Manataka American Indian Council site](http://web.archive.org/web/20200318205910/https://www.manataka.org/page94.html)
+[Archived from the Manataka American Indian Council site](http://web.archive.org/web/20200318205910/https://www.manataka.org/page94.html). First published online by Manataka American Indian Council 13 December 2003.
 
 Two Kinds of Beings: The Doctrine of Discovery And Its Implications for Yesterday and Today by Robert Francis
 
-Our son John is 14 years old and in his eighth-grade year.He's been home educated for the past five years, as have all four of our children.... or offspring. (Three of the four hardly qualify as children anymore.) Eight years ago, John was in kindergarten, Sarah was in third grade, Peter was in fourth. Luke was still enjoying _Barney and Friends _and _Sesame Street_. At the beginning of the public school year, I spoke to the children's teachers, "If you'd like me to come in and talk to the class about American Indian history, cultures or contemporary life, just let me know," I said. "I'll be glad to do it."
+Our son John is 14 years old and in his eighth-grade year. He's been home educated for the past five years, as have all four of our children.... or offspring. (Three of the four hardly qualify as children anymore.) Eight years ago, John was in kindergarten, Sarah was in third grade, Peter was in fourth. Luke was still enjoying _Barney and Friends _and _Sesame Street_. At the beginning of the public school year, I spoke to the children's teachers, "If you'd like me to come in and talk to the class about American Indian history, cultures or contemporary life, just let me know," I said. "I'll be glad to do it."
 
 John's kindergarten teacher invited me to come to her class on Tuesday before Thanksgiving. As I entered the room, I looked around to see paper cutouts of red leaves, orange pumpkins and brown turkeys taped to the walls along with modestly clad Pilgrims and nearly naked Indians. Before I arrived, the children had been busy preparing their costumes for the next day's Thanksgiving parade. Half the class was making Pilgrim hats, bonnets and aprons. The other half was making paper-sack Indian vests along with construction-paper headbands and feathers. Quietly, I wondered what the celebration of Martin Luther King's Birthday might be. Would half the class be in black-face and half in Ku Klux Klan robes?
 
-Among other things, I shared the story of Tisquantum(called "Squanto" in the history books). Kidnapped by the English and taken as a slave to Europe not once but twice, upon his second return to his homeland, Tisquantum still had enough charity or naiveté to help the starving Pilgrims get a foothold in this land. After the story, I asked if anyone had a question. A hand belonging to a little red-headed girl with a freckled face and blue eyes was first to shoot up. "Are you a person, or are you an Indian?" was the question she asked.
+Among other things, I shared the story of Tisquantum (called "Squanto" in the history books). Kidnapped by the English and taken as a slave to Europe not once but twice, upon his second return to his homeland, Tisquantum still had enough charity or naiveté to help the starving Pilgrims get a foothold in this land. After the story, I asked if anyone had a question. A hand belonging to a little red-headed girl with a freckled face and blue eyes was first to shoot up. "Are you a person, or are you an Indian?" was the question she asked.
 
 This spring (April 2003) I was asked by the Colorado Baptist Convention to travel to Denver and speak to the ethnic Baptist ministers and their families from all over the state."Ethnic" here is used to mean all who are outside the dominant Anglo-Saxon ethnicity. I went to the event dressed in full Cherokee regalia of the 1830s period, in order to illustrate the point of my talk, that being, "Whoever you are, your story is sacred, and the story of your people is sacred." Before the program got underway that evening, everyone was milling around, meeting one another and looking at the various displays from the different ethnic groups involved. I was standing there, looking at one of the displays, when I noticed a little boy, about five years old, intently looking at me. This little boy had short straight black hair, coppery brown skin and dark brown eyes. He was standing there with his father. I found out shortly that their family had moved to Colorado from Mexico. But the first words this little boy said to me were, "Are you a person or are you an Indian?"
 
@@ -135,3 +132,7 @@ Most Christian denominations in the United States have roots in the Roman Cathol
 * Lies My Teacher Told Me by James Loewen
 * A Violent Evangelism by Luis N. Rivera
 * Bury My Heart At Wounded Knee by Dee Brown
+
+
+## Cite this item
+Robert Franics, "Two Kinds of Beings: The Doctrine of Discovery And Its Implications for Yesterday and Today," Archived from Manataka American Indian Council, first posted 13 December 2003. Archived 27 May 2021.
