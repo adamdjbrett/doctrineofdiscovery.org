@@ -1,7 +1,7 @@
 ---
 title: "Two Kinds of Beings: The Doctrine of Discovery And Its Implications for Yesterday and Today"
 excerpt_separator: "<!--more-->"
-excerpt: "On August 6, 2001, Ralph Boyd, Jr., U.S. Assistant Attorney for Civil Rights and Lorne Craner, Assistant Secretary of State for Democracy, Human Rights and Labor, testified before the United Nations Committee for the Elimination of Racial Discrimination. Among many other questions concerning race relations in the United States, the two high-level U.S. officials were asked, 'What is the United States position with respect to its 1863 treaty with the Western Shoshone Indians?'"
+excerpt: "'What is the United States position with respect to its 1863 treaty with the Western Shoshone Indians?'"
 categories:
   - Blog
 tags:
@@ -9,11 +9,12 @@ tags:
   - Indigenous-Peoples
   - Education
   - Resources
-author: "Robert Francis"
 ---
-[Archived from the Manataka American Indian Council site](http://web.archive.org/web/20200318205910/https://www.manataka.org/page94.html). First published online by Manataka American Indian Council 13 December 2003.
+## _Two Kinds of Beings: The Doctrine of Discovery And Its Implications for Yesterday and Today_ by Robert Francis
+### First published online by Manataka American Indian Council 13 December 2003.
+[Archived from the Manataka American Indian Council site](http://web.archive.org/web/20200318205910/https://www.manataka.org/page94.html).
 
-Two Kinds of Beings: The Doctrine of Discovery And Its Implications for Yesterday and Today by Robert Francis
+***
 
 Our son John is 14 years old and in his eighth-grade year. He's been home educated for the past five years, as have all four of our children.... or offspring. (Three of the four hardly qualify as children anymore.) Eight years ago, John was in kindergarten, Sarah was in third grade, Peter was in fourth. Luke was still enjoying _Barney and Friends _and _Sesame Street_. At the beginning of the public school year, I spoke to the children's teachers, "If you'd like me to come in and talk to the class about American Indian history, cultures or contemporary life, just let me know," I said. "I'll be glad to do it."
 
