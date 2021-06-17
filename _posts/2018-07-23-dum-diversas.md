@@ -11,6 +11,8 @@ categories:
   - Catholic
 tags:
   - Catholic
+redirect_from:
+  - dumdiversas.htm
 ---
 ## **Papal Bull Dum Diversas 18 June, 1452**
 

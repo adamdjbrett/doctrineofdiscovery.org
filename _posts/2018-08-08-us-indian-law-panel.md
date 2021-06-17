@@ -20,7 +20,6 @@ tags:
   - US-Law
   - US-Indian-Law
   - Indigenous-Peoples
-
 ---
 *   Resources from the "United States Indian Law Panel" at the [_Taking on the Doctrine of Discovery, What are our Next Steps?_](https://indigenousvalues.org/taking-on-the-doctrine-of-discovery-what-are-our-next-steps/) Conference
 *   **Date:** August 18-19, 2018

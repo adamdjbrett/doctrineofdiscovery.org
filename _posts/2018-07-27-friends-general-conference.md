@@ -16,7 +16,9 @@ tags:
   - repudiations
   - christianity
   - PDF
-
+redirect_from:
+  - /friends-general-conference/amp/
+  - /friends-general-conference/
 ---
 *   [Minute on the Doctrine of Discovery, Approved July 25, 2012, New York Yearly Meeting Summer Sessions Silver Bay, New York (⤓  PDF Download)](/assets/pdfs/Minute_Doctrine_of_Discovery-ny.pdf)
 *   [Baltimore Yearly Meeting (Religious Society of Friends) 2012, Indian Affairs Committee, Background Materials for Minute to Repudiate Doctrine of Discovery (⤓ PDF Download)](/assets/pdfs/Minute_Doctrine_of_Discovery-ny.pdf)

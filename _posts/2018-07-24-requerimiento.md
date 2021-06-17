@@ -11,6 +11,8 @@ categories:
   - Catholic
 tags:
   - Catholic
+redirect_from:
+  - /requerimiento.htm  
 ---
 ## Requerimiento, 1514
 

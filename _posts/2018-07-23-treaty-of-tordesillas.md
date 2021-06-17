@@ -16,7 +16,9 @@ categories:
   - Catholic
 tags:
   - Treaty
-redirect_from: /tordesillas/  
+redirect_from:
+  - /tordesillas/
+  - /tordesillas.htm
 ---
 ## Treaty of Tordesillas
 ### June 7, 1494
