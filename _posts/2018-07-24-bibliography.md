@@ -13,6 +13,8 @@ categories:
 tags:
   - Bibliography
   - Resource
+redirect_from:
+  - /wp-content/uploads/2018/07/DoctrineOfDiscovery5-24-14.pdf
 ---
 ### **The Doctrine of Discovery Working Bibliography**
 
