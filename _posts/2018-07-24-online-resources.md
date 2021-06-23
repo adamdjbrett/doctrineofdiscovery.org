@@ -55,6 +55,7 @@ tags:
 
 #### Important Links
 
+*   [Preliminary study of the impact on indigenous peoples of the international legal construct known as the Doctrine of Discovery / submitted by the Special Rapporteur Tonya Gonella Frichner (Onondaga Nation), Executive Director American Indian Law Alliance](/pdfs/The _Preliminary Study_ on the Doctrine of Discovery.pdf)
 *   [Conference Room Paper on the Doctrine of Discovery 11th Session of the UN Permanent Forum on Indigenous Issues Presented by the Haudenosaunee the American Indian Law Alliance and the Indigenous Law Institute. (⤓ PDF Download)](http://www.un.org/esa/socdev/unpfii/documents/2012/session-11-CRP2.pdf)
 *   [American History: "Growth of a Nation"](http://www.animatedatlas.com/movie2.html)
 *   [Brown University Committee on Slavery and Justice Home](http://www.brown.edu/Research/Slavery_Justice/)
@@ -68,7 +69,7 @@ tags:
 *   [Five Ways Pope Francis Can Overcome the Irony that Threatens Laudato Si’ - Rural America](http://inthesetimes.com/rural-america/entry/18354/five-ways-pope-francis-can-overcome-the-irony-that-threatens-laudato-si)
 *   [In 1492 Columbus Sailed The Ocean Blue \- Ridged Valley Reflections](http://justbetweentheridges.wordpress.com/2013/07/18/in-1492-columbus-sailed-the-ocean-blue/)
 *   [Religious Groups Ask Pope Francis to Stand with Indigenous People \- Loretto Community](http://www.lorettocommunity.org/religious-groups-ask-pope-francis-to-stand-with-indigenous-people/)
-*   [Doctrine of Discovery - LCWR](https://lcwr.org/social-justice/doctrine-discovery)
+*   [LCWR Doctrine of Discovery Repudiation](https://lcwr.org/social-justice/doctrine-discovery)
 *   [Deeper dimensions in effort to reject Doctrine of Discovery \- National Catholic Reporter](http://ncronline.org/blogs/ncr-today/deeper-dimensions-effort-reject-doctrine-discovery)
 *   [Honoring Onondaga&apos;s Oren Lyons, Le Moyne grapples with Jesuit history \- National Catholic Reporter](https://www.ncronline.org/news/justice/honoring-onondagas-oren-lyons-le-moyne-grapples-jesuit-history)
 *   [Disastrous doctrine had papal roots](https://www.ncronline.org/news/justice/disastrous-doctrine-had-papal-roots)
@@ -76,9 +77,10 @@ tags:
 *   [Pope should rescind 'Doctrine of Discovery'](http://web.archive.org/web/20160101124455/http://www.philly.com/philly/opinion/20150908_Pope_should_rescind__Doctrine_of_Discovery_.html)
 *   [Aboriginal Affairs Page](http://web.archive.org/web/20100420022907/http://cfsc.quaker.ca/pages/un.html)
 *   [Indigenous Sovereignty and the Being of the Occupier: Manifesto for a White Australian Philosophy of Origins](http://re-press.org/books/indigenous-sovereignty-and-the-being-of-the-occupier-manifesto-for-a-white-australian-philosophy-of-origins/)
-*   [Staked Plains & Palo Duro Canyon Then & Now](http://www.stakedplains.com/home/)
 *   [Onondaga Nation members felt disrespected during Pope Francis visit in NYC \- syracuse.com](http://www.syracuse.com/news/index.ssf/2015/09/onondaga_nation_members_felt_disrespected_during_pope_francis_visit_in_nyc.html)
 *   [Then & Now](http://www.thenandnow.us/)
+    *   [Sullivan Clinton Campaign](https://www.sullivanclinton.com/)
+    *   [Staked Plains & Palo Duro Canyon Then & Now](http://www.stakedplains.com/)
 *   [Nuns to pope: Revoke 15th-century doctrine that allows Christians to seize native land - The Washington Post](http://www.washingtonpost.com/national/religion/nuns-to-pope-revoke-15th-century-doctrine-that-allows-christians-to-seize-native-land/2014/09/09/fe7453ee-3831-11e4-a023-1d61f7f31a05_story.html)
 *   [Churches, indigenous groups protest canonization of missionary priest](https://www.christiancentury.org/article/2015-10/indigenous-groups-churches-protest-land-rights-doctrine-california-priest-s-sainthoo?print)
 *   [Doctrine of Discovery: A scandal in plain sight](https://www.ncronline.org/news/justice/doctrine-discovery-scandal-plain-sight)
