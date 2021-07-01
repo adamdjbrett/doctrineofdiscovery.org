@@ -25,7 +25,7 @@ tags:
 
 *   [Anglican Church of Canada](/anglican-church-of-canada-repudiates-the-doctrine-of-discovery/)
 *   [The Christian Church (Disciples of Christ, the U.S and Canada)](/the-christian-church-disciples-of-christ-the-u-s-and-canada/)
-*   [The Evangelical Covenant Church]()
+*   [The Evangelical Covenant Church](#)
 *   [Episcopal Church (USA)](/the-episcopal-church-usa/)
 *   [The Evangelical Lutheran Church of America](/elca/)
 *   [Friends General Conference](/friends-general-conference/)
