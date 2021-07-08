@@ -6,7 +6,7 @@ excerpt: "The Doctrine of Discovery Working Bibliography"
 permalink: /bibliography/
 published: true
 date: 2018-07-24 09:15:28
-last_modified_at: 2019-12-08T16:20:02-05:00
+last_modified_at: 2021-07-07T16:20:02-05:00
 categories:
   - Resource
   - Bibliography
