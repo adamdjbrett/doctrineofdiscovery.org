@@ -5,6 +5,8 @@ permalink: /about/
 ---
 
 ## Overview
+### [What is the Doctrine of Discovery](/what-is-the-doctrine-of-discovery/)
+
 [The Doctrine of Discovery](/) educational resource, is lovingly maintained by [Indigenous Values Initiative](https://indigenousvalues.org) and the [American Indian Law Alliance](https://aila.ngo). It is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ## Land Acknowledgement
