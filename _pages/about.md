@@ -7,6 +7,9 @@ permalink: /about/
 ## Overview
 [The Doctrine of Discovery](/) educational resource, is lovingly maintained by [Indigenous Values Initiative](https://indigenousvalues.org) and the [American Indian Law Alliance](https://aila.ngo). It is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
+## Land Acknowledgement
+We begin by acknowledging with respect the Onondaga Nation, Central Fire of the Haudenosaunee Confederacy, on whose ancestral lands we now inhabit.  Wherever you are located be aware of the Indigenous Peoples on whose lands you reside.  We are mindful that the technology that makes this conference possible comes from the mineral extraction by multinational corporations, which decimate and displace Indigenous people and their land all over the world.   May the information you glean from this website motivate you to uphold Indigenous values, protect Mother Earth, Honor Indian Treaties and hold your government and various institutions accountable who stand in the way.
+
 ## Contact
 If you have any questions, comments, or additions please contact either:
   * [Indigenous Values Initiative](https://indigenousvalues.org) at [info@indigenousvalues.org](mailto:info@indigenousvalues.org)
