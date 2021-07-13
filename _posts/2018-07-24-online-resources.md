@@ -56,7 +56,7 @@ tags:
 
 #### Important Links
 
-*   [Preliminary study of the impact on indigenous peoples of the international legal construct known as the Doctrine of Discovery / submitted by the Special Rapporteur Tonya Gonella Frichner (Onondaga Nation), Executive Director American Indian Law Alliance](/pdfs/The _Preliminary Study_ on the Doctrine of Discovery.pdf)
+*   [Preliminary study of the impact on Indigenous peoples of the international legal construct known as the Doctrine of Discovery / submitted by the Special Rapporteur Tonya Gonella Frichner (Onondaga Nation), Executive Director American Indian Law Alliance](/pdfs/The _Preliminary Study_ on the Doctrine of Discovery.pdf)
 *   [Conference Room Paper on the Doctrine of Discovery 11th Session of the UN Permanent Forum on Indigenous Issues Presented by the Haudenosaunee the American Indian Law Alliance and the Indigenous Law Institute. (⤓ PDF Download)](http://www.un.org/esa/socdev/unpfii/documents/2012/session-11-CRP2.pdf)
 *   [American History: "Growth of a Nation"](http://www.animatedatlas.com/movie2.html)
 *   [Brown University Committee on Slavery and Justice Home](http://www.brown.edu/Research/Slavery_Justice/)
