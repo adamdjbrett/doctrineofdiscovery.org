@@ -1,9 +1,12 @@
----
-title: "The Doctrine Of Christian Discovery: Its Fundamental Importance In United States Indian Law And The Need For its Repudiation And Removal"
+InitiativeInitiative---
+title: "Acknowledging the Doctrine of Christian Domination"
 author: newcomb
 excerpt: >
 Since the doctrine of discovery has been institutionalized in U.S. Indian law and policy for generations, including by the U.S. Supreme Court, the question arises whether the recommendation to have the U.S. government strike the phrase 'the doctrine of discovery' from its 'vocabulary' is a form of denial.
 published: true
+header:
+  - image: /assets/images/Acknowledging-Doctrine-Christian-Domination-wordcloud.jpg
+  - caption: "A word cloud shaped like castle, emphasizing domination."
 categories:
  - Blog
  - Law
