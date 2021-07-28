@@ -1,4 +1,4 @@
-InitiativeInitiative---
+---
 title: "Acknowledging the Doctrine of Christian Domination"
 author: newcomb
 excerpt: >
