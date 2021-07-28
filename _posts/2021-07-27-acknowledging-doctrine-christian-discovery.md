@@ -5,6 +5,7 @@ excerpt: "Since the doctrine of discovery has been institutionalized in U.S. Ind
 published: true
 header:
   image: /assets/images/Acknowledging-Doctrine-Christian-Domination-wordcloud.jpg
+  og_image: /assets/images/Acknowledging-Doctrine-Christian-Domination-wordcloud.jpg
   caption: "A word cloud shaped like castle, emphasizing domination."
 categories:
  - Blog
