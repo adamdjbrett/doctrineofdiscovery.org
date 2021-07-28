@@ -3,8 +3,8 @@ title: "198 Years of Domination: Screening of _The Doctrine of Discovery: Unmas
 excerpt_separator: "<!--more-->"
 excerpt: "A Screening Of _The Domination Code_ followed by an incredible panel discussion with Sheldon Wolfchild (Dakota), Steven Newcomb (Shawnee/Lenape), Buffy Sainte Marie (Cree), Dr. Luis Rivera-Pagán, JoDe Goudy (Yakama Nation), Steve Schwartzberg, Shawna Bluestar Newcomb (Shawnee/Lenape/Azteca), and Peter d'Errico"
 header:
-  - image: /assets/images/doctrine-of-discovery-unmasking-domination-code.jpg
-  - caption: "_The Doctrine of Discovery: Unmasking The Domination Code_ directed by Sheldon Wolfchild and co-produced by Steven T. Newcomb"
+  image: /assets/images/doctrine-of-discovery-unmasking-domination-code.jpg
+  caption: "_The Doctrine of Discovery: Unmasking The Domination Code_ directed by Sheldon Wolfchild and co-produced by Steven T. Newcomb"
 categories:
   - Event
 tags:

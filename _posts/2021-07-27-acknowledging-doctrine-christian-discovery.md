@@ -16,10 +16,6 @@ tags:
  - Indigenous-Peoples
  - Indian-Law
 ---
-**Acknowledging the Doctrine of Christian Domination**
-
-Steven Newcomb (Shawnee/Lenape)
-
 In 2014, at Indian Country Today, Dr. David Wilkins (Lumbee) published an essay titled, “Deconstructing the Doctrine of Discovery.” [(here)](https://indiancountrytoday.com/archive/deconstructing-the-doctrine-of-discovery) In the article, he takes issue with the way that the doctrine of discovery has been interpreted and discussed in recent years. He says that many people have been discussing the doctrine in a manner that is “historically inaccurate” and thus less than helpful. I responded after the article was first published [(here)](https://indiancountrytoday.com/archive/toward-disestablishing-the-doctrine-of-christian-domination), and now I’d like to add to my previous commentary.
 
 In his article, Wilkins calls the discovery doctrine “one of the most important tenets of federal Indian law.” He points out that it has “gained general acceptance.” But he cautions that the doctrine has been “misused to distort perceptions of past and present oppressions.” Yet rather than provide a clear means of arguing against the doctrine and challenging it, he says that U.S. government officials should never mention or write about the doctrine.
