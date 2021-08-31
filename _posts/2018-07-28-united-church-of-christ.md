@@ -18,3 +18,4 @@ tags:
 ---
 
 *   [Calling for the United Church of Christ to Repudiate the Doctrine of Discovery Which Authorized the Genocide of Native Peoples and the Theft of Native Lands (⤓ PDF download)](/assets/pdfs/ucc-gs29-1.pdf).
+*   ["Educational Content and Documentary."](http://www.ucc.org/justice_racism_doctrine-of-discovery)
