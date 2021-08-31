@@ -26,3 +26,4 @@ tags:
 *   [Letter to the Pope, Passionists International 2013 (⤓ PDF download)](/assets/pdfs/Passsionists-letter.pdf)
 *   [Pax Christi, Maine 2013 (⤓ PDF download)](/assets/pdfs/pax-christi-article.pdf)
 *   [The Loretto Community, November 2013 Press Release (⤓ PDF download)](/assets/pdfs/Loretto-Press-Release.pdf)
+*   ["Nuns Blast Catholic Church's Doctrine of Discovery that Justified Indigenous Oppression." (RNS & huffpost)](https://www.huffpost.com/entry/catholic-church-doctrine-of-discovery_n_5793840)

@@ -25,7 +25,7 @@ tags:
 
 *   [Anglican Church of Canada](/anglican-church-of-canada-repudiates-the-doctrine-of-discovery/)
 *   [The Christian Church (Disciples of Christ, the U.S and Canada)](/the-christian-church-disciples-of-christ-the-u-s-and-canada/)
-*   [Christian Reformed Church (NA)]()
+*   [Christian Reformed Church (NA)](/repudiations/faith-communities/christian-reformed-church/)
 *   [The Evangelical Covenant Church](/repudiations/faith-communities/evangelical-covenant-church-repuidates/)
 *   [Episcopal Church (USA)](/the-episcopal-church-usa/)
 *   [The Evangelical Lutheran Church of America](/elca/)

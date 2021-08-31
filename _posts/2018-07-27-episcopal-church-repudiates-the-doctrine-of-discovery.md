@@ -13,6 +13,12 @@ categories:
 tags:
   - Repudiations
 ---
+
+*   (2018) [Resolution establishing a framework for anti-racism training that cites history of boarding schools](https://episcopalarchives.org/cgi-bin/acts/acts_resolution.pl?resolution=2018-A044)
+*   (2012)["Repudiation of the Doctrine of Discovery."](https://www.episcopalchurch.org/page/repudiation-doctrine-discovery)
+
+
+
 **Resolution Number:** 2009-D035 **Title:** Repudiate the Doctrine of Discovery **Legislative Action Taken:** Concurred as Substituted **Final Text:**  
 
 _Resolved_, **That the 76th General Convention repudiates and renounces the Doctrine of Discovery as fundamentally opposed to the Gospel of Jesus Christ and our understanding of the inherent rights that individuals and peoples have received from God, and that this declaration be proclaimed among our churches and shared with the United Nations and all the nations and peoples located within The Episcopal Church’s boundaries. This doctrine, which originated with Henry VII in 1496, held that Christian sovereigns and their representative explorers could assert dominion and title over non-Christian lands with the full blessing and sanction of the Church. It continues to be invoked, in only slightly modified form, in court cases and in the many destructive policies of governments and other institutions of the modern nation-state that lead to the colonizing dispossession of the lands of indigenous peoples and the disruption of their way of life;** and be it further  
