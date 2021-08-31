@@ -6,6 +6,7 @@ categories:
   - Repudiations
   - Faith-Communities
 tags:
+  - Mennonite
   - Protestant
   - Christian
   - PDF

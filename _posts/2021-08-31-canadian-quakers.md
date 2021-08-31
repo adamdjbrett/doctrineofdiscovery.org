@@ -12,8 +12,9 @@ tags:
   - Christian
   - PDF
   - Repudiations
+  - Canada
 ---
-
+## In 2013 the Canadian Friends Service Committee Repudiated the Doctrine of Discovery
 * [Canadian Friends Service Committee Doctrine of Discovery article](https://quakerservice.ca/our-work/indigenous-peoples-rights/doctrine-of-discovery/)
 * Read the [full statement from Canadian Yearly Meeting](/assets/pdfs/Doctrine-of-Discovery-minute-and-background-August-2013.pdf)
 * [FAQ](/assets/pdfs/FAQs-on-DoD-July-30-2015.pdf)
