@@ -17,7 +17,10 @@ tags:
   - USA
   - Repudiations
 ---
-### Episcopal Church, USA Statements
+## Statement on Indigenous boarding schools
+* 2021 [Statement on Indigenous boarding schools by Presiding Bishop Michael Curry and President of the House of Deputies Gay Clark Jennings](https://www.episcopalchurch.org/publicaffairs/statement-on-indigenous-boarding-schools-by-presiding-bishop-michael-curry-and-president-of-the-house-of-deputies-gay-clark-jennings/?mc_cid=46fd879cc5&mc_eid=bc46b47aa2)
+
+## Episcopal Church, USA Statement on the Doctrine of Discovery
 
 *   [Repudiate the Doctrine of Discovery, 2009-D035 Final Resolution Text](/episcopal-church-repudiates-the-doctrine-of-discovery/)
     *   Other Documents
