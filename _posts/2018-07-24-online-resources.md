@@ -53,6 +53,7 @@ tags:
      * [Sullivan-Clinton Campaign](https://www.sullivanclinton.com)
      * [Derryveagh Evictions](https://www.derryveagh.com)
      * [Staked Plains](https://www.stakedplains.com)
+*    [Christian Hegemony Network](https://christianhegemony.org/)
 
 #### Important Links
 
