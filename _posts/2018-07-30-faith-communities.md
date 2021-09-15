@@ -10,7 +10,7 @@ excerpt: "Religious Communities who have Repudiated the Doctrine of Discovery."
 permalink: /faith-communities/
 published: true
 date: 2018-07-30 17:36:53
-last_modified_at: 2021-06-30T19:57:02-05:00
+last_modified_at: 2021-09-02T17:57:02-05:00
 categories:
   - Faith-Communities
   - Repudiations
@@ -30,8 +30,8 @@ tags:
 *   [The Evangelical Covenant Church](/repudiations/faith-communities/evangelical-covenant-church-repuidates/)
 *   [Evangelical Church in Canada](/repudiations/faith-communities/evangelical-church-canada/)
 *   [Episcopal Church (USA)](/the-episcopal-church-usa/)
-*   [Evangelical Church in Canada](#)
-*   [The Evangelical Lutheran Church of America](/elca/)
+*   [Evangelical Church in Canada](/repudiations/faith-communities/evangelical-church-canada/)
+*   [The Evangelical Lutheran Church of America (ELCA)](/elca/)
 *   [Friends General Conference](/friends-general-conference/)
 *   [Mennonite Church USA](/repudiations/faith-communities/mennonite-usa/)
 *   [Presbyterian Church (USA)](/presbyterian-church-usa-repudiates-the-doctrine-of-discovery/)
