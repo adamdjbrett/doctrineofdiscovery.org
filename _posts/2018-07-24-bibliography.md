@@ -6,7 +6,7 @@ excerpt: "The Doctrine of Discovery Working Bibliography"
 permalink: /bibliography/
 published: true
 date: 2018-07-24 09:15:28
-last_modified_at: 2021-07-07T16:20:02-05:00
+last_modified_at: 2021-09-17T16:20:02-05:00
 categories:
   - Resource
   - Bibliography
@@ -33,21 +33,26 @@ redirect_from:
 - Hauptman, Laurence M. **Conspiracy of Interests, Iroquois Dispossession and the Rise of New York State.** _Laurence M. Hauptman_, professor of history at the State University of New York at New Paltz. A study of the three interlocking forces -transportation, land and national defense- shows its impact on Iroqoia. Mander, Jerry (ed.). **Paradigm Wars, Indigenous Peoples’ Resistance to Globalization**, Edited by _Jerry Mander_, founder of the International Forum on Globalization, and _Victoria Tauli-Corpuz_, Igorat leader from the Philippines, director of Tebtebba Foundation and chair of the UN Permanent Forum on Indigenous Issues. Firsthand reports tell of the momentous collision of worldviews collide with the Earth’s indigenous peoples.
 - Francis, Robert, **[Two Kinds of Beings: The Doctrine of Discovery And Its Implications for Yesterday and Today](/blog/two-kinds-being-doctrine-discovery/).** _Manataka American Indian Council_. ([archive.org edition](http://web.archive.org/web/20200318205910/https://www.manataka.org/page94.html))
 - Miller, Robert J. **Native America, Discovered and Conquered, Thomas Jefferson, Lewis and Clark and Manifest Destiny**, _Robert J. Miller_, (Eastern Shawnee), associate professor at the Lewis and Clark Law School in Portland, Oregon. Professor Miller traces the concept of the Doctrine of Discovery and Manifest Destiny and their foundation in justifying the exploration and settlement of the United States.
-- \_\_\_\_\_. “[The Doctrine of Discovery: The International Law of Colonialism](https://escholarship.org/uc/item/3cj6w4mj),” _The Indigenous Peoples’ Journal of Law, Culture & Resistance_, 5(1), 2019. [https://escholarship.org/uc/item/3cj6w4mj](https://escholarship.org/uc/item/3cj6w4mj). For more by Miller on this topic see his [10 elements which constitute the Doctrine of Discovery and his comparative analysis.](/the-doctrine-of-discovery-the-international-law-of-colonialism/).
+- \_\_\_\_\_. “[The Doctrine of Discovery: The International Law of Colonialism](https://escholarship.org/uc/item/3cj6w4mj),” _The Indigenous Peoples’ Journal of Law, Culture & Resistance_, 5(1), 2019. [https://escholarship.org/uc/item/3cj6w4mj](https://escholarship.org/uc/item/3cj6w4mj) [The International Law of Colonialism a Comparative Analysis by Robert J. Miller (76 page ⤓ PDF download)](/assets/pdfs/lcb154art1millerpdf.pdf).
+-  \_\_\_\_\_. [10 elements which constitute the Doctrine of Discovery ⤓ PDF download)](/assets/pdfs/DiscoveryElementsOnondaga2014.pdf).
+-  \_\_\_\_\_. _Discovering Indigenous Lands The Doctrine of Discovery in the English Colonies_ eds. Robert J. Miller, Jacinta Ruru, Larissa Behrendt, Tracey Lindberg, (OUP) 2010.
 - Nelson, Melissa K. **Original Instructions, Indigenous Teachings for a Sustainable Future**, Edited by _Melissa K. Nelson_, professor of American Indian studies at San Francisco State University. Beautiful, wise voices gathered at the Bioneers conference share stories safeguarded by Indigenous cultures remind us about gratitude, kinship and reverence for community and creation.
 - Newcomb, Steven T. **Pagans in the Promise Land, Decoding the Doctrine of Christian Discovery** (Fulcrum Publishing 2008), _Steven T. Newcomb_, (Shawnee/Lanape), cofounder and co-director of the Indigenous Law Institute, fellow with the American Indian Policy and Media Initiative of Buffalo State College and columnist with the newspaper Indian Country Today. A startling challenge to federal Indian law and policy using history and cognitive theory to challenge the separation of church and state.
   - [Now Streaming: _The Doctrine of Discovery: Unmasking the Domination Code_, directed by Sheldon Wolfchild](https://vimeo.com/ondemand/dominationcode)
-- \_\_\_\_\_\_\_. [“**Evidence of Christian Nationalism In Federal Indian Law: The Doctrine of Discovery, Johnson v. M’Intosh, and Plenary Power**” in _NYU Review of Law and Social Change_ (volume 20, issue 2), 1992. (⤓ Download as PDF).](https://doctrineofdiscovery.org/assets/pdfs/Evidence-of-Christian-Nationalism-In-Federal-Indian-Law.pdf)
+- \_\_\_\_\_\_\_. [“**Evidence of Christian Nationalism In Federal Indian Law: The Doctrine of Discovery, Johnson v. M’Intosh, and Plenary Power**” in _NYU Review of Law and Social Change_ (volume 20, issue 2), 1992. (⤓ Download as PDF).](/assets/pdfs/Evidence-of-Christian-Nationalism-In-Federal-Indian-Law.pdf)
 - \_\_\_\_\_\_\_. **[The Biblical Basis of Federal Indian Law & Policy](/the-biblical-basis-of-federal-indian-law-policy/)**.
+- Smith, Mark A.A. Sovereignty Over Unoccupied Territories--The Western Sahara Decision, (1975).
 - Stogre, Michael. **That the World May Believe, The Development of Papal Social Thought on Aboriginal Rights**, _Michael Stogre_, Jesuit priest and medical doctor engaged in native ministry. The Church’s mission to evangelize and the human rights of the receiver are traced through seven centuries of papal teaching.
+- Watson, Blake A., "The Impact of the American Doctrine of Discovery on Native Land Rights in Australia, Canada, and New Zealand," Seattle University Law Review 34, no. 2 (Winter 2011): 507-552
 - Williams, Robert A. Jr. **_The American Indian in Western Legal Thought: The Discourses of Conquest_** (OUP 1992).
 
 #### **Multiple Authors**
 
-- _Basic Call to Consciousness_, edited by _Akwesane Notes_. Position papers delivered to the Non-Governmental Organization of the United Nations in Geneva in 1977 describe oppression of Native peoples in the US.
-- _Roots of the Iroquois, Tehanetorens_, various_ native authors_, traces the origins of the Confederacy and its growth and attempts to destroy it.
+- _Basic Call to Consciousness_, edited by _Akwesasne Notes_. Position papers delivered to the Non-Governmental Organization of the United Nations in Geneva in 1977 describe oppression of Native peoples in the US.
+  - To purchase a copy of the _Basic Call to Consciousness_ in English or Spanish contact Indigenous Values Initiative at info@indigenousvalues.org
+- _Roots of the Iroquois, Tehanetorens_, various _native authors_, traces the origins of the Confederacy and its growth and attempts to destroy it.
 - _Story Earth, Native Voices on the Environment_, Compiled by _Inter Press Service_. This book draws a clear distinction between cultures and how the environment is viewed.  
-- To purchase a copy of the _Basic Call to Consciousness_ in English or Spanish contact Indigenous Values Initiative at info@indigenousvalues.org
+
 
 ***
 #### Also view our list of [Online Resources](/online-resources/)
