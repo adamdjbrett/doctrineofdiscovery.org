@@ -18,8 +18,12 @@ tags:
   - US-Law
   - US-Indian-Law
   - Indigenous-Peoples
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "fire"
 author: adamdjbrett  
 ---
+
 [Subscribe to the Indigenous Values Initiative YouTube Channel](https://youtube.com/c/IndigenousValuesInitiative){: .btn .btn--danger .btn--large}
 
 ## Session I

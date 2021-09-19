@@ -15,6 +15,9 @@ tags:
   - Conference
   - Education
   - Resources
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "fire"  
 author: adamdjbrett
 ---
 

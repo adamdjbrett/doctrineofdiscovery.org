@@ -16,6 +16,9 @@ tags:
   - UN
   - United-Nations
   - Indigenous-Peoples
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"  
 ---
 ### Links to Related Web Sites
 

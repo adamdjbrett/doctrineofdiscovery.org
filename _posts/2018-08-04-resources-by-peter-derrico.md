@@ -21,7 +21,7 @@ tags:
   - PDF
   - UN
   - Law
-  - US-Law
+  - US-Law  
 ---
 
 ## "Replacing the Doctrine of Christian Discovery and Implementing the United Nations Declaration on the Rights of Indigenous Peoples."

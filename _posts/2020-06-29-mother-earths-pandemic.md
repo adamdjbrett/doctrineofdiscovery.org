@@ -14,6 +14,9 @@ tags:
   - doctrine-of-discovery
   - Haudenosaunee
   - Indigenous-Peoples
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"  
 ---
 > “Peace can only be attained when human beings live in proper relationship to the natural world” ~Tadodaho of the Haudenosaunee Confederacy, Sid Hill
 

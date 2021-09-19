@@ -13,6 +13,9 @@ categories:
 tags:
   - Bibliography
   - Resource
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 redirect_from:
   - /wp-content/uploads/2018/07/DoctrineOfDiscovery5-24-14.pdf
   - /mainreadinga.htm
