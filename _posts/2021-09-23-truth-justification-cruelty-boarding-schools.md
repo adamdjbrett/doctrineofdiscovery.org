@@ -5,7 +5,7 @@ categories:
 tags:
   - link
   - Haudensoaunee
-  - soverignty
+  - sovereignty
   - TheyWereChildren
 author: aila
 link: https://www.thenation.com/article/society/indigenous-residential-boarding-schools-canada/
