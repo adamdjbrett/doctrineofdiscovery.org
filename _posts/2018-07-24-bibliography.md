@@ -41,6 +41,8 @@ redirect_from:
 -  \_\_\_\_\_. _Discovering Indigenous Lands The Doctrine of Discovery in the English Colonies_ eds. Robert J. Miller, Jacinta Ruru, Larissa Behrendt, Tracey Lindberg, (OUP) 2010.
 - Nelson, Melissa K. **Original Instructions, Indigenous Teachings for a Sustainable Future**, Edited by _Melissa K. Nelson_, professor of American Indian studies at San Francisco State University. Beautiful, wise voices gathered at the Bioneers conference share stories safeguarded by Indigenous cultures remind us about gratitude, kinship and reverence for community and creation.
 - Newcomb, Steven T. **Pagans in the Promise Land, Decoding the Doctrine of Christian Discovery** (Fulcrum Publishing 2008), _Steven T. Newcomb_, (Shawnee/Lanape), cofounder and co-director of the Indigenous Law Institute, fellow with the American Indian Policy and Media Initiative of Buffalo State College and columnist with the newspaper Indian Country Today. A startling challenge to federal Indian law and policy using history and cognitive theory to challenge the separation of church and state.
+- \_\_\_\_\_. [**Pagans in the Promised Land: a Primer on Religious Freedom**](https://aila.ngo/pagans-in-the-promised-land-a-primer-on-religious-freedom/).
+  - a short article connecting the discourse of religious freedom to the Doctrine of Christian Discovery.
   - [Now Streaming: _The Doctrine of Discovery: Unmasking the Domination Code_, directed by Sheldon Wolfchild](https://vimeo.com/ondemand/dominationcode)
 - \_\_\_\_\_\_\_. [“**Evidence of Christian Nationalism In Federal Indian Law: The Doctrine of Discovery, Johnson v. M’Intosh, and Plenary Power**” in _NYU Review of Law and Social Change_ (volume 20, issue 2), 1992. (⤓ Download as PDF).](/assets/pdfs/Evidence-of-Christian-Nationalism-In-Federal-Indian-Law.pdf)
 - \_\_\_\_\_\_\_. **[The Biblical Basis of Federal Indian Law & Policy](/the-biblical-basis-of-federal-indian-law-policy/)**.
@@ -55,6 +57,10 @@ redirect_from:
   - To purchase a copy of the _Basic Call to Consciousness_ in English or Spanish contact Indigenous Values Initiative at info@indigenousvalues.org
 - _Roots of the Iroquois, Tehanetorens_, various _native authors_, traces the origins of the Confederacy and its growth and attempts to destroy it.
 - _Story Earth, Native Voices on the Environment_, Compiled by _Inter Press Service_. This book draws a clear distinction between cultures and how the environment is viewed.  
+
+#### Films
+- [_The Doctrine of Discovery: Unmasking the Domination Code_](/the-doctrine-of-discovery-unmasking-the-domination-code/), [now on Vimeo](https://vimeo.com/ondemand/dominationcode)
+- _Spirit Game: Pride of a Nation_. Now on DVD and streaming.
 
 
 ***
