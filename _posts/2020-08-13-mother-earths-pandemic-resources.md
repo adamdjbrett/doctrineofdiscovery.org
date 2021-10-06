@@ -49,9 +49,11 @@ author: adamdjbrett
   - Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance” by Nick Estes
 
 ### Films and Television
-  - [The Doctrine of Discovery: Unmasking the Domination Code - Sheldon P Wolfchild & Steven Newcomb](/the-doctrine-of-discovery-unmasking-the-domination-code/), [Watch on Vimeo](https://vimeo.com/ondemand/dominationcode)
+  - [The Doctrine of Discovery: Unmasking the Domination Code - Sheldon P Wolfchild & Steven Newcomb](/the-doctrine-of-discovery-unmasking-the-domination-code/),
   - Even the Rain
   - We Were Children
+
+  [Watch Domination Code on Vimeo](https://vimeo.com/ondemand/dominationcode)
 
 
 ## Session II Resources
