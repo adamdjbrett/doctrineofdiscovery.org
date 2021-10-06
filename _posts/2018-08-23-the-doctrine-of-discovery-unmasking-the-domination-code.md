@@ -19,7 +19,7 @@ tags:
   - resources
 ---
 
-[Now Streaming](/blog/now-streaming-doctrine-discovery-unmasking-domination-code/){: .btn .btn--warning}
+[Now Streaming](/blog/now-streaming-doctrine-discovery-unmasking-domination-code/){: .btn .btn--warning .btn--x-large}
 
 The Doctrine of Discovery, Unmasking The Domination Code by [38 plus 2 productions](https://www.38plus2productions.com/) and Steven T. Newcomb.
   * The film cost **$21.50 USD**. To order the film send a check or money order to: 38 Plus 2 Productions 40163 Reservation Hwy 3, Morton MN, 56270
