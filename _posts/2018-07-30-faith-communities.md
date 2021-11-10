@@ -37,7 +37,14 @@ tags:
 *   [Presbyterian Church (USA)](/presbyterian-church-usa-repudiates-the-doctrine-of-discovery/)
 *   [Quakers](/repudiations/faith-communities/quakers/)
     * [Canadian Friends Service Committee (Quakers)](/repudiations/faith-communities/canadian-quakers/)
+    * [Friends General Conference](/friends-general-conference/)
 *   [Roman Catholic Organizations](/roman-catholic-organizations-repudiate-the-doctrine-of-discovery/)
+    * _linked above are the following_
+    * The Leadership Conference of Women Religious (LCWR)
+    * Passionists International
+    * Pax Christi
+    * The Loretto Community
+    * A joint statement by 13 Roman Catholic Organizations
 *   [Unitarian Universalist Association of Congregations](/unitarian-universalist-association-of-congregations/)
 *   [United Church of Christ](/united-church-of-christ/)
 *   [United Church of Canada](/united-church-of-canada-repudiates-the-doctrine-of-discovery/)
