@@ -24,7 +24,7 @@ url: "https://doctrineofdiscovery.org" # the base hostname & protocol for your s
 twitter_username: indigenousVI
 #github_username: username
 # Theme
-remote_theme: mmistakes/minimal-mistakes@4.19.1
+remote_theme: mmistakes/minimal-mistakes@4.9.0
 minimal_mistakes_skin: default
 search: true
 teaser: "/assets/images/onondaga-lake-east-shoreline-1.jpg"
