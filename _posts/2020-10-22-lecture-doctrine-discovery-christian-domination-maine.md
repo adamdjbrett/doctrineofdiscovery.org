@@ -1,6 +1,6 @@
 ---
 title: "The Doctrine Of Christian Discovery And Domination, Colonizing Indigenous Peoples, And The State Of Maine"
-date: 2020-10-22 14:54:46
+date: 2020-10-22
 excerpt_separator: "<!--more-->"
 excerpt: "The Doctrine of Christian Discovery and Domination comprises a worldview and promotes the legal and moral authority justifying the invasion and conquest of non-Christian lands."
 categories:

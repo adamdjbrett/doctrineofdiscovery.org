@@ -1,6 +1,6 @@
 ---
 title: "Canadian Friends Service Committee (Quakers)"
-date: 2021-08-31 15:54:46
+date: 2021-08-31T15:54:46
 excerpt: "Read the Canadian Friends Service Committee statement repudiating the Doctrine of Discovery."
 published: true
 categories:

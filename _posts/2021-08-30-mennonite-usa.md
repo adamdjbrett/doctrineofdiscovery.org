@@ -1,6 +1,6 @@
 ---
 title: "Mennonite Church (USA)"
-date: 2021-08-30 15:54:46
+date: 2021-08-30T15:54:46
 excerpt: "Read the Mennonite statement repudiating the Doctrine of Discovery."
 published: true
 categories:

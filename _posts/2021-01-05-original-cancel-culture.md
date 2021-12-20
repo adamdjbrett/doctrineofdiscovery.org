@@ -1,6 +1,6 @@
 ---
 title: "The Original Cancel Culture"
-date: 2021-01-05 14:54:46
+date: 2021-01-05T14:54:46
 categories:
   - Blog
 tags:

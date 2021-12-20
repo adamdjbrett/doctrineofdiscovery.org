@@ -1,6 +1,6 @@
 ---
 title: "An Exorcism, Junipero Serra, and the Papal Bulls"
-date: 2020-10-31 14:54:46
+date: 2020-10-31T14:54:46
 categories:
   - Blog
 tags:
