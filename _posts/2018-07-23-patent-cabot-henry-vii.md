@@ -8,7 +8,7 @@ author: admin
 excerpt: "By this public document, Henry VII indicated his official, royal support for Cabot's enterprise."
 permalink: /patent-cabot-henry-vii/
 published: true
-date: 2018-07-23 15:32:15
+date: 2018-07-23T15:32:15
 categories:
   - Law
 tags:

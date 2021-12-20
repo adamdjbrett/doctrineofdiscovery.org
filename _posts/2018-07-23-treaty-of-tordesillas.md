@@ -8,7 +8,7 @@ author: admin
 excerpt: "The Treaty of Tordesillas was concluded on June 7 1494 to settle the contentious matter of the possession of the newly discovered lands of the non Christian world between Portugal and Spain. It was ratified by Spain on July 2, 1494. and by Portugal on September 5, 1494."
 permalink: /treaty-of-tordesillas/
 published: true
-date: 2018-07-23 15:27:40
+date: 2018-07-23T15:27:40
 categories:
   - Papal-Bulls
   - Law

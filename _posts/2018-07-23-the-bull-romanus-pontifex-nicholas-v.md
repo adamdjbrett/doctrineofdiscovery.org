@@ -8,7 +8,7 @@ author: admin
 excerpt: "The Bull Romanus Pontifex (Nicholas V) January 8, 1454"
 permalink: /the-bull-romanus-pontifex-nicholas-v/
 published: true
-date: 2018-07-23 15:11:47
+date: 2018-07-23T14:54:46
 categories:
   - Papal-Bulls
   - Catholic

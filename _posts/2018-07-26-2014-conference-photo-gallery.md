@@ -5,7 +5,7 @@ author: admin
 excerpt: "2014 conference photo gallery"
 permalink: /2014-conference-photo-gallery/
 published: true
-date: 2018-07-26 11:45:17
+date: 2018-07-26T11:45:17
 categories:
   - Event
 tags:

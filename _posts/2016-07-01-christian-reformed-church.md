@@ -1,6 +1,6 @@
 ---
-date: 2016-07-01
 title: "Christian Reformed Church"
+date: 2016-07-01T15:08:34
 excerpt: "Read the Christian Reformed Church statement repudiating the Doctrine of Discovery."
 published: true
 author: christian-reformed

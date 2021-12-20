@@ -5,7 +5,7 @@ author: admin
 excerpt: "Spanish conquistadors read this document, composed in 1510, to Indians of the new world. It briefly explains Spain's assertion of its legal and moral right to rule over the inhabitants of Latin America. It also provides a rationale for a 'just war'."
 permalink: /requerimiento/
 published: true
-date: 2018-07-24 09:12:22
+date: 2018-07-24T09:12:22
 categories:
   - Papal-Bulls
   - Catholic
