@@ -76,6 +76,8 @@ compress_html:
 # Outputting
 permalink: /:categories/:title/
 paginate: 15 # amount of posts to show
+sort_reverse: true
+sort_field: 'date'
 paginate_path: /page:num/
 timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
