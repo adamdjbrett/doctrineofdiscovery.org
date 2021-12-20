@@ -108,8 +108,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
   - jekyll-redirect-from
+  - jekyll-include-cache
 
 author:
   name   : "Indigenous Values Initiative"
