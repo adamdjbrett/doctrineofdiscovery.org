@@ -1,5 +1,6 @@
 ---
 title: "Community of Christ"
+date: 2021-08-29 14:54:46
 excerpt: "Read the Community of Christ statement repudiating the Doctrine of Discovery."
 published: true
 categories:

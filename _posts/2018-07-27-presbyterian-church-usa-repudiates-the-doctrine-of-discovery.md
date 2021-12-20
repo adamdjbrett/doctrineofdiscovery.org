@@ -3,7 +3,6 @@ ID: 8915
 title: "Presbyterian Church (USA) Repudiates the Doctrine of Discovery"
 author: admin
 excerpt: "A conversation on the doctrine of discovery will always entail a discussion of Native American or Indigenous lands. Moreover, because the doctrine has been a central part of U.S. law regarding tribal lands, the Presbyterian Church has played a major role historically in the implementation of the doctrine."
-
 permalink: /presbyterian-church-usa-repudiates-the-doctrine-of-discovery/
 published: true
 date: 2018-07-27 11:25:48

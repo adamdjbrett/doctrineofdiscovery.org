@@ -1,5 +1,6 @@
 ---
 title: "Mennonite reflections on Mother Earth's Pandemic"
+date: 2020-10-12 14:54:46
 excerpt: "Members of the Mennonite Missions Network attended Mother Earth's Pandemic: The Doctrine of Discovery conference and did some post events writeup"
 categories:
   - Blog

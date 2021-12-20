@@ -1,5 +1,6 @@
 ---
 title: "Pagans in the Promised Land: a Primer on Religious Freedom"
+date: 2021-09-02 14:54:46
 categories:
   - link
 tags:

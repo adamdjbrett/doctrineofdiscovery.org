@@ -3,7 +3,6 @@ ID: 9484
 title: "Ottawa v. Logan"
 author: admin
 excerpt: "the Indian tribes who have a right to those lands are quietly to enjoy them, hunting, planting and dwelling thereon so long as they please, without any molestation from the United States..."
-
 permalink: /ottawa-v-logan/
 published: true
 date: 2018-08-27 11:43:56

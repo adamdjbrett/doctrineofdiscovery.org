@@ -3,7 +3,6 @@ ID: 8866
 title: "Monroe Doctrine"
 author: admin
 excerpt: "Excerpts from President James Monroe's seventh annual message to Congress, December 2, 1823."
-
 permalink: /monroe-doctrine/
 published: true
 date: 2018-07-26 11:26:44

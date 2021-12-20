@@ -1,5 +1,6 @@
 ---
 title: "Now Streaming: The Doctrine of Discovery: Unmasking the Domination Code"
+date: 2020-12-09 14:54:46
 header:
   image: /assets/images/doctrine-of-discovery-unmasking-domination-code.jpg
   caption: "Photo credit: Doctrine of Discovery: Unmasking the Domination Code, DVD Cover"

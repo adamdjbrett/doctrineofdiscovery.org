@@ -1,5 +1,6 @@
 ---
 title: "Mother Earth‘s Pandemic: The Doctrine of Discovery Session Videos"
+date: 2020-08-25 14:54:46
 excerpt_separator: "<!--more-->"
 excerpt: "Complete list of all of the talks and bonus content"
 header:

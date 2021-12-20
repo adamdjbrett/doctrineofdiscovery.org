@@ -3,7 +3,6 @@ ID: 8925
 title: "The Episcopal Church USA Statements on the Doctrine of Discovery"
 author: ecusa
 excerpt: "Presiding Bishop Katharine Jefferts Schori on the Repudiation of the Doctrine of Discovery"
-
 permalink: /the-episcopal-church-usa/
 published: true
 date: 2018-07-27 11:36:23

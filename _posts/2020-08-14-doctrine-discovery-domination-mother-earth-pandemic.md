@@ -1,6 +1,7 @@
 ---
 title: "The Good, The Bad & The Ugly In Mcgirt V. Oklahoma"
 excerpt_separator: "<!--more-->"
+date: 2020-08-14 14:54:46
 excerpt: "As promising as this decision is, deeply racist problems remain in US law.Left unsaid by Gorsuch was his, and the court’s, unquestioned acceptance of “**plenary power**”, by which the federal government claims to have complete authority over Indian nations, including the right unilaterally break treaty promises.There is no legitimate basis for this, but it remains US law."
 header:
   image: /assets/images/Broken-Treaties-Brandon-Lazore-Web-credit.jpg

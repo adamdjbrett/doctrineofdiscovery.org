@@ -1,5 +1,6 @@
 ---
 title: "Forming a “More Perfect Union” Through Indigenous Values"
+date: 2020-09-30 14:54:46
 excerpt: "What better time than now to consider the ancient wisdom of our ancestors who, for thousands of years, sustained a more equitable way of living in proper relationship with the natural world?"
 categories:
   - Blog

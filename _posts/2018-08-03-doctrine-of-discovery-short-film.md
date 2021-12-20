@@ -2,7 +2,6 @@
 ID: 9314
 title: "Doctrine of Discovery Short Film"
 author: admin
-
 permalink: /doctrine-of-discovery-short-film/
 published: true
 date: 2018-08-03 08:19:36

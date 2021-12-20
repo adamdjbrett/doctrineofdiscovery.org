@@ -1,5 +1,6 @@
 ---
 title: "Evangelical Church in Canada"
+date: 2021-08-30 14:54:46
 excerpt: "Read the Evangelical Church in Canada statement repudiating the Doctrine of Discovery."
 published: true
 categories:

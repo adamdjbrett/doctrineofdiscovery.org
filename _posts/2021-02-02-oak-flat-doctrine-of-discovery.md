@@ -1,5 +1,6 @@
 ---
 title: "Oak Flat and Pope Alexander VI’s Papal Decree of Domination in U.S. Law"
+date: 2021-02-02 14:54:46
 categories:
   - Blog
 tags:

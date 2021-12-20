@@ -1,5 +1,6 @@
 ---
 title: "What Fifteenth-Century Papal Bulls Can Teach Us About Indigenous Identity"
+date: 2020-12-13 14:54:46
 categories:
   - Blog
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "U.S. Department of the Interior Indian Boarding School Initiative"
+date: 2021-09-01 14:54:46
 excerpt: "Read the Indian Boarding School Initiative document."
 published: true
 categories:

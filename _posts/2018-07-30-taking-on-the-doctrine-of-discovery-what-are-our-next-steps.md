@@ -5,7 +5,6 @@ header:
   image: /assets/images/doctrine-of-discovery-flyer-min.jpg
 author: admin
 excerpt: "We will first to learn about the devastating impacts of the Doctrine of Discovery first hand from the Haudenosaunee, to understand its history, and then to share strategies for addressing this 500+ year-old ongoing human rights violation.  Then we will hear from one another and the ways in which religious and faith communities are pushing back against the Doctrine of Discovery."
-
 permalink: /taking-on-the-doctrine-of-discovery-what-are-our-next-steps/
 published: true
 date: 2018-07-30 17:49:47

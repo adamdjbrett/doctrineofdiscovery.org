@@ -3,7 +3,6 @@ ID: 8934
 title: "A Episcopalian Sermon On Doctrine of Discovery"
 author: jdk
 excerpt: "...the Doctrine of Discovery consists of the idea that Christians have a right sanctioned by God to take non-Christian lands and property and assert political control over the indigenous inhabitants. The Doctrine of Discovery emanates from a perverted understanding of God’s designation of a chosen people that has heavenly sanction to do un-God-like acts in the name of God."
-
 permalink: /doctrine-of-discovery-sermon-john-diffenbacher/
 published: true
 date: 2018-07-27 15:02:31

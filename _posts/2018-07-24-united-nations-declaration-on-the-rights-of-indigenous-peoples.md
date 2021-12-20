@@ -6,7 +6,6 @@ header:
 caption: "United Nations General Assembly Hall in the UN Headquarters, New York. Photo credit: Basil D Soufi"
 author: admin
 excerpt: "Resolution adopted by the General Assembly on 13 September 2007"
-
 permalink: /united-nations-declaration-on-the-rights-of-indigenous-peoples/
 published: true
 date: 2018-07-24 09:27:45

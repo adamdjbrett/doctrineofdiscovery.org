@@ -1,5 +1,6 @@
 ---
 title: "Mother Earth‘s Pandemic Resources"
+date: 2020-08-13 14:54:46
 excerpt_separator: "<!--more-->"
 excerpt: "Resources mentioned durined the sessions."
 header:

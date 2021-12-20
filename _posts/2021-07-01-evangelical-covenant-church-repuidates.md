@@ -1,5 +1,6 @@
 ---
 title: "Evangelical Covenant Church Repudiates the Doctrine of Discovery"
+date: 2021-07-01 14:54:46
 excerpt: "Read the Evangelical Covenant Churches statement repudiating the Doctrine of Discovery."
 published: true
 author: covchurch

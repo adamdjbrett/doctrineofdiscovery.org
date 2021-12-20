@@ -1,5 +1,6 @@
 ---
 title: "Native American Religious Freedom after Trump"
+date: 2020-12-14 14:54:46
 categories:
   - Blog
 tags:

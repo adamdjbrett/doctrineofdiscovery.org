@@ -3,7 +3,6 @@ ID: 8906
 title: "Haudenosaunee Statement on the Doctrine of Discovery"
 author: admin
 excerpt: "With the adoption of the Declaration on the Rights of Indigenous Peoples by the General Assembly of the United Nations, we finally took our place at the table of humanity in 2007."
-
 permalink: /haudenosaunee-statement-on-the-doctrine-of-discovery/
 published: true
 date: 2018-07-27 11:05:34

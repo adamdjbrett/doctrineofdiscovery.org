@@ -3,7 +3,6 @@ ID: 8825
 title: "Inter Caetera"
 author: admin
 excerpt: "The Legal Battle and Spiritual War against the Native People The Bull Inter Caetera (Alexander VI) May 4, 1493"
-
 permalink: /inter-caetera/
 published: true
 date: 2018-07-23 15:16:43

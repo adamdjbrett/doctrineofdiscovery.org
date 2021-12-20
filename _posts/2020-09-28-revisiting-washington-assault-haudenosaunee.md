@@ -1,6 +1,7 @@
 ---
 title: "Revisiting George Washington’s assault on the Haudenosaunee 240 Years Later"
 excerpt_separator: "<!--more-->"
+date: 2020-09-28 14:54:46
 categories:
   - Event
 tags:
