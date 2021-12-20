@@ -11,10 +11,10 @@ main:
     url: /united-nations/
   - title: "About"
     url: /about/
-  - title: "Give"
-    url: /give/
   - title: "Posts"
     url: /posts/
+  - title: "Give"
+    url: /give/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
