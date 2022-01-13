@@ -11,7 +11,7 @@ tags:
   - Syracuse
 author: noon  
 ---
-![Neighbors of Onondaga Nation Logo](/images/noon-header.jpg)
+![Neighbors of Onondaga Nation Logo](/assets/images/noon-header.jpg)
 
 ## Fund the Onondaga Nation School
 ### Act Now to Support Indigenous Schools
