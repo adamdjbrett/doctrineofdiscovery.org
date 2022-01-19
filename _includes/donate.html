@@ -1,0 +1,76 @@
+{% comment %}
+These call-to-action alert boxes will be displayed on posts. To toggle the display, edit the donation_alerts
+value in the _config.yml file
+{% endcomment %}
+
+<style>y   0.
+div.alert {
+    background-color: #dff0d8;
+    border-color: #d0e9c6;
+    color: #3c763d;
+}
+div.alert {
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
+*, ::after, ::before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+div.alert {
+    display: block;
+}
+
+.alert h2, .alert h3, .alert h4 {
+    margin-top: 0;
+}
+h2 {
+    font-size: 1.6rem;
+    margin-top: 3rem;
+    letter-spacing: -.02rem;
+}
+h1, h2, h3, h4, h5 {
+    font-family: 'Crete Round', serif;
+    font-weight: normal;
+    clear: both;
+}
+.h2, h2 {
+    font-size: 2rem;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+*, ::after, ::before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+</style>
+
+
+ <div class="alert">{{ site.data.snippets.donation-alert.h2 }}
+<p>{{ site.data.snippets.donation-alert.text | markdownify }}</p>
+</div>
