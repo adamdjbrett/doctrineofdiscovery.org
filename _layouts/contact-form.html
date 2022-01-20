@@ -44,20 +44,22 @@ layout: default
         {% endif %}
         {{ content }}
         <!-- Remove if link condition and insert contact form from FORMSPREE -->
-        <form action="https://formspree.io/f/mdobawgz" method="POST">
-
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <button type="submit">Send</button>
-</form>
+        <!-- modify this form HTML and place wherever you want your form -->
+        <form
+          action="https://formspree.io/f/mdobawgz"
+          method="POST"
+        >
+          <label>
+            Your email:
+            <input type="email" name="_replyto">
+          </label>
+          <label>
+            Your message:
+            <textarea name="message"></textarea>
+          </label>
+          <!-- your other form fields go here -->
+          <button type="submit">Send</button>
+        </form>
 
       </section>
 
