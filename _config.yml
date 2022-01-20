@@ -190,3 +190,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+github: true
+
+# Flags to enable/disable "donate box" alerts on lessons
+donation_alerts: true

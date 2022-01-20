@@ -1,0 +1,84 @@
+/* ==========================================================================
+   FOOTER
+   ========================================================================== */
+
+footer[role="contentinfo"] {
+	margin-top: 2rem;
+	padding: 2rem 0;
+	font-family: 'Open Sans';
+	font-size: .9rem;
+	color: #fff;
+	background-color: #666;
+	text-align: center;
+}
+
+.footer {
+
+	.justify-content-center {
+		-webkit-box-pack: center !important;
+		-webkit-justify-content: center !important;
+		-ms-flex-pack: center !important;
+		justify-content: center !important;
+	}
+
+	.flex-wrap {
+		-webkit-flex-wrap: wrap !important;
+		-ms-flex-wrap: wrap !important;
+		flex-wrap: wrap !important;
+	}
+
+	.d-flex {
+		display: -webkit-box !important;
+		display: -webkit-flex !important;
+		display: -ms-flexbox !important;
+		display: flex !important;
+	}
+
+	.justify-content-around {
+		-webkit-justify-content: space-around !important;
+		-ms-flex-pack: distribute !important;
+		justify-content: space-around !important;
+	}
+
+	p {
+		color: #fff;
+		margin-top: 0;
+		margin-bottom: 1rem;
+		display: block;
+		margin-block-start: 1em;
+		margin-block-end: 1em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+
+	em {
+		font-style: italic;
+	}
+
+	.mx-4 {
+		margin-right: 1.5rem !important;
+		margin-left: 1.5rem !important;
+	}
+}
+
+.footer a,
+.footer a:link,
+.footer a:visited {
+	color: #fff;
+	border-bottom: 1px #eee dotted;
+}
+
+.footer a:hover {
+	text-decoration: none;
+	border-bottom: 1px #fff solid;
+}
+
+.footer .fa {
+	margin: 0 .2rem 0rem 0rem;
+}
+
+.footer-head {
+	font-size: 1.1rem;
+	line-height: 1.4rem;
+	margin-bottom: 1rem;
+}
