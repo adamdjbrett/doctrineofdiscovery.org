@@ -5,6 +5,12 @@ footer:
   license: The _Programming Historian_ (ISSN 2397-2068) is released under a [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en) license.
   financial: This project is administered by ProgHist Ltd, Charity Number [1195875](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5181272/charity-overview) and Company Number [12192946](https://find-and-update.company-information.service.gov.uk/company/12192946)
 
+  issn:
+  en: 2397-2068
+  es: 2517-5769
+  fr: 2631-9462
+  pt: 2753-9296
+
   gh-hosted: "Hosted on GitHub"
   rev-history: "See page history"
   last-updated: "Site last updated"
