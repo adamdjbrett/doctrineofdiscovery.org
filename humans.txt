@@ -17,6 +17,7 @@
     Formspree
     American Indian Law Alliance
     Indigenous Values Initiative
+    Vidhya Venkatesan
 
 
 # TECHNOLOGY COLOPHON
