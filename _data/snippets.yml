@@ -3,21 +3,22 @@ background_color: "#444444"
 # site footer
 footer:
   license: The _Doctrine of Discovery_ Project is released under a [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en) license.
-  financial: This project is administered by ProgHist Ltd, Charity Number [1195875](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5181272/charity-overview) and Company Number [12192946](https://find-and-update.company-information.service.gov.uk/company/12192946)
+  financial: This project is administered by the [Indigenous Values Initiative](https://indigenousvalues.org/) and [American Indian Law Alliance](https://aila.ngo)
 
-  issn:
-  en: 2397-2068
-  es: 2517-5769
-  fr: 2631-9462
-  pt: 2753-9296
+# Delete
+  #issn:
+  #en: 2397-2068
+  #es: 2517-5769
+  #fr: 2631-9462
+  #pt: 2753-9296
 
-  gh-hosted: "Hosted on GitHub"
-  rev-history: "See page history"
-  last-updated: "Site last updated"
-  suggestion: "Make a suggestion"
-  rss-feed: "RSS feed subscriptions"
-  retirement:  "Lesson retirement policy"
-  trans-concordance:  "Translation concordance"
+  #gh-hosted: "Hosted on GitHub"
+  #rev-history: "See page history"
+  #last-updated: "Site last updated"
+  #suggestion: "Make a suggestion"
+  #rss-feed: "RSS feed subscriptions"
+  #retirement:  "Lesson retirement policy"
+  #trans-concordance:  "Translation concordance"
 
 
 donation-alert:
