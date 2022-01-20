@@ -19,6 +19,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Contact"
+    url: /Contact/
   - title: "Bibliography"
     url: /bibliography/
   - title: "Online Resources"
