@@ -2,7 +2,7 @@ background_color: "#444444"
 
 # site footer
 footer:
-  license: The _Programming Historian_ (ISSN 2397-2068) is released under a [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en) license.
+  license: The _Doctrine of Discovery_ Project is released under a [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en) license.
   financial: This project is administered by ProgHist Ltd, Charity Number [1195875](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5181272/charity-overview) and Company Number [12192946](https://find-and-update.company-information.service.gov.uk/company/12192946)
 
   issn:
@@ -22,4 +22,4 @@ footer:
 
 donation-alert:
   h2: Donate today!
-  text: Great Open Access tutorials cost money to produce. Join the growing number of people [supporting _Programming Historian_](https://www.patreon.com/theprogramminghistorian) so we can continue to share knowledge free of charge.
+  text: Open Access educational resources cost money to produce. Please join the growing number of people [supporting _The Doctrine of Discovery_](https://doctrineofdiscovery.org/give/) so we can sustain this work.
