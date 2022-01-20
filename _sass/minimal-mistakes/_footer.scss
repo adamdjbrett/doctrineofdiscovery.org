@@ -2,16 +2,17 @@
    FOOTER
    ========================================================================== */
 
+footer[role="contentinfo"] {
+	margin-top: 2rem;
+	padding: 2rem 0;
+	font-family: 'Open Sans';
+	font-size: .9rem;
+	color: #fff;
+	background-color: #666;
+	text-align: center;
+}
+
 .footer {
-	footer[role="contentinfo"] {
-		margin-top: 2rem;
-		padding: 2rem 0;
-		font-family: 'Open Sans';
-		font-size: .9rem;
-		color: #fff;
-		background-color: #666;
-		text-align: center;
-	}
 
 	.justify-content-center {
 		-webkit-box-pack: center !important;
@@ -40,6 +41,7 @@
 	}
 
 	p {
+		color: #fff;
 		margin-top: 0;
 		margin-bottom: 1rem;
 		display: block;
