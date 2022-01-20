@@ -1,26 +1,9 @@
-background_color: "#444444"
-
 # site footer
 footer:
   license: The _Doctrine of Discovery_ Project is released under a [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en) license.
   financial: This project is administered by the [Indigenous Values Initiative](https://indigenousvalues.org/) and [American Indian Law Alliance](https://aila.ngo)
 
-# Delete
-  #issn:
-  #en: 2397-2068
-  #es: 2517-5769
-  #fr: 2631-9462
-  #pt: 2753-9296
-
-  gh-hosted: "Hosted on GitHub"
-  rev-history: "See page history"
-  last-updated: "Site last updated"
-  suggestion: "Make a suggestion"
-  rss-feed: "RSS feed subscriptions"
-  #retirement:  "Lesson retirement policy"
-  #trans-concordance:  "Translation concordance"
-
-
+#site donation block
 donation-alert:
   h2: Donate today!
   text: Open Access educational resources cost money to produce. Please join the growing number of people [supporting _The Doctrine of Discovery_](https://doctrineofdiscovery.org/give/) so we can sustain this work. [Please give today](/give/){: .btn .btn--primary}.
