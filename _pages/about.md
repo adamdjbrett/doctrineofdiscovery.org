@@ -14,8 +14,23 @@ We begin by acknowledging with respect the Onondaga Nation, Central Fire of the 
 
 ## Contact
 If you have any questions, comments, or additions please contact either:
-  * [Indigenous Values Initiative](https://indigenousvalues.org) at [info@indigenousvalues.org](mailto:info@indigenousvalues.org)
-  * [American Indian Law Alliance](https://aila.ngo) via the [contact AILA form](https://aila.ngo/contact-us/)
+  * [Contact](/contact/)
+
+### Indigenous Values Initiative
+  - Philip P. Arnold, President of [Indigenous Values Initiative](https://indigenousvalues.org)
+  - **mail:** P.O. Box 336
+  DeWitt, New York 13214-9211
+  - **email:** [info@indigenousvalues.org](mailto:info@indigenousvalues.org)
+  - **web:** [indigenousvalues.org](https://indigenousvalues.org)
+
+### American Indian Law Alliance
+  - Gaeñ hia uh, Betty Lyons, Executive Director of [American Indian Law Alliance](https://aila.ngo/)
+  - **mail:** P.O. Box 336
+  DeWitt, New York 13214-9211
+  - **email:** [aila@aila.ngo](mailto:aila@aila.ngo)
+    - or via the [contact AILA form](https://aila.ngo/contact-us/)
+  - **web:** [aila.ngo](https://aila.ngo)
+
 
 ### Collaborators
 
