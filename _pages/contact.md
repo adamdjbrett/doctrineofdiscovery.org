@@ -11,14 +11,14 @@ redirect_from: /table/
 - **Web:** [doctrineofdiscovery.org](https://doctrineofdiscovery.org)
 
 ## Indigenous Values Initiative
-- Philip P. Arnold, President of [Indigenous values Initiative](https://indigenousvalues.org) at info@indigenousvalues.org
+- Philip P. Arnold, President of [Indigenous Values Initiative](https://indigenousvalues.org)
 - **mail:** P.O. Box 336
 DeWitt, New York 13214-9211
 - **email:** [info@indigenousvalues.org](mailto:info@indigenousvalues.org)
 - **web:** [indigenousvalues.org](https://indigenousvalues.org)
 
 ## American Indian Law Alliance
--
+- Gaeñ hia uh, Betty Lyons, Executive Director of [American Indian Law Alliance](https://aila.ngo/)
 - **mail:** P.O. Box 336
 DeWitt, New York 13214-9211
 - **email:** [aila@aila.ngo](mailto:aila@aila.ngo)
