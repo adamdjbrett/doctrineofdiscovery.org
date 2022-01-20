@@ -12,11 +12,11 @@ footer:
   #fr: 2631-9462
   #pt: 2753-9296
 
-  #gh-hosted: "Hosted on GitHub"
-  #rev-history: "See page history"
-  #last-updated: "Site last updated"
-  #suggestion: "Make a suggestion"
-  #rss-feed: "RSS feed subscriptions"
+  gh-hosted: "Hosted on GitHub"
+  rev-history: "See page history"
+  last-updated: "Site last updated"
+  suggestion: "Make a suggestion"
+  rss-feed: "RSS feed subscriptions"
   #retirement:  "Lesson retirement policy"
   #trans-concordance:  "Translation concordance"
 
