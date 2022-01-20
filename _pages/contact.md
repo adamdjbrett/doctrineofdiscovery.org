@@ -1,13 +1,10 @@
 ---
 layout: contact-form
-title: "Contact"
+title: "Contact Us"
 author_profile: false
 permalink: /contact/
 redirect_from: /table/
 ---
-# Contact Us
 
 - **Email:** [contact@doctrineofdiscovery.org](mailto:contact@doctrineofdiscovery.org)
 - **Web:** [doctrineofdiscovery.org](https://doctrineofdiscovery.org)
-
-  
