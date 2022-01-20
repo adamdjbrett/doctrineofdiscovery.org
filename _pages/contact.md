@@ -1,4 +1,5 @@
 ---
+layout: contact-form
 title: "Contact"
 author_profile: false
 permalink: /contact/
