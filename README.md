@@ -4,8 +4,11 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adamdjbrett/doctrineofdiscovery.org)
 ![GitHub last commit](https://img.shields.io/github/last-commit/adamdjbrett/doctrineofdiscovery.org)
 
+## Land Acknowledgment
+We begin by acknowledging with respect the Onondaga Nation, Central Fire of the Haudenosaunee Confederacy, on whose ancestral lands we now inhabit. Wherever you are located be aware of the Indigenous Peoples on whose lands you reside. We are mindful that the technology that makes this conference possible comes from the mineral extraction by multinational corporations, which decimate and displace Indigenous people and their land all over the world. May the information you glean from this website motivate you to uphold Indigenous values, protect Mother Earth, Honor Indian Treaties and hold your government and various institutions accountable who stand in the way.
 
-I have become frustrated with how slow and limited in accessibility WordPress is so I decided to start moving sites I administer over to [Jekyll](http://jekyllrb.com) because as static site generator it is faster, more reliable and I have more control over making it accessible..
+## Preface
+I have become frustrated with how slow and limited in accessibility WordPress is so I decided to start moving sites I administer over to [Jekyll](http://jekyllrb.com) because as static site generator it is faster, more reliable and I have more control over making it accessible.
 
 ## Getting Started
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/LICENSE)
@@ -99,11 +102,14 @@ All of these changes improved the aesthetic and load time. Plus it helped make t
 - <https://github.com/mmistakes>
 
 ### Webmaster
-[**Adam DJ Brett**](https://github.com/adamdjbrett)
+**Adam DJ Brett**
+- <https://adamdjbrett.com>
+- <https://github.com/adamdjbrett>
 
 ### Contributors
   - Philip P. Arnold
   - Sandra Bigtree
+  - Adam DJ Brett
   - Betty Lyons
   - American Indian Law Alliance
   - Indigenous Values Initiative
@@ -135,11 +141,9 @@ Please read [humans.txt](humans.txt) for the contributors.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. The content is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-## Acknowledgments
+### Technology Licenses
+Please see [Minimal Mistakes Jekyll Theme by Michael Rose for the most up to date listing of the Technology Licenses](https://github.com/mmistakes/minimal-mistakes)
 
-* Michael Rose
-* Philip P. Arnold
-* Sandra Bigtree
-* Betty Lyons
-* Gail Bundy
-* Doctrine of Discovery Working Group
+
+## Acknowledgments
+Thank you to all who have contributed to the project. For more please see [humans.txt](humans.txt)
