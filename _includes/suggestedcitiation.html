@@ -6,7 +6,7 @@
         {% if page.translator %}
         {{ site.data.snippets.translator }}
         {{ page.translator }}{% endif %}
-        <em>{{ site.data.snippets.journal-title }}</em> ({{ page.date }}),
-        {{ page.url }}.</p>
+        <em>{{ site.data.snippets.journal-title }}</em> ({{ page.date | date: "%-d %B %Y" }}),
+        {{ site.url }}{{ page.url }}.</p>
     </div>
   </div>
