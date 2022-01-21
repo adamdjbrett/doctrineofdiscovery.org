@@ -2,6 +2,7 @@
 title: Thank you
 author_profile: false
 permalink: /thank-you/
+suggestedcitiation: false
 ---
 # Thank you!
 

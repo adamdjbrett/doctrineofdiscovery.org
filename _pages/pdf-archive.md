@@ -2,6 +2,7 @@
 title: PDF Archive Index
 author_profile: false
 permalink: /pdf-archive/
+suggestedcitiation: false
 ---
 ## PDF Archive
 
