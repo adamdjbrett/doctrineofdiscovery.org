@@ -1,1 +1,11 @@
-suggested citiation
+<h2 class="suggested-citation-header">{{ site.data.snippets.suggested-citation }}</h2>
+    <div class="suggested-citation-text">
+      <p class="suggested-citation-text">{{ page.authors }},
+        {{ site.data.snippets.title-open-quote }}{{ page.title | strip }}{{ site.data.snippets.title-close-quote }}
+        {% if page.translator %}
+        {{ site.data.snippets.translator }}
+        {{ page.translator }}{% endif %}
+        <em>{{ site.data.snippets.journal-title }}</em> {{ page.vol_no }} ({{ page.page_year }}),
+        https://doi.org/{{ page.doi }}.</p>
+    </div>
+  </div>

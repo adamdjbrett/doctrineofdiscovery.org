@@ -23,3 +23,10 @@ footer:
 donation-alert:
   h2: Donate today!
   text: Great Open Access tutorials cost money to produce. Join the growing number of people [supporting _Programming Historian_](https://www.patreon.com/theprogramminghistorian) so we can continue to share knowledge free of charge.
+
+
+suggested-citation: Suggested Citation
+title-open-quote: '"'
+title-close-quote: ',"'
+translator: translated by
+journal-title: Programming Historian

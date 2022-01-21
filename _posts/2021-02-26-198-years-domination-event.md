@@ -19,7 +19,10 @@ tags:
   - US-Law
   - US-Indian-Law
   - Indigenous-Peoples
-author: newcomb  
+authors: Gabriel Calarco
+doi: 10.46430/phen0022
+page_year: 1988
+vol_no: II
 ---
 ## **A Two Year Journey leading to the 200th Anniversary of the US Supreme Court Case _Johnson v. M'Intosh_**
 
