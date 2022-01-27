@@ -13,7 +13,7 @@ tags:
   - US-Law
 redirect_from: /jvm/  
 ---
-Key Excerpts:
+# Key Excerpts:
 
 > “The Indians were admitted to be the rightful occupants of the soil, with a legal as well as just claim to retain possession of it, and to use it according to their own discretion; but **their rights to complete sovereignty, as independent nations, were necessarily diminished**, and . . . **Discovery gave exclusive title to those who made it.**
 >
@@ -25,7 +25,6 @@ Key Excerpts:
 
 ***
 
-# The Legal Battle and Spiritual War against the Native People
 
 ## Johnson v. M'Intosh, 21 U.S. 543, 5 L.Ed. 681, 8 Wheat. 543 (1823)
 
