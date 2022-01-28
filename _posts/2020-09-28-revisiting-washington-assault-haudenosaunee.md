@@ -26,7 +26,7 @@ Washington’s soldiers were paid with land.  As a result, the Haudenosaunee cr
 **Presenter/Performer**:
 
 *   [Philip P. Arnold](https://thecollege.syr.edu/people/faculty/arnold-philip-p/) (Syracuse University, Religion)
-*   [Alyssa Mt. Pleasant](https://arts-sciences.buffalo.edu/transnational-studies/faculty/faculty-directory.host.html/content/shared/arts-sciences/transnational-studies/faculty-staff/faculty-profiles/mt-pleasant-alyssa.html) (University of Buffalo, Transnational Studies)
+*   [Alyssa Mt. Pleasant](https://arts-sciences.buffalo.edu/africana-and-american-studies/faculty/faculty-directory/mt-pleasant.html) (University of Buffalo, Transnational Studies)
 *   [Jake Haiwhagai'i Edwards](https://indigenousvalues.org/about/our-team/) (Onondaga Nation)
 *   [Andrea Smith](https://anthrosoc.lafayette.edu/andrea-smith/) (Lafayette College, Anthropology)
 *   Robert Venables (Cornell, emeritus).

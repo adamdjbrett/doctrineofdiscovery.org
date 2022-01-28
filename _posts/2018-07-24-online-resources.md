@@ -6,7 +6,7 @@ excerpt: "Online Resources about the Doctrine of Discovery"
 permalink: /online-resources/
 published: true
 date: 2018-07-24 09:19:59
-last_modified_at: 2021-07-07T16:20:02-05:00
+last_modified_at: 2022-01-28T16:20:02-05:00
 categories:
   - Resource
   - Education
@@ -60,20 +60,19 @@ toc_icon: "cog"
 
 #### Important Links
 
-*   [Preliminary study of the impact on Indigenous peoples of the international legal construct known as the Doctrine of Discovery / submitted by the Special Rapporteur Tonya Gonella Frichner (Onondaga Nation), Executive Director American Indian Law Alliance](/pdfs/The _Preliminary Study_ on the Doctrine of Discovery.pdf)
-*   [Conference Room Paper on the Doctrine of Discovery 11th Session of the UN Permanent Forum on Indigenous Issues Presented by the Haudenosaunee the American Indian Law Alliance and the Indigenous Law Institute. (⤓ PDF Download)](http://www.un.org/esa/socdev/unpfii/documents/2012/session-11-CRP2.pdf)
+*   [Preliminary study of the impact on Indigenous peoples of the international legal construct known as the Doctrine of Discovery / submitted by the Special Rapporteur Tonya Gonella Frichner (Onondaga Nation), Executive Director American Indian Law Alliance](/assets/pdfs/The_Preliminary_Study_on_the_Doctrine_of_Discovery.pdf)
+*   [Conference Room Paper on the Doctrine of Discovery 11th Session of the UN Permanent Forum on Indigenous Issues Presented by the Haudenosaunee the American Indian Law Alliance and the Indigenous Law Institute. (⤓ Main PDF Download)](/assets/pdfs/session-11-CRP2.pdf) // [(⤓ Alt PDF Download from UN.org)](http://www.un.org/esa/socdev/unpfii/documents/2012/session-11-CRP2.pdf)
 *   [American History: "Growth of a Nation"](http://www.animatedatlas.com/movie2.html)
 *   [Brown University Committee on Slavery and Justice Home](http://www.brown.edu/Research/Slavery_Justice/)
 *   [The girl who silenced the world for 5 minutes, Support the Power of Dignity](https://www.youtube.com/watch?v=XdK0uYjy85o)
 *   [CowJews and Indians](http://cowjewsandindians.com/)
-*   [Reflection on Christian Theology and Polity, the Christian Doctrine of Discovery, and the Indigenous Voice](http://www.disciples.org/GeneralAssembly/Business/Resolutions/1324ReflectiononChristianTheologyandPolity/tabid/864/Default.aspx)
-*   [Doctrine of Discovery, Educate, Reflect, Change](http://doctrineofdiscovery.wordpress.com/)
+*   [Reflection on Christian Theology and Polity, the Christian Doctrine of Discovery, and the Indigenous Voice, Disciples of Christ (⤓ PDF Download)](/assets/pdfs/GA-1324-Reflection-on-Christian-Theology-Final.pdf)
 *   [Nuns Blast Catholic Churchs 'Doctrine Of Discovery' That Justified Indigenous Oppression](http://www.huffingtonpost.com/2014/09/10/catholic-church-doctrine-of-discovery_n_5793840.html)
 *   [Idolatrías e Inquisición en los Andes, España y Portugal - Idolatrica.com](http://www.idolatrica.com/)
 *   [Database of Indigenous Slavery in the Americas](https://indigenousslavery.org/)
 *   [Five Ways Pope Francis Can Overcome the Irony that Threatens Laudato Si’ - Rural America](http://inthesetimes.com/rural-america/entry/18354/five-ways-pope-francis-can-overcome-the-irony-that-threatens-laudato-si)
-*   [In 1492 Columbus Sailed The Ocean Blue \- Ridged Valley Reflections](http://justbetweentheridges.wordpress.com/2013/07/18/in-1492-columbus-sailed-the-ocean-blue/)
-*   [Religious Groups Ask Pope Francis to Stand with Indigenous People \- Loretto Community](http://www.lorettocommunity.org/religious-groups-ask-pope-francis-to-stand-with-indigenous-people/)
+*   [In 1492 Columbus Sailed The Ocean Blue - Ridged Valley Reflections (⤓ PDF Download)](/assets/pdfs/in-1492-columbus-sailed-the-ocean-blue.pdf)
+*   [Religious Groups Ask Pope Francis to Stand with Indigenous People \- Loretto Community](https://web.archive.org/web/20150124154455/https://www.lorettocommunity.org/religious-groups-ask-pope-francis-to-stand-with-indigenous-people/) and [(⤓ PDF Download)](/assets/pdfs/religious-groups-ask-pope-francis-to-stand-with-indigenous-people.pdf)
 *   [LCWR Doctrine of Discovery Repudiation](https://lcwr.org/social-justice/doctrine-discovery)
 *   [Deeper dimensions in effort to reject Doctrine of Discovery \- National Catholic Reporter](http://ncronline.org/blogs/ncr-today/deeper-dimensions-effort-reject-doctrine-discovery)
 *   [Honoring Onondaga&apos;s Oren Lyons, Le Moyne grapples with Jesuit history \- National Catholic Reporter](https://www.ncronline.org/news/justice/honoring-onondagas-oren-lyons-le-moyne-grapples-jesuit-history)

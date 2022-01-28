@@ -1,6 +1,7 @@
 ---
 title: "Mother Earth‘s Pandemic Resources"
 date: 2020-08-13 14:54:46
+last_modified_at: 2022-01-28 16:13:13
 excerpt_separator: "<!--more-->"
 excerpt: "Resources mentioned durined the sessions."
 header:
@@ -88,12 +89,14 @@ author: adamdjbrett
 
 ### More Resources on the law panel
  * [A Concept of Native Title by Leroy Littlebear (1982)](https://doctrineofdiscoveryforum.blogspot.com/2013/11/a-concept-of-native-title-by-leroy_25.html)
- * [The Murder of George Floyd and The Death of "White" Supremacy: Dismantling the Master's Narrative]( https://redabyayala.blogspot.com/2020/06/the-murder-of-george-floyd-and-death-of.html)
+  * [The Murder of George Floyd and The Death of "White" Supremacy, Dismantling the Master's Narrative]( https://redabyayala.blogspot.com/2020/06/the-murder-of-george-floyd-and-death-of.html)
 
 
 ### “Social Change and Indigenous History and Wisdom,” Rob Ruehl
   * [Resources on Social Change, Indigenous History and Wisdom](/resources/social-change-indigenous-history/)
   * [Let's Change the Subject: Grounding Social Change in Indigenous History and Philosophy](https://digitalcommons.brockport.edu/sfd/)
+
+
 #### WORKS CITED
 
 *   Adams, David Wallace. Education for Extinction: American Indians and the Boarding School Experience, 1875-1928\. UP of Kansas, 1995.
@@ -139,7 +142,7 @@ author: adamdjbrett
  - [Critical Latinx Indigeneities](https://link.springer.com/article/10.1057/s41276-017-0064-0).
  - [Buddhist Peace Fellowship](https://www.bpf.org)
  - [Miki Kashtan](https://thefearlessheart.org/)
- - [Friends of Sabeel (North America)](https://countercufi.yuvi.in/)
+ - Friends of Sabeel (North America)
 
 ### “’Discovery,’ Disease, and Survival in Native California,” Abel Gomez
 *   [COVID-19 Relief for Muwekma Ohlone Families \| Created by Muwekma Ohlone Allies](https://charity.gofundme.com/o/en/campaign/covid-19-relief-for-muwekma-ohlone-families) 
@@ -169,7 +172,7 @@ author: adamdjbrett
 * [Please sign the petition for the Iroquois Nationals](https://www.change.org/p/international-world-games-association-iwga-support-the-iroquois-nationals-lacrosse-team-inclusion-2022-world-games-birmingham-usa)
 * [Seas of Emergence video](https://www.youtube.com/watch?v=BeFvT1yLuDw)
 * [Berta Cáceres, Hondoran Doctrine of Discovery Advocate](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres)
-* [Tonya Gonnella Frichner, The “Preliminary Study” on the Doctrine of Discovery, 28 Pace Envtl. L. Rev. 339 (2010) (Download as PDF)](/assets/pdfs/The _Preliminary Study_ on the Doctrine of Discovery.pdf) Available at: [https://digitalcommons.pace.edu/pelr/vol28/iss1/11](https://digitalcommons.pace.edu/pelr/vol28/iss1/11)
+* [Tonya Gonnella Frichner, The “Preliminary Study” on the Doctrine of Discovery, 28 Pace Envtl. L. Rev. 339 (2010) (Download as PDF)](/assets/pdfs/The_Preliminary_Study_on_the_Doctrine_of_Discovery.pdf) Available at: [https://digitalcommons.pace.edu/pelr/vol28/iss1/11](https://digitalcommons.pace.edu/pelr/vol28/iss1/11)
 * [Framework of Dominance: UN Preliminary Study on the Doctrine of Discovery](http://unpfip.blogspot.com/p/framework-of-dominance-preliminary_03.html)
 * [Indigenous Peoples Forum on the Impact of the Doctrine of Discovery Purpose Goals and Objectives](https://doctrineofdiscoveryforum.blogspot.com/p/purpose-goals-and-objectives.html)
 * [Kia Mau – Resisting Colonial Fictions by Tina Ngata](https://tinangata.com/2020/06/14/kia-mau-resisting-colonial-fictions/)
