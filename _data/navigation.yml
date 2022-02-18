@@ -9,6 +9,8 @@ main:
     url: /faith-communities/
   - title: "UN"
     url: /united-nations/
+  - title: "Podcast"
+    url: https://podcast.doctrineofdiscovery.org/
   - title: "About"
     url: /about/
   - title: "Posts"
