@@ -1,5 +1,5 @@
 ---
-title: Papal Bulls
+title: All posts in the Papal Bulls category
 layout: category
 permalink: /categories/papal-bulls/
 taxonomy: Papal-Bulls

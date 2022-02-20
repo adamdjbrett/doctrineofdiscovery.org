@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: All posts in the Resources category
 layout: category
 permalink: /categories/resources/
 taxonomy: Resources

@@ -1,5 +1,5 @@
 ---
-title: What is
+title: "All posts in the What is the Doctrine of Discovery Category"
 layout: category
 permalink: /categories/what-is/
 taxonomy: Edge Case

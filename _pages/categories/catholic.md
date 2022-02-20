@@ -1,5 +1,5 @@
 ---
-title: Catholic
+title: All posts in the Catholic category
 layout: category
 permalink: /categories/catholic/
 taxonomy: Catholic
