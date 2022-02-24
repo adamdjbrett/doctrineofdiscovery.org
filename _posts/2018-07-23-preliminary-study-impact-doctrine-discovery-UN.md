@@ -16,4 +16,4 @@ tags:
   - United-Nations
 ---
 
-[Preliminary study of the impact on Indigenous peoples of the international legal construct known as the Doctrine of Discovery (PDF ⤓)](/pdfs/DoctrinePrelimStudy2010.pdf)/ submitted by the Special Rapporteur Tonya Gonella Frichner (Onondaga Nation), Executive Director American Indian Law Alliance
+[Preliminary study of the impact on Indigenous peoples of the international legal construct known as the Doctrine of Discovery (PDF ⤓)](/assets/pdfs/DoctrinePrelimStudy2010.pdf) submitted by the Special Rapporteur Tonya Gonella Frichner (Onondaga Nation), Executive Director American Indian Law Alliance
