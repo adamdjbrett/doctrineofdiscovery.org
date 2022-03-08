@@ -46,6 +46,7 @@ redirect_from:
   - [Now Streaming: _The Doctrine of Discovery: Unmasking the Domination Code_, directed by Sheldon Wolfchild](https://vimeo.com/ondemand/dominationcode)
 - \_\_\_\_\_\_\_. [“**Evidence of Christian Nationalism In Federal Indian Law: The Doctrine of Discovery, Johnson v. M’Intosh, and Plenary Power**” in _NYU Review of Law and Social Change_ (volume 20, issue 2), 1992. (⤓ Download as PDF).](/assets/pdfs/Evidence-of-Christian-Nationalism-In-Federal-Indian-Law.pdf)
 - \_\_\_\_\_\_\_. **[The Biblical Basis of Federal Indian Law & Policy](/the-biblical-basis-of-federal-indian-law-policy/)**.
+- Robertson, Lindsay G. "John Marshall as Colonial Historian: Reconsidering the Origins of the Discovery Doctrine," _Journal of Law & Politics 13, no. 4_ (Fall 1997): 759-778.
 - Smith, Mark A.A. Sovereignty Over Unoccupied Territories--The Western Sahara Decision, (1975).
 - Stogre, Michael. **That the World May Believe, The Development of Papal Social Thought on Aboriginal Rights**, _Michael Stogre_, Jesuit priest and medical doctor engaged in native ministry. The Church’s mission to evangelize and the human rights of the receiver are traced through seven centuries of papal teaching.
 - Watson, Blake A., "The Impact of the American Doctrine of Discovery on Native Land Rights in Australia, Canada, and New Zealand," Seattle University Law Review 34, no. 2 (Winter 2011): 507-552
