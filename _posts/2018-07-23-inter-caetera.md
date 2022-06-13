@@ -5,8 +5,8 @@ author: admin
 excerpt: "The Papal Bull _Inter Caetera_ of May 4, 1493"
 permalink: /inter-caetera/
 published: true
-date: 2018-07-23T15:16:43
-last_modified_at: 2022-06-12T:12:37:23
+date: 2022-06-12T:13:37:23
+last_modified_at: 2022-06-12T:13:37:23
 categories:
   - Papal-Bulls
   - Catholic
