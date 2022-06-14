@@ -6,8 +6,8 @@ translator: Sebastian Modrow and Melissa Smith
 excerpt: "The Papal Bull _Inter Caetera_ of May 4, 1493"
 permalink: /inter-caetera/
 published: true
-date: 2022-06-12T:13:37:23
-last_modified_at: 2022-06-12T:13:37:23
+date: 2022-06-13T:13:37:23
+last_modified_at: 2022-06-13T:13:37:23
 categories:
   - Papal-Bulls
   - Catholic
