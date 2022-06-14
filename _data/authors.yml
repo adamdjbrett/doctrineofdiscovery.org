@@ -38,7 +38,7 @@ pparnold:
       url: "https://youtube.com/c/IndigenousValuesInitiative"
 
 admin:
-  name: Indigenous Values
+  name: Indigenous Values Initiative
   avatar: /assets/images/indigenousvalues-2020.png
   links:
     - label: "Email"
