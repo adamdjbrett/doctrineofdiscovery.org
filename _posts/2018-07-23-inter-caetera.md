@@ -34,6 +34,8 @@ The Latin text was established using the digitized original[^6] as well as Daven
 
 Translation differences between this new translation and Davenport’s occur more often in tone than in content. Of the latter, the most important is probably this: When discussing the religious aims of these expeditions and conquests, the pope states that it is a priority for him that those barbarian peoples _ad fidem ipsam reducantur_, which Davenport translates as being “brought to the faith itself.” However, since the semantics of the verb _reducere_ carry an element of ‘back/return’ due to its prefix ‘re-’, we decided to translate the clause as “bringing them back to the faith”, the implications of which Sebastian Modrow is exploring in a separate piece of scholarship. With slight variations, this papal request to return the local populations to the true faith occurs multiple times throughout the bull.
 
+### [⤓ Download the new translation as a PDF ](/assets/pdfs/Inter_Caetera_Modrow&Smith.pdf)
+
 ### Footnotes
 
 [^1]: William H. Scott, “Demythologizing the Papal Bull ‘Inter Caetera,’” _Philippine Studies_ 35, no. 3 (1987), 350 and 352.
