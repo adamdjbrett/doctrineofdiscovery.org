@@ -18,7 +18,9 @@ tags:
 
 ### Introduced and translated by Sebastian Modrow and Melissa Smith
 
-### [⤓ Download the new translation as a PDF ](/assets/pdfs/Inter_Caetera_Modrow&Smith.pdf)
+#### [⤓ Download the new translation as a PDF ](/assets/pdfs/Inter_Caetera_Modrow&Smith.pdf)
+
+### Introduction
 
 Christopher Columbus returned from his first voyage on March 4, 1493, landing first at the mouth of the Tagus River close to Lisbon, Portugal. He informed the Portuguese authorities of his arrival and met with King John II before continuing on to the Spanish port of Palos, arriving on March 15. He probably reached the Aragonese court in Barcelona by mid-April.[^1] While still in Portugal or perhaps while on his way to the Spanish court, Columbus dispatched two letters written in Spanish describing the experiences and findings of his first voyage. One was addressed to his supporter and benefactor Luis de Santángel, Escribano de Racion at the Court of Aragon, and the other to the Spanish monarchs, Isabella and Ferdinand. The letter was soon published (between late March and mid-April, most likely in Barcelona), and a Latin version (purportedly translated on April 29) was printed in Rome.[^2] While Pope Alexander VI, a Spaniard himself, would have had no issues reading the Spanish version, it is likely that it was the Latin translation that was brought to his attention.
 
