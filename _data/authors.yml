@@ -292,9 +292,10 @@ noon:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/OnondagaNeighbors/"
+
 presbyterian-ca:
   name: "The Presbyterian Church in Canada"
-  bio: "The Presbyterian Church in Canada is a Presbyterian denomination, serving in Canada under this name since 1875. ."
+  bio: "The Presbyterian Church in Canada is a Presbyterian denomination, serving in Canada under this name since 1875."
   avatar: /assets/images/authors/Presbyterian_Church_in_Canada_logo.png
   links:
     - label: "Website"
@@ -303,3 +304,15 @@ presbyterian-ca:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/pcconnect"
+
+elcic-ca:
+  name: "Evangelical Lutheran Church In Canada In Mission For Others"
+  bio: "The Evangelical Lutheran Church in Canada is Canada's largest Lutheran denomination, with 95,000 baptized members in 519 congregations."
+  avatar: /assets/images/authors/elcic.ca.jpg
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://elcic.ca/compassionate-justice-and-public-policy/indigenous-rights-relationships/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/CanadianLutherans"
