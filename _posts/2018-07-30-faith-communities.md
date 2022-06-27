@@ -36,7 +36,7 @@ tags:
 *   [Mennonite Church USA](/repudiations/faith-communities/mennonite-usa/)
 *   Presbyterian Church
     *   [Presbyterian Church (USA)](/presbyterian-church-usa-repudiates-the-doctrine-of-discovery/)
-    *   [Presbyterian Church in Canada]()
+    *   [Presbyterian Church in Canada](/repudiations/faith-communities/presbyterians-canada/)
 *   [Quakers](/repudiations/faith-communities/quakers/)
     * [Canadian Friends Service Committee (Quakers)](/repudiations/faith-communities/canadian-quakers/)
     * [Friends General Conference](/friends-general-conference/)
