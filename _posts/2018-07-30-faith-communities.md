@@ -34,7 +34,9 @@ tags:
 *   [The Evangelical Lutheran Church of America (ELCA)](/elca/)
 *   [Friends General Conference](/friends-general-conference/)
 *   [Mennonite Church USA](/repudiations/faith-communities/mennonite-usa/)
-*   [Presbyterian Church (USA)](/presbyterian-church-usa-repudiates-the-doctrine-of-discovery/)
+*   Presbyterian Church
+    *   [Presbyterian Church (USA)](/presbyterian-church-usa-repudiates-the-doctrine-of-discovery/)
+    *   [Presbyterian Church in Canada]()
 *   [Quakers](/repudiations/faith-communities/quakers/)
     * [Canadian Friends Service Committee (Quakers)](/repudiations/faith-communities/canadian-quakers/)
     * [Friends General Conference](/friends-general-conference/)
