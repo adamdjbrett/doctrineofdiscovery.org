@@ -325,6 +325,6 @@ tina.ngata:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://tinangata.com/"
-    - label: "Facebook"
+    - label: "Patreon"
       icon: "fab fa-fw fa-patreon"
       url: "https://www.patreon.com/tinangata"
