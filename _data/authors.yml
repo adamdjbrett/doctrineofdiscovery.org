@@ -1,6 +1,6 @@
 adamdjbrett:
   name: Adam DJ Brett
-  bio: "Ph.D. Candidate in Religion at Syracuse University. Webmaster for the Doctrine of Discovery educational resource."
+  bio: "Ph.D. in Religion from Syracuse University. Webmaster for the Doctrine of Discovery educational resource."
   avatar: /assets/images/authors/adamdjbrett.png
   links:
     - label: "Website"
@@ -254,7 +254,7 @@ elca:
 sweden:
   name: "Uniting Church in Sweden"
   bio: "Equmeniakyrkan /Uniting Church in Sweden is the union of Baptist Union of Sweden, United Methodist Church and Mission Covenant Church of Sweden."
-  avatar: /assets/images/authors/equmeniakyrkan_färg.jpg
+  avatar: /assets/images/authors/equmeniakyrkan_farg.jpg
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -316,3 +316,15 @@ elcic-ca:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/CanadianLutherans"
+
+tina.ngata:
+  name: "Tina Ngata"
+  bio: "Dismantling Frameworks of Domination, Rematriating Ways of Being."
+  avatar: /assets/images/authors/tina-ngata.png
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://tinangata.com/"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://www.patreon.com/tinangata"
