@@ -21,6 +21,16 @@ redirect_from: /jvm/
 >
 > “However extravagant the pretension of converting the discovery of inhabited country into conquest may appear, if the principle has been asserted in the first instance, and afterwards sustained; if a country has acquired and held under it; if the property of the great mass of the community originates in it, it becomes the law of the land, and cannot be questioned.” (id., at 591.)
 
+## Resources
+<iframe src="https://archive.org/embed/podcast_freedom-101-2nd-series_johnson-v-mintosh_1000170206167" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<iframe src="https://archive.org/embed/illinoiswabashla00unit" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>  
+
+### [United Illinois and Wabash Land Companies Collection](https://digital.libraries.ou.edu/IWLC/)
+The collection consists of 263 original manuscripts, five hand-drawn maps and seven published documents which relate to the Companies’ efforts to acquire title to Indian lands during the period 1775 to 1823. These efforts culminated in the Supreme Court’s landmark 1823 decision in Johnson v. M’Intosh divesting Native Americans of title to their lands. Jasper Brinton, great-great-great grandson of John Hill Brinton, the Companies’ secretary from 1805 to 1823, entrusted the papers to the Donald E. Pray Law Library. The papers informed Lindsay G. Robertson’s award-winning book, _[Conquest by Law: How the Discovery of America Dispossessed Indigenous Peoples of Their Lands](http://www.us.oup.com/us/catalog/general/subject/Law/LegalHistory/?view=usa&ci=9780195314892)_ (Oxford University Press, 2005)
+
+
 [Back to Law](https://doctrineofdiscovery.org/law/).
 
 ***
