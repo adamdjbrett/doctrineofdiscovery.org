@@ -33,7 +33,7 @@ tags:
 *   [Evangelical Church in Canada](/repudiations/faith-communities/evangelical-church-canada/)
 *   Evangelical Lutheran Church
     *   [The Evangelical Lutheran Church in Canada](#)
-    *   [The Evangelical Lutheran Church of America (ELCA)](/elca/)
+    *   [The Evangelical Lutheran Church in America (ELCA)](/elca/)
 *   [Friends General Conference](/friends-general-conference/)
 *   [Mennonite Church USA](/repudiations/faith-communities/mennonite-usa/)
 *   Presbyterian Church

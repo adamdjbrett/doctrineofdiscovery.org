@@ -2,7 +2,7 @@
 title: "Evangelical Lutheran Church In Canada In Mission For Others"
 author: elcic-ca
 date: 2022-06-27T15:54:46
-excerpt: "Read the Evangelical Lutheran Church In Canada In Mission For Others's statement repudiating the Doctrine of Discovery."
+excerpt: "Read the Evangelical Lutheran Church in Canada in Mission For Others's statement repudiating the Doctrine of Discovery."
 published: true
 categories:
   - Repudiations
