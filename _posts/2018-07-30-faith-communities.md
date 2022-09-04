@@ -53,6 +53,6 @@ tags:
 *   [United Church of Christ](/united-church-of-christ/)
 *   [United Church of Canada](/united-church-of-canada-repudiates-the-doctrine-of-discovery/)
 *   [United Methodist Church](/united-methodist-church/)
-*   [Uniting Church in Australia](#)
+*   [Uniting Church in Australia](/repudiations/faith-communities/uniting-church-in-australia/)
 *   [Uniting Church in Sweden/Equmeniakyrkan](/sweden/)
 *   [World Council of Churches](/world-council-of-churches/)
