@@ -14,9 +14,7 @@ tags:
   - Repudiations
   - Australia
 ---
-## The 20222 Resolution on the Doctrine of Discovery
-
-### 15.22.03. Doctrine of Discovery
+### Minute 15.22.03. Doctrine of Discovery
 * a) repudiate the Doctrine of Discovery, and its theological foundations as a relic of colonialism, feudalism, and religious, cultural, and racial biases that have no place in the treatment of First Peoples; and
 * b) affirm the [World Council of Churches “Statement on the Doctrine of Discovery Impact on Indigenous Peoples”](/world-council-of-churches/), and encourage its consideration in the Church and, in particular, in theological colleges. (Agreement)
 
