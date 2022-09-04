@@ -10,7 +10,7 @@ excerpt: "Religious Communities who have Repudiated the Doctrine of Discovery."
 permalink: /faith-communities/
 published: true
 date: 2018-07-30 17:36:53
-last_modified_at: 2021-09-02T17:57:02-05:00
+last_modified_at: 2022-09-04T17:57:02-05:00
 categories:
   - Faith-Communities
   - Repudiations
@@ -53,5 +53,6 @@ tags:
 *   [United Church of Christ](/united-church-of-christ/)
 *   [United Church of Canada](/united-church-of-canada-repudiates-the-doctrine-of-discovery/)
 *   [United Methodist Church](/united-methodist-church/)
+*   [Uniting Church in Australia](#)
 *   [Uniting Church in Sweden/Equmeniakyrkan](/sweden/)
 *   [World Council of Churches](/world-council-of-churches/)
