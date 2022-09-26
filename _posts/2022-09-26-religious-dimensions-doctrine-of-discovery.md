@@ -12,7 +12,7 @@ tags:
 permalink: /10-religous-dimensions/
 ---
 
-## Philip P. Arnold and Sandra L. Bigtree
+## By Philip P. Arnold and Sandra L. Bigtree
 
 With issuance of 15th century Papal Bulls known as the Doctrine of Christian Discovery, religion has been used all over the world as a weapon against Indigenous Peoples and the land. This globalized aggressive and destructive use of religion began here with the Vatican’s justification for Portugal and Spain to raid West Africa and the Americas—resulting in the near annihilation of traditions, ecosystems and human life. Today, this religious framework has been codified into law and utilized by multinational corporations to seize Indigenous lands and extract resources for profit. Religion, therefore, is relevant today as foundational to social justice struggles and environmental devastation. To counteract this trajectory into the world, we call for a shift away from religion to that of Indigenous values as a way of understanding and aligning ourselves with the Earth. The Earth is the material and spiritual basis of all life and what constitutes our human survival. The opposition between religion and Indigenous values was initiated through the DoCD. The Indigenous Peoples of the Americas were often gracious in welcoming newcomers until they realized that they had come to take possession of their bodies and lands.
 
