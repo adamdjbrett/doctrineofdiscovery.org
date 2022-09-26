@@ -5,10 +5,15 @@ author: admin
 author_profile: false
 suggestedcitiation: true
 permalink: /about/
+sidebar:
+  - title: "Next Steps"
+    image: /assets/images/colonial-contact.jpg
+    image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth"
+    text: "Learn More about the Doctrine of Discovery"
+    nav: next-steps
 ---
 
 ## Overview
-### [What is the Doctrine of Discovery](/what-is-the-doctrine-of-discovery/)
 
 [The Doctrine of Discovery](/) educational resource, is lovingly maintained by [Indigenous Values Initiative](https://indigenousvalues.org) and the [American Indian Law Alliance](https://aila.ngo). It is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
@@ -60,5 +65,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ### Sponsors
 Doctrine of Discovery is an educational resource and study group maintained by the [Indigenous Values Initiative](https://indigenousvalues.org) and the [American Indian Law Alliance](https://aila.ngo)
 
-### Webmaster
+### Web Administrator
 [**Adam DJ Brett**](https://adamdjbrett.com)
