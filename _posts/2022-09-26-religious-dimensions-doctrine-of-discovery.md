@@ -48,5 +48,5 @@ With issuance of 15th century Papal Bulls known as the Doctrine of Christian Dis
     -  **Indigenous values response: the individual is an intersection of vital forces composed of all the beings of the world. Individuals exist as a web of material interactions--including the living and the dead.**
   
 10.  **Creation of the Global Monetary Economy** (enacted by 11th century monastics). Acquisition of material goods through the slave trade and extractive industries is exemplified by the commodification of the world which has aligned and unified the Christian Empire. Wealth is proof that the individual has been blessed by God.  
-    -  **Indigenous values response: our ceremonies are based on a gift exchange economy that moves between different beings. Gratitude for these gifts of life orient all ceremonies. The circulation of gifts to and from those non-human beings makes all life possible.**
+    *  **Indigenous values response: our ceremonies are based on a gift exchange economy that moves between different beings. Gratitude for these gifts of life orient all ceremonies. The circulation of gifts to and from those non-human beings makes all life possible.**
   
