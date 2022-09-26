@@ -31,3 +31,11 @@ main:
     url: /feed.xml
   - title: "Privacy Policy"
     url: /privacy-policy/
+
+next-steps:
+  - title: "What is it?"
+    url: /what-is-the-doctrine-of-discovery/
+  - title: "10 Religious Dimensions"
+    url: /10-religous-dimensions/  
+  - title: "Podcast"
+  url: https://podcast.doctrineofdiscovery.org/  
