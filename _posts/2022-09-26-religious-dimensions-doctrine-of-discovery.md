@@ -1,5 +1,5 @@
 ---
-title: "Ten Religious Themes of the Doctrine of Christian Discovery (Docd) That Contrast With Indigenous Values"
+title: "Ten Religious Themes of the Doctrine of Christian Discovery (DoCD) That Contrast With Indigenous Values"
 author: admin
 date: 2022-09-26T07:54:46
 excerpt: "10 Religious themes of the Doctrine of Christian Discovery (DoCD) that contrast with Indigenous Values."
