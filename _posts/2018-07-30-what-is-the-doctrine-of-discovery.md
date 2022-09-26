@@ -24,6 +24,8 @@ redirect_from:
   - /whatis
 sidebar:
   - title: "Next Steps"
+    image: /assets/images/Broken-Treaties-Brandon-Lazore-Web-credit_tn.jpg
+    image-alt: "Broken Treaties by Brandon Lazore"
     text: "Learn More about the Doctrine of Discovery"
     nav: next-steps
 ---
