@@ -11,7 +11,7 @@ author: admin
 ---
 We are now accepting applications for partnership and collaboration with The Doctrine of Discovery Project. We are interested in publishing original essays roughly 1,000-3,000 words in length for [doctrineofdiscovery.org](https://doctrineofdiscovery.org/). Applicants must have specific knowledge pertaining to Indigenous Peoples issues and/or graduate level training in religious studies, law, humanities, social sciences, or ecology. This partnership is open to faculty, independent scholars, graduate students and Haudenosaunee and Indigenous knowledge sharers. Stipends are available.
 
-Interested authors should submit a 150-300 word abstract, a 150–300 word biography, your resume/cv (if available), and a sample of a previous published article no later than September 31, 2022. The goal of this partnership is to support and amplify Indigenous voices pertaining to the Doctrine of Discovery, so priority will be given to Indigenous Peoples working in this area.
+Interested authors should submit a 150-300 word abstract, a 150–300 word biography, your resume/cv (if available), and a sample of a previous published article no later than September 30, 2022. The goal of this partnership is to support and amplify Indigenous voices pertaining to the Doctrine of Discovery, so priority will be given to Indigenous Peoples working in this area.
 
 Each essay should be geared towards an interested and engaged public and undergraduate audience. Our first high-priority interest is in the following core topics:
 
