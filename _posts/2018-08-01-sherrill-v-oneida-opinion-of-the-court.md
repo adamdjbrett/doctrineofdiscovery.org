@@ -1,7 +1,7 @@
 ---
 ID: 9250
 title: "Sherrill v. Oneida Opinion of the Court"
-author: admin
+author: danalloyd
 excerpt: "Ruth Bader Ginsburg on the Doctrine of Discovery."
 permalink: /sherrill-v-oneida-opinion-of-the-court/
 published: true
