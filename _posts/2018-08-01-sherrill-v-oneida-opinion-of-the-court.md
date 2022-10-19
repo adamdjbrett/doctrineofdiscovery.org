@@ -5,7 +5,7 @@ author: danalloyd
 excerpt: "Ruth Bader Ginsburg on the Doctrine of Discovery."
 permalink: /sherrill-v-oneida-opinion-of-the-court/
 published: true
-date: 2018-08-01 11:52:08
+date: 2022-10-19T16:20:02-05:00
 last_modified_at: 2022-10-19T16:20:02-05:00
 categories:
   - Law
@@ -47,8 +47,6 @@ Justice Stevens' dissenting opinion critiques the majority opinion thus:
 But as preferable as Stevens' outcome is to Ginsburg, it, too, affirms the doctrine of discovery, Congress's plenary power, and U.S. entitlement to Indigenous land. As political theorist Robert Nichols has [argued](https://www.dukeupress.edu/theft-is-property), Native land became property only as it was stolen from Native peoples. Dispossession made land into property, and the doctrine of discovery legitimated dispossession. Through the doctrine of discovery, as it was applied to American lands by the Marshal court, Indigenous peoples in the United States "came to possess a proprietary right that could only be fully actualized in the moment of its extinguishment, that is, by transferring it to another" (Nichols, 117). For this reason, the Oneida's attempt to regain control -- property rights -- over those lands seem preposterous. Sovereignty and property rights remain tightly connected in City of Sherrill, and the doctrine of discovery, which is sited in the first footnote in Ginsburg's decision, remains unchallenged.
 
 * * *
-
-> Under the “doctrine of discovery,... fee title to the lands occupied by Indians when the colonists arrived became vested in the sovereign–first the discovering European nation and later the original States and the United States...
 
 ### Resources
 * [City of Sherrill v. Oneida Indian Nation of New York 544 U.S. 197 (⤓ PDF Download)](/assets/pdfs/sherrill-v-oneida-opinion-of-the-court.pdf)
