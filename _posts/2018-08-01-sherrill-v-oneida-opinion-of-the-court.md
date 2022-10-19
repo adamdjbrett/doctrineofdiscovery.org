@@ -30,9 +30,9 @@ The Court's decision provides us with the historical background of this case. Th
 
 In our case, the Oneida resisted the payment of property taxes assessed by Sherrill on the ground that its acquisition of parcels of historic reservation land revived the Oneida's sovereignty piecemeal over each parcel, so that regulatory authority over the newly purchased properties no longer resides in Sherrill. The Court held that the Oneida is prevented from unilaterally reviving its sovereignty, in whole or in part, over the parcels at issue. "The Oneidas long ago relinquished reins of government and cannot regain them through open-market purchases from current titleholders," writes Justice Ginsburg in her majority opinion which 8 out of 9 Supreme Court Justices signed. The Court offers two main reasons:
 
-(1) The distinct non-Indigenous character of central New York and its inhabitants;
+1. The distinct non-Indigenous character of central New York and its inhabitants;
 
-(2) The Oneida's long delay in seeking judicial relief against parties other than the United States.
+2. The Oneida's long delay in seeking judicial relief against parties other than the United States.
 
 Ginsburg writes about the impracticability of returning to Indigenous control land that generations earlier passed into numerous private hands. The unilateral reestablishment of present and future Indigenous sovereign control, even over land purchased at the market price, would have *disruptive practical consequences*: Sherrill and the surrounding area are today overwhelmingly populated by non-Indigenous residents, and "a checkerboard of state and tribal jurisdiction" -- created unilaterally at the Oneida's behest -- would seriously burden the administration of State and local governments and would adversely affect landowners neighboring the tribal patches.
 
@@ -46,7 +46,7 @@ Justice Stevens' dissenting opinion critiques the majority opinion thus:
 
 But as preferable as Stevens' outcome is to Ginsburg, it, too, affirms the doctrine of discovery, Congress's plenary power, and U.S. entitlement to Indigenous land. As political theorist Robert Nichols has [argued](https://www.dukeupress.edu/theft-is-property), Native land became property only as it was stolen from Native peoples. Dispossession made land into property, and the doctrine of discovery legitimated dispossession. Through the doctrine of discovery, as it was applied to American lands by the Marshal court, Indigenous peoples in the United States "came to possess a proprietary right that could only be fully actualized in the moment of its extinguishment, that is, by transferring it to another" (Nichols, 117). For this reason, the Oneida's attempt to regain control -- property rights -- over those lands seem preposterous. Sovereignty and property rights remain tightly connected in City of Sherrill, and the doctrine of discovery, which is sited in the first footnote in Ginsburg's decision, remains unchallenged.
 
-***
+* * *
 
 > Under the “doctrine of discovery,... fee title to the lands occupied by Indians when the colonists arrived became vested in the sovereign–first the discovering European nation and later the original States and the United States...
 
