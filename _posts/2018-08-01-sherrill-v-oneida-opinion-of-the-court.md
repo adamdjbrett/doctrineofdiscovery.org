@@ -1,6 +1,6 @@
 ---
 ID: 9250
-title: "Sherrill v. Oneida Opinion of the Court"
+title: "City of Sherrill v. Oneida Indian Nation of New York"
 author: danalloyd
 excerpt: "Ruth Bader Ginsburg on the Doctrine of Discovery."
 permalink: /sherrill-v-oneida-opinion-of-the-court/
@@ -20,8 +20,7 @@ tags:
 redirect_from: /sherrill/  
 ---
 
-## City of Sherrill v. Oneida Indian Nation of New York
-### 544 U.S. 197
+## 544 U.S. 197
 
 In March 2005, the U.S. Supreme Court handed down a decision in *City of Sherrill, New York v. Oneida Indian Nation of New York*. *Sherrill* is a case about land rights and sovereignty, and it raises the question what it means for an Indigenous nation to appeal to its colonizer to recognize its sovereignty over land that belonged to it before it was colonized.
 
