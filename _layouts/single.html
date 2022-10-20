@@ -7,7 +7,7 @@ layout: default
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
-
+{% if page.image %}<img class="img-fluid img-responsive" width="100%" height="100%" alt="{{page.title}}" src="{{page.image}}"/>{% endif %}
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
     {% include breadcrumbs.html %}
