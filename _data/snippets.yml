@@ -1,7 +1,7 @@
 # site footer
 footer:
   license: The _Doctrine of Discovery_ Project is released under a [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en) license.
-  financial: This project is administered by the [Indigenous Values Initiative](https://indigenousvalues.org/) and [American Indian Law Alliance](https://aila.ngo).
+  financial: This project is administered by the [Indigenous Values Initiative](https://indigenousvalues.org/).
 
 #site donation block
 donation-alert:
