@@ -166,6 +166,7 @@ defaults:
       share: true
       related: true
       suggestedcitiation: true
+      image: /assets/images/Mission-Interior-from-Lookout.jpg
   # _pages
   - scope:
       path: "_pages"
@@ -174,6 +175,7 @@ defaults:
       layout: single
       author_profile: false
       suggestedcitiation: false
+      image: /assets/images/Mission-Interior-from-Lookout.jpg
   # assets
   - scope:
       path: "assets/images"
