@@ -1,5 +1,5 @@
 ---
-title: "Sublimis Deus, Pastorale Officium and Non IndecensVidetur -- A Historical Dive Into the Vatican's Failure to Rescind the Doctrine of Discovery"
+title: "Sublimis Deus, Pastorale Officium and Non Indecens Videtur -- A Historical Dive Into the Vatican's Failure to Rescind the Doctrine of Discovery"
 author: tina.ngata
 date: 2022-10-24T07:54:46
 excerpt: "In our journey of dismantling the Doctrine of Discovery and its horrible legacy, there is a recurring argument from the Catholic church and its supporters, that there is no need for the church to formally rescind, for it has already done so through the papal bull, Sublimis Deus."
