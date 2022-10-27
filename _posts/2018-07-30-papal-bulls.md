@@ -30,4 +30,4 @@ tags:
     *   [Treaty of Tordesillas, June 7, 1494](https://doctrineofdiscovery.org/treaty-of-tordesillas/)
     *   [Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496](https://doctrineofdiscovery.org/patent-cabot-henry-vii/)
     *   [The Requerimiento, 1514](https://doctrineofdiscovery.org/requerimiento/)
-* [Sublimis Deus (Sublimis Dei)](/papal-bulls/sublimis-deus/)
+* [Sublimis Deus (Sublimis Dei) A Brief Overview](/papal-bulls/sublimis-deus/)

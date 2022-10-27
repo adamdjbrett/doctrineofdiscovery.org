@@ -13,17 +13,17 @@ tags:
   - Indigenous
 gallery:
   - url: "https://en.wikipedia.org/wiki/Pope_Paul_III#/media/File:Portrait_of_Pope_Paul_III_Farnese_(by_Titian)_-_National_Museum_of_Capodimonte.jpg"
-  image_path: /assets/images/sublimis-deus-image005.jpg
-  alt: "Portrait of Pope Paul III"
-  title: "Pope Paul III"
+    image_path: /assets/images/sublimis-deus-image005.jpg
+    alt: "Portrait of Pope Paul III"
+    title: "Pope Paul III"
   - url: "https://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas#/media/File:Fray_Bartolom%C3%A9_de_las_Casas.jpg"
-  image_path: /assets/images/sublimis-deus-image004.jpg
-  alt: "Potrait of Bartolome De Las Casas"
-  title: "Bartolome De Las Casas"
- - url: "https://simple.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor#/media/File:Emperor_charles_v.png"
-  image_path: /assets/images/sublimis-deus-image003.png
-  alt: "Potrait of King Charles"
-  title: "Charles I, King of Spain and Holy Roman Emperor (also Charles V)"
+    image_path: /assets/images/sublimis-deus-image004.jpg
+    alt: "Potrait of Bartolome De Las Casas"
+    title: "Bartolome De Las Casas"
+  - url: "https://simple.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor#/media/File:Emperor_charles_v.png"
+   image_path: /assets/images/sublimis-deus-image003.png
+   alt: "Potrait of King Charles"
+   title: "Charles I, King of Spain and Holy Roman Emperor (also Charles V)"
 published: false
 ---
 
