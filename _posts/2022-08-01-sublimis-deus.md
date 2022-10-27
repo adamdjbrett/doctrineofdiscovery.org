@@ -1,6 +1,6 @@
 ---
 title: "Sublimis Deus (Sublimis Dei)"
-author: elcic-ca
+author: tina.ngata
 date: 2022-08-01T20:54:46
 excerpt: "On the limits of Sublimis Deus (also called Sublimis Dei)."
 published: true
@@ -8,7 +8,6 @@ categories:
   - Papal-Bulls
 tags:
   - Catholic
-author: tina.ngata
 ---
 
 Every few years, when the Doctrine of Discovery gets traction, someone raises the old chestnut of Sublimis Deus as apparent proof that the Catholic church *did already* rescind the Doctrine and therefore it's not necessary. I should probably do a blog post that I can just repost.
