@@ -133,6 +133,10 @@ author:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://youtube.com/c/IndigenousValuesInitiative"
+image:
+  path: /assets/images/Mission-Interior-from-Lookout.jpg
+  width: 1080
+  alt: Twitter Logo
 
 footer:
   links:
