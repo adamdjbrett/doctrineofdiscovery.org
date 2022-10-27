@@ -3,7 +3,6 @@ title: "Sublimis Deus, Pastorale Officium and Non IndecensVidetur -- A Historica
 author: tina.ngata
 date: 2022-10-24T07:54:46
 excerpt: "In our journey of dismantling the Doctrine of Discovery and its horrible legacy, there is a recurring argument from the Catholic church and its supporters, that there is no need for the church to formally rescind, for it has already done so through the papal bull, Sublimis Deus."
-published: true
 categories:
   - blog
   - papal-bulls
@@ -24,7 +23,7 @@ gallery:
     image_path: /assets/images/sublimis-deus-image003.png
     alt: "Potrait of King Charles"
     title: "Charles I, King of Spain and Holy Roman Emperor (also Charles V)"
-published: false
+published: true
 ---
 
 In our journey of dismantling the [Doctrine of Discovery](/what-is-the-doctrine-of-discovery/) and its horrible legacy, there is a recurring argument from the Catholic church and its supporters, that there is no need for the church to formally rescind, for it has already done so through the papal bull *Sublimis Deus*. I have previously provided [a brief overview](papal-bulls/sublimis-deus/) as to why this argument does not hold true, and for those who wish to dive a little deeper into this history, now offer further discussion below.
