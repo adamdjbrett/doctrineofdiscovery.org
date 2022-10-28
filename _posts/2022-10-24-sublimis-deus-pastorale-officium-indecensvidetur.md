@@ -26,7 +26,7 @@ gallery:
 published: true
 ---
 
-In our journey of dismantling the [Doctrine of Discovery](/what-is-the-doctrine-of-discovery/) and its horrible legacy, there is a recurring argument from the Catholic church and its supporters, that there is no need for the church to formally rescind, for it has already done so through the papal bull *Sublimis Deus*. I have previously provided [a brief overview](papal-bulls/sublimis-deus/) as to why this argument does not hold true, and for those who wish to dive a little deeper into this history, now offer further discussion below.
+In our journey of dismantling the [Doctrine of Discovery](/what-is-the-doctrine-of-discovery/) and its horrible legacy, there is a recurring argument from the Catholic church and its supporters, that there is no need for the church to formally rescind, for it has already done so through the papal bull *Sublimis Deus*. I have previously provided [a brief overview](/papal-bulls/sublimis-deus/) as to why this argument does not hold true, and for those who wish to dive a little deeper into this history, now offer further discussion below.
 
 Before we do, however, it's best to tidy up a small, but important related matter: why Indigenous Peoples are calling for the Vatican to *rescind* the Doctrine, and the difference between "rescind" and "repudiate". We must address this because, in many of the arguments of the church, they conflate repudiation with rescindment as an evasive tactic, often citing the many times the church has repudiated the practice of slavery and Indigenous dispossession.
 
