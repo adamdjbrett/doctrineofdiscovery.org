@@ -1,6 +1,6 @@
 ---
 ID: 8900
-title: 'The Doctrine of Discovery: The International Law of Colonialism'
+title: 'The Ten Legal Dimensions of the Doctrine of Discovery: The International Law of Colonialism'
 author: rjmiller
 excerpt: "Here are the 10 elements that I think constitute the Doctrine and are useful in analyzing and comparing how settler-colonizer societies have used this international law against Indigenous peoples around the globe."
 permalink: /the-doctrine-of-discovery-the-international-law-of-colonialism/
