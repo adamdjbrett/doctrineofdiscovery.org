@@ -4,7 +4,7 @@ excerpt: "Joseph Story is regarded as a genius and a giant in the legal professi
 header:
   image: /assets/images/Joseph-Story-Antonin-Scalia.png
   caption: "Portraits of Story and Scalia via Wikipedia"
-date: 2022-11-17 14:54:46
+date: 2023-01-16 14:54:46
 categories:
   - blog
 tags:
