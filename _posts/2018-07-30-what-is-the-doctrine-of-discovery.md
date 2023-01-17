@@ -9,7 +9,7 @@ excerpt: "Papal Bulls of the 15th century gave Christian explorers the right to 
 permalink: / -the-doctrine-of-discovery/
 published: true
 date: 2018-07-30 17:46:01
-last_modified_at: 2023-01-17 14:39:01
+last_modified_at: 2023-01-16 14:39:01
 categories:
   - main
   - resources
