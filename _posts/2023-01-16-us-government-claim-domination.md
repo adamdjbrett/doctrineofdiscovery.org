@@ -1,6 +1,6 @@
 ---
 title: "The U.S. Government’s Claim of a Right of Domination"
-excerpt: "The fracturing of the Fifth Circuit Court of Appeals in its effort to decide Brakeen in 2021 demonstrates the deep confusion and contradiction (some say schizophrenia) that characterize the application of these fundamentally anti-Indigenous doctrines in their disguise as 'federal protection'."
+excerpt: "Joseph Story is regarded as a genius and a giant in the legal profession. His continuing influence on American law was demonstrated for me some years ago when I attended a talk that Justice Antonin Scalia (1936-2016) delivered at the University of San Diego (USD) School of Law."
 header:
   image: /assets/images/Joseph-Story-Antonin-Scalia.png
   caption: "Portraits of Story and Scalia via Wikipedia"
