@@ -3,7 +3,7 @@ ID: 8800
 title: "What is the Doctrine of Discovery?"
 header:
   image: /assets/images/onondaga-lake-east-shoreline-1600x600.jpg
-caption: "Onondaga Lake eastern shoreline. photo credit, Indigenous Values initiative."
+  caption: "Onondaga Lake eastern shoreline. photo credit, Indigenous Values initiative."
 author: admin
 excerpt: "Papal Bulls of the 15th century gave Christian explorers the right to claim lands they 'discovered' and lay claim to those lands for their Christian Monarchs. Any land that was not inhabited by Christians was available to be 'discovered', claimed, and exploited. If the 'pagan' inhabitants could be converted, they might be spared. If not, they could be enslaved or killed."
 permalink: /what-is-the-doctrine-of-discovery/
