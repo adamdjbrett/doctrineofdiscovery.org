@@ -6,10 +6,10 @@ header:
 caption: "Onondaga Lake eastern shoreline. photo credit, Indigenous Values initiative."
 author: admin
 excerpt: "Papal Bulls of the 15th century gave Christian explorers the right to claim lands they 'discovered' and lay claim to those lands for their Christian Monarchs. Any land that was not inhabited by Christians was available to be 'discovered', claimed, and exploited. If the 'pagan' inhabitants could be converted, they might be spared. If not, they could be enslaved or killed."
-permalink: /what-is-the-doctrine-of-discovery/
+permalink: / -the-doctrine-of-discovery/
 published: true
 date: 2018-07-30 17:46:01
-last_modified_at: 2022-09-26 14:39:01
+last_modified_at: 2023-01-17 14:39:01
 categories:
   - main
   - resources
@@ -26,8 +26,10 @@ sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg
     image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth"
-    text: "Learn More about the Doctrine of Discovery"
-    nav: next-steps
+    text: "Learning more about the Doctrine of Discovery"
+sidebar:
+  title: "Featured"
+  nav: Featured   
 ---
 <figure class="align-center">
   <img src="/assets/images/colonial-contact.jpg" alt="Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth.">
