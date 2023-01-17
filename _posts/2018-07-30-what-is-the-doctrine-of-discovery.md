@@ -26,7 +26,7 @@ sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg
     image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth"
-    text: "Learning more about the Doctrine of Discovery"
+    text: "Learn More about the Doctrine of Discovery"
     nav: next-steps
 ---
 <figure class="align-center">
