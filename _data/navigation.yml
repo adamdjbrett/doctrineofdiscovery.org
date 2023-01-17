@@ -38,17 +38,6 @@ next-steps:
     children:
       - title: "10 Religious Dimensions"
         url: /10-religous-dimensions/  
-      - title: "Podcast"
-        url: https://podcast.doctrineofdiscovery.org/
-
-Featured:
-  - title: "What is the Doctrine?"
-    url: /what-is-the-doctrine-of-discovery/
-    children:
-      - title: "10 Religious Dimensions"
-        url: /10-religous-dimensions/  
-      - title: "Podcast"
-        url: https://podcast.doctrineofdiscovery.org/
       - title: "City of Sherrill v. Oneida Indian Nation of New York"
         url: /sherrill-v-oneida-opinion-of-the-court/
       - title: "Sublimis Deus: A Brief Overview"
@@ -57,3 +46,5 @@ Featured:
         url: /blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/
       - title: "The U.S. Government’s Claim of a Right of Domination"
         url: /blog/us-government-claim-domination/   
+  - title: "Podcast"
+    url: https://podcast.doctrineofdiscovery.org/
