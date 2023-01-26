@@ -1,10 +1,10 @@
 ---
-title: "About"
+title: "Featured"
 date: 2022-01-25T15:34:30-04:00
 author: admin
 author_profile: true
 suggestedcitiation: true
-permalink: /about/
+permalink: /featured/
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg
