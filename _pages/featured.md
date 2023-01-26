@@ -14,14 +14,14 @@ sidebar:
 ---
 
 ## Featured Posts
-  - ["What is the Doctrine of Discovery?"](/what-is-the-doctrine-of-discovery)
-  - ["10 Religious Dimensions"](/10-religous-dimensions/)
-  - ["10 Legal Dimensions"](/the-doctrine-of-discovery-the-international-law-of-colonialism/)
-  - ["City of Sherrill v. Oneida Indian Nation of New York"](/sherrill-v-oneida-opinion-of-the-court/)
-  - ["Sublimis Deus: A Brief Overview"](/papal-bulls/sublimis-deus/)
-  - ["Sublimis Deus, Pastorale Officium & Non Indecens Videtur"](/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/)
-  - ["The U.S. Government’s Claim of a Right of Domination"](/blog/us-government-claim-domination/)
-  - ["Podcast"](https://podcast.doctrineofdiscovery.org/)
+  - [What is the Doctrine of Discovery?](/what-is-the-doctrine-of-discovery)
+  - [10 Religious Dimensions](/10-religous-dimensions/)
+  - [10 Legal Dimensions](/the-doctrine-of-discovery-the-international-law-of-colonialism/)
+  - [City of Sherrill v. Oneida Indian Nation of New York](/sherrill-v-oneida-opinion-of-the-court/)
+  - [Sublimis Deus: A Brief Overview](/papal-bulls/sublimis-deus/)
+  - [Sublimis Deus, Pastorale Officium & Non Indecens Videtur](/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/)
+  - [The U.S. Government’s Claim of a Right of Domination](/blog/us-government-claim-domination/)
+  - [Podcast"](https://podcast.doctrineofdiscovery.org/)
 
 ## Updated Translations
  - [The Papal Bull Inter Caetera of May 4, 1493. Introduced and translated by Sebastian Modrow and Melissa Smith](/inter-caetera/)
