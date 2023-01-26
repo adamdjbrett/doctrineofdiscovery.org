@@ -2,14 +2,9 @@
 title: "About"
 date: 2022-01-21T15:34:30-04:00
 author: admin
-author_profile: false
+author_profile: true
 suggestedcitiation: true
 permalink: /about/
-sidebar:
-  - title: "Next Steps"
-    image: /assets/images/colonial-contact.jpg
-    image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth"
-    text: "Learning more about the Doctrine of Discovery"
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

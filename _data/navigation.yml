@@ -39,7 +39,12 @@ next-steps:
       - title: "10 Religious Dimensions"
         url: /10-religous-dimensions/  
       - title: "10 Legal Dimensions"
-        url: /the-doctrine-of-discovery-the-international-law-of-colonialism/  
+        url: /the-doctrine-of-discovery-the-international-law-of-colonialism/   
+      - title: "*Inter Caetera*: A New Translation"
+        url: /inter-caetera/  
+  - title: "Featured"
+    url: /featured/
+    children:
       - title: "City of Sherrill v. Oneida Indian Nation of New York"
         url: /sherrill-v-oneida-opinion-of-the-court/
       - title: "Sublimis Deus: A Brief Overview"
@@ -47,6 +52,6 @@ next-steps:
       - title: "Sublimis Deus, Pastorale Officium & Non Indecens Videtur"
         url: /blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/
       - title: "The U.S. Government’s Claim of a Right of Domination"
-        url: /blog/us-government-claim-domination/   
+        url: /blog/us-government-claim-domination/  
   - title: "Podcast"
     url: https://podcast.doctrineofdiscovery.org/
