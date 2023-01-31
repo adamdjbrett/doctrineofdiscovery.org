@@ -1,8 +1,8 @@
 ---
 ID: 8868
-title: 'Doctrine of Christian Discovery: After Repudiation, What Next?'
+title: ' '
 author: admin
-excerpt: "Doctrine of Christian Discovery: After Repudiation, What Next? Conference May 24-25 2014 The Skä·noñh — Great Law of Peace Center."
+excerpt: "  Conference May 24-25 2014 The Skä·noñh — Great Law of Peace Center."
 permalink: doctrine-of-christian-discovery-after-repudiation-what-next/
 published: true
 date: 2018-07-26T11:37:00
@@ -16,7 +16,7 @@ tags:
   - Onondaga-Nation
   - Haudenosaunee-Confederacy
 ---
-### "Doctrine of Christian Discovery: After Repudiation, What Next?" Conference May 24-25 2014 The Skä·noñh — Great Law of Peace Center 6680 Onondaga Lake Parkway, Liverpool, NY 13088
+### " " Conference May 24-25 2014 The Skä·noñh — Great Law of Peace Center 6680 Onondaga Lake Parkway, Liverpool, NY 13088
 
 *   [Opening Comments](http://youtu.be/V2MAz1lToBM)
 *   [Joe Heath: Onondaga Land Rights Action, the OAS, and the DoCD](http://youtu.be/S2VYPDbLgqI)
@@ -43,7 +43,7 @@ tags:
 #### DOCUMENTS
 
 *   [Statement On The Historical Use Of The Doctrine Of Christian Discovery By The United States Supreme Court Since 1823](/statement-on-the-historical-use-of-the-doctrine-of-christian-discovery-by-the-united-states-supreme-court-since-1823/)
-*   [The Doctrine of Discovery: The International Law of Colonialism & Robert Miller's Ten Elements that Constitute the Doctrine by Joseph J. Heath](/the-doctrine-of-discovery-the-international-law-of-colonialism/)
+*   [The Doctrine of Discovery: The International Law of Colonialism & Robert Miller's Ten Elements that Constitute the Doctrine](/the-doctrine-of-discovery-the-international-law-of-colonialism/)
 *   [Conference Summary - ⤓ download pdf](/assets/pdfs/DoCD-Conference-Summary-GB-1.pdf)
 *   [Conference Photos](/doctrine-of-christian-discovery-after-repudiation-what-next/)
 *   [Conference Flyer - ⤓ download pdf](/assets/pdfs/dofd-conference-flyer.pdf)

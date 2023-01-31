@@ -52,7 +52,6 @@ danalloyd:
       icon: "fas fa-fw fa-landmark"
       url: "https://politicaltheology.com/author/danalloyd/"
 
-
 admin:
   name: Indigenous Values Initiative
   avatar: /assets/images/indigenousvalues-2020.png
@@ -342,6 +341,18 @@ elcic-ca:
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/CanadianLutherans"
 
+arden.mahlberg:
+  name: "Arden Mahlberg, Ph.D."
+  bio: "Psychologist applying psychology to living justly."
+  avatar: /assets/images/authors/generic-account-6491185_1280-unsplash.png
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ardenmahlberg.com/"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-link"
+      url: "https://beyonddisavowing.org/"
+  
 tina.ngata:
   name: "Tina Ngata"
   bio: "Dismantling Frameworks of Domination, Rematriating Ways of Being."
@@ -368,4 +379,47 @@ uniting-church-aus:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://www.twitter.com/UnitingChurchAu"
-      
+
+david.wilkins:
+  name: "David E. Wilkins, Ph.D. (Lumbee Nation)"
+  bio: "Claiborne Distinguished Professor of Leadership Studies & Native Studies, University of Richmond."
+  avatar: /assets/images/authors/generic-account-6491185_1280-unsplash.png
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jepson.richmond.edu/faculty/bios/dwilkins/" 
+
+manuel.may:
+  name: "Manuel May Castillo"
+  bio: "Manuel May Castillo is a Maya scholar. His work focuses on Maya heritage, neocolonialism, transnationalism, and Indigenous movements in Mexico and Guatemala. Manuel’s research is aligned with postcolonial studies and decolonizing methodologies, and the reintegration of cultural memory for the empowerment of Indigenous communities."
+  avatar: /assets/images/authors/generic-account-6491185_1280-unsplash.png
+  links:
+    - label: "website"
+      icon: "fas fa-fw fa-link"
+      url: "https://manuelmay.academia.edu/" 
+
+christopher.sudol:
+  name: "Christopher Sudol"
+  bio: "Christopher is a 2023 J.D. Candidate and Haub Scholar in the Elisabeth Haub School of Law at Pace University."
+  avatar: /assets/images/authors/generic-account-6491185_1280-unsplash.png
+  links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/christophersudol/"    
+
+jonathan.brenneman:
+  name: "Jonathan Brenneman"
+  bio: "Jonathan is a Palestinian-American Christian and graduate of the Kroc Institute for International Peace Studies. He has worked in multiple countries doing Palestine advocacy, human rights monitoring, grassroots organizing, and challenging anti-Arab racism. Jonathan’s work connects the Palestinian decolonial struggle with those of other indigenous peoples, and challenges theologies of domination."
+  avatar: /assets/images/authors/jonathan-brenneman-sq-250x250
+
+Urszula-Piasta-Mansfield:
+  name: "Urszula Piasta-Mansfield, Ph.D."
+  bio: "Associate Director, American Indian and Indigenous Studies Program."
+  avatar: /assets/images/authors/Urszula-Piasta-Mansfield-Cornell.jpg
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://cals.cornell.edu/urszula-piasta-mansfield"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-link"
+      url: "https://ulapiasta.academia.edu/"  
