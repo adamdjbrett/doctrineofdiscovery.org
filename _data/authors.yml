@@ -349,8 +349,8 @@ arden.mahlberg:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://ardenmahlberg.com/"
-    - label: "Patreon"
-      icon: "fab fa-fw fa-link"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
       url: "https://beyonddisavowing.org/"
   
 tina.ngata:
