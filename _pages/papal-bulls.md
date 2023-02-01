@@ -1,5 +1,4 @@
 ---
-ID: 8808
 title: "Papal Bulls"
 header:
   image: assets/images/papal-bull-doctrine-of-discovery-770.jpg

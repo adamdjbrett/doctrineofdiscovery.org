@@ -15,6 +15,7 @@ tags:
 
 {% for image in site.static_files %}
   {% if image.path contains 'assets/images/2014-conf' %}
-    ![2014 event photos]({{ image.path }})
+  <img src="{{ image.path }}" alt="2014 event photos"> 
+
   {% endif %}
 {% endfor %}

@@ -13,6 +13,7 @@ tags:
   - Christianity
   - Christian
   - Repudiations
+  - featured
 author: arden.mahlberg
 sidebar:
   - title: "Next Steps"

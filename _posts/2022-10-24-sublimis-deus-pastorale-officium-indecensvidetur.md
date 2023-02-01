@@ -10,6 +10,7 @@ tags:
   - Christian
   - Papal-Bulls
   - Indigenous 
+  - featured
 gallery:
   - url: "https://en.wikipedia.org/wiki/Pope_Paul_III#/media/File:Portrait_of_Pope_Paul_III_Farnese_(by_Titian)_-_National_Museum_of_Capodimonte.jpg"
     image_path: /assets/images/sublimis-deus-image005.jpg

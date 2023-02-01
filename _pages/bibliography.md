@@ -1,5 +1,4 @@
 ---
-ID: 8836
 title: "Bibliography"
 author: admin
 excerpt: "The Doctrine of Discovery Working Bibliography"

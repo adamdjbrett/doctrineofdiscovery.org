@@ -1,5 +1,4 @@
 ---
-ID: 8904
 title: "Repudiations by Faith Communities"
 header:
   image: /assets/images/Doctrine-of-discovery-Standing-Rock-1-1200x500.jpg
@@ -56,3 +55,6 @@ tags:
 *   [Uniting Church in Australia](/repudiations/faith-communities/uniting-church-in-australia/)
 *   [Uniting Church in Sweden/Equmeniakyrkan](/sweden/)
 *   [World Council of Churches](/world-council-of-churches/)
+
+## Critiques
+* [What Doctrine of Discovery Statements of Religious Repudiation Reveal](/blog/what-repudiations-reveal/)

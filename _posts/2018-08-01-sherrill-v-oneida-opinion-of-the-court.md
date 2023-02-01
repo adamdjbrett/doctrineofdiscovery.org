@@ -17,6 +17,7 @@ tags:
   - Oneida
   - SCOTUS
   - Ginsburg
+  - featured
 redirect_from: /sherrill/  
 sidebar:
   - title: "Next Steps"

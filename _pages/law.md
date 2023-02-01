@@ -1,5 +1,4 @@
 ---
-ID: 9033
 title: "Law"
 header:
   image: /assets/images/book-1659717_1280.jpg

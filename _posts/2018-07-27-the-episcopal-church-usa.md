@@ -1,4 +1,4 @@
----
+ ---
 ID: 8925
 title: "The Episcopal Church USA Statements on the Doctrine of Discovery"
 author: ecusa

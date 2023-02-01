@@ -12,6 +12,7 @@ tags:
   - law
   - US-Indian-Law 
   - US-Law
+  - featured
 author: newcomb
 sidebar:
   - title: "Next Steps"

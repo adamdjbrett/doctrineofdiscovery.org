@@ -8,6 +8,7 @@ categories:
   - Papal-Bulls
 tags:
   - Catholic
+  - featured
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

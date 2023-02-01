@@ -13,7 +13,6 @@ tags:
   - UN
   - United-Nations
   - International-Law
-
 ---
 
 ## Ten Legal Elements of the Doctrine of Discovery

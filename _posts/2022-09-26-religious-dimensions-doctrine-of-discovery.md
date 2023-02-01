@@ -9,6 +9,7 @@ categories:
 tags:
   - Christian
   - Indigenous
+  - featured
 permalink: /10-religous-dimensions/
 sidebar:
   - title: "Next Steps"

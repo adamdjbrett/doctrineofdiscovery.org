@@ -1,5 +1,4 @@
 ---
-ID: 8838
 title: "Online Resources"
 author: admin
 excerpt: "Online Resources about the Doctrine of Discovery"
