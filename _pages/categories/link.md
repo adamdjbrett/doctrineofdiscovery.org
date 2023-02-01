@@ -2,7 +2,7 @@
 title: Blog
 layout: category
 permalink: /categories/link/
-taxonomy: Links
+taxonomy: link
 suggestedcitiation: false
 --- 
   

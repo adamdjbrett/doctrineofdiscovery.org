@@ -2,7 +2,7 @@
 title: Blog
 layout: category
 permalink: /categories/main/
-taxonomy: Main
+taxonomy: main
 suggestedcitiation: false
 --- 
   

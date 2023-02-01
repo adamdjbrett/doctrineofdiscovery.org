@@ -2,7 +2,7 @@
 title: Blog
 layout: category
 permalink: /categories/episcopal/
-taxonomy: episcopal
+taxonomy: Episcopal
 suggestedcitiation: false
 --- 
   
