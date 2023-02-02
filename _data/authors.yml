@@ -37,6 +37,11 @@ pparnold:
       icon: "fab fa-fw fa-youtube-square"
       url: "https://youtube.com/c/IndigenousValuesInitiative"
 
+tadodaho:
+  name: Tadodaho Sid Hill
+  bio: "Tadodaho Sid Hill is the Spiritual Leader of the Haudenosaunee Confederacy (Six Nations/Iroquois)."
+  avatar: /assets/images/authors/tadodaho.jpg
+
 danalloyd:
   name: Dana Lloyd
   bio: "Assistant Professor of Global Interdisciplinary Studies, Affiliated Faculty, Center for Peace and Justice Education, Villanova University."
