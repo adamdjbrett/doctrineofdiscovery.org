@@ -20,7 +20,7 @@ sidebar:
     text: "Learn More about the Doctrine of Discovery"
     nav: next-steps 
 ---
-It was an ordinary evening on October 9, 2018 when, scrolling down my mouse wheel randomly looking at posts on Facebook something suddenly caught my attention: A post launched an invitation from the Mennonite Coalition for the Dismantling of the Doctrine of Discovery to join a Christian lament in the United States. The post invited lamenting of the [Doctrine of Discovery](/what-is-the-doctrine-of-discovery/) \(DD\) and encouraged reflection on its consequences for the lives of Indigenous Peoples today.
+It was an ordinary evening on October 9, 2018 when, scrolling down my mouse wheel randomly looking at posts on Facebook something suddenly caught my attention: A post launched an invitation from the [Mennonite Coalition for the Dismantling of the Doctrine of Discovery](https://dofdmenno.org/) to join a Christian lament in the United States. The post invited lamenting of the [Doctrine of Discovery](/what-is-the-doctrine-of-discovery/) \(DD\) and encouraged reflection on its consequences for the lives of Indigenous Peoples today.
 <!--more-->
 
 I am a believer in symbolic numerology and the cycles of time thanks to my Maya heritage. That is why I believe it was more than a coincidence that I came across this post on the 9th of October, just three days before the celebrations of the 12th of October, the mythical date of the so-called "Discovery of America" or the beginning of the colonization of *Yóokol K'ab*, the Maya world in my mother tongue.
