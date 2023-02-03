@@ -11,7 +11,10 @@ categories:
 tags:
   - Law
   - US-Law
-redirect_from: /jvm/  
+redirect_from: 
+ - /jvm/  
+ - /johnvmac.htm
+ - /johnson-v-mcin-tosh/
 ---
 # Key Excerpts:
 

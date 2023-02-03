@@ -21,6 +21,7 @@ tags:
   - resources
 redirect_from:
   - /whatis
+  - /the-doctrine-of-
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg
