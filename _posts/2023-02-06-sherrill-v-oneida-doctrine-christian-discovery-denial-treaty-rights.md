@@ -25,7 +25,7 @@ sidebar:
 This shameful, land mark decision by the Supreme Court was issued just three weeks after the filing of the Onondaga Nation’s Land Rights Action. It was a remarkable decision in several ways and although it was not a land claim or a land rights action, it resulted in negative impacts on the Haudenosaunee land cases, as it has been used as the excuse to dismiss the then pending Oneida, Onondaga and Cayuga land rights cases.
 <!--more-->
 
-Less than three months _Sherrill_, the 2nd Circuit used that decision as the basis to dismiss the pending Cayuga land claim and in so doing, declared that _Sherrill_ “_has dramatically altered the legal landscape_”[^1] for Indigenous nations’ land right cases. The Circuit used this new “equitable” rationale to also dismiss the Oneida Nation land claim in 2010 and the Onondaga Nation land rights action in 2012
+Less than three months _Sherrill_, the 2nd Circuit used that decision as the basis to dismiss the pending Cayuga land claim and in so doing, declared that _Sherrill_ “_has dramatically altered the legal landscape_”[^1] for Indigenous nations’ land right cases. The Circuit used this new “equitable” rationale to also dismiss the Oneida Nation land claim in 2010 and the Onondaga Nation land rights action in 2012.
 
 FACTUAL AND LEGAL BACKGROUND:
 -----------------------------
