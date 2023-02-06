@@ -5,7 +5,7 @@ excerpt: "This shameful, land mark decision by the Supreme Court was issued just
 header:
   image: /assets/images/honor-two-row-3-wampum-belts.jpg
   caption: "The Canandaigua, Two Row, and Haudenosaunee Confederacy Wampum Belts. Image by Lindsay Speer, 2008. Image via [Honor the Two Row](https://honorthetworow.org/media/media-kit/)"
-date: 2023-01-30 07:54:46
+date: 2023-02-06 07:54:46
 categories:
   - blog
 tags:
@@ -29,7 +29,7 @@ _City of Sherrill v. Oneida Indian Nation_, 544 U.S. 197 (2005): THE DOCTRINE OF
 This shameful, land mark decision by the Supreme Court was issued just three weeks after the filing of the Onondaga Nation’s Land Rights Action. It was a remarkable decision in several ways and although it was not a land claim or a land rights action, it resulted in negative impacts on the Haudenosaunee land cases, as it has been used as the excuse to dismiss the then pending Oneida, Onondaga and Cayuga land rights cases.
 <!--more-->
 
-Less than three months _Sherrill_, the 2nd Circuit used that decision as the basis to dismiss the pending Cayuga land claim and in so doing, declared that _Sherrill_ “_has dramatically altered the legal landscape_”[\[1\]](#_ftn1)1 for Indigenous nations’ land right cases. The Circuit used this new “equitable” rationale to also dismiss the Oneida Nation land claim in 2010 and the Onondaga Nation land rights action in 2012
+Less than three months _Sherrill_, the 2nd Circuit used that decision as the basis to dismiss the pending Cayuga land claim and in so doing, declared that _Sherrill_ “_has dramatically altered the legal landscape_”[^1] for Indigenous nations’ land right cases. The Circuit used this new “equitable” rationale to also dismiss the Oneida Nation land claim in 2010 and the Onondaga Nation land rights action in 2012
 
 FACTUAL AND LEGAL BACKGROUND:
 -----------------------------
@@ -53,7 +53,7 @@ SHERRILL’S RELIANCE ON THE DOCTRINE OF DISCOVERY:
 
 The first footnote in _Sherrill_ removes all doubt about the illegitimacy of its holding, and the clear re-affirmation of the doctrine of Christian discovery and domination, as it states that:
 
-> Under the “[**doctrine of discovery**](/what-is-the-doctrine-of-discovery/),” fee title to the lands occupied by Indians when the colonists arrived became vested in the sovereign–first the discovering European nation and later the original States and the United States. _Both before and after the adoption of the Constitution, New York acquired vast tracts of land from Indian tribes through treaties it independently negotiated, without National Government participation_. (Emphasis added.)[\[2\]](#_ftn2)2
+> Under the “[**doctrine of discovery**](/what-is-the-doctrine-of-discovery/),” fee title to the lands occupied by Indians when the colonists arrived became vested in the sovereign–first the discovering European nation and later the original States and the United States. _Both before and after the adoption of the Constitution, New York acquired vast tracts of land from Indian tribes through treaties it independently negotiated, without National Government participation_. (Emphasis added.)[^2]
 
 There is so much cleverly hidden messaging in this footnote that it bears closer review and discussion. Initially, it quietly embraces the doctrine of Christian discovery and domination as a central theme in U$ Indian law. This should help us understand that one of our primary focuses of work going forward is to have this racist, colonial doctrine removed and denounced.
 
@@ -74,13 +74,13 @@ Relying exclusively on _Sherrill_, the 2nd Circuit dismissed the Cayuga Nation l
 > 
 > We understand _Sherrill_ to hold that equitable doctrines, such as laches, acquiescence, and impossibility, can, in appropriate circumstances, be applied to Indian land claims, even when such a claim is legally viable and within the statute of limitations.
 > 
-> One of the few incontestable propositions about this unusually complex and confusing area of law is that doctrines and categorizations applicable in other areas do not translate neatly into those claims. (Emphasis added.)[\[3\]](#_ftn3)
+> One of the few incontestable propositions about this unusually complex and confusing area of law is that doctrines and categorizations applicable in other areas do not translate neatly into those claims. (Emphasis added.)[^3]:
 
 Five years later the Circuit also dismissed the Oneida Nation land claim, which has been in litigation for over 40 years:
 
 > We have used the term “laches” here . . . as **a convenient shorthand** for the equitable principles at stake in this case, but the term is somewhat imprecise for the purpose of deciding these principles.
 > 
-> The Oneidas assert that the invocation of a purported laches defense is improper here because the defendants have not established the necessary element of such a defense. This omission, however, is not ultimately important, as **the equitable defense** recognized in _Sherrill_ and applied in _Cayuga_ **does not focus****on the elements of traditional laches.** (Emphasis Added.)[\[4\]](#_ftn4)
+> The Oneidas assert that the invocation of a purported laches defense is improper here because the defendants have not established the necessary element of such a defense. This omission, however, is not ultimately important, as **the equitable defense** recognized in _Sherrill_ and applied in _Cayuga_ **does not focus****on the elements of traditional laches.** (Emphasis Added.)[^4]
 > 
 As the Circuit proceeded to dismiss all the Haudenosaunee land rights cases, it simply made up new rules, which only apply to Indigenous land rights cases and which they admitted were different. There is a double standard, and Indian treaties no long matter in US law.
 
@@ -92,7 +92,7 @@ The final shoe to drop was the 2012 dismissal of the [Onondaga land rights actio
 > 
 > 1.  The length of time at issue between an historic injustice and the present day;
 > 2.  The disruptive nature of claims long delayed; and
-> 3.  The degree to which these claims upset the justifiable expectations of individuals \[i.e.: settlers\] far removed from the events giving rise to the plaintiff’s [\[5\]](#_ftn5)
+> 3.  The degree to which these claims upset the justifiable expectations of individuals \[i.e.: settlers\] far removed from the events giving rise to the plaintiff’s.[^5]
 
 Therefore, because all of NY’s illegal takings of Haudenosaunee lands are more than 200 year old, US courts provide no remedy for admittedly illegal land grabs and treaty and federal law violations. There clearly is no justice or equity for Indigenous peoples in US courts.
 
@@ -117,12 +117,12 @@ Onondaga Nation General Counsel
 
 ## Footnotes
 
-[\[1\]](#_ftnref1) [_Cayuga Indian Nation v. Pataki_, 413 F. 3d 266, 273 (2nd Cir, 2005).](https://casetext.com/case/cayuga-indian-nation-of-ny-v-pataki)
+[^1]: [_Cayuga Indian Nation v. Pataki_, 413 F. 3d 266, 273 (2nd Cir, 2005).](https://casetext.com/case/cayuga-indian-nation-of-ny-v-pataki)
 
-[\[2\]](#_ftnref2) [544 US 197, at XXX](https://supreme.justia.com/cases/federal/us/544/197/).
+[^2]: [544 US 197, at XXX](https://supreme.justia.com/cases/federal/us/544/197/).
 
-[\[3\]](#_ftnref3) [413 F](https://casetext.com/case/cayuga-indian-nation-of-ny-v-pataki). 3d 266, 273 (2nd Cir., 2005).
+[^3]: [413 F](https://casetext.com/case/cayuga-indian-nation-of-ny-v-pataki). 3d 266, 273 (2nd Cir., 2005).
 
-[\[4\]](#_ftnref4) [617 F](https://cite.case.law/f3d/617/114/). 3e 114, 127 (2nd Cir. 2010), _Cert. denied,_ 565 US 970 (2011).
+[^4]: [617 F](https://cite.case.law/f3d/617/114/). 3e 114, 127 (2nd Cir. 2010), _Cert. denied,_ 565 US 970 (2011).
 
-[\[5\]](#_ftnref5) [_Onondaga Nation v. New York_](https://casetext.com/case/nation-v-state), 500 F. App’x 87, 90 (2nd Cir. 2012).
+[^5]: [_Onondaga Nation v. New York_](https://casetext.com/case/nation-v-state), 500 F. App’x 87, 90 (2nd Cir. 2012).
