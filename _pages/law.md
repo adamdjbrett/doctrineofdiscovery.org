@@ -31,9 +31,8 @@ redirect_from:
   * _City of Sherrill V. Oneida Indian Nation_
     *   [_City of Sherrill V. Oneida Indian Nation_, 544 U.s. 197 (2005): the Doctrine of Christian Discovery and Domination and the Denial of Treaty Rights](/blog/sherrill-v-oneida-doctrine-christian-discovery-denial-treaty-rights/) By Joseph J. Heath, Esq. Onondaga Nation General Counsel
     *   [_City of Sherrill V. Oneida Indian Nation_, 544 U.s. 197 (2005)](/sherrill-v-oneida-opinion-of-the-court/) by Dana Lloyd
-      *   Ruth Bader Ginsburg:
-
-            > Under the "doctrine of discovery," ..."fee title to the lands occupied by Indians when the colonists arrived became vested in the sovereign–first the discovering European nation and later the original States and the United States."
+        *   Ruth Bader Ginsburg:
+              > Under the "doctrine of discovery," ..."fee title to the lands occupied by Indians when the colonists arrived became vested in the sovereign–first the discovering European nation and later the original States and the United States."
 
   *   [_Cayuga Indian Nation v. Pataki_,413 F. 3d 266, (2nd Cir. June 28, 2005)](https://doctrineofdiscovery.org/cayuga-v-pataki/)
   *   [_Ottawa Tribe of Oklahoma v. Logan_, 577 F. 3d 634, (6th Cir., 2009)](https://doctrineofdiscovery.org/ottawa-v-logan/)
