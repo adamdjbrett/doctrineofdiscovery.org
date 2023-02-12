@@ -1,4 +1,5 @@
 ---
+username: onondaga
 name: Onondaga Nation
 bio: "The Onondaga Nation is a member of the Haudenosaunee (“People of the Long House”), an alliance of native nations united for hundreds of years by traditions, beliefs and cultural values."
 avatar: /assets/images/authors/onondaga.jpg

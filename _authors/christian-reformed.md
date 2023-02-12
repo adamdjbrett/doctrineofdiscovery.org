@@ -1,5 +1,5 @@
 ---
-shortname: christian-reformed
+username: christian-reformed
 name: "Christian Reformed Church"
 bio: "A Protestant denomination in the United States and Canada"
 avatar: /assets/images/authors/crc-logo.png
