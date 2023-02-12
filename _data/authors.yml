@@ -352,7 +352,7 @@ arden.mahlberg:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://beyonddisavowing.org/"
-  
+
 tina.ngata:
   name: "Tina Ngata"
   bio: "Dismantling Frameworks of Domination, Rematriating Ways of Being."
@@ -387,7 +387,7 @@ david.wilkins:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://jepson.richmond.edu/faculty/bios/dwilkins/" 
+      url: "https://jepson.richmond.edu/faculty/bios/dwilkins/"
 
 manuel.may:
   name: "Manuel May Castillo"
@@ -396,7 +396,7 @@ manuel.may:
   links:
     - label: "website"
       icon: "fas fa-fw fa-link"
-      url: "https://manuelmay.academia.edu/" 
+      url: "https://manuelmay.academia.edu/"
 
 christopher.sudol:
   name: "Christopher Sudol"
@@ -405,7 +405,7 @@ christopher.sudol:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/christophersudol/"    
+      url: "https://www.linkedin.com/in/christophersudol/"
 
 jonathan.brenneman:
   name: "Jonathan Brenneman"
@@ -422,4 +422,4 @@ Urszula-Piasta-Mansfield:
       url: "https://cals.cornell.edu/urszula-piasta-mansfield"
     - label: "Patreon"
       icon: "fab fa-fw fa-link"
-      url: "https://ulapiasta.academia.edu/"  
+      url: "https://ulapiasta.academia.edu/"
