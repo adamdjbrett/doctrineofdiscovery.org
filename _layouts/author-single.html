@@ -1,0 +1,18 @@
+---
+layout: archive
+---
+{% for post in site.posts %}
+{% if post.author %}
+<div class="list__item">
+	<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+		<h2 class="archive__item-title no_toc" itemprop="headline">
+			<a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+		</h2>
+		{% include page__meta.html type=entries_layout %}
+		{% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">
+			{{ post.excerpt | markdownify | strip_html | truncate: 160 }}
+		</p>{% endif %}
+	</article>
+</div>
+{% endif %}
+{% endfor %}
