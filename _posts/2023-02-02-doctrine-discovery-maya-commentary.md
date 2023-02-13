@@ -12,7 +12,7 @@ tags:
   - Christianity
   - Maya
   - Mexico
-author: Manuel-May-Castillo
+author: manuel.may
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

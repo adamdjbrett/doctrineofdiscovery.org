@@ -13,7 +13,7 @@ tags:
   - US-Indian-Law 
   - US-Law
   - featured
-author: Steven-Newcomb
+author: newcomb
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

@@ -9,7 +9,7 @@ tags:
   - Law
   - sovereignty
   - Religious Freedom
-author: Steven-Newcomb
+author: newcomb
 link: https://aila.ngo/pagans-in-the-promised-land-a-primer-on-religious-freedom/
 ---
 Significant aspects of this research were published in the _New York University Review of Law & Social Change_ (Vol. 20, Number 2, 1993), “The Evidence of Christian Nationalism in Federal Indian Law.”

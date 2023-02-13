@@ -137,7 +137,7 @@ newcomb:
       icon: "fab fa-fw fa-vimeo"
       url: "https://vimeo.com/ondemand/dominationcode"
 
-Betty-Lyons:
+blyons:
   name: Betty Lyons
   bio: "Betty Lyons, President & Executive Director of the American Indian Law Alliance (AILA), is an Indigenous and environmental activist and citizen of the Onondaga Nation."
   avatar: /assets/images/authors/aila-logo.png
@@ -409,7 +409,7 @@ manuel.may:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/manuel-may-castillo-332a8138/" 
 
-Christopher-Sudol:
+christopher.sudol:
   name: "Christopher Sudol"
   bio: "Christopher is a 2023 J.D. Candidate and Haub Scholar in the Elisabeth Haub School of Law at Pace University."
   avatar: /assets/images/authors/generic-account-6491185_1280-unsplash.png

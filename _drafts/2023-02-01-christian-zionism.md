@@ -12,7 +12,7 @@ tags:
   - law
   - Christianity
   - Christian-Zionism
-author: Jonathan-Brenneman
+author: jonathan.brenneman
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

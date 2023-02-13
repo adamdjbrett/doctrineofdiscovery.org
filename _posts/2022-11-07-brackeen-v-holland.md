@@ -8,7 +8,7 @@ tags:
   - link
   - law
 link: https://blogs.umass.edu/derrico/2022/11/07/brackeen-v-haaland-the-indian-child-welfare-act-case-now-in-the-supreme-court-seen-in-perspective/
-author: peter-derrico
+author: derrico
 ---
 > The issue in the *[Brackeen](https://www.law.cornell.edu/supct/cert/21-376)* case is whether the [Indian Child Welfare Act (ICWA)](https://statecodesfiles.justia.com/us/2011/title-25/chapter-21/section-1901/document.pdf) is constitutional. Some observers are fearful the Supreme Court will use the case to attack the notion of "tribal sovereignty" by applying "race theory" to characterize Indigenous peoples, in contrast to an approach that sees Indigenous peoples as "political" entities quasi-separate from the US. A racial approach would collapse Native *peoples* into groups of Native *persons* within the US polity.
 >

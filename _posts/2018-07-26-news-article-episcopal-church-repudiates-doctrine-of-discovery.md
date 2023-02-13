@@ -1,7 +1,7 @@
 ---
 ID: 8862
 title: 'News Article: Episcopal Church repudiates Doctrine of Discovery'
-author: Gale-Courey-Toensing
+author: gale
 excerpt: "In a first-of-its-kind action in the Christian world, the national Episcopal Church has passed a landmark resolution repudiating the Doctrine of Discovery and urging the U.S. government to endorse the U.N. Declaration on the Rights of Indigenous Peoples."
 permalink: /news-article-episcopal-church-repudiates-doctrine-of-discovery/
 published: true

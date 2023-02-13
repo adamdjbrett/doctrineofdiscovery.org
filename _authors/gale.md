@@ -1,4 +1,4 @@
 ---
-username: Gale-Courey-Toensing
+username: gale
 name: Gale Courey Toensing
 ---

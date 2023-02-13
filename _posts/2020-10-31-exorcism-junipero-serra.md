@@ -8,7 +8,7 @@ tags:
   - law
   - federal-Indian-law
 link: http://originalfreenations.com/an-exorcism-junipero-serra-and-the-papal-bulls/
-author: Steven-Newcomb
+author: newcomb
 excerpt: "Archbishop Cordileone said his ceremony was intended to drive out evil and defend the image of Serra."
 ---
 > Historian David Stannard, in _American Holocaust_ (1992), called the missions “furnaces of death.” The reason is that the Native population of an estimated 300,000 Native people when Serra first arrived, collapsed fifty percent to 150,000 Native people by 1834, a period of a mere sixty five years.

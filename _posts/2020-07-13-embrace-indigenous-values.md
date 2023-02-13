@@ -10,7 +10,7 @@ tags:
   - statues
   - racism
   - columbus
-author: Philip-P-Arnold  
+author: pparnold  
 ---
 With the majority of the country now joining forces with the Black Lives Matter Movement, we have a chance to pause and revisit a very important time in history that took place here, during the founding of the United States, the Haudenosaunee Confederacy served to inspire America’s Founding Fathers to form a more perfect union of governance that would provide equity for all. Few know the history of these Indigenous Roots to American Democracy, and that this Great Binding Message of Peace, came to Onondaga Lake many thousands of years ago by the Peacemaker. We live in a very unique place where this spark ignited a light that would shine brightly around the world. Today the light is diminishing exponentially, taking with it the hope of a viable future, which espouses the great urgency to now take a stand.
 

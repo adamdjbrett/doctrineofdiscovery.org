@@ -1,6 +1,6 @@
 ---
 title: "Sublimis Deus (Sublimis Dei)"
-author: Tina-Ngata
+author: tina.ngata
 date: 2022-08-01T20:54:46
 excerpt: "On the limits of Sublimis Deus (also called Sublimis Dei)."
 published: true

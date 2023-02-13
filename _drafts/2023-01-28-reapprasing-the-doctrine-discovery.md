@@ -13,7 +13,7 @@ tags:
   - Christianity
   - Christian
   - Repudiations
-author: David-Wilkins
+author: david.wilkins
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg
