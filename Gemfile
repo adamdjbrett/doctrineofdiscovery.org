@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-
+gem "webrick"
 gem "github-pages", group: :jekyll_plugins
 gem 'liquid-c', '~> 4.0'
 

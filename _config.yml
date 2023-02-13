@@ -47,7 +47,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: true #set incremental to true to speed things up. if changes arent showing set to false
 
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -58,8 +57,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-
 
 # Sass/SCSS
 sass:
@@ -156,6 +153,10 @@ footer:
       icon: "fab fa-fw fa-youtube-square"
       url: "https://youtube.com/c/IndigenousValuesInitiative"
 
+collections:
+  authors:
+    output: true
+    permalink: /authors/:name
 
 defaults:
   # _posts
@@ -187,7 +188,14 @@ defaults:
       path: "assets/pdfs"
     values:
       pdf: true
-
+  # _author
+  - scope:
+      path: "_authors"
+      type: authors
+    values:
+      layout: author-single
+      author_profile: true
+      suggestedcitiation: true
 
 category_archive:
   type: liquid

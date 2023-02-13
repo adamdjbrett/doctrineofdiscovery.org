@@ -1,0 +1,9 @@
+---
+layout: archive
+---
+
+<ul class="taxonomy__index">
+  {% for author in site.authors %}
+    <li><a href="{{ author.url }}">{{ author.title }}</a></li>
+  {% endfor %}
+</ul>
