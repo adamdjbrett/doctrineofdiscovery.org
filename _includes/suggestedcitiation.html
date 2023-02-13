@@ -3,7 +3,6 @@
     <div class="suggested-citation-text">
       <p class="suggested-citation-text">
         {% assign author = page.author | default: page.authors[0] | default: site.author %}
-        {% assign author = page.authors | default: author %}
         {{ author.name }},
         {{ site.data.snippets.title-open-quote }}{{ page.title | strip }}{{ site.data.snippets.title-close-quote }}
         {% if page.translator %}
