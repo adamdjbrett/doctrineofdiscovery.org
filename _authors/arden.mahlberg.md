@@ -1,5 +1,5 @@
 ---
-username: arden.mahlberg
+username: Arden-Mahlberg
 name: "Arden Mahlberg, Ph.D."
 bio: "Psychologist applying psychology to living justly."
 avatar: /assets/images/authors/mahlberg.jpg

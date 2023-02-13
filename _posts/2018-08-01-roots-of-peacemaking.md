@@ -1,7 +1,7 @@
 ---
 ID: 9217
 title: 'Roots of Peacemaking'
-author: pparnold
+author: Philip-P-Arnold
 excerpt: "2009 event archive 'Roots of Peacemaking: Indigenous Values, Global Crisis' is the first in an ongoing series of events that include conferences, cultural exchanges and concerts.  This is a United Nation International Day of Peace event.  It  is the result of an ongoing collaboration between the Onondaga Nation and Syracuse University."
 permalink: /roots-of-peacemaking/
 published: true

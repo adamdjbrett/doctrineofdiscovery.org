@@ -6,7 +6,7 @@ categories:
 tags:
   - link
   - mascots
-author: blyons
+author: Betty-Lyons
 link: https://aila.ngo/the-original-cancel-culture/
 ---
 

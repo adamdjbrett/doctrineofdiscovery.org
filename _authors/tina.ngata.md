@@ -1,5 +1,5 @@
 ---
-username: tina.ngata
+username: Tina-Ngata
 name: "Tina Ngata"
 bio: "Dismantling Frameworks of Domination, Rematriating Ways of Being."
 avatar: /assets/images/authors/tina-ngata.png

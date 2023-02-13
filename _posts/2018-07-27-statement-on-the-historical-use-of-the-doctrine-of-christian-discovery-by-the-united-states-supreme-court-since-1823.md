@@ -1,7 +1,7 @@
 ---
 ID: 8898
 title: "Statement on the Historical Use of the Doctrine of Christian Discovery by the United States Supreme Court Since 1823"
-author: heath
+author: Joe-Heath
 excerpt: "The purpose of this paper is to review the history of the use of the Doctrine of Christian Discovery in United States Supreme Court decisions since 1823. It is hopes that the historical perspective in this paper will be of assistance to readers and help them gain a better understanding as to how fundamental the Doctrine of Discovery is to all United State Indian law, particularly with regards to land rights"
 permalink: /statement-on-the-historical-use-of-the-doctrine-of-christian-discovery-by-the-united-states-supreme-court-since-1823/
 published: true

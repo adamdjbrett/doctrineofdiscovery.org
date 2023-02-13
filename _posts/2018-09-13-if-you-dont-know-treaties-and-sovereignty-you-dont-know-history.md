@@ -1,7 +1,7 @@
 ---
 ID: 9531
 title: 'If you don’t know treaties and sovereignty, you don’t know history'
-author: ssharjo
+author: Suzan-Harjo
 excerpt: "Reclaiming Native Truth’s research shows hope. For instance, it demonstrates that, when presented with a narrative that educates on the value of and values inherent in the treaties signed between the United States and Native Nations, support for laws that uphold tribal sovereignty increases by 16 percent. This may seem like a negligible margin"
 permalink: /if-you-dont-know-treaties-and-sovereignty-you-dont-know-history/
 published: true

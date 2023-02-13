@@ -1,7 +1,7 @@
 ---
 ID: 9440
 title: 'RNS article about the conference'
-author: emmiller
+author: Emily-McFarlan-Miller
 excerpt: "The way Steven T. Newcomb describes the Doctrine of Discovery these days is 'a claim of a right of Christian domination.' It was first expressed by Pope Nicholas V in the 1452 papal bull Dum Diversas, which — along with subsequent bulls Romanus Pontifex and Inter Caetera — created a theological justification for Christian rulers seizing the property and possessions of non-Christians"
 permalink: /rns-article-about-the-conference/
 published: true

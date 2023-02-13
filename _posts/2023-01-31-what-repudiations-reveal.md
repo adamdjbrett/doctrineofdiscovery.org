@@ -14,7 +14,7 @@ tags:
   - Christian
   - Repudiations
   - featured
-author: arden.mahlberg
+author: Arden-Mahlberg
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

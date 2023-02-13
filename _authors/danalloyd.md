@@ -1,5 +1,5 @@
 ---
-username: danalloyd
+username: DanaLLoyd
 name: Dana Lloyd
 bio: "Assistant Professor of Global Interdisciplinary Studies, Affiliated Faculty, Center for Peace and Justice Education, Villanova University."
 avatar: /assets/images/authors/DanaLloyd-headshot-150x150.jpg

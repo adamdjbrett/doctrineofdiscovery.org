@@ -1,5 +1,5 @@
 ---
-username: emmiller
+username: Emily-McFarlan-Miller
 name: "Emily McFarlan Miller"
 bio: "Emily McFarlan Miller is a national reporter for RNS based in Chicago. She covers evangelical and mainline Protestant Christianity."
 avatar: /assets/images/authors/emmiller.jpg

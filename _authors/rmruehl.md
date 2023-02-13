@@ -1,5 +1,5 @@
 ---
-username: rmruehl
+username: Robert-Ruehl
 name: "Robert Michael Ruehl"
 bio: "Visiting Assistant Professor, Saint John Fisher College."
 avatar: /assets/images/authors/rmruehl.jpg

@@ -1,4 +1,4 @@
 ---
-username: chaffee
+username: John-Chaffee
 name: John Chaffee
 ---

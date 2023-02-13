@@ -9,7 +9,7 @@ tags:
   - Education
   - Resources
   - Philosophy
-author: rmruehl  
+author: Robert-Ruehl  
 ---
 This article begins by raising a problem: when social change and justice issues are addressed, rarely are Indigenous nations and peoples considered. This needs to change. Many of the injustices in the United States are connected to or emerge from racism supported by the Doctrine of Christian Discovery (DoCD). It is time for reformers to become more aware of the DoCD and its legacy in the United States. In connection with the DoCD is the boarding-school experience, its foundation in the Christian supremacist ideas articulated in the DoCD, and the intergenerational trauma the schools created for Indigenous peoples and their families. In light of these violent and unjust dimensions, the United States may be imagined as a large crime scene. Not only should reformers understand this history better, this article suggests that reformers should begin looking to Indigenous wisdom to help reconceptualize what lasting peace might look like in the United States.
 

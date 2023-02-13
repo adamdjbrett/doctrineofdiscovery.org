@@ -14,7 +14,7 @@ tags:
   - indigenous
   - sherrill
   - oneida
-author: heath
+author: Joe-Heath
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

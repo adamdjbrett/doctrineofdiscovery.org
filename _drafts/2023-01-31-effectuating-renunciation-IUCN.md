@@ -12,7 +12,7 @@ tags:
   - law
   - repudiations
   - IUCN
-author: christopher.sudol
+author: Christopher-Sudol
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

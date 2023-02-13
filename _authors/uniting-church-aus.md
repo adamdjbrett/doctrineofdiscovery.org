@@ -1,5 +1,5 @@
 ---
-username: uniting-church-aus
+username: Uniting-Church-AUS
 name: "Uniting Church in Australia"
 bio: "In 1977, three Australian Christian denominations joined to form the Uniting Church in Australia. After many years of prayerful discernment, the Congregational Union in Australia, the Methodist Church of Australasia and the Presbyterian Church of Australia came together."
 avatar: /assets/images/authors/UCA-logo.png

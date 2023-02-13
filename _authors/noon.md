@@ -1,5 +1,5 @@
 ---
-username: noon
+username: NOON
 name: "NOON"
 bio: "Neighbors of Onondaga Nation."
 avatar: /assets/images/authors/noon-Icon-smaller.jpg

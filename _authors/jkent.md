@@ -1,5 +1,5 @@
 ---
-username: jkent
+username: Jim-Kent
 name: Jim Kent
 bio: "Freelance writer, radio producer, columnist"
 avatar: /assets/images/authors/jkent.jpg
