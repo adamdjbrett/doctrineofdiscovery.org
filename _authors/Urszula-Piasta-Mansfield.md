@@ -1,5 +1,5 @@
 ---
-shortname: Urszula-Piasta-Mansfield
+username: Urszula-Piasta-Mansfield
 name: "Urszula Piasta-Mansfield, Ph.D."
 bio: "Associate Director, American Indian and Indigenous Studies Program."
 avatar: /assets/images/authors/Urszula-Piasta-Mansfield-Cornell.jpg

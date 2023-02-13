@@ -1,5 +1,5 @@
 ---
-shortname: adamdjbrett
+username: adamdjbrett
 name: Adam DJ Brett
 bio: "Ph.D. in Religion from Syracuse University. Webmaster for the Doctrine of Discovery educational resource."
 avatar: /assets/images/authors/adamdjbrett.png

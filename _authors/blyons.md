@@ -1,4 +1,5 @@
 ---
+username: blyons
 name: Betty Lyons
 bio: "Betty Lyons, President & Executive Director of the American Indian Law Alliance (AILA), is an Indigenous and environmental activist and citizen of the Onondaga Nation."
 avatar: /assets/images/authors/aila-logo.png

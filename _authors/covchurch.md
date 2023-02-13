@@ -1,4 +1,5 @@
 ---
+username: covchurch
 name: "Evangelical Covenant Church"
 bio: "We join God in God's mission to see more disciples among more populations in a more caring and just world."
 avatar: /assets/images/authors/evangelical-covenant-church.png

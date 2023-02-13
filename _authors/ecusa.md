@@ -1,4 +1,5 @@
 ---
+username: ecusa
 name: "Episcopal Church (USA)"
 bio: "The Episcopal Church is a member church of the worldwide Anglican Communion based in the United States with dioceses elsewhere."
 avatar: /assets/images/authors/ecusa.png
