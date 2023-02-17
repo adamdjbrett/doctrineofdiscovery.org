@@ -6,5 +6,5 @@ avatar: /assets/images/authors/tracy-basile.jpg
 links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
-    url: "https://www.linkedin.com/in/tracy-basile-animal-writer/"
+    url: "https://muckrack.com/tracy-basile-1/portfolio"
 ---
