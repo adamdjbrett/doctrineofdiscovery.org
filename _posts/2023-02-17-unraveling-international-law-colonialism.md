@@ -7,6 +7,7 @@ tags:
   - link
   - conference
 link: https://na.eventscloud.com/ereg/index.php?eventid=722437
+suggestedcitiation: false
 ---
 [![flyer](/assets/images/unravelingcolonialism_square_rev2.png)](https://na.eventscloud.com/ereg/index.php?eventid=722437)
 
