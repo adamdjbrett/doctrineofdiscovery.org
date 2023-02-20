@@ -19,6 +19,9 @@ sidebar:
     image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth."
     text: "Learn More about the Doctrine of Discovery"
     nav: next-steps 
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
 It was an ordinary evening on October 9, 2018 when, scrolling down my mouse wheel randomly looking at posts on Facebook something suddenly caught my attention: A post launched an invitation from the [Mennonite Coalition for the Dismantling of the Doctrine of Discovery](https://dofdmenno.org/) to join a Christian lament in the United States. The post invited lamenting of the [Doctrine of Discovery](/what-is-the-doctrine-of-discovery/) \(DD\) and encouraged reflection on its consequences for the lives of Indigenous Peoples today.
 <!--more-->

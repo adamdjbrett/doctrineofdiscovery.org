@@ -20,6 +20,9 @@ sidebar:
     image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth."
     text: "Learn More about the Doctrine of Discovery"
     nav: next-steps 
+toc: true
+toc_label: "Overview"
+toc_icon: "cog"    
 ---
 >Again, were we to inquire by what law or authority you set up a claim \[to our land\], I answer, none! Your laws extend not into our country, nor ever did. You talk of the law of nature and the law of nations, and they are both against you.
 >~ Corn Tassel (Cherokee, 1785)

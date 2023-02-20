@@ -21,6 +21,9 @@ sidebar:
     image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth."
     text: "Learn More about the Doctrine of Discovery"
     nav: next-steps 
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
 Nations formulate doctrines that define and guide their relations toward other nations. The [Monroe Doctrine](/monroe-doctrine/), and the Truman, Carter, and Bush Doctrines are American examples. As nations in Christendom in the 15th century had the wherewithal to explore the world by sea, popes formulated a doctrine to shape their relations with the lands and people the explorers would encounter. This came to be called the [Doctrine of Discovery](/what-is-the-doctrine-of-discovery/). While this is a religiously based doctrine, it has been adopted as legal precedent in Europe and the United States.
 <!--more-->

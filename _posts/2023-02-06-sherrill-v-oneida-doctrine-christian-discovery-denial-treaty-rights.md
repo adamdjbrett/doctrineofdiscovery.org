@@ -21,6 +21,9 @@ sidebar:
     image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth."
     text: "Learn More about the Doctrine of Discovery"
     nav: next-steps 
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
 This shameful, land mark decision by the Supreme Court was issued just three weeks after the filing of the Onondaga Nation’s Land Rights Action. It was a remarkable decision in several ways and although it was not a land claim or a land rights action, it resulted in negative impacts on the Haudenosaunee land cases, as it has been used as the excuse to dismiss the then pending Oneida, Onondaga and Cayuga land rights cases.
 <!--more-->

@@ -10,10 +10,15 @@ tags:
   - Indigenous-Peoples
   - Education
   - Resources
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
-## _Two Kinds of Beings: The Doctrine of Discovery And Its Implications for Yesterday and Today_ by Robert Francis
-### First published online by Manataka American Indian Council 13 December 2003.
-[Archived from the Manataka American Indian Council site](http://web.archive.org/web/20200318205910/https://www.manataka.org/page94.html).
+## Overview
+
+### _Two Kinds of Beings: The Doctrine of Discovery And Its Implications for Yesterday and Today_ by Robert Francis
+#### First published online by Manataka American Indian Council 13 December 2003.
+##### [Archived from the Manataka American Indian Council site](http://web.archive.org/web/20200318205910/https://www.manataka.org/page94.html).
 
 ***
 
@@ -121,7 +126,7 @@ Most Christian denominations in the United States have roots in the Roman Cathol
 
 ***
 
-**Sources:**
+## **Sources:**
 
 * "Five Hundred Years of Injustice: The Legacy of Fifteenth Century Religious Prejudice" by Steve Newcomb, Indigenous Law Institute - http//ili.nativeweb.org
 * "Pagans in the Promised Land: A Primer on Religious Freedom" by Steven T. Newcomb
@@ -129,7 +134,7 @@ Most Christian denominations in the United States have roots in the Roman Cathol
 * "The Legacy of Religious Racism in U.S. Indian Law" by Steven Newcomb, Indigenous Law Institute - http//ili.nativeweb.org
 * "American Indian Sovereignty: Now You See It, Now You Don't" by Peter d'Errico, Legal Studies Dept., University of Massachusetts, Amherst.
 
-**Books:**
+## **Books:**
 
 * Lies My Teacher Told Me by James Loewen
 * A Violent Evangelism by Luis N. Rivera

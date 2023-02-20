@@ -31,6 +31,9 @@ sidebar:
     text: "Learn More about the Doctrine of Discovery"
     nav: next-steps 
 published: true
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
 
 In our journey of dismantling the [Doctrine of Discovery](/what-is-the-doctrine-of-discovery/) and its horrible legacy, there is a recurring argument from the Catholic church and its supporters, that there is no need for the church to formally rescind, for it has already done so through the papal bull *Sublimis Deus*. I have previously provided [a brief overview](/papal-bulls/sublimis-deus/) as to why this argument does not hold true, and for those who wish to dive a little deeper into this history, now offer further discussion below.

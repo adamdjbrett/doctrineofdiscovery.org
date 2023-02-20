@@ -89,7 +89,7 @@ author: adamdjbrett
 
 ### More Resources on the law panel
  * [A Concept of Native Title by Leroy Littlebear (1982)](https://doctrineofdiscoveryforum.blogspot.com/2013/11/a-concept-of-native-title-by-leroy_25.html)
-  * [The Murder of George Floyd and The Death of "White" Supremacy, Dismantling the Master's Narrative]( https://redabyayala.blogspot.com/2020/06/the-murder-of-george-floyd-and-death-of.html)
+ * [The Murder of George Floyd and The Death of "White" Supremacy, Dismantling the Master's Narrative](https://redabyayala.blogspot.com/2020/06/the-murder-of-george-floyd-and-death-of.html)
 
 
 ### “Social Change and Indigenous History and Wisdom,” Rob Ruehl
@@ -166,7 +166,7 @@ author: adamdjbrett
 ## Session III Resources
 * [Kings and Kingdoms: Doctrine and Domination](https://doctrineofdiscoveryforum.blogspot.com/2019/11/kings-and-kingdoms-doctrine-and.html)
 
-> It became necessary to format the public consciousness in a systematic manner, manufacturing consent for the rationalization and expansion of territorial dominion via political acts of allegiance to the Divine Right of States. It became necessary to manufacture the mythology of America.
+>It became necessary to format the public consciousness in a systematic manner, manufacturing consent for the rationalization and expansion of territorial dominion via political acts of allegiance to the Divine Right of States. It became necessary to manufacture the mythology of America.
 
 * Watch Spirit Game: Pride of a Nation [amazon](https://www.amazon.com/Spirit-Game-Nation-Oren-Lyons/dp/B071758P96), [tubi](https://tubitv.com/movies/498407/spirit_game_pride_of_a_nation)
 * [Please sign the petition for the Iroquois Nationals](https://www.change.org/p/international-world-games-association-iwga-support-the-iroquois-nationals-lacrosse-team-inclusion-2022-world-games-birmingham-usa)
