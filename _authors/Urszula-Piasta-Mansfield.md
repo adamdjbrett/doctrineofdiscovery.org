@@ -7,7 +7,7 @@ links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://cals.cornell.edu/urszula-piasta-mansfield"
-  - label: "Patreon"
-    icon: "fab fa-fw fa-link"
+  - label: "Academia"
+    icon: "fas fa-fw fa-link"
     url: "https://ulapiasta.academia.edu/"
 ---
