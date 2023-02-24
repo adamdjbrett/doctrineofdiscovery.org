@@ -59,10 +59,10 @@ Since there is no accepted definition of 'consent,' it proves most difficult to 
 
 The application of FPIC, understandably, seeks to raise the standards for engaging with Indigenous peoples. This need emerges from the lessons of history that continue to pose challenges to Indigenous peoples' full enjoyment of their rights.
 
-Doctrine of Discovery and the Function of Indigenous Consent:[^4]
+Doctrine of Discovery and the Function of Indigenous Consent:
 ----------------------------------------------------------------------------------
 
-FPIC was hardly the framework that European States relied on, when, in the 15^th^ and 16^th^ centuries, they began carving up the Americas into their exclusive spheres of influence. At best, proclamations were read in foreign languages to empty shores, missing the mark on *informed consent*. Even when more direct consent was attempted, it was hardly *prior*. A  theologically-derived international law guided by the Doctrine of Discovery, vested European States with absolute dominion and ownership in Indigenous territories, even before they set foot there. Crucially, under this legal framework, a State could preempt other European States from interfering with their territorial claims and trade monopolies solely on the basis of first discovery; hence, without any regard for Indigenous peoples already living there.[^5]
+FPIC was hardly the framework that European States relied on, when, in the 15<sup>th</sup>, and 16<sup>th</sup> centuries, they began carving up the Americas into their exclusive spheres of influence. At best, proclamations were read in foreign languages to empty shores, missing the mark on *informed consent*. Even when more direct consent was attempted, it was hardly *prior*.[^4] A theologically-derived international law guided by the Doctrine of Discovery, vested European States with absolute dominion and ownership in Indigenous territories, even before they set foot there. Crucially, under this legal framework, a State could preempt other European States from interfering with their territorial claims and trade monopolies solely on the basis of first discovery; hence, without any regard for Indigenous peoples already living there.[^5]
 
 Having emerged from the Doctrine of Discovery, preemption rights helped implement this foundational, yet fabricated, legal doctrine in North America, this time, relying on Indigenous consent to operate. With the establishment of settled colonies, preemption was employed as an *exclusive* right of *first* purchase of Indigenous lands, subject only to Indigenous occupancy. However, as an incomplete (or future) proprietary right, it required Indigenous consent to extinguish their own territorial rights for preemption to become a full proprietary, or fee simple, title.[^6] Over time, the pressure on Indigenous nations to grant consent became so intense that any semblance, dignity or respect, characteristic of originally conceived, consensual treaty relations between Indigenous nations and settler colonies began to erode.
 
@@ -157,7 +157,7 @@ Wolfe, Patrick. "Settler Colonialism and the Elimination of the Native." *Journa
 
 *Cherokee Nation v. Georgia*, 30 U.S. 1 (1831). Accessed at: <https://supreme.justia.com/cases/federal/us/30/1/>
 
-Draft United Nations Declaration on the Rights of Indigenous Peoples, UN Commission on Human Rights, Sub-Commission on Prevention of Discrimination and Protection of Minorities, 46^th^ Session, UN doc. E/CN.4/Sub. 2/1994/30. Accessed at: <http://www.un-documents.net/c4s29445.htm>
+Draft United Nations Declaration on the Rights of Indigenous Peoples, UN Commission on Human Rights, Sub-Commission on Prevention of Discrimination and Protection of Minorities, 46<sup>th</sup> Session, UN doc. E/CN.4/Sub. 2/1994/30. Accessed at: <http://www.un-documents.net/c4s29445.htm>
 
 Economic and Social Council, Impact on Indigenous Peoples of the International Legal Construct Known as the Doctrine of Discovery, which served as the Foundation of the Violation of their Human Rights, UN Doc. E/C19/2010/13 (April 19-30, 2010) (by Tonya Gonnella Frichner) Accessed at: <https://www.un.org/esa/socdev/unpfii/documents/E.C.19.2010.13%20EN.pdf>
 
@@ -165,7 +165,7 @@ George, R. III, Royal Proclamation of 1763. Accessed at: <https://primarydocumen
 
 Human Rights Council, *Free Prior and Informed Consent: A Human Rights-Based Approach, Study of the Expert Mechanism on the Rights of Indigenous Peoples*, UN Doc. A/HRC/39/62 (10 August 2018). Accessed at: <https://www.ohchr.org/en/documents/thematic-reports/free-prior-and-informed-consent-human-rights-based-approach-study-expert>
 
-International Labor Organization, Convention (No. 169) Concerning Indigenous and Tribal Peoples in Independent Countries, Geneva, 76^th^ ILC session, adopted June 27, 1989. Accessed at: <https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C169>
+International Labor Organization, Convention (No. 169) Concerning Indigenous and Tribal Peoples in Independent Countries, Geneva, 76<sup>th</sup> ILC session, adopted June 27, 1989. Accessed at: <https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C169>
 
 *Johnson v. M'Intosh*, 21 U.S. 543 (1823). Accessed at: <https://tile.loc.gov/storage-services/service/ll/usrep/usrep021/usrep021543/usrep021543.pdf>
 
