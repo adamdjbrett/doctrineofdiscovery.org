@@ -10,6 +10,7 @@ tags:
   - Indigenous-Peoples
   - Education
   - Resources
+  - featured
 toc: true
 toc_label: "Overview"
 toc_icon: "cog" 

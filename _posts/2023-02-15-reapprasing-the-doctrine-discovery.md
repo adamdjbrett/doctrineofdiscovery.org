@@ -13,6 +13,7 @@ tags:
   - Christianity
   - Christian
   - Repudiations
+  - featured
 author: david.wilkins
 sidebar:
   - title: "Next Steps"

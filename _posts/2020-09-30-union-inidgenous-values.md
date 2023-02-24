@@ -7,6 +7,7 @@ categories:
 tags:
   - link
   - values
+  - featured
 link: https://orionmagazine.org/2020/09/forming-a-more-perfect-union-through-indigenous-values/
 author: pparnold
 ---

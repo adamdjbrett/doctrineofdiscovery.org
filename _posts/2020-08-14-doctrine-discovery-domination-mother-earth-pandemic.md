@@ -19,6 +19,7 @@ tags:
   - US-Law
   - US-Indian-Law
   - Indigenous-Peoples
+  - featured
 author: heath  
 toc: true
 toc_label: "Table of Contents"

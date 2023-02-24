@@ -19,6 +19,7 @@ tags:
   - US-Law
   - US-Indian-Law
   - Indigenous-Peoples
+  - featured
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "fire"

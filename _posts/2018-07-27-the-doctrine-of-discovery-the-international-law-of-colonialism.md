@@ -13,6 +13,16 @@ tags:
   - UN
   - United-Nations
   - International-Law
+  - featured
+  sidebar:
+  - title: "Next Steps"
+    image: /assets/images/colonial-contact.jpg
+    image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth."
+    text: "Learn More about the Doctrine of Discovery"
+    nav: next-steps 
+toc: true
+toc_label: "Overview"
+toc_icon: "cog"
 ---
 
 ## Ten Legal Elements of the Doctrine of Discovery

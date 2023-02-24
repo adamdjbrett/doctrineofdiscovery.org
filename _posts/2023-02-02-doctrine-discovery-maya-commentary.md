@@ -12,6 +12,7 @@ tags:
   - Christianity
   - Maya
   - Mexico
+  - featured
 author: manuel.may
 sidebar:
   - title: "Next Steps"

@@ -6,6 +6,7 @@ categories:
 tags:
   - link
   - doctrine-discovery
+  - featured
 link: https://indiancountrytoday.com/archive/on-the-papal-bull-sublimis-deus
 author: admin
 ---

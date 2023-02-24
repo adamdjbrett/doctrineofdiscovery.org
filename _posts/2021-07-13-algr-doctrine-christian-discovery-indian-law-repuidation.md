@@ -13,6 +13,7 @@ tags:
  - Onondaga-Nation
  - Indigenous-Peoples
  - Indian-Law
+ - featured
 ---
 Excerpt:
 > The doctrine of discovery has continued to be the cornerstone of United States Indian law. A series of recent, disturbing decisions by the Supreme Court and some of the Circuit Courts of Appeal, over the last decade, have used the doctrine to further limit the rights of Indigenous peoples and nations.

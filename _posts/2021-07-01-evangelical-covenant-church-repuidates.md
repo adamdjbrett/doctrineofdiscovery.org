@@ -13,7 +13,6 @@ tags:
   - Christian
   - PDF
   - Repudiations
-
 ---
 ## Evangelical Covenant Church statement
 > Delegates at the Covenant Annual Connection voted overwhelmingly (84%) on Friday (June 25) to approve a resolution acknowledging the damage done to Indigenous peoples in the Americas by taking their land and rights and lamenting the church’s complicity in the continuing effects of that history. [read more...](https://religionnews.com/2021/06/29/evangelical-covenant-church-joins-list-of-protestant-denominations-rebuking-doctrine-of-discovery/)

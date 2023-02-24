@@ -10,6 +10,7 @@ tags:
   - video
   - film
   - doctrine-discovery
+  - featured
 link: https://vimeo.com/ondemand/dominationcode
 ---
 The iconic film _The Doctrine of Discovery: Unmasking the Domination Code_ is now streaming on Vimeo. You can rent or purchase the film. The film is

@@ -8,6 +8,7 @@ tags:
   - Haudensoaunee
   - soverignty
   - TheyWereChildren
+  - featured
 author: aila
 link: https://aila.ngo/an-open-letter-on-indian-residential-schools/
 ---

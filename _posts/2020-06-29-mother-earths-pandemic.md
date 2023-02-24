@@ -14,6 +14,7 @@ tags:
   - doctrine-of-discovery
   - Haudenosaunee
   - Indigenous-Peoples
+  - featured
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"  

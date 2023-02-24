@@ -17,6 +17,7 @@ tags:
   - Conference
   - Education
   - Resources
+  - featured
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "fire"  

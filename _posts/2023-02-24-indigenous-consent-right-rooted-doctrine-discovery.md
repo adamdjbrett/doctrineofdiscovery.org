@@ -12,6 +12,7 @@ tags:
   - rights
   - law
   - indigenous
+  - featured
 author: Urszula-Piasta-Mansfield
 sidebar:
   - title: "Next Steps"

@@ -14,6 +14,7 @@ tags:
   - indigenous
   - sherrill
   - oneida
+  - featured
 author: heath
 sidebar:
   - title: "Next Steps"
