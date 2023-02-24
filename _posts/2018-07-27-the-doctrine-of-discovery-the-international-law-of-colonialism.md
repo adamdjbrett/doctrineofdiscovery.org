@@ -1,6 +1,5 @@
 ---
-ID: 8900
-title: 'The Ten Legal Dimensions of the Doctrine of Discovery: The International Law of Colonialism'
+title: "The Ten Legal Dimensions of the Doctrine of Discovery: The International Law of Colonialism"
 author: rjmiller
 excerpt: "Here are the 10 elements that I think constitute the Doctrine and are useful in analyzing and comparing how settler-colonizer societies have used this international law against Indigenous peoples around the globe."
 permalink: /the-doctrine-of-discovery-the-international-law-of-colonialism/
@@ -14,12 +13,12 @@ tags:
   - United-Nations
   - International-Law
   - featured
-  sidebar:
-  - title: "Next Steps"
-    image: /assets/images/colonial-contact.jpg
-    image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth."
-    text: "Learn More about the Doctrine of Discovery"
-    nav: next-steps 
+sidebar:
+- title: "Next Steps"
+  image: /assets/images/colonial-contact.jpg
+  image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth."
+  text: "Learn More about the Doctrine of Discovery"
+  nav: next-steps 
 toc: true
 toc_label: "Overview"
 toc_icon: "cog"
