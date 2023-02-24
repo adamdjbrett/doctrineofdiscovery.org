@@ -19,6 +19,9 @@ sidebar:
     image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth."
     text: "Learn More about the Doctrine of Discovery"
     nav: next-steps 
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
 > "Indians being the prior occupants, possess the right to the soil. It cannot be taken from them unless by their free consent.... To dispossess them in any other principle, would be a gross violation of the fundamental laws of nature" (Henry Knox, Secretary of War, 1789).[^1]
 
