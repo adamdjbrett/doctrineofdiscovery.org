@@ -5,7 +5,7 @@ excerpt: "Consent is a fundamental Indigenous right that exists in a reciprocal 
 header:
   image: /assets/images/honor-two-row-3-wampum-belts.jpg
   caption: "The Canandaigua, Two Row, and Haudenosaunee Confederacy Wampum Belts. Image by Lindsay Speer, 2008. Image via [Honor the Two Row](https://honorthetworow.org/media/media-kit/)"
-date: 2023-01-29 07:54:46
+date: 2023-02-24 07:54:46
 categories:
   - blog
 tags:
