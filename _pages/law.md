@@ -27,6 +27,7 @@ redirect_from:
   *   [_Johnson v. M’Intosh_, March 10, 1823](/johnson-v-mcintosh/)
   *   [The Monroe Doctrine, December 2, 1823](/monroe-doctrine/)
   *   [The Roosevelt Corollary to the Monroe Doctrine, December 6, 1904](/roosevelt-corollary/)
+  *   [Lyng v. Northwest Indian Cemetery Protective Association, 485 U.S. 439](/law/lyng/)
   *   [_Tee-Hit-Ton v. The United States_. US, 348 US 272 (1955)](https://doctrineofdiscovery.org/tee-hit-ton/)
   * _City of Sherrill V. Oneida Indian Nation_
     *   [_City of Sherrill V. Oneida Indian Nation_, 544 U.s. 197 (2005): the Doctrine of Christian Discovery and Domination and the Denial of Treaty Rights](/blog/sherrill-v-oneida-doctrine-christian-discovery-denial-treaty-rights/) By Joseph J. Heath, Esq. Onondaga Nation General Counsel
