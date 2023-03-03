@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 header:
   image: /assets/images/Deer-czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQyMC1qai0wOTAxMzYuanBn.webp
   caption: "[Deer or Virginian Deer (Cervus Virginianus) from the viviparous quadrupeds of North America (1845) illustrated by John Woodhouse](https://www.rawpixel.com/image/321909/free-illustration-image-deer-audubon-vintage). Via NYPL"
-date: 2023-03-05 07:54:46
+date: 2023-03-03 07:54:46
 categories:
   - blog
 tags:
