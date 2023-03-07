@@ -20,7 +20,7 @@ sidebar:
     text: "Learn More about the Doctrine of Discovery"
     nav: next-steps 
 ---
-> **_Democracy:_** “_Democracy didn’t come across on the Mayflower. Indeed not. Nor with the Niña nor Santa Maria. Certainly not. Democracy was here. It was in full flower. It was rampant. It was all over. All nations were free, and that includes the buffalo nation, that includes the fish nations and the nations of trees. They were all free_.”  — Oren Lyons (Onondaga), from_ The Ice is Melting_, 2004_.
+> **_Democracy:_** _“Democracy didn’t come across on the Mayflower. Indeed not. Nor with the Niña nor Santa Maria. Certainly not. Democracy was here. It was in full flower. It was rampant. It was all over. All nations were free, and that includes the buffalo nation, that includes the fish nations and the nations of trees. They were all free.”  — Oren Lyons (Onondaga), from **The Ice is Melting**, 2004_.
 <!--more-->
 
 
