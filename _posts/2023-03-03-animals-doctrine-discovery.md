@@ -1,5 +1,5 @@
 ---
-title: "Other Nations: New Perspectives on Animals and the Doctrine of Discovery"
+title: "Animal Nations and the Doctrine of Discovery"
 excerpt_separator: "<!--more-->"
 header:
   image: /assets/images/Deer-czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQyMC1qai0wOTAxMzYuanBn.webp
@@ -81,7 +81,7 @@ Both then and now, livestock farming pushes everything in its way aside, leaving
 Some of the species that Indigenous cultures feel the closest kinship with and hold most sacred are the same ones Western science defines as keystone species. Like the name implies, these species play an outsized role in maintaining the health of ecosystems. The Gwich'in of the Arctic are deeply connected to caribou. To the Plains Indians, it is the buffalo. The Tlingit, Chinook, Haida and many more Pacific Northwest tribal nations have such strong bonds with salmon they call themselves, and the fish, Salmon People. According to many Native traditions, if these sacred relationships are destroyed, the world falls out of balance. Perhaps that's where we are now --- living in a world that has fallen seriously out of balance.
 
 ## Beaver
-<figur>
+<figure>
     <a href="/assets/images/Antique-animal-illustration-of-Beaver-in-the-Public-Domain.webp"><img src="/assets/images/Antique-animal-illustration-of-Beaver-in-the-Public-Domain.webp"></a>
     <figcaption>
     Antique Animal Illustration Of Beaver In The Public Domain. This illustration was extracted from the vintage book :&nbsp;<a href="https://freevintageillustrations.com/vintage-book-illustrations/types-du-regne-animal-buffon-en-estampes">Types du règne animal. Buffon en estampes</a>. Illustrations by :&nbsp;<a title="View all illustrations by: Traviés, Edouard" href="https://freevintageillustrations.com/illustrator/travies-edouard">Traviés, Edouard</a>  
@@ -126,6 +126,7 @@ Settlers in search of gold first rushed into Yurok territory around 1849. Loggin
     American Bison (Bos Americanus) from the viviparous quadrupeds of North America (1845) illustrated by John Woodhouse via <a href="https://www.rawpixel.com/image/321915/free-illustration-image-bison-audubon-animals" target="blank">NYPL</a>.
     </figcaption>
 </figure>
+
 When the US cavalry could not defeat the Plains Indians in battle, they came back to attack their relative, the buffalo. The horror that happened next came out of the greed of market hunters funded in large part by the US federal government. In the late 19th-century, over a period of three decades, buffalo populations in the United States plummeted. After they were shot and killed, their bodies were striped of their fur and their tongues cut out, leaving the rest to rot and stink on the prairie lands. "Every buffalo dead is an Indian gone." The windigo words of Colonel Richard Dodge, 1867. In 1884 only a few hundred remained, finding refuge in Yellowstone National Park.
 
 Once as many as 60 million roamed across North America. Today, the last pure wild buffalo herd in the United States numbers around 5,000 individuals that reside in Yellowstone National Park. The rest, approximately 500,000, are raised as livestock and have been crossbred with cattle in unsuccessful attempts to create a hardier cow. Like cattle, they will spend their last days in feedlots. In his book *American Serengeti,* the environmental historian Dan Flores shared a story told to him several years ago by Fred Dubray (Cheyenne River Sioux), one of the founders of the Intertribal Bison Cooperative. Dubray said when the cooperative was just getting started some people got together to discuss ideas about how to bring buffalo back to reservations. A Lakota elder, a woman, quietly spoke up and said, "Best you ask the buffalo if they *want* to come back." So they held a ceremony and did just that. What did the buffalo say? "They said they wanted to come back," Dubray told Flores, "but ...they didn't want to come back and be cows. They said they wanted to be buffalo. They wanted to be wild again."
@@ -134,7 +135,7 @@ Throughout Indian Country, in growing numbers, buffalo are heading home renewing
 
 \*\*\*
 
-> **_Justice:_** _“We seek justice, not just for ourselves, but justice for the whole creation.” —_ _Audrey Shenandoah (Onondaga)_
+> **_Justice:_** _“We seek justice, not just for ourselves, but justice for the whole creation.” — Audrey Shenandoah (Onondaga)_
 
 In 2001, I had the honor of working with environmental activist and Lakota language teacher Rosalie Little Thunder (Sicangu Lakota) as we fought together to try to close down one of the world's largest hog factories being built on sacred Lakota lands in South Dakota. With Rosalie as my guide, I visited Rosebud Sioux Reservation just as Bell Farms was trying to get an enormous hog confinement facility built as fast as possible, pushing the deal through without a complete Environmental Impact Statement. More than 98 percent of farmed pigs in the United States are raised in overcrowded warehouse-sized buildings called CAFOs (confined animal feeding operations), where piglets mature into adults without ever seeing the outdoors and enormous quantities of water flush the manures away into so-called "lagoons." This was what Bell Farms was forcing on Indian Country, adhering to a form of capitalist economics that calculates the pollution of the land, the water, and the endless suffering of animals as inconsequential compared to the mass production of pork for profit. We were seeking justice not just for the Lakota, but for the whole creation: the land, the water, and the pigs.
 
@@ -143,9 +144,10 @@ It took five years to stop the construction of Bell Farms. Rosalie knew we were 
 Stories of decolonization take many forms. Recognizing the dignity of animals is a part of the narrative that's often missing. As we worked together, Rosalie told me how the buffalo fertilize the soil with their droppings, carry seeds in their coats over long distances, and don't stay long enough in any one place to cause damage. They break trails in the winter snow and ice, later to be traversed by elk, deer, coyote and other smaller species, and she said, all the predators benefit---the wolf, the grizzly, birds of prey---when a buffalo dies. "When we see how the buffalo functions in its ecosystem, we hold it to be sacred," she explained. The more she spoke, the more I began to grasp the huge cultural divide between the domesticated pig trapped in industrial agriculture and the wild buffalo, struggling to stay free.
 
 Healing these broken bonds requires the will of strong hearts. Such ways are not new. They come from a long time ago when the land had no bosses. Only relatives. When each act of restoration is an act of decolonization, it contributes to breaking down a 500-year-old edict that nearly succeeded in destroying the wisdom of the world.  
-
+  
 > _“Sometimes our truth makes others uncomfortable. But it’s never ok to make anyone feel less than because of it. Nobody is higher or better than anyone else.”_ — _Issac Murdoch, Ojibwe First Nations artist and educator_
-
+  
+  
 ### Copyright Notice
 © 2023 Tracy Basile
 
