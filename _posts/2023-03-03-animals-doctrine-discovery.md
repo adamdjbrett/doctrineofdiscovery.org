@@ -121,7 +121,7 @@ Settlers in search of gold first rushed into Yurok territory around 1849. Loggin
 
 ## Buffalo
 <figure>
-    <a href="/assets/images/bison-czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQyMC0wOTAwNTYtcGFpLmpwZw.webp"><img src="/assets/images/bison-czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQyMC0wOTAwNTYtcGFpLmpwZw.webp.jpg"></a>
+    <a href="/assets/images/bison.webp"><img src="/assets/images/bison.webp"></a>
   <figcaption> 
     American Bison (Bos Americanus) from the viviparous quadrupeds of North America (1845) illustrated by John Woodhouse via <a href="https://www.rawpixel.com/image/321915/free-illustration-image-bison-audubon-animals" target="blank">NYPL</a>.
     </figcaption>
