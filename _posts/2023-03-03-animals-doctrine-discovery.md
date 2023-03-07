@@ -107,7 +107,7 @@ From early colonial history to today, the sacred ties between sturgeon and Nativ
 
 ## California Condor
 <figure>
-    <a href="/assets/images/assets/images/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg"><img src="/assets/images//assets/images/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg"></a>
+    <a href="/assets/images/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg"><img src="/assets/images/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg"></a>
     <figcaption>A condor flying over the water. Photo by <a href="https://unsplash.com/@jeisen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeffrey Eisen</a> on <a href="https://unsplash.com/photos/N6Iw5TB2FL8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </figcaption>
 </figure>
