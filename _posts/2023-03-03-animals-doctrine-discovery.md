@@ -41,7 +41,7 @@ What follows is a brief lesson in the events that occurred when European Christi
 
 \*\*\*
 
-> **_Terra Nullius_**_: A Latin term meaning “land belonging to no one;” the refusal to recognize indigeneity; the handmaiden of colonization._
+> **_Terra Nullius_**: _A Latin term meaning “land belonging to no one;” the refusal to recognize indigeneity; the handmaiden of colonization._
 
 
 Don't feel embarrassed if you've never heard of the 500-year-old racist, sexist, political doctrine issued by the Vatican that became the instrument of genocide and land theft in the Americas and around the world. It's one of the best-kept secrets in world history. Borrowing a Roman law known as "terra nullius," meaning "empty land" or "land without a master," the Doctrine of Discovery defined the non-Christian lands of the so-called "new world" as empty, and the millions of human beings who lived here for tens of thousands of years or longer as having no rights of title to their land, only the rights of occupancy. Understanding this top-down domination that emanates from the Doctrine of Discovery is, in part, the work of unraveling the trauma of colonization and decentering the myth of white supremacy and human exceptionalism.
@@ -53,7 +53,7 @@ What sort of animals did the Spanish and Portuguese bring to these "lands withou
 
 \*\*\*
 
-> **_Colonus:_** _Latin for_ _farmer__, cultivator, tiller, inhabitant. Root of the words colonization, colonial, and colonist._
+> **_Colonus:_** _Latin for farmer, cultivator, tiller, inhabitant. Root of the words colonization, colonial, and colonist._
 
 <figure>
     <a href="/assets/images/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.jpg"><img src="/assets/images/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.jpg"></a>
@@ -76,7 +76,7 @@ Both then and now, livestock farming pushes everything in its way aside, leaving
 
 \*\*\*
 
-> **_Mitakue Oyasin_**_: A Lakota prayer meaning_ _“__we are all related.” This includes the winged, the finned, the two-legged, the four-legged, the plant nations, and the crawling beings._
+> **_Mitakue Oyasin_**: _A Lakota prayer meaning “we are all related.” This includes the winged, the finned, the two-legged, the four-legged, the plant nations, and the crawling beings._
 
 Some of the species that Indigenous cultures feel the closest kinship with and hold most sacred are the same ones Western science defines as keystone species. Like the name implies, these species play an outsized role in maintaining the health of ecosystems. The Gwich'in of the Arctic are deeply connected to caribou. To the Plains Indians, it is the buffalo. The Tlingit, Chinook, Haida and many more Pacific Northwest tribal nations have such strong bonds with salmon they call themselves, and the fish, Salmon People. According to many Native traditions, if these sacred relationships are destroyed, the world falls out of balance. Perhaps that's where we are now --- living in a world that has fallen seriously out of balance.
 
@@ -103,7 +103,7 @@ Today, the beaver is making a comeback. As a keystone species beaver create fres
 
 Sturgeon have been here long before the dinosaurs. They have proven their resilience for hundreds of millions of years thriving within their water territories. Native legends "tell of rivers so full of sturgeon that a person could walk across the water on the backs of the fish." To the Menominee, Ojibwe, Potawatomi and other Native peoples the sturgeon ensured they would survive another year, as fishermen caught them swimming to their birthplace to spawn every spring. These massive fish, weighing 400 to 800 pounds, and known to live well over 100 years are credited for having saved the colonists who arrived in Jamestown in 1609 from starvation that winter season.
 
-From early colonial history to today, the sacred ties between sturgeon and Native people have been broken. To white fishermen who were after trout, herring and whitefish, the sturgeon were pests, a "trash fish" whose barbels and bony plates ripped through their nets. So they slaughtered them. In the 19th century, tens of thousands were killed by commercial fishermen. Their dried but oily carcasses were stacked like like logs of firewood along the shores to be later used for fuel on steamships. When the lucrative business of selling sturgeon roe as caviar took off in the late 1800s, it wasn't long before populations of this ancient fish were in catastrophic decline. Today, all 26 species are slipping towards extinction due to pollution, dams, overfishing, and habitat loss.
+From early colonial history to today, the sacred ties between sturgeon and Native people have been broken. To white fishermen who were after trout, herring and whitefish, the sturgeon were pests, a "trash fish" whose barbels and bony plates ripped through their nets. So they slaughtered them. In the 19th century, tens of thousands were killed by commercial fishermen. Their dried but oily carcasses were stacked like logs of firewood along the shores to be later used for fuel on steamships. When the lucrative business of selling sturgeon roe as caviar took off in the late 1800s, it wasn't long before populations of this ancient fish were in catastrophic decline. Today, all 26 species are slipping towards extinction due to pollution, dams, overfishing, and habitat loss.
 
 ## California Condor
 <figure>
@@ -114,7 +114,7 @@ From early colonial history to today, the sacred ties between sturgeon and Nativ
 
 With a wingspan of over 9 feet, condors fly the highest of all birds and for this reason the Yurok see them as spiritual beings and entrust them to carry their prayers to the Creator.
 
-"Condors are necessary for our world be be whole" said Tiana Williams-Clausen, tribal member of the Yurok Nation and Director of the Yurok Tribe Wildlife Department. Her work raising and releasing condors bridges Western science and Traditional Indigenous Knowledge in remarkable ways. "A lot of the things that impacted them,also impacted us as tribal people," she said at a recent wildlife conference and went on to explain their similar fates: loss of homeland, massacres, loss of large mammals such as deer, bear, elk, and whales. Even exposure to toxins such as lead in bullets, poison, and the insecticide DDT parallels the Yurok peoples struggles with alcohol, drug addiction, and disease, she added.
+"Condors are necessary for our world be be whole" said Tiana Williams-Clausen, tribal member of the Yurok Nation and Director of the Yurok Tribe Wildlife Department. Her work raising and releasing condors bridges Western science and Traditional Indigenous Knowledge in remarkable ways. "A lot of the things that impacted them, also impacted us as tribal people," she said at a recent wildlife conference and went on to explain their similar fates: loss of homeland, massacres, loss of large mammals such as deer, bear, elk, and whales. Even exposure to toxins such as lead in bullets, poison, and the insecticide DDT parallels the Yurok peoples struggles with alcohol, drug addiction, and disease, she added.
 
 Settlers in search of gold first rushed into Yurok territory around 1849. Logging followed, devastating the forests. Miners committed massacres that were genocidal in scale. Missionaries and government agencies forced Yurok children into residential boarding schools. During this war of extermination, both Yurok and condors were close to being eliminated. In 1910 the Yurok population was under 700. Today, they are the largest tribe in California with more than 5,500 members. In 1982 only 22 condors were left. Today, their population is 537 with more than half living in the wild.
 
@@ -153,4 +153,4 @@ Healing these broken bonds requires the will of strong hearts. Such ways are not
 
 ### Biography
 
-*Tracy Basile is writing a book about the lives of animals in American history. **Her **articles have been published in *The Village Voice, Orion Afield, ASPCA Animal Watch*, and more. She teaches writing at Saint Thomas Aquinas College and lives in Lenapehoking in the Hudson Valley of New York.*
+*Tracy Basile is writing a book about the lives of animals in American history. Her articles have been published in The Village Voice, Orion Afield, ASPCA Animal Watch, and more. She teaches writing at Saint Thomas Aquinas College and lives in Lenapehoking in the Hudson Valley of New York.*
