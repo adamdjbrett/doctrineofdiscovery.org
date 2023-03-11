@@ -54,4 +54,8 @@ So there, anyone raises Sublimis Deus to you, smack em with that.
 
 ![an image of Sublimis Deus with the words so what super imposed over it. ](/assets/images/sublimis-deus-296773482_10159991557629299_3396740607885704539_n.jpg)
 
+[Sublimis Deus, Pastorale Officium and Non Indecens Videtur by Tina Ngata](/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/){: .btn .btn--primary}
+[On the Papal Bull Sublimis Deus by Steven T. Newcomb](/blog/newcomb-sublimis-deus/){: .btn .btn--inverse}
+
+
 `original published on Facebook.`

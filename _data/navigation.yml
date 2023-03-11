@@ -42,6 +42,8 @@ next-steps:
         url: /the-doctrine-of-discovery-the-international-law-of-colonialism/   
       - title: "Inter Caetera: A New Translation"
         url: /inter-caetera/  
+      - title: "Podcast"
+        url: https://podcast.doctrineofdiscovery.org/
   - title: "Featured"
     url: /featured/
     children:
@@ -71,3 +73,52 @@ next-steps:
         url: /blog/effectuating-renunciation-IUCN/
   - title: "Podcast"
     url: https://podcast.doctrineofdiscovery.org/
+  - title: "Law"
+    url: /law/
+    children:
+      - title: "Fletcher v. Peck"  
+        url: /fletcher-v-peck-10-us-87-1810/
+      - title: "Johnson v. M'Intosh"
+        url: /johnson-v-mcintosh/
+      - title: "Monroe Doctrine"
+        url: /monroe-doctrine/
+      - title: "Roosevelt Corollary"
+        url: /roosevelt-corollary/
+      - title: "Lyng v. Northwest"
+        url: /law/lyng/
+      - title: "Tee-Hitton"
+        url: /tee-hit-ton/
+      - title: "Sherrill v. Oneida analysis by Joe Heath"
+        url: /blog/sherrill-v-oneida-doctrine-christian-discovery-denial-treaty-rights/
+      - title: "Sherrill v. Oneida analysis by Dana Lloyd"
+        url: /sherrill-v-oneida-opinion-of-the-court/
+      - title: "Cayuga v. Pataki"
+        url: /cayuga-v-pataki/
+      - title: "Onondaga v NY"
+        url: /onondaga-nation-v-ny/
+      - title: "US Indian Law Panel"
+        url: /us-indian-law-panel/
+  - title: "Papal Bulls"    
+    url: /papal-bulls/
+    children:
+      - title: "Dum Diversas"
+        url: /dum-diversas/
+      - title: "Romanus Pontifex"
+        url: /the-bull-romanus-pontifex-nicholas-v/
+      - title: "Inter Caetera"   
+        url: /inter-caetera/
+      - title: "Sublimis Dei"  
+        url: /blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/
+  - title: "Repudiations by Faith Communities"
+    url: /faith-communities/
+  - title: "UN"
+    url: /united-nations/
+  - title: "Canopy Series"
+    url: https://canopyforum.org/200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands/
+    children:
+      - title: "Abstract"
+        url: https://canopyforum.org/200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands/
+      - title: "Introduction"
+        url: https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/
+      - title: "Federal Anti-Indian Law"
+        url: https://canopyforum.org/2023/03/07/federal-anti-indian-law-the-legal-entrapment-of-indigenous-peoples/
