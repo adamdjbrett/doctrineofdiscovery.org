@@ -9,6 +9,12 @@ tags:
   - Johnson
 link: https://canopyforum.org/200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands/
 date: 2023-03-10 09:54:46
+sidebar:
+  - title: "Next Steps"
+    image: /assets/images/colonial-contact.jpg
+    image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth."
+    text: "Learn More about the Doctrine of Discovery"
+    nav: next-steps 
 ---
 A Canopy Forum Thematic Series
 March – April 2023
