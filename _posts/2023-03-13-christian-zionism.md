@@ -1,7 +1,7 @@
 ---
-title: "Effectuating Renunciation: An International Effort to Provide a Pathway to Repudiate the Doctrine of Discovery"
+title: "The Doctrine of Discovery and Christian Zionism"
 excerpt_separator: "<!--more-->"
-excerpt: "On September 8, 2021 the International Union for Conservation of Nature (IUCN) voted to renounce the Doctrine of Discovery by adopting Motion 048, now Resolution 119 for the Renunciation of the Doctrine of Discovery to Rediscover care for Mother Earth."
+excerpt: "The Doctrine of Discovery (DoD) has a well-documented and researched connection to the colonization of Turtle Island. Its ideology, however, reaches far beyond the continent's bounds. What is less researched is the DoD's connection to European colonialism in the rest of the world."
 header:
   image: /assets/images/sacred-text-land-deed.png
   caption: "A protest banner that reads 'sacred text is not a land deed' from the 2019 protest of Christians United For Israel."
