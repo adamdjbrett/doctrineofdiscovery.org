@@ -5,7 +5,7 @@ excerpt: "On September 8, 2021 the International Union for Conservation of Natur
 header:
   image: /assets/images/sacred-text-land-deed.png
   caption: "A protest banner that reads 'sacred text is not a land deed' from the 2019 protest of Christians United For Israel."
-date: 2023-02-01 07:54:46
+date: 2023-03-13 07:54:46
 categories:
   - blog
 tags:
@@ -19,6 +19,9 @@ sidebar:
     image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth."
     text: "Learn More about the Doctrine of Discovery"
     nav: next-steps 
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
 ## Abstract
 
