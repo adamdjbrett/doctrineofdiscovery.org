@@ -3,7 +3,7 @@ title: "The Religious Origins of White Supremacy: *Johnson v. M'Intosh* and the 
 excerpt_separator: "<!--more-->"
 excerpt: "The conference will take place at Syracuse University from 8-10 December 2023."
 header:
-  image: /assets/images/sacred-text-land-deed.png
+  image: /assets/images/skanonh-center-colonial-image.jpg
   caption: "'We were planting corn and they were planting crosses. ~ Faithkeeper Oren Lyons.' Image from the Skä•noñh
 Great Law of Peace Center."
 date: 2023-03-14 07:54:46
