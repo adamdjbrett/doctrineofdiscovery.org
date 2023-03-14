@@ -68,6 +68,8 @@ We are interested in creating thematic panels on the following topics:
 -   Undergraduate panels with a professor are also encouraged.
 -   For questions please email Prof. Philip P. Arnold at <info@indigenousvalues.org>.
 
+[Submissions](https://forms.gle/cZ1ZiUUbQ4BDXykU8){: .btn .btn--success .btn--x-large}
+
 ## Call for Artists
 
 We will announce a Call for Artists to submit works on the conference themes. If you have questions, please email Prof. Philip P. Arnold at <info@indigenousvalues.org>.
