@@ -23,6 +23,7 @@ sidebar:
 toc: true
 toc_label: "Overview"
 toc_icon: "cog" 
+suggestedcitiation: false
 ---
 ## The conference will take place at Syracuse University from 8-10 December 2023.
 
@@ -38,6 +39,14 @@ In the 1823 US Supreme Court decision, [*Johnson v M'Intosh*](https://www.oyez.o
 In the 200<sup>th</sup> year of *Johnson*, there is an urgent need for global recognition of the decision's implications as reifying the DoCD and its exploitation of Indigenous Peoples and their connection to land, regarded as a living being (Mother Earth in English.) This conference builds on the history of collaboration at Syracuse University with Indigenous communities across Central New York by expanding dissemination of the pernicious ideologies of DOCD and *Johnson*, leading to further repudiation of these ideologies and towards healing and repair.
 
 The project's key collaborators include [Syracuse University](https://syracuse.edu), [American Indian Law Alliance (AILA)](https://aila.ngo), [Indigenous Values Initiative (IVI)](https://indigenousvalues.org/), The [Skä-noñh -- Great Law of Peace Center](https://www.skanonhcenter.org/), and others. For more see the [Doctrine of Discovery Project site (doctrineofdiscovery.org)](https://doctrineofdiscovery.org/).
+
+<figure>
+    <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png">
+        <img src="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png"></a>
+    <figcaption>Event flyer.<a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png" target="_blank" rel="noopener">⤓ Download</a>.
+</figcaption>
+</figure>
+  
 
 ## Call for Papers
 
