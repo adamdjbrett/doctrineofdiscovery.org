@@ -10,7 +10,8 @@ date: 2023-03-14 07:54:46
 categories:
   - blog
 tags:
-  - law
+  - event
+  - Conference
   - Christianity
   - Christian-Zionism
 author: admin
