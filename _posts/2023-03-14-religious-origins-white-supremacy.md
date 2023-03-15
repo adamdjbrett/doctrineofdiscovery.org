@@ -26,12 +26,13 @@ toc_label: "Overview"
 toc_icon: "cog" 
 suggestedcitiation: false
 ---
-## The conference will take place at Syracuse University from 8-10 December 2023.
+## Details
+  - The conference occur at Syracuse University from 8-10 December 2023.
 
 ## Sponsored by:
 
--   Henry Luce Foundation
--   Syracuse University
+  -   Henry Luce Foundation
+  -   Syracuse University
 
 ## Description
 
@@ -44,42 +45,42 @@ The project's key collaborators include [Syracuse University](https://syracuse.e
 <figure>
     <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png">
         <img src="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png"></a>
-    <figcaption>Event flyer.<a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png" target="_blank" rel="noopener">⤓ Download</a>.
+    <figcaption>Event flyer. <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png" target="_blank" rel="noopener">⤓ Download</a>.
 </figcaption>
 </figure>
   
-
 ## Call for Papers
 
 We are interested in paper and session proposals from scholars, students, activists, artists, lawyers, policy makers, religious leaders, Indigenous leaders, and more. Our conference seeks to bring together a broad coalition of people working on examining not only the Doctrine of Christian Discovery but also the religious origins of white supremacy.
 
-## Call for Thematic Panels
+## Thematic Panels
 
 We are interested in creating thematic panels on the following topics:
 
--   What are the mythic origins of white supremacy within the Doctrine of Christian Discovery (DoCD)?
--   International implications of *Johnson v. M'Intosh*
--   International implications of the DoCD and white supremacy
--   The continuing impact of *Johnson,* DoCD, and white supremacy on Indigenous peoples
--   Continuing Environmental impact of *Johnson,* DoCD, and white supremacy
--   The rise of Christian Nationalism around the world
--   Religious dimensions of racism
--   Religious repudiations and resistance the DoCD
--   Legal resistance to *Johnson* and the DoCD?
--   How do we address and resist *Johnson* and settler colonialism today?
-
-## General Call for Papers
-
--   Please send in a 300-word abstract of your paper and/or panel using the form on doctrineofdiscovery.org.
--   CV/Resume
--   Proposals should be received by August 15
--   Acceptance notices will be sent on September 1
--   Papers from graduate students are encouraged.
--   Undergraduate panels with a professor are also encouraged.
--   For questions please email Prof. Philip P. Arnold at <info@indigenousvalues.org>.
-
-[Submissions](https://forms.gle/cZ1ZiUUbQ4BDXykU8){: .btn .btn--success .btn--x-large}
+  -   What are the mythic origins of white supremacy within the Doctrine of Christian Discovery (DoCD)?
+  -   International implications of *Johnson v. M'Intosh*
+  -   International implications of the DoCD and white supremacy
+  -   The continuing impact of *Johnson,* DoCD, and white supremacy on Indigenous peoples
+  -   Continuing Environmental impact of *Johnson,* DoCD, and white supremacy
+  -   The rise of Christian Nationalism around the world
+  -   Religious dimensions of racism
+  -   Religious repudiations and resistance the DoCD
+  -   Legal resistance to *Johnson* and the DoCD?
+  -   How do we address and resist *Johnson* and settler colonialism today?
 
 ## Call for Artists
 
 We will announce a Call for Artists to submit works on the conference themes. If you have questions, please email Prof. Philip P. Arnold at <info@indigenousvalues.org>.
+
+## Submission Instructions
+
+  -   Please send in a 300-word abstract of your paper and/or panel
+  -   CV/Resume
+  -   Proposals should be received by August 15
+  -   Acceptance notices will be sent on September 1
+  -   Papers from graduate students are encouraged.
+  -   Undergraduate panels with a professor are also encouraged.
+  -   For questions please email Prof. Philip P. Arnold at <info@indigenousvalues.org>
+  -   All submissions msut be via the form on <doctrineofdiscovery.org>
+
+[Submissions](https://forms.gle/cZ1ZiUUbQ4BDXykU8){: .btn .btn--success .btn--x-large}
