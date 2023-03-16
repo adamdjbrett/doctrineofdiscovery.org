@@ -45,13 +45,17 @@ The project's key collaborators include [Syracuse University](https://syracuse.e
 <figure>
     <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png">
         <img src="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png"></a>
-    <figcaption>Event flyer. <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png" target="_blank" rel="noopener">⤓ Download</a>.
+    <figcaption>Event flyer. <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png" target="_blank" rel="noopener">⤓ Download Image</a>, <a href="/assets/pdfs/CFP-Religious Origins-Conference-Flyer-8.5x11-rev2.pdf" target="_blank" rel="noopener">⤓ Download PDF</a>.
 </figcaption>
 </figure>
   
 ## Call for Papers
 
 We are interested in paper and session proposals from scholars, students, activists, artists, lawyers, policy makers, religious leaders, Indigenous leaders, and more. Our conference seeks to bring together a broad coalition of people working on examining not only the Doctrine of Christian Discovery but also the religious origins of white supremacy.
+
+### Downloads
+  - [Flyer image](/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png)
+  - [Flyer PDF](/assets/pdfs/CFP-Religious Origins-Conference-Flyer-8.5x11-rev2.pdf)
 
 ## Thematic Panels
 
