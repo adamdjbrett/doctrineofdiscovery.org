@@ -6,7 +6,7 @@ header:
   image: /assets/images/skanonh-center-colonial-image.jpg
   caption: "'We were planting corn and they were planting crosses. ~ Faithkeeper Oren Lyons.' Image from the Skä•noñh
 Great Law of Peace Center."
-date: 2023-03-14 12:54:46
+date: 2023-03-19 12:54:46
 last_modified_at: 2023-03-20 08:54:46
 categories:
   - blog
