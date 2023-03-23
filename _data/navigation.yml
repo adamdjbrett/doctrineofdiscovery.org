@@ -44,8 +44,10 @@ next-steps:
         url: /inter-caetera/  
       - title: "Podcast"
         url: https://podcast.doctrineofdiscovery.org/
-      - Title: "Religious Origins of White Supremacy Conference" 
+      - title: "Religious Origins of White Supremacy Conference" 
         url: /blog/religious-origins-white-supremacy/ 
+      - title: "Manifest Destiny"
+        url: /blog/manifest-destiny/
   - title: "Featured"
     url: /featured/
     children:
@@ -75,6 +77,8 @@ next-steps:
         url: /blog/effectuating-renunciation-IUCN/
       - title: "The Doctrine of Discovery and Christian Zionism"
         url: /blog/christian-zionism/
+      - title: "Manifest Destiny"
+        url: /blog/manifest-destiny/
   - title: "Podcast"
     url: https://podcast.doctrineofdiscovery.org/
   - title: "Law"

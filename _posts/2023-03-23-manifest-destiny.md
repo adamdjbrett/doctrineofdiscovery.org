@@ -25,6 +25,7 @@ toc_icon: "cog"
 ---
 **Manifest Destiny is a nineteenth-century term designating an expansionist ideology grounded in the Doctrine of Christian Discovery and republican ideals that shaped the westward development of the United States through legal, religious, military, educational, and other cultural, structural, and systemic means; its effects are present in the twenty-first century.**
 <!--more-->
+  
 American lawyer and author John L. O'Sullivan promoted the ideology of "Manifest Destiny" twice in 1845 to justify U.S. expansion; on 27 December 1845, he wrote:
 
 > Away, away with all these cobweb tissues of right of discovery, exploration, settlement, continuity, &c.... were the respective cases and arguments > of the two parties as to all these points of history and law, reversed---had England all ours, and we nothing but hers---our claim to Oregon would still be best and strongest. And that claim is by the right of our manifest destiny to overspread and to possess the whole of the continent which Providence has given us for the development of the great experiment of liberty and federated self-government entrusted to us. (as quoted in Miller 2011, 338)
