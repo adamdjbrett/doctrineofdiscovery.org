@@ -74,7 +74,7 @@ gallery:
   - url: /assets/images/2014-conf/IMG_0889.jpg
     image_path: /assets/images/2014-conf/IMG_0889.jpg
     alt: "a man in a purple long sleeve shirt presenting"
-    title: "Rob Ruehl prsenting"
+    title: "Rob Ruehl presenting"
   - url: /assets/images/2014-conf/IMG_0895.jpg
     image_path: /assets/images/2014-conf/IMG_0895.jpg
     alt: "A gray haired man with glasses"
