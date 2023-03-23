@@ -2,8 +2,8 @@
 title: "The Regalian Doctrine: The Philippine Case"
 excerpt_separator: "<!--more-->"
 header:
-  image: /assets/images/American_Progress_(John_Gast_painting).jpg
-  caption: "American Progress by John Gast via [wikipedia](https://en.wikipedia.org/wiki/American_Progress)."
+  image: /assets/images/ar-_a1mNdnHE2E-unsplash.jpg
+  caption: "Photo by [AR](https://unsplash.com/@ar__?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/phillipines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)."
 date: 2023-03-23 07:54:46
 categories:
   - blog

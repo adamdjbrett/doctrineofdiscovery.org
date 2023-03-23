@@ -1,13 +1,24 @@
 ---
 username: sarah-nahar
 name: "Sarah Nahar"
-bio: "Sarah Nahar, M.Div (from Elkhart, Indiana Potawatomi traditional land) is a third year PhD student. Her research focus is on the toilet, both the ritual and receptacle. She is matriculating concurrently at neighboring SUNY College of Environmental Science and Forestry in the Department of Environmental Studies. Other interests include working on dismantling the Doctrine of Discovery, community organizing, and capoeira."
-avatar: /assets/images/authors/Sarah_Nahar.width-400.jpg
+bio: "Sarah Nahar is a third year PhD student in Religion and Environmental Studies at Syracuse University and SUNY College of Environmental Science and Forestry, on unceded Onondaga land."
+avatar: /assets/images/authors/sarah-nahar.jpeg
 links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://syr.academia.edu/SarahNahar"
-  - label: "LinkedIn"
+  - label: "Facebook"
+    icon: "fab fa-fw fa-facebook"
+    url: "https://www.facebook.com/sarah.elizabeth.2021/"
+  - label: "Linkedin"
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/sarah-nahar-31996357/"
+  - label: "Mennonite Stir"
+    icon: "fas fa-fw fa-link"
+    url: "https://www.mennonitemission.net/resources/peace/stir-up-peace" 
+  - label: "Envirostory"
+    icon: "fas fa-fw fa-link"
+    url: "https://envirostorycny.com/" 
 ---
+
+
