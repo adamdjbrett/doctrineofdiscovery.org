@@ -70,7 +70,7 @@ When thinking about the Doctrine of Christian Discovery, Manifest Destiny, and r
 
 * Barrows, Isabel C., editor. Proceeding of the Ninth Annual Meeting of the Lake Mohonk Conference of Friends of the Indian, 1891. The Lake Mohonk Conference, 1891.
 
-* Department of Economic and Social Affairs, Population Division. *World Population to 2300*. United Nations, 2004. <https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/files/documents/2020/Jan/un_2002_world_population_to_2300.pdf>
+* Department of Economic and Social Affairs, Population Division. *World Population to 2300*. United Nations, 2004. <https://aila.li/worldpop>
 
 * Gross, Terry. "A 'Forgotten History' of How the U.S. Government Segregated America." NPR, <https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america>. Accessed 9 March 2023.
 
@@ -94,7 +94,7 @@ When thinking about the Doctrine of Christian Discovery, Manifest Destiny, and r
 
 * Newcomb, Steven T. "The Evidence of Christian Nationalism In Federal Indian Law: The Doctrine of Discovery, Johnson v. McIntosh, and Plenary Power." *New York University Review of Law & Social Change*, vol. 20, no. 2, 1992-1993, pp. 303-342.
 
-* ---. "The U.S. Government's Claim of a Right of Domination." <https://doctrineofdiscovery.org/blog/us-government-claim-domination/?fbclid=IwAR3Ykf7-0VJYi_wBuelWCzuGdin2oj1UobkgmGDNpEKdPyHJE_nBg0k66mg>. Accessed 13 March 2023.
+* ---. "The U.S. Government's Claim of a Right of Domination." <https://doctrineofdiscovery.org/blog/us-government-claim-domination/>. Accessed 13 March 2023.
 
 * Saito, Natsu Taylor. *Meeting the Enemy: American Exceptionalism and International Law.* New York UP, 2010.
 
