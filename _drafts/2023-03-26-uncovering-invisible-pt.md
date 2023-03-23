@@ -1,5 +1,5 @@
 ---
-title: "portugese"
+title: "Descobrindo o Invisível: A Doutrina do Descobrimento, seu Impacto sobre os Povos Indígenas Brasileiros, sobre o meio ambiente e como ela continua a moldar a paisagem brasileira nos dias de hoje: Portugese"
 excerpt_separator: "<!--more-->"
 header:
   image: /assets/images/mateus-campos-felipe-6lrHdKhaYt0-unsplash.jpg
@@ -25,204 +25,207 @@ toc_icon: "cog"
 ---
 [English](#link){: .btn .btn--primary .btn--x-large}  [Portugese](#link){: .btn .btn--success  .btn--x-large}  [Spanish](#link){: .btn .btn--info  .btn--x-large}
 
-## Abstract
+Resumo
+------
 
-Despite being a tool of colonization and imperialism worldwide, the Doctrine of Discovery's importance and influence has been overlooked in Brazilian literature and studies. This article examines the Doctrine's impact on the Brazilian Indigenous people and environment, highlighting the need to acknowledge and understand the effects and manifestations of the Doctrine of Discovery in Brazil. It explores intersections of the Doctrine with Indigenous rights and sovereignty. It argues that understanding the Doctrine is essential to move forward respectfully and sustainably with Indigenous people and the environment.
+Apesar de ser um instrumento de colonização e imperialismo mundial, a importância e influência da Doutrina da Descoberta tem sido negligenciada na literatura e estudos brasileiros. Este artigo examina o impacto da Doutrina no povo Indígena brasileiro e no meio ambiente, destacando a necessidade de reconhecer e compreender os efeitos e manifestações da Doutrina dos Descobrimentos no Brasil. Explora também as interseções da Doutrina com os direitos e a soberania indígena. Argumenta que a compreensão da Doutrina é essencial para avançar de forma respeitosa e sustentável com os povos indígenas e o meio ambiente.
+<!--more-->
 
-## Keywords:
+Palavras-chave:
+---------------
 
-[Doctrine of Discovery](/what-is-the-doctrine-of-discovery/), Brazilian Literature, [Indigenous Peoples](/tags/#indigenous-peoples), Amazon Forest, Yanomami, Environment, Colonization, Imperialism, Rainforest, [Indigenous Rights](/tags/#rights), [Sovereignty](/tags/#sovereignty), [Tordesillas Treaty](/treaty-of-tordesillas/)
+Doutrina da Descoberta, Literatura Brasileira, Povos Indígenas, Floresta Amazônica, Yanomami, Meio Ambiente, Colonização, Imperialismo, Floresta Tropical, Direitos Indígenas, Soberania, Tratado de Tordesilhas
 
-## Introduction
+A Doutrina da Descoberta tem sido usada desde longa data conforme a colonização de povos e o imperialismo se espalham pelo planeta. Todavia, mas sua importância e influência têm sido largamente negligenciadas nos estudos brasileiros.
 
-The Doctrine of Discovery has long been used for colonization and imperialism worldwide, yet its importance and influence have been largely overlooked in Brazilian studies.
+As nações européias utilizaram esta Lei Internacional durante a Era da Exploração para justificar a colonização de terras fora da Europa. Baseada na idéia de que as nações cristãs tinham o direito de reivindicar terras não habitadas por cristãos, a Doutrina justifica a expulsão dos povos indígenas de suas terras e o confisco e apropriação de recursos nelas existentes. (Miller, 2011)
 
-European nations used this international Law during the Age of Exploration to justify their colonization of lands outside of Europe. Based on the idea that Christian nations had the right to claim lands that Christians did not inhabit, the Doctrine justifies the displacement of Indigenous peoples from their traditional lands and the seizing their resources. (Miller, 2011)
+Informações sobre a Doutrina em livros de História do Brasil, publicações pedagógicas e acadêmicas, artigos e pesquisas são quase inexistentes, e o caso é o mesmo para informações disponíveis em português.
 
-Information about the Doctrine in Brazilian History books, pedagogical and academic publications, articles, and research is close to none, and the case is the same for information available in Portuguese.
+Estudos de John Hemmings, antropólogo, historiador e um dos especialistas mundiais em índios brasileiros e no ambiente amazônico, estão disponíveis em português e acessíveis aos brasileiros. Hemmings escreveu extensivamente sobre a dominação e opressão dos povos indígenas brasileiros, desde seus primeiros encontros com os europeus. Exceto por curtas menções ao Tratado de Tordesilhas, Hemmings não se faz referência à influência da Doutrina na história do Brasil.
 
-Studies by John Hemmings, anthropologist, historian and one of the world's experts on Brazilian Indians and the Amazon environment, are available in Portuguese and accessible to Brazilians. He wrote extensively about Brazilian Indigenous people and their domination and oppression since their first encounters with Europeans. Except for his discussions about the Treaty of Tordesillas, Hemmings does not refer to the influence of the Doctrine.
+E como se a Doutrina da Descoberta nunca houvesse existido abaixo da linha do Equador, e o Tratado de Tordesilhas, uma de suas principais manifestações, se tratasse apenas da mera demarcação de terras sem maiores consequências.
 
-It is as if the Doctrine of Discovery never existed below the Equator, and the Tordesillas Treaty, one of its leading technologies, was merely about land demarcation with no further manifestations.
+Alguns dos poucos trabalhos que fazem referência às manifestações da Doutrina da Descoberta no Brasil são publicações de Robert Miller. Seu trabalho com Micheline D'Angelis, "Brazil, Indigenous Peoples, and the International Law of Discovery" (Miller & D'Angelis, 2011), está disponível em inglês mas não em Português.
 
-Some of the most comprehensive works directly referring to the Doctrine of Discovery manifestations in Brazil are publications by Robert Miller. His work with Micheline D'Angelis, "Brazil, Indigenous Peoples, and the International Law of Discovery" (Miller & D'Angelis, 2011), is available in English.
+*Neste artigo, estão inclusos casos recentes e concretos que refletem o colonialismo epistemológico oriundo da Doutrina e que se manifesta na vida brasileira como uma forma de imposição de um conjunto particular de valores, crenças e sistemas de conhecimento* à *uma população colonizada.*
 
-In this article, I include recent and concrete cases that reflect the Doctrine's power of epistemological colonialism manifesting itself in Brazilian life as it seeks to impose a particular set of values, beliefs, and knowledge systems on a colonized population.
+*Um conceito eurocêntrico e baseado na crença de supremacista do europeu branco, a Doutrina é frequentemente utilizada para justificar a colonização de terras indígenas e a exploração dos povos indígenas. Em um país colonizado pelos portugueses, o Brasil, as discussões sobre a Doutrina continuam inexistentes. Este silêncio tem permitido que as manifestações e efeitos da Doutrina permaneçam presentes, inquestionáveis, intocadas e ignoradas.*
 
-A Eurocentric, white supremacist concept, the Doctrine is frequently used to justify the colonization of Indigenous lands and the exploitation of Indigenous peoples. In a country colonized by the Portuguese, Brazil, discussions about the Doctrine remain inexistent. This silence has allowed the Doctrine's manifestations and effects to remain present, unquestioned, untouched, and ignored.
+Este artigo explora essa invisibilidade e visa identificar conexões entre os princípios da Doutrina do Descobrimento e a violência contínua contra os povos indígenas no Brasil, resultando na devastação da Floresta Amazônica e consequentes efeitos ambientais catastróficos.
 
-This article explores such invisibility and aims to identify connections between the principles of the Doctrine of Discovery and the ongoing violence against indigenous people in Brazil, together with the devastation of the Amazon Forest and its catastrophic environmental effects.
+Manifestações e efeitos da Doutrina devem ser incluídos no debate sobre os fatos que cercam os povos indígenas. Caso contrário, a desinformação e a rejeição de fatores cruciais contribuirão para a continuidade da violência epistêmica resultante de abordagens e interpretações reducionistas da vitimizacao contínua dos povos indígenas no Brasil.
 
-Manifestations and effects of the Doctrine must be included in the Indigenous debate; otherwise, misinformation and dismissal of crucial factors will contribute to epistemic violence resulting from reductionist approaches and interpretations of Brazil's decades-long ongoing violence against Indigenous people.
+Um caso que reflete tal reducionismo seria o de buscar meios de estabelecer conexões inexistentes entre a Comissão de Verdade e Reconciliação Canadense (2008 Canadian Truth and Reconciliation Commission) e a Comissão Nacional da Verdade (CNV) realizada no Brasil em 2012. Tal tentativa de estabelecer conexões entre ad duas situações, buscaria criar a falsa ideia de que a Comissão Brasileira tenha representado uma tentativa de lidar com a violência contra os povos indígenas do Brasil. Não é este o caso. Esta é uma das situações em que a desinformação resulta de uma falta de tratamento da realidade que tem devastado as populações indígenas no Brasil por décadas, se não séculos.
 
-An example is attempting to link the Canadian Truth and Reconciliation Commission to a  2012 Brazilian National Truth Commission (CNV) as if the Brazilian Commission represented any attempt to deal with the violence against Indigenous in Brazil. It is not the case. This is one of the situations when misinformation results from a lack of dealing with the reality that has devastated Indigenous populations in Brazil for decades, if not centuries. Besides, there is no discussion of the Doctrine's manifestations and effects in each country and context.
+Neste caso, as comparações entre a Comissão de Verdade e Reconciliação no Canadá (2008 Canadian Truth and Reconciliation Commission) e a Comissão Nacional da Verdade no Brasil reduzem os fatores históricos centenários presentes na violência contínua contra os povos indígenas no Brasil, a um evento ligado a ditadura naquele país, escondendo a verdade com restrições de tempo e espaço, reforçando a violência epistêmica (Fricker, 2011) que os vitimiza. Além do fato de que a Comissão Brasileira (CNV) não haver sido criada para abordar a violência contra os povos indígenas no Brasil, é essencial salientar que uma "Comissão da Verdade" está conceitualmente focada no passado e não nos eventos em curso (Hayner, 2010). No caso dos povos indígenas brasileiros, a violência nunca é um fato contínuo que não pode ser escondida como evento do passado.
 
-In this case, comparisons between the Truth and Reconciliation Commission in Canada and the National Truth Commission in Brazil reduce the century-old historical factors present in the ongoing violence against Indigenous people to an event that hides the truth behind time and space constraints, reinforcing the epistemic violence (Fricker, 2011) that victimizes them. In addition to the fact that the Brazilian Commission (CNV) was not created to address Brazil's ongoing violence against Indigenous people, it is essential to understand that a truth commission is focused on the past rather than ongoing events (Hayner, 2010). In the case of Brazilian Indigenous peoples, violence never ended, and it is an ongoing fact.
+O reconhecimento das diferentes experiências e do contexto único dos povos indígenas em cada países é crucial.
 
-Recognizing Indigenous people's unique experiences and context in different countries is crucial.
+As comparações reducionistas refletem a continuidade do colonialismo epistemológico, que cria conceitos erroneos enquanro silencia e esconde as conexões da Doutrina da Descoberta com os acontecimentos atuais.
 
-Reductionist comparisons reflect the continuity of epistemological colonialism, which creates misconceptions and hides and silences the connections of the Doctrine of the Discovery to current events.
+Este artigo não é sobre os eventos atuais na floresta Amazônica, e não visa, como objetivo principal, denunciar as atuais condições precárias do povo Yanomami, que sofre com a invasão e exploração desenfreada de suas terras. A imprensa mundial neste momento, em 2023, felizmente tem se encarregado em fazê-lo.
 
-This article is not about current events in the Amazon rainforest, denouncing the current precarious conditions of the Yanomami as their land is invaded and exploited.
+Entretanto, este artigo faz menção a tais eventos como uma forma de lançar luz sobre as manifestações dos princípios desta Lei Internacional que ainda hoje está presente nas justificativas repetidamente utilizadas para a expulsão dos povos indígenas de suas terras, sua subjugação e tentativas de eliminá-los.
 
-However, it refers to such events as a way of shedding light on the manifestations of this International Law's principles still present today in the justifications for removing indigenous peoples from their land, their subjugation and attempts to eliminate them.
+Os princípios da Doutrina estão na raiz da tragédia que se desenrola hoje na Amazônia, enquanto o povo Yanomami luta para sobreviver enquanto enfrenta o que é visto por muitas organizações como genocídio (Philips, 2023) (Reuters, 2023) (Sassin, 2023) (Miller, 2015).
 
-The Doctrine principles are at the roots of the tragedy that unfolds in the Amazon today, as the Yanomami people struggle to survive while facing what is seen by many organizations as genocide (Philips, 2023)(Reuters, 2023) (Sassin, 2023)(Miller, 2015).
+Reconhecida como o reservatório biológico mais rico do mundo, contendo vários milhões de espécies de todas as formas de vida, muitas ainda não registradas pela ciência, a Floresta Amazônica compreende 40 por cento da área total do Brasil.
 
-Recognized as the world's richest biological reservoir, containing several million species of all life forms, many not even recorded by science yet, the Amazon Rainforest comprises 40 percent of Brazil's total area.
+Em 20 de janeiro de 2023, quinhentos e vinte e três anos após a chegada dos portugueses à terra ao leste do Tratado de Tordesilhas, hoje o Brasil, o mundo testemunha as condições miseráveis em que o povo Yanomami tenta sobreviver na Floresta Amazônica.
 
-On January 20, 2023, five hundred and twenty-three years after the arrival of the Portuguese in the land to the east of the Treaty of Tordesillas, today Brazil,  the world witnesses the miserable conditions under which the Yanomami people try to survive in the Amazon Forest.
+O desdobramento da tragédia no território Yanomami mostra adultos e crianças em grave desnutrição, famintos devido ao fato da pesca, a agricultura e a caça haverem se tornado impossíveis depois que a invasão de suas terras por garimpeiros e empresas de garimpo resultou na contaminação dos rios com mercúrio utilizado para extração mineral. O povo Yanomami, neste momento, perece de todos os tipos de doenças trazidas pela mineração ilegal. Violência física e sexual, assassinato de crianças Yanomami por invasores, avanço do tráfico de drogas e a violência contra aqueles que desafiam o status quo são fatores continuamente presentes em suas terras.
 
-The tragedy unfolding in the Yanomami territory shows adults and children in severe malnutrition, starving as fishing, farming, and hunting became impossible due to river contamination with mercury used for mineral extraction. They are perishing from all kinds of diseases brought by illegal mining. Rape and murder of Yanomami children by invaders, the advance of drug traffic and violence against those who challenge the status quo is rampant in their land.
+Máquinas poderosas e armas automáticas são usadas para deslocar, intimidar e matar os indígenas Yanomami e seus defensores. O assassinato do jornalista britânico Don Phillips e do especialista indígena brasileiro Bruno Pereira em junho de 2022 sob as ordens de um comerciante de pescado que liderava um esquema de pesca ilegal na Amazônia seguiu o assassinato de muitos povos indígenas no território Yanomami.
 
-Powerful machinery and automatic weapons are used to dislocate, intimidate and kill Yanomami indigenous people and their defenders. The murder of British journalist Don Phillips and Brazilian indigenous expert Bruno Pereira in June 2022 under the orders of a fish trader leading an illegal fishing scheme in the Amazon followed the murder of many indigenous people in the Yanomami territory.
+A reserva Yanomami é o lar de cerca de 28.000 Yanomami. Aproximadamente 10 milhões de hectares abrigam 371 comunidades de difícil acesso na densa floresta tropical amazônica.
 
-The Yanomami reserve is home to around 28,000 Yanomami. Approximately 10 million hectares are home to 371 hard-to-reach communities in the dense Amazon rainforest.
+Segundo pesquisa do Instituto Socio Ambiental- ISA (ISA, 2022), o povo Yanomami descende de um grupo indígena que permaneceu relativamente isolado por pelo menos mil anos. Tal grupo anciente, teria ocupado a área das cabeceiras dos rios Orinoco e Parima (que atualmente se encontram em Roraima, Brasil). Sua relação com a floresta amazônica e a preservação ambiental está diretamente ligada à sua preocupação com a proteção da floresta como parte da relação dos Yanomami com a natureza.
 
-According to research by the Instituto Socio Ambiental (ISA) (ISA, 2022), they descend from an Indigenous group that remained relatively isolated for at least a thousand years. This ancient group would have occupied the area of the headwaters of the Orinoco and Parima rivers (which are currently in Roraima, Brazil). Their relationship with the Amazon rainforest and environmental preservation is directly linked to their concern for protecting the forest as part of the Yanomami's relationship with nature.
+A dizimação do povo Yanomami se intensificou desde 2017, durante o governo de Jair Bolsonaro. Após sua derrota nas eleições de 2022, o novo governo elegeu *Sônia Guajajara* como *a Primeira Ministra dos Povos Indígenas do Brasil. Ela começou imediatamente a reconstruir os sistemas de proteção destruidos pelo presidente anterior.*
 
-The Yanomami people's decimation has intensified since 2017, during the government of Jair Bolsonaro. After his defeat in the 2022 elections, the new government elected Sônia Guajajara as Brazil's First Minister of Indigenous Peoples. She immediately started rebuilding the systems of protection unmounted by the previous president.
+Guajajara, membro do povo indígena Guajajara/Tentehar, e graduada em Literatura, Enfermagem e Educação Especial , tendo uma história de luta pelos direitos dos povos originais e pelo meio ambiente.
 
-Guajajara, a member of Guajajara/Tentehar, graduated in Literature, Nursing and Special Education. She has a history of struggle for the rights of the original peoples and the environment.
+*A criação do Ministério dos Povos Indígenas em 2023 constitui um marco nas mudanças necessárias para aprimorar as relações do Judiciário até os Poderes Legislativo e Executivo com os Povos Indígenas. Aborda também a falta de representação dos povos indígenas, denunciada por muitos como elemento na base das fricções (Lisboa, 2022) (Folha, 2023) entre os sistemas de poder e os Povos Indígenas no Brasil.*
 
-The 2023 Ministry of Indigenous Peoples creation constitutes a milestone in the changes needed to address relations with Indigenous Peoples, from the Judiciary to Legislative and Executive Powers. It also addresses the lack of representation of Indigenous people at the roots of what some identify as friction (Lisboa, 2022)(Folha, 2023) between the systems of power and Indigenous Peoples in Brazil.
+*O Ministério dos Povos Indígenas inclui advogados indígenas, assistentes sociais indígenas, antropólogos indígenas e muitos profissionais indígenas que estão há longa data ativamente envolvidos com suas causas. A falta de representação foi agora significativamente reduzida à medida que mais povos indígenas têm acesso à educação e* à *posições que lhes dão a tão necessária participação no debate sobre suas vidas.*
 
-The Ministry of Indigenous Peoples includes Indigenous lawyers, Indigenous social workers, Indigenous anthropologists and many Indigenous professionals that have been actively involved with their causes for a long time. Lack of representation has now been significantly reduced as more Indigenous people have access to education and positions that give them the long-needed participation in the debate about their lives.
+*Quatro mulheres indígenas foram eleitas para a Câmara dos Deputados em 2022: Sônia Guajajara, Célia Xakriabá, Silvia Waiãpi, e Juliana Cardoso. Elas assumiram o cargo de deputadas federais em 1º de fevereiro de 2023, no dia do início da nova Legislatura do Congresso Nacional.*
 
-Four indigenous women were elected to the Chamber of Deputies in 2022: Sônia Guajajara, Célia Xakriabá, Silvia Waiãpi, and Juliana Cardoso. They took over as federal deputies on February 1, 2023, on the day of the start of the new Legislature of the National Congress.
+*Xakriabá tem mestrado em Desenvolvimento Sustentável e é pós-graduado em Antropologia. Célia é uma das fundadoras da Articulação Nacional das Mulheres Indígenas Guerreiras da Antigüidade. Como membro da Secretaria de Educação de Minas Gerais, ela colaborou na abertura de escolas indígenas e quilombolas e na reabertura de escolas rurais em todo o estado.*
 
-Xakriabá has a Master's in Sustainable Development and is post-graduated in Anthropology. Célia is one of the founders of the National Articulation of Indigenous Women Warriors of Ancestry. As a Minas Gerais Department of Education member, she collaborated to open indigenous schools and quilombolas and reopen country schools throughout the state.
+*A participação ativa dos povos indígenas nos Poderes Legislativo, Executivo, Judiciário e Acadêmico é crucial para que as mudanças aconteçam e certamente será constantemente desafiada.*
 
-The active participation of Indigenous people in the Legislative, Executive, Judiciary Powers and Academia is crucial for changes to happen and will most certainly be constantly challenged.
+Organizações governamentais, trabalhando com representantes do Ministro, relataram a morte de mais de quinhentas e setenta (570) crianças Yanomami nos últimos quatro anos após Jair Bolsonaro ter autorizado os mineiros a entrar em terras indígenas. Trinta meninas Yanomami menores de dezesseis anos estão grávidas de mineiros e outros invasores. (Business & Human Rights Centre, 2023).
 
-Governmental organizations, working with representatives of the Minister,   reported the death of more than five hundred and seventy (570) Yanomami children in the last four years after Jair Bolsonaro authorized miners to enter indigenous land. Thirty Yanomami girls under sixteen are pregnant by miners and other invaders. (Business & Human Rights Centre, 2023).
+Em 20 de janeiro de 2023, o governo federal declarou uma emergência de saúde pública na maior Reserva Indígena do Brasil. (Gozzi, 2023). Em 31 de janeiro de 2023, o Exército Brasileiro, a Marinha e a Força Aérea foram enviados para expulsar invasores de terra, proteger o povo Yanomami de seus ataques e resgatar milhares de Yanomami doentes e moribundos que foram objeto de violência contínua em suas terras. (Philips, 2023)
 
-On January 20, 2023, the federal government declared a public health emergency in Brazil's largest Indigenous Reserve. (Gozzi, 2023). On January 31, 2023, the Brazilian Army, Navy, and Air Force were sent to expel land invaders, protect the Yanomami people from their attacks and rescue thousands of sick and dying Yanomami people who were the object of continuous violence in their land. (Philips, 2023)
+No país com a maior população católica, colonizado pelos portugueses, a Doutrina da Descoberta, suas manifestações e efeitos permanecem ignorados pela maioria.
 
-In the country with the highest Catholic population, colonized by the Portuguese, the Doctrine of Discovery, its manifestations and effects remain ignored by the majority.
+O Papal Bull Dum Diversas (1452) foi emitido oito anos antes da chegada dos portugueses à costa do Brasil. Ela exigia que os povos não cristãos fossem invadidos, capturados, vencidos, subjugados e reduzidos à escravidão perpétua. Como seguimento, em 1455, a bula papal *Romanus Pontifex* foi emitida para proteger a ascendência do Rei de Portugal sobre novas terras descobertas, proibindo outros reis cristãos de infringir a prática de comércio e incursões de colonização do Rei de Portugal em regiões específicas. (Slaterry, 2005).
 
-[Papal Bull Dum Diversas (1452)](/dum-diversas/) was issued eight years before the arrival of the Portuguese on the coast of Brazil. It called for non-Christian peoples to be invaded, captured, vanquished, subdued and reduced to perpetual slavery. As a follow-up, in 1455, the papal bull *Romanus Pontifex* was issued to protect the King of Portugal's ascendancy over new lands discovered, forbidding other Christian kings from infringing Portugal's King's practice of trade and incursions of colonization in specific regions. (Slaterry, 2005).
+Mesmo como a tragédia Yanomami está nas notícias por toda parte, referências à existência da Doutrina, seu Impacto sobre os povos indígenas, o meio ambiente ou qualquer respeito a como ela molda a paisagem brasileira hoje são inexistentes.
 
-Even as the Yanomami tragedy is in the news everywhere, references to the existence of the Doctrine, its Impact on Indigenous people, the environment, or any respect to how it shapes the Brazilian landscape today are nonexistent.
+Há, no entanto, uma obra de arte que merece atenção especial, pois conta a História da Doutrina no Brasil desde 1860.
 
-There is, nevertheless, a piece of Art that deserves special attention as it has been telling the History of the Doctrine in Brazil since 1860.
+O óleo sobre tela de 1860 do famoso artista Victor Meirelles, atualmente em exposição no Museu Nacional de Belas Artes em São Paulo, Brasil, conta um capítulo da Doutrina que está escondido à primeira vista.
 
-The 1860 oil on canvas by famous artist Victor Meirelles, currently on display at Museu Nacional de Belas Artes in São Paulo, Brazil, tells a chapter of the Doctrine that is hidden at first glance.
+Primeira missa no Brasil" de Victor Meirelles (1860) - Museu Nacional de Belas Artes, SP, Brasil.\
+O quadro "A Primeira Missa no Brasil" dá um relato visual preciso dos rituais da Doutrina, constituindo um ponto de partida bem documentado para esclarecer os princípios da Doutrina e sua poderosa presença desde os primeiros tempos coloniais, quando os portugueses chegaram ao litoral do que é hoje o Brasil.
 
-### 'First Mass in Brazil' by Victor Meirelles (1860) - Museu Nacional de Belas Artes, SP, Brazil.
-<figure>
-    <a href="/assets/images/Meirelles-primeiramissa2.jpg"><img src="/assets/images/Meirelles-primeiramissa2.jpg"></a>
-    <figcaption>By Victor Meirelles, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=4077499" target="_blank" rel="noopener">commons.wikimedia.org/</a></figcaption>
-</figure>
+Os estudos históricos não são isentos de ideologia. Enquanto expõem o passado, juntando pedaços e peças, eles não podem garantir que o que resta é o mais importante, a parte mais representativa do evento, concluiu Gottschalk (Gottschalk, 1979).
 
-The painting 'The First Mass in Brazil' gives an accurate visual account of the rituals of the Doctrine, constituting a well-documented starting point to shed light on the Doctrine's principles and its powerful presence since the initial colonial days when the Portuguese arrived in the coast of what is now Brazil.
+O mesmo se aplica quando os artistas usam os poderes da Arte para representar eventos históricos.
 
-Historian studies are not free from ideology. While setting forth the past, putting together bits and pieces, they cannot guarantee that what remains is the most important, the most representative part of the event, concluded Gottschalk (Gottschalk, 1979).
+Começando pelo título do quadro, "A Primeira Missa no Brasil", encontramos o incompleto, se não enganador, "pedaço de história" que exige atenção. 
 
-The same applies when artists use the powers of Art to represent Historical events.
+Pintada por Victor Meirelles em Paris em 1859-1861, a peça de quase 14,9 polegadas quadradas (9,6 metros quadrados) tornou-se uma das telas mais conhecidas do Brasil. Sua presença é uma obrigação em qualquer publicação pedagógica.
 
-Beginning with the painting's title, "The First Mass in Brazil", we meet the incomplete, if not deceiving, "bit of History" that demands attention. 
+Meirelles foi influenciada pela pintura de Horace Vernet "Primeira Missa em Kabylie". Vernet foi testemunha ocular da missa católica celebrando a colonização francesa no norte da África, e sua legitimidade como pintor histórico inspirou o pintor brasileiro (Castro, 2009).
 
-Painted by Victor Meirelles in Paris in 1859-1861, the almost 14.9 square inches (9,6 square meters)  piece became one of Brazil's most well-known canvases. Its presence is a must in any pedagogical publication.
+Em abril de 1500, a frota de Pedro Álvares Cabral desembarcou no que hoje é conhecido como Brasil. Na frota estava Pero Vaz de Caminha, um funcionário público português. Caminha descreveu oficialmente a cerimônia das duas missas católicas celebradas na nova terra.
 
-Meirelles was influenced by Horace Vernet's painting 'First Mass in Kabylie'. Vernet was an eyewitness to the Catholic Mass celebrating French colonization in North Africa, and his legitimacy as a historical painter inspired the Brazilian painter (Castro, 2009).
+Ele escreveu uma carta detalhada ao rei português, como se esperava de um cavaleiro em sua posição. A carta original está no Arquivo Nacional da Torre do Tombo, em Lisboa. Ela é frequentemente mencionada nos livros de História do Brasil como testemunho do encontro benevolente dos portugueses com os habitantes da terra.
 
-In April 1500, Pedro Álvares Cabral's fleet landed in what is now known as Brazil. In the fleet was Pero Vaz de Caminha, a Portuguese civil servant. Caminha officially described the ceremony of the two Catholic masses celebrated in the new land.
+Devido ao sigilo com que o Reino de Portugal sempre envolveu relatos de suas descobertas, todo o conteúdo da carta de Caminha só foi tornado público no século XIX pelo Padre Manuel Aires de Casal em sua "Corografia Brasílica" em 1817. (Lencione, 2009)(de Casal, 1817). Somente então o contexto dos elementos da pintura pôde ser plenamente compreendido.
 
-He wrote a detailed letter to the Portuguese King, as expected from a knight in his position. The original letter is in the National Archive of The Tower of Tombo, Lisbon (Arquivo Nacional da Torre do Tombo, Lisboa, in Portuguese). It is frequently mentioned in Brazilian History books as a testimony of the Portuguese's benevolent encounter with the land's inhabitants.
+O quadro, disse Meirelles, seguiu a descrição contida na carta de Caminha.
 
-Due to the secrecy with which the Kingdom of Portugal has always involved reports of its discoveries, the entire content of Caminha's letter was made public only in the nineteenth century by Father Manuel Aires de Casal in his 'Corografia Brasílica' in 1817. (Lencione, 2009)(de Casal, 1817).   Only then could the context of the elements of the painting be fully understood.
+Na realidade, a pintura dá uma imagem precisa do ritual de posse adotado pelos portugueses, com todas as etapas e componentes necessárias da Doutrina.
 
-The painting, Meirelles said, followed the description contained in Caminha's letter.
+Os portugueses costumavam registrar suas descobertas de navegação plantando pilares de pedra alta encimados por uma pedra quadrada onde esculpiam o ano da expedição, o nome do líder da expedição e o nome do rei português. Em cima da pedra quadrada esculpida havia uma cruz. (Seed, 1995, p.132).
 
-In reality, the painting gives an accurate image of the Portuguese adopted ritual of possession, with all the Doctrine's required steps and components.
+O ritual de posse e a oficialização das descobertas exigia também a documentação escrita e detalhada. A carta de Pero Vaz de Caminha ao Rei cumpriu tal requisito (Seed, 1995, p.180).
 
-The Portuguese used to record their navigation discoveries by planting tall stone pillars topped by a square stone where they carved the year of the expedition, the name of the leader of the expedition and the name of the Portuguese King. On top of the carved square stone was a cross. (Seed, 1995, p.132).
+Como a pintura de Horace Vernet, a pintura de Meirelles documenta o ritual que oficializa o processo de colonização, de acordo com as regras descritas nas Bulas Papais que constituem a documentação da Doutrina de Descoberta. Assim como fez Vernet ao documentar o ritual de posse dos colonizadores franceses, Meirelles nomeou a cerimônia de posse "A Primeira Missa no Brasil".
 
-The ritual of possession and enacting authority over discoveries also required detailed written documentation. Caminha's letter to the King fulfilled this requirement (Seed, 1995, p.180).
+Ao observarmos o óleo sobre tela, vemos que a imagem se concentra à esquerda, onde , ao centro, um religioso realiza o ritual da Missa enquanto outros homens religiosos testemunham o evento. Estas figuras ocupam um nível mais alto, exceto por dois homens de armadura à esquerda. Alguns indígenas observam ou encontram proteção no topo de uma árvore à direita.
 
-Like Horace Vernet's painting, Meirelles' painting documents the colonization ritual. Like Vernet, Meirelles named the possession ceremony "The First Mass in Brazil". 
+ Em um círculo distante, observando os eventos, são representados os povos indígenas com uma ampla gama de expressões: medo, raiva, espanto e incredulidade. Um bebê sendo amamentado, crianças assustadas, guerreiros e indígenas jovens e velhos povoam o lado esquerdo do quadro. Muitos indígenas estão distantes, alguns com braços estendidos em direção ao alto, alguns apontando para os navios no mar. Há uma sensação de caos ou espanto entre eles.
 
-As we observe the oil on canvas, the image focuses on the left, where a central religious man performs the ritual while other religious men witness it. These figures occupy a higher level except for two men in armour on the left. Some indigenous people observe or find protection on top of a tree on the right.
+No fundo, a paisagem é feita de árvores com grandes copas, montanhas e um céu azul. O oceano e olhares na direção dos navios da frota portuguesa estão representados no canto direito.
 
- In a distant circle, observing the events, are indigenous people depicted with a wide range of expressions: fear, anger, astonishment, and incredulity. A baby being breastfed, scared children, warriors, and young and old indigenous populate the left side of the painting. Many indigenous are distant, some with brawling arms, some pointing at the ships in the sea. There is a subtle sense of chaos among them.
+Tudo constituo a representação visual detalhada do que foi descrito na carta de Caminha ao Rei.
 
-In the background, the landscape is made of trees with large canopies, mountains, and a blue sky. The ocean and glances of ships of the Portuguese fleet are represented in the right corner, and all constitute a detailed visual representation of what was described in Caminha's letter to the King.
+Tão logo os rituais ou atos de posse definidos na documentação da Doutrina eram executados, a reivindicação legal de Portugal ficava imediatamente estabelecida. (Seed, 1995)
 
-After the Doctrine's rituals or acts of possession were executed, Portugal's legal claim was established. (Seed, 1995)
+Consequentemente, todos os indígenas retratados na pintura de Meireles, habitantes daquela terra por mais de dois mil anos, tornaram-se imediatamente possessão portuguesa.
 
-Consequently, these Indigenous people portrayed in the painting, inhabitants of that land for more than two thousand years, became Portuguese possessions.
+Após a descoberta de Cabral em 1500, o foco da Coroa Portuguesa em sua colônia foi a extração de recursos da terra, tais como pau-brasil, minerais preciosos e o que quer que pudesse ser encontrado.
 
-After Cabral's discovery in 1500, the focus of the Portuguese Crown in its colony was the extraction of resources from the land, such as brazilwood, precious minerals and whatever could be found.
+Assinado entre Espanha e Portugal, o Tratado de Tordesilhas criou uma linha de imaginaria de demarcação, atribuindo o terreno ao leste da linha à Portugal e o terreno à esquerda da linha à Espanha.
 
-Signed between Spain and Portugal, Tordesillas Treaty created a line of demarcation, allocating the land to the east of the line to Portugal and the land to the left of the line to Spain.
+Os efeitos do Tratado 1494 permanecem escondidos no sistema brasileiro de leis e tratados que negam os direitos e reforçam a exploração dos Yanomami, que veem suas terras repetidamente invadidas enquanto adultos e crianças são vítimas da mesma violência iniciada com a chegada dos portugueses.
 
-The effects of the 1494 Treaty remain embedded in the Brazilian system of laws and treaties that reinforce the Yanomami's exploitation as their land is repetitively invaded, and they are victimized by the same kind of violence that existed upon the arrival of the Portuguese.
+Em 1530, logo após a "descoberta" e após a demarcação pelo Tratado de Tordesilhas, o território do que posteriormente ficou conhecido como Brasil, oi dividido em quatorze faixas de terra que foram então concedidas aos nobres de confiança do rei D. João III (1502-1557). Cada faixa de terra, denominada como "Capitania Hereditária", era então repassada de pai para filho.
 
-In 1530, soon after the "discovery" and following the demarcation by the Tordesillas Treaty, the territory of what became known as Brazil was divided into fourteen strips of land and granted to nobles of trust of King D. João III (1502-1557). The land, called hereditary captaincies, could then be passed from father to son.
+O legado das Capitanias Hereditárias está presente hoje através da concentração da propriedade da terra e da perpetuação do "coronelismo" brasileiro que mantém o poder em muitas áreas, uma vez que as mesmas famílias controlam ate mesmo Estados da Federação, criando dificuldades na demarcação de terras indígenas.
 
-The legacy of hereditary captaincies is present today through the concentration of land ownership and perpetuation of Brazilian 'colonelism' that maintains power in many areas as the same families control states and create difficulties in demarcating indigenous land. 
+A pintura de Meirelles dá uma idéia da chegada dos portugueses à terra indígena. Bulas Papais emitidas pelo Papa Nicolau em 1452 e 1455 concederam aos portuguese o direito de tomar posse das terras e dos bens dos povos indígenas "para convertê-los a você, e seu uso, e seus sucessores, os Reis de Portugal" (Slattery, 2005).
 
-Meirelles' painting gives a sense of the Portuguese arrival in indigenous land. Papal bulls issued by Pope Nicholas in 1452 and 1455 provided the right to take possession of indigenous peoples' land and goods "to convert them to you, and your use, and your successors the Kings of Portugal" (Slattery, 2005).
+A pintura de Meirelles está presente na maioria dos livros escolares brasileiros. Por outro lado, ausente na educação brasileira, a Doutrina da Descoberta é parte da História que ainda está "escondida em plena vista".
 
-Meirelles' painting is present in most Brazilian schoolbooks. On the other hand, absent in Brazilian education, the Doctrine of Discovery is part of History that is still "hidden in plain site".
+O conhecimento dos fatos que constituem as origens dos atuais eventos catastróficos passa pela conscientização e informação sobre os princípios e métodos incluídos na Doutrina da Descoberta.
 
-Informed knowledge of the origins of today's catastrophic events passes through awareness and information about the principles and methods included in the Doctrine of Discovery.
+Os elementos racistas da Doutrina estão freqüentemente presentes em discurso de políticos e autoridades brasileiras.
 
-Racist elements of the Doctrine are frequently part of the discourse of some Brazilian politicians and authorities.
+Recentemente, enquanto defendia sua política de abertura de terras indígenas a exploração por mineração, madeireiros e criadores de gado, Jair Bolsonaro, presidente do Brasil até 1º de janeiro de 2023, declarou:
 
-Recently, while defending his policy of opening indigenous land to miners, loggers and agribusiness, Jair Bolsonaro, president of Brazil until January 1, 2023, declared:
->  *"The Indian has changed; it is evolving. Increasingly, the Indian is becoming a human being equal to us".*
->
->                                                            (Jair Bolsonaro, Presidential live, January 24, 2020)
+*"O índio mudou; ele está evoluindo. Cada vez mais, o índio está se tornando um ser humano igual a nós".*
 
-On August 16, 1998, the same Jair Bolsonaro declared, in a speech in the Brazilian House of Commons:
->
->*"The Brazilian cavalry was very incompetent. Competent, yes, was the North American cavalry, and it decimated the Indians in the past and nowadays have no such problems in their country."*
+(Jair Bolsonaro, Presidencial ao vivo, 24 de janeiro de 2020)
 
-As agribusiness pushed for limitations in the demarcation of indigenous land, presidential support by Jair Bolsonaro was necessary to approve the so-called 'Time Frame' ("Marco Temporal", in Portuguese).
+Em 16 de agosto de 1998, o mesmo Jair Bolsonaro declarou, em um discurso na Câmara dos Deputados do Brasil:
 
-"Marco Temporal" is a legal thesis constructed jurisprudentially in which the Doctrine's principles are present in all its colours. The case of the land known as 'Raposa Serra do Sol' was discussed in Brazil's Supreme Federal Court (STF) in 2009. In it, the Supreme Court decided that the article of the Constitution that guarantees the enjoyment of the lands traditionally occupied by the Brazilian indigenous should be interpreted by counting only the lands in possession on October 5, 1988, the date of the promulgation of the 1988 Brazilian Constitution. Such an interpretation would validate the acts of the Brazilian military dictatorship when indigenous people were frequently murdered and expelled from their land.
+*"A cavalaria brasileira era muito incompetente. Competente, sim, era a cavalaria norte-americana que dizimou os índios no passado e hoje em dia não têm tais problemas em seu país".*
 
-As the Yanomami's catastrophe unfolds, Brazil is still debating on two fronts whether it is legal or not to determine a time frame for the demarcation of indigenous lands. The discussion takes place on two legal fronts: it is to be voted on by the Supreme Court (STF), and there is an attempt to approve Bill 490/2007. Such Bill 490/2007 includes extremely problematic provisions, impeding Indigenous people from claiming additional land to expand already demarcated territories. It also allows the government to eliminate Indigenous reserves threatening Indigenous people's livelihood and cultural survival. Bill 490/2007, if approved, embeds overbroad terms that could lead to forced removals of indigenous peoples from their land, as stated by Human Rights Watch. The principles evoked are not by coincidence similar, if not equal, to those included in the Doctrine of Discovery. It expands government powers allowing it to invade the land and contact even Indigenous peoples living in voluntary isolation.
+As pressões do agronegócio pela imposição de limitações na demarcação de terras indígenas, contou como o apoio presidencial de Jair Bolsonaro para aprovar o chamado ''time Frame'' ("Marco Temporal", em português).
 
-Furthermore, as the papal bulls, the bill gives the government the power to explore, at its own will, energy resources, set up military bases, and expand strategic roads in Indigenous lands without any consultation with Indigenous peoples.
+"Marco Temporal" é uma tese jurídica construída jurisprudencialmente na qual os princípios da Doutrina estão presentes em todas as suas nuances. O caso da terra conhecida como "Raposa Serra do Sol" foi discutido no Supremo Tribunal Federal (STF) do Brasil em 2009. Nele, a Suprema Corte decidiu que o artigo da Constituição que garante o gozo das terras tradicionalmente ocupadas pelos povos indígenas brasileiros deveria ser interpretado incluindo apenas as terras em posse dos indígenas em 5 de outubro de 1988, data da promulgação da Constituição Brasileira de 1988. Tal interpretação validaria os atos da ditadura militar brasileira quando os indígenas foram frequentemente assassinados e expulsos de suas terras.
 
-The principles of the Doctrine and its manifestations, although hidden under layers of misinformation and omission, are, hidden in plain sight, embedded in Bills like Bill 490/2007.
+À medida que a catástrofe dos Yanomami se desenrola, o Brasil ainda debate em duas frentes se é legal ou não determinar uma data, no caso 5 de outubro de 1988, mais de quatrocentos e oitenta anos depois da chegada dos portugueses, como sendo o limite inicial para a demarcação de terras indígenas. A discussão que ocorre em duas frentes jurídicas será votada pelo Supremo Tribunal Federal (STF), e há uma tentativa de aprovar o Projeto de Lei 490/2007. Tal Projeto de Lei 490/2007 inclui disposições extremamente problemáticas, que impedem que povos indígenas reinvidiquem terras como suas terras para expandir territórios já demarcados. O mesmo Projeto de Lei permite ao governo eliminar reservas indígenas que ameaçam a subsistência e a sobrevivência cultural dos povos indígenas. O Projeto de Lei 490/2007, se aprovado, incorpora termos que poderiam levar à remoção forçada dos povos indígenas de suas terras, como declarado pela Human Rights Watch. Os princípios evocados não por coincidência , são similares, se não iguais, aos incluídos na Doutrina da Descoberta, expandindo os poderes do governo e permitindo a invasão de terras indígenas incluindo ate mesmo arbitrariamente invadir e fazer contato mesmo os povos indígenas que vivem em isolamento voluntário.
 
-Regardless of the Catholic Church's discourse about protecting the environment and calling for the preservation of the forest, there are no words about its role in enacting those bulls, let alone about refusing to reject the Doctrine. Amid the scandalous news, modest donations by the Catholic Church have been offered, and neither compensation nor emancipation is provided to the original people victimized by their papal bulls.
+Além disso, como as Bulas Papais, o projeto de lei dá ao governo o poder de explorar, por sua própria vontade, recursos energéticos, estabelecer bases militares e criar e expandir estradas em terras indígenas sem qualquer consulta aos povos indígenas.
 
-In 2007, the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP) was ratified by all its participants except for four countries: Canada, Australia, New Zealand and the United States. Information about the Doctrine is continuously being spread in those countries. Moreover, regardless of the inefficacy of the Canadian Senate passed Bill C-15, which seeks to align Canadian Law with UNDRIP but does not directly implement many of the declaration's articles into Canadian Law, only partially rescinding the effects of the Doctrine of Discovery in Canadian Law, the Brazilian case, signatory of the 2007 UNDRIP, is even more oblivious to the damage caused by such Doctrine.
+Os princípios da Doutrina e suas manifestações, embora ocultos sob camadas de desinformação e omissão, estão, escondidos à vista de todos, embutidos em atos como o Projeto de Lei 490/2007.
 
-Regardless of Brazil's ratification of the 2007 UNDRIP, it produced no practical effects, and the Brazilian government still needs to account for its lack of compliance.
+Independentemente do discurso da Igreja Católica sobre a proteção do meio ambiente e o apelo à preservação da floresta, não há palavras sobre seu papel na promulgação dessas bulas papais, muito menos sobre a recusa em rejeitar a Doutrina, como ocorreu quando da visita do Papa Francisco ao Canadá em julho de 2022. Em meio às notícias devastadoras das condições do povo Yanomami, foram oferecidas modestas doações pela Igreja Católica, nenhuma referência foi feita a qualquer compensação a ser conferida ao povo original vitimado por suas Bulas Papais.
 
-Robert Miller's work, "The Doctrine of Discovery: The international law of colonialism",  highlights the need to recognize and address the legacy of colonialism to ensure Indigenous sovereignty. 
+Em 2007, a Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas (UNDRIP) foi ratificada por todos os seus participantes, exceto por quatro países: Canadá, Austrália, Nova Zelândia e Estados Unidos. Atualmente, informações sobre a Doutrina são intensamente difundidas continuamente nesses países. Além disso, independentemente da ineficácia, o Senado canadense aprovou o Projeto de Lei C-15, procurando mesmo que apenas parcialmente, alinhar a legislação canadense com a UNDRIP. O projeto não implementa diretamente muitos dos artigos da declaração na legislação canadense, rescindindo apenas parcialmente os efeitos da Doutrina da Descoberta na legislação canadense. No caso brasileiro, signatário da UNDRIP 2007, o país permanece totalmente alheio aos danos causados por tal Doutrina.
 
-While Brazilian school books include themes such as occupation, consolidation of the Portuguese in America, discovery, colonization, and indigenous peoples, there is no reference to the Doctrine of Discovery in Brazilian publications in Portuguese, the country's primary language.
+Independentemente da ratificação pelo Brasil da UNDRIP 2007, ela não produziu efeitos práticos, e o governo brasileiro ainda precisa prestar contas de sua inação com relação ao assunto.
 
-In January 2023, the recently elected Brazilian Minister for Human Rights and Citizenship, a jurist and scholar, demanded the presence of federal policy in the Yanomami land to rid the land of criminals and to protect the lives of all that are under the gun of the miners and their bosses operating the economic mining cycle started by the Portuguese. In invaded land where 28,000 Yanomami live, there are 20,000 miners, and behind them, a powerful and wealthy network of mining companies and organized crime enriching and expanding with no accountability.
+O trabalho de Robert Miller, "A Doutrina da Descoberta": A Lei Internacional do Colonialismo", (título original em Inglês: 'The Doctrine of Discovery: The International Law of Colonialism."), destaca a necessidade de reconhecer e abordar o legado do colonialismo para garantir a soberania indígena. 
 
-Hate crimes and genocide are never isolated events but result from hatred and violence incitement. The current extreme right-wing government has targeted the indigenous people and many other groups in Brazil in a dehumanizing discourse that seemed like a preparation for annihilating indigenous people without a reaction from the population.
+Enquanto os livros escolares brasileiros incluem temas como ocupação, descoberta, colonização e povos indígenas, não há referência à Doutrina da Descoberta nas publicações brasileiras em português.
 
-Indigenous people in Brazil, among them the Yanomami, have been on the brink of genocide.      While Canadian Indigenous people asked the pope to repel the Doctrine of discovery, Brazilian indigenous people remained oblivious to the role of the Doctrine of Discovery in their fate.
+Em janeiro de 2023, o recém-eleito Ministro dos Direitos Humanos e Cidadania do Brasil, jurista e intelectual, exigiu a presença da política federal na terra Yanomami para livrar a terra dos criminosos e proteger a vida de todos os que estão sob a arma dos mineradores e seus mandantes que operam o ciclo econômico de mineração iniciado pelos portugueses. Na terra invadida onde vivem 28.000 Yanomami, há 20.000 garimpeiros e por trás deles, uma rede poderosa e rica de empresas mineradoras além do crime organizado enriquecendo e se expandindo impunemente.
 
-The invasion of the Yanomami's land and the allegedly deliberate destruction of their ability to feed themselves, the contamination of the waters and the spread of disease are a repetition of manifestations of the Doctrine of Discovery, a topic totally out of sight in most of this prominent Catholic country.
+Crimes de ódio e genocídio nunca ocorrem como eventos isolados, mas resultam de incitamento ao ódio e à violência. O ex presidente de extrema direita de Jair Bolsonaro, mesmo derrotado nas urnas, tem ainda com representantes na presente legislatura, em campanha continua visando defender o garimpo e a exploração das terras indígenas em todo o Brasil, atingindo muitos outros grupos no Brasil. Mantêm um discurso desumanizador que utilizam como em uma constante preparação para aniquilar os povos indígenas sem uma reação da população.
 
-## Conclusion
+Os povos indígenas no Brasil, entre eles os Yanomami, sobrevivem e sucumbem na luta que travam às beiras do genocídio.
 
-The Doctrine of Discovery has had a long and devastating history in Brazil. From enslavement,  exploitation and the denial of Indigenous sovereignty to the genocide of the Yanomami in the Amazon, this legacy continues today with the ongoing struggle for Indigenous rights.
+Enquanto os povos Indígenas no Canada continuamente pedem ao Papa Catolico que repudie a Doutrina da Descoberta, os indígenas brasileiros permanecem alheios ao importnate papel da Doutrina em seu destino.
 
-Indigenous people have traditionally played the role of "guardians" of the Amazon, an immense natural territory vital in the fight against climate change. Indigenous Brazilian legislators, Indigenous Organizations, lawyers, judges and attorneys of justice are fighting back. However, a piece of the puzzle is still missing: the recognition that The Doctrine of Discovery has caused immense suffering and injustice to Indigenous peoples.
+A invasão da terra dos Yanomami e a destruição deliberada de sua capacidade de se alimentarem, a contaminação das águas e a propagação de doenças são uma repetição das manifestações da Doutrina da Descoberta, um tópico totalmente fora de neste imenso país predominantemente católico.
 
-To create a more positive and equal future for all Brazilians, it is essential to recognize the truth of the country's History and to eradicate the vestiges of the Doctrine of Discovery from Brazilian Law and society. It is time to bring down the veil of ignorance that hides the origins of ongoing violence against Indigenous people - papal bulls constituting the Doctrine of Discovery.
+**Conclusão**
+-------------
 
-It is time to make common knowledge the fact that behind the Yanomami oppression and appropriation of land are the principles of the Doctrine. It is as if they always retained power over the region's first inhabitants, even when the Doctrine remains hidden from common knowledge.
+A Doutrina da Descoberta tem tido uma longa e devastadora história no Brasil. Da escravidão, exploração e negação da soberania indígena ao genocídio dos Yanomami na Amazônia, este legado continua hoje com a luta contínua pelos direitos indígenas.
 
-## REFERENCES
+Os povos indígenas tradicionalmente têm desempenhado o papel de "guardiões" da Amazônia, um imenso território natural vital na luta contra a destruição do meio ambiente e contra a mudança climática. Representantes indígenas brasileiros, organizações Indígenas, juízes e advogados se unem a luta mas, uma peça do quebra-cabeça permanece ignorada: o reconhecimento de que A Doutrina da Descoberta tem causado imenso sofrimento e injustiça aos povos indígenas.
+
+Para criar um futuro positivo e igualitário para todos os brasileiros, é essencial reconhecer a verdade da História do país e erradicar os vestígios da Doutrina do Descobrimento do Direito e da sociedade brasileira. É hora de derrubar o véu da ignorância que esconde as origens da violência contínua contra os povos indígenas -- as Bulas Papais que constituem a Doutrina do Descobrimento.
+
+ É passada a hora de fazer com que seja do conhecimento comum o fato de que por trás da opressão Yanomami e da apropriação das terras dos povos indígenas, estão os princípios racistas da Doutrina. É como se tais princípios ainda retenham poder sobre os primeiros habitantes da região, mesmo quando a Doutrina permanece escondida e aparentemente silenciada.
+
+**REFERÊNCIAS**
+---------------
 
 * Bell, J., Sterett, S., & Young, M. (2018). Editors' Note. Law & Society Review, 52(3), 559.
 
-* Business & Human Rights Centre. (2023). "Complaints Indicate That 30 Yanomami Girls Are Pregnant, Victims of Abuses Committed by miners in Roraima"(in Portuguese: Denuncias Apontam Que 30 Meninas Yanomami Estão Grávidas, Vítimas de abusos Cometidos por garimpeiros em Roraima). Retrieved February 26, 2023, from https://www.business-humanrights.org/en/latest-  news/brasil-denuncias-apontam-que-30-meninas-yanomami-est%C3%A3o-gr%C3%A1vidas-v    %C3%ADtimas-de-abusos-cometidos-por-garimpeiros-em-roraima/
+* Business & Human Rights Centre. (2023). "Complaints Indicate That 30 Yanomami Girls Are Pregnant, Victims of Abuses Committed by miners in Roraima"(in Portuguese: Denuncias Apontam Que 30 Meninas Yanomami Estão Grávidas, Vítimas de abusos Cometidos por garimpeiros em Roraima). Retrieved February 26, 2023, from <https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/brasil-denuncias-apontam-que-30-meninas-yanomami-est%C3%A3o-gr%C3%A1vidas-v%C3%ADtimas-de-abusos-cometidos-por-garimpeiros-em-roraima/>
 
 * Castro, P. (2009). História da Historiografia. 0 (2): 29--49
 

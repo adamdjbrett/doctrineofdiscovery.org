@@ -28,6 +28,7 @@ toc_icon: "cog"
 ## Abstract
 
 Despite being a tool of colonization and imperialism worldwide, the Doctrine of Discovery's importance and influence has been overlooked in Brazilian literature and studies. This article examines the Doctrine's impact on the Brazilian Indigenous people and environment, highlighting the need to acknowledge and understand the effects and manifestations of the Doctrine of Discovery in Brazil. It explores intersections of the Doctrine with Indigenous rights and sovereignty. It argues that understanding the Doctrine is essential to move forward respectfully and sustainably with Indigenous people and the environment.
+<!--more-->
 
 ## Keywords:
 
@@ -222,7 +223,7 @@ It is time to make common knowledge the fact that behind the Yanomami oppression
 
 * Bell, J., Sterett, S., & Young, M. (2018). Editors' Note. Law & Society Review, 52(3), 559.
 
-* Business & Human Rights Centre. (2023). "Complaints Indicate That 30 Yanomami Girls Are Pregnant, Victims of Abuses Committed by miners in Roraima"(in Portuguese: Denuncias Apontam Que 30 Meninas Yanomami Estão Grávidas, Vítimas de abusos Cometidos por garimpeiros em Roraima). Retrieved February 26, 2023, from https://www.business-humanrights.org/en/latest-  news/brasil-denuncias-apontam-que-30-meninas-yanomami-est%C3%A3o-gr%C3%A1vidas-v    %C3%ADtimas-de-abusos-cometidos-por-garimpeiros-em-roraima/
+* Business & Human Rights Centre. (2023). "Complaints Indicate That 30 Yanomami Girls Are Pregnant, Victims of Abuses Committed by miners in Roraima"(in Portuguese: Denuncias Apontam Que 30 Meninas Yanomami Estão Grávidas, Vítimas de abusos Cometidos por garimpeiros em Roraima). Retrieved February 26, 2023, from <https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/brasil-denuncias-apontam-que-30-meninas-yanomami-est%C3%A3o-gr%C3%A1vidas-v%C3%ADtimas-de-abusos-cometidos-por-garimpeiros-em-roraima/>
 
 * Castro, P. (2009). História da Historiografia. 0 (2): 29--49
 
