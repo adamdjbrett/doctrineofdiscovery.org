@@ -6,8 +6,8 @@ header:
   image: /assets/images/skanonh-center-colonial-image.jpg
   caption: "'We were planting corn and they were planting crosses. ~ Faithkeeper Oren Lyons.' Image from the Skä•noñh
 Great Law of Peace Center."
-date: 2023-03-21 09:54:46
-last_modified_at: 2023-03-21 09:54:46
+date: 2023-03-23 11:54:46
+last_modified_at: 2023-03-23 09:54:46
 categories:
   - blog
 tags:
@@ -46,7 +46,7 @@ The project's key collaborators include [Syracuse University](https://syracuse.e
 <figure>
     <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png">
         <img src="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png"></a>
-    <figcaption>Event flyer. <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png" target="_blank" rel="noopener">⤓ Download Image</a>, <a href="/assets/pdfs/CFP-Religious Origins-Conference-Flyer-8.5x11-rev2.pdf" target="_blank" rel="noopener">⤓ Download PDF</a>.
+    <figcaption>Event flyer. <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png" target="_blank" rel="noopener">⤓ Download Image</a>, <a href="/assets/pdfs/CFP-Religious-Origins-Conference-Flyer-8.5x11-rev2.pdf" target="_blank" rel="noopener">⤓ Download PDF</a>.
 </figcaption>
 </figure>
   
@@ -56,7 +56,7 @@ We are interested in paper and session proposals from scholars, students, activi
 
 ### Downloads
   - [Flyer image](/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png)
-  - [Flyer PDF](/assets/pdfs/CFP-Religious Origins-Conference-Flyer-8.5x11-rev2.pdf)
+  - [Flyer PDF](/assets/pdfs/CFP-Religious-Origins-Conference-Flyer-8.5x11-rev2.pdf)
 
 ## Thematic Panels
 
