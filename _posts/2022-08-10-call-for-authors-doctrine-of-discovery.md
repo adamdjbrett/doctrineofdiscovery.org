@@ -5,7 +5,7 @@ excerpt: "We are now accepting applications for partnership and collaboration wi
 categories:
   - Blog
 tags:
-  - call for authors
+  - call-for-authors
   - doctrine-discovery
 author: admin
 ---

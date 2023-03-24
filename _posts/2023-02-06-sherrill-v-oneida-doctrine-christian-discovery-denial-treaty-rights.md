@@ -7,7 +7,7 @@ header:
   caption: "The Canandaigua, Two Row, and Haudenosaunee Confederacy Wampum Belts. Image by Lindsay Speer, 2008. Image via [Honor the Two Row](https://honorthetworow.org/media/media-kit/)"
 date: 2023-02-06 07:54:46
 categories:
-  - blog
+  - Blog
 tags:
   - rights
   - law

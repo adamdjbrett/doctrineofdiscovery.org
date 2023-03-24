@@ -6,7 +6,7 @@ header:
   caption: "American Progress by John Gast via [wikipedia](https://en.wikipedia.org/wiki/American_Progress)."
 date: 2023-03-23 07:54:46
 categories:
-  - blog
+  - Blog
 tags:
   - law
   - religion

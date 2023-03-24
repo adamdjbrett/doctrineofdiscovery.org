@@ -7,7 +7,7 @@ header:
   caption: "Traveling the mountains of Romania. Photo by [David Marcu](https://unsplash.com/@davidmarcu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/images/nature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)."
 date: 2023-03-10 07:54:46
 categories:
-  - blog
+  - Blog
 tags:
   - law
   - repudiations

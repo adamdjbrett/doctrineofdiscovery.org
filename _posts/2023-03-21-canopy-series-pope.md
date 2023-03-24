@@ -9,7 +9,7 @@ tags:
   - Johnson
 link: https://canopyforum.org/2023/03/21/did-pope-alexander-vi-authorize-englands-colonization-of-north-america/
 date: 2023-03-18 01:54:46
-author: 
+author: matthew-cavedon
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

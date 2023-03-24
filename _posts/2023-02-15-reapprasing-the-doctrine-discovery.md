@@ -7,7 +7,7 @@ header:
   caption: "The Supreme Court of the United States. Photo by [Richard Cohrs](https://unsplash.com/@rpcohrs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/SCOTUS?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)."
 date: 2023-02-15 07:54:46
 categories:
-  - blog
+  - Blog
 tags:
   - church
   - Christianity

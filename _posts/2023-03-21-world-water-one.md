@@ -7,6 +7,7 @@ tags:
   - link
   - tonatierra
 link: https://redabyayala.blogspot.com/2023/03/cemanahuac-superseding-doctrine-of.html
+suggestedcitiation: false
 ---
 > Ten years since the **First Dismantling the Doctrine of Discovery International Conference **held at Arizona State University West on April 19-20, 2013, the **[Continental Commission Abya Yala](https://www.boulderfriendsmeeting.org/wp-content/friends9x4Q/2013/06/Indigenous-Proclamation-Philadelphia-Sept-24-2015.pdf)** will advance into the next cycle of INTENT and ENGAGEMENT towards the objectives and goals of the local-regional, continental-global initiative which has remained active across the continent throughout this most recent chapter of our collective history as **Original Nations** of **Indigenous Peoples** of **Abya Yala**.
 > 
