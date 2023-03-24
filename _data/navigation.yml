@@ -17,6 +17,8 @@ main:
     url: /posts/
   - title: "Give"
     url: /give/
+  - title: "Newsletter"
+    url: /email/ 
   - title: "Categories"
     url: /categories/
   - title: "Tags"
