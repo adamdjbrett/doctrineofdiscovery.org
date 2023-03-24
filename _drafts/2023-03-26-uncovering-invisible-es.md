@@ -113,6 +113,10 @@ El óleo sobre lienzo de 1860 del famoso artista Victor Meirelles, actualmente e
 
 **Primera Misa en Brasil", de Victor Meirelles (1860) - Museo Nacional de Bellas Artes, São Paulo, Brasil.**
 ------------------------------------------------------------------------------------------------------------
+<figure>
+    <a href="/assets/images/Meirelles-primeiramissa2.jpg"><img src="/assets/images/Meirelles-primeiramissa2.jpg"></a>
+    <figcaption>By Victor Meirelles, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=4077499" target="_blank" rel="noopener">commons.wikimedia.org/</a></figcaption>
+</figure>
 
 El cuadro "La Primera Misa en Brasil" da cuenta visual precisa de los rituales de la Doctrina, constituyendo un punto de partida bien documentado para esclarecer los principios de la Doctrina y su poderosa presencia desde los primeros tiempos coloniales, cuando los portugueses llegaron a la costa de lo que hoy es Brasil.
 

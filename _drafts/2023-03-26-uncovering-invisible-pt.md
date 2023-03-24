@@ -110,7 +110,12 @@ Há, no entanto, uma obra de arte que merece atenção especial, pois conta a Hi
 
 O óleo sobre tela de 1860 do famoso artista Victor Meirelles, atualmente em exposição no Museu Nacional de Belas Artes em São Paulo, Brasil, conta um capítulo da Doutrina que está escondido à primeira vista.
 
-Primeira missa no Brasil" de Victor Meirelles (1860) - Museu Nacional de Belas Artes, SP, Brasil.\
+### Primeira missa no Brasil" de Victor Meirelles (1860) - Museu Nacional de Belas Artes, SP, Brasil.
+<figure>
+    <a href="/assets/images/Meirelles-primeiramissa2.jpg"><img src="/assets/images/Meirelles-primeiramissa2.jpg"></a>
+    <figcaption>By Victor Meirelles, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=4077499" target="_blank" rel="noopener">commons.wikimedia.org/</a></figcaption>
+</figure>
+
 O quadro "A Primeira Missa no Brasil" dá um relato visual preciso dos rituais da Doutrina, constituindo um ponto de partida bem documentado para esclarecer os princípios da Doutrina e sua poderosa presença desde os primeiros tempos coloniais, quando os portugueses chegaram ao litoral do que é hoje o Brasil.
 
 Os estudos históricos não são isentos de ideologia. Enquanto expõem o passado, juntando pedaços e peças, eles não podem garantir que o que resta é o mais importante, a parte mais representativa do evento, concluiu Gottschalk (Gottschalk, 1979).
