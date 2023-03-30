@@ -149,17 +149,19 @@ The issue is not about what we want. It is about what we WILL.
 *there*
 *Here-Now*
 *Nican Tlacah*
-
-Cemanahuac*
-
-*** 
-
-![decorative image](Image_002.png)
-
-\#WorldWaterOne 
-\www.www.www
+*Cemanahuac*
 
 ***
+
+![decorative image](/assets/images/image_002.png)
+
+\#WorldWaterOne 
+
+www.www.www  
+
+***
+
+### Contact Information
 
 Continental Commission Abya Yala
 
@@ -168,4 +170,7 @@ TECHANTIT - VISION MAYA TONATIERRA
 [www.tonatierra.org](http://www.tonatierra.org/)
 
 ***
+
+### PDF
+
 [Download as a PDF](/assets/pdfs/1CEMANAHUAC.pdf)
