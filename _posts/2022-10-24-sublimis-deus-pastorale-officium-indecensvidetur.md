@@ -44,8 +44,12 @@ Repudiation relates to the moral rejection and renunciation of a concept. Within
 
 Rescindment refers to the revoking and repealing of a law or policy. Within the context of the Doctrine of Discovery, rescindment is most often what is called upon by the Vatican to do, as the papal bulls (laws) which form the basis of the Doctrine of Discovery, were issued by the Vatican.
 
-![Rescind the Doctrine of Discovery banner showing before the Pope](/assets/images/sublimis-deus-image001.png){: .align-center}
-[(image source)](https://cathnews.co.nz/wp-content/uploads/2022/08/r0_0_800_600_w800_h600_fmax.jpg)
+<figure>
+    <a href="/assets/images/sublimis-deus-image001.png"><img src="/assets/images/sublimis-deus-image001.png"></a>
+    <figcaption>a Rescind the Doctrine of Discovery banner hanging before the Pope<br />
+    <a href="https://cathnews.co.nz/wp-content/uploads/2022/08/r0_0_800_600_w800_h600_fmax.jpg" target="_blank">(image source)</a></figcaption>
+</figure>
+
 
 It's important for us to be clear about these two concepts, because so often those who argue against rescindment of the papal pulls cite the many instances where the Catholic church has repudiated the concepts of slavery and dispossession, including through the papal bull Sublimis Deus ([as we saw recently](https://cruxnow.com/pope-in-canada/2022/07/rescind-the-doctrine-protest-greets-pope-in-canada) when church defenders responded to First Nation protests calling for the Pope to rescind the Doctrine of Discovery, during his papal visit to Canada). [As stated by leading Doctrine of Discovery scholar, Steven Newcomb](https://indiancountrytoday.com/archive/on-the-papal-bull-sublimis-deus) it is important that the Pope formally and ceremonially revoke the entire body of papal bulls which constitute the Doctrine of Discovery, in order to systemically undercut the very basis of the arguments of domination which remain to be used against us to this day.
 
