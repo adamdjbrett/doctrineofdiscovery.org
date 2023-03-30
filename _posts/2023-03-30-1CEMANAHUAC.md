@@ -78,9 +78,7 @@ Both Sun and Earth, entities of mass and therefore revolution and spiral orbit, 
 
 The doctrine of a geocentric universe was challenged by Copernicus and eventually superseded by the current "BIG BANG" model, but to challenge the dogma of the Holy Roman Catholic Church in terms cosmology in 1492 was blasphemy punishable by excommunication, torture, and death under the courts of the Inquisition.
 
-Today, although the corresponding political dogma of Eurocentric theology known as the Doctrine of Discovery falls in the same category of antiquated
-
-and globally repudiated concepts of cultural supremacy and colonialism as geocentrism, the Doctrine of Discovery remains as the fundamental legal principle that defines all US property law and jurisprudence not only within the courts but the entire US legal system of jurisdiction and law enforcement.
+Today, although the corresponding political dogma of Eurocentric theology known as the Doctrine of Discovery falls in the same category of antiquated and globally repudiated concepts of cultural supremacy and colonialism as geocentrism, the Doctrine of Discovery remains as the fundamental legal principle that defines all US property law and jurisprudence not only within the courts but the entire US legal system of jurisdiction and law enforcement.
 
 Internationally, the dogma of the Doctrine of Discovery also perpetuates the norm of 531 years of continental colonialism across the entire continent by the political mechanism of the concept of "**successor states**" to the doctrine that is upheld by each and every "American" state today.
 
