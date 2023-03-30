@@ -26,12 +26,11 @@ toc_icon: "cog"
 ### Superseding the Doctrine of Discovery: World Water One www.www.www
 
 
-
 ![Poster](/assets/images/1TIME.jpg)
 
 
-
 Ten years since the **First Dismantling the Doctrine of Discovery International Conference **held at Arizona State University West on April 1920, 2013, the **Continental Commission Abya Yala **will advance into the next cycle of INTENT and ENGAGEMENT towards the objectives and goals of the local-regional, continental-global initiative which has remained active across the continent throughout this most recent chapter of our collective history as **Original Nations **of **Indigenous Peoples **of the **Great Turtle Island Abya Yala**.
+<!--more-->
 
 The continental call to consciousness and courage will be emitted today at dawn during the **Tlanexpapalotl **(Butterfly Sun) ceremonies of the **Izcalli Abya Yala**. The date corresponds to the spring equinox north of the equator, and the fall equinox in the south which will occur on March 20, 2023.
 
