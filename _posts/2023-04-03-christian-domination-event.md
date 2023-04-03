@@ -18,8 +18,9 @@ Please join us for panel discussion with Philip P. Arnold, Tupac Enrique Acosta,
 
 ## Details
 - Christian Domination & The Genocide of Turtle Island
-- 19 April 2023 | 5:00PM | Refreshments
-- CCUN Chapel | 777 United Nations Plaza, New York, NY 10017
+- 19 April 2023 at 5:00PM
+- Refreshments included.
+- [CCUN Chapel, 777 United Nations Plaza, New York, NY 10017](https://goo.gl/maps/4FhC5h1QWsvojHxC7)
 - Art by Analena Provost
 - [Download the flyer as a PDF](/assets/pdfs/Christian-Domination-Event.pdf)
 
