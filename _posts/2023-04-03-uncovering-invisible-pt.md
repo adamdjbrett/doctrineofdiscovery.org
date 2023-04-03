@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 header:
   image: /assets/images/mateus-campos-felipe-6lrHdKhaYt0-unsplash.jpg
   caption: "Photo by [Mateus Campos Felipe](https://unsplash.com/@matcfelipe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/brazil-amazon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)."
-date: 2023-03-23 07:54:46
+date: 2023-04-03 07:54:46
 categories:
   - blog
 tags:
@@ -23,7 +23,7 @@ toc: true
 toc_label: "Overview"
 toc_icon: "cog" 
 ---
-[English](#link){: .btn .btn--primary .btn--x-large}  [Portugese](#link){: .btn .btn--success  .btn--x-large}  [Spanish](#link){: .btn .btn--info  .btn--x-large}
+[English](/blog/uncovering-invisible-en/){: .btn .btn--primary .btn--x-large}  [Portugese](/blog/uncovering-invisible-pt/){: .btn .btn--success  .btn--x-large}  [Spanish](/blog/uncovering-invisible-es/){: .btn .btn--info  .btn--x-large}
 
 Resumo
 ------
