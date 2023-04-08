@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 header:
   image: /assets/images/mark-tegethoff-NbgQfUvKFE0-unsplash.jpg
   caption: "Photo by [Mark Tegethoff](https://unsplash.com/@tegethoff?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/witch?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-date: 2023-03-23 07:54:46
+date: 2023-04-08 07:54:46
 categories:
   - blog
 tags:
@@ -24,6 +24,7 @@ toc_label: "Overview"
 toc_icon: "cog" 
 ---
 How did the world come to be? How did humans come to be? What is the origin of all living beings? The myth-history of who we are begins with the creation stories we tell. These stories guide us on the path to who we will become and how we understand ourselves and our relation to the planet and the other life on Earth. We settler colonialists have our origin story in the Christian *Bible*, the fiction that set our Western worldview on the path to Christian male domination of the earth and women. It set us spiritually, politically, economically and socially in a trajectory toward destruction. This is the best knowledge I can share with you after over 50 years of learning from Indigenous people, studying their history and examining my own settler colonialist world view.
+<!--more-->
 
 Mother Earth to Indigenous people is the sacred and generous creator of everything that we need to survive; to Christians it is their real estate, taken by the force of spiritual superiority. Earth is nothing but dirt, which is synonymous with evil: a dirty mind, lower than dirt, etc. The Christian earth is the resistant enemy that Adam must overpower to survive. It begins with the *Bible's* creation myth.
 
