@@ -1,9 +1,9 @@
 ---
 layout: archive
 ---
-
+{% assign sorted_author = site.authors | sort: 'name' %}
 <ul class="taxonomy__index">
-  {% for author in site.authors %}
-    <li><a href="{{ author.url }}">{{ author.title }}</a></li>
+  {% for author in sorted_author %}
+    <li><a href="{{ author.url }}">{{ author.name }}</a></li>
   {% endfor %}
 </ul>
