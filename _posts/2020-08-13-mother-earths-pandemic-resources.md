@@ -56,8 +56,7 @@ author: adamdjbrett
   - Even the Rain
   - We Were Children
 
-  [Watch Domination Code on Vimeo](https://vimeo.com/ondemand/dominationcode)
-
+[Domination Code is now Streaming](https://vimeo.com/ondemand/dominationcode){: .btn .btn--warning .btn--x-large}
 
 ## Session II Resources
 *   6:00-7:00 PM Legal dimensions of the Doctrine of Discovery
