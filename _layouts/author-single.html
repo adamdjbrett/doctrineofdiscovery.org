@@ -1,18 +1,40 @@
 ---
-layout: archive
+layout: default
 ---
-{% for post in site.posts %}
-{% if post.author contains page.username or page.username == post.author %}
-<div class="list__item">
-	<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-		<h2 class="archive__item-title no_toc" itemprop="headline">
-			<a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
-		</h2>
-		{% include page__meta.html type=entries_layout %}
-		{% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">
-			{{ post.excerpt | markdownify | strip_html | truncate: 160 }}
-		</p>{% endif %}
-	</article>
-</div>
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+{% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+{% include page__hero_video.html %}
 {% endif %}
-{% endfor %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+{% unless paginator %}
+{% include breadcrumbs.html %}
+{% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+	{% include sidebar.html %}
+
+	<div class="archive">
+		{% unless page.header.overlay_color or page.header.overlay_image %}
+		<h1 id="page-title" class="page__title">{{ page.name }}</h1>
+		{% endunless %}
+		{% for post in site.posts %}
+		{% if post.author contains page.username or page.username == post.author %}
+		<div class="list__item">
+			<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+				<h2 class="archive__item-title no_toc" itemprop="headline">
+					<a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+				</h2>
+				{% include page__meta.html type=entries_layout %}
+				{% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">
+					{{ post.excerpt | markdownify | strip_html | truncate: 160 }}
+				</p>{% endif %}
+			</article>
+		</div>
+		{% endif %}
+		{% endfor %}
+	</div>
+</div>
