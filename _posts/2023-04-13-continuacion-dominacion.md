@@ -23,6 +23,7 @@ por Betty Lyons, Sandra Bigtree y Philip Arnold
 ## Español
 
 Cuando el Vaticano finalmente se dé cuenta de que está sumido en el lodo genocida de siglos de explotación racista de los Pueblos Indígenas de todo el mundo, será bienvenido un paso hacia el reconocimiento de la necesidad de la reconciliación.
+<!--more-->
 
 La declaración del Vaticano que repudia la Doctrina del Descubrimiento, emitida el 30 de marzo, es importante y representa décadas de trabajo de activistas indígenas y no indígenas que han librado una batalla a menudo solitaria en todo el mundo para llamar la atención sobre los fundamentos racistas que todavía definen gran parte de los mecanismos legales utilizados para negar a los pueblos indígenas su posición legítima entre las naciones del mundo.
 
