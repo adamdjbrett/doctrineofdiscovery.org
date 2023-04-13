@@ -11,6 +11,7 @@ tags:
   - Vatican
   - featured
 author: admin
+translator: tupac-enrique-acosta
 ---
 por Betty Lyons, Sandra Bigtree y Philip Arnold
   
