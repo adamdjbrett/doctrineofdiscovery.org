@@ -12,6 +12,7 @@ tags:
   - religion
   - Christianity
   - Brazil
+  - featured
 author: telma-alencar
 sidebar:
   - title: "Next Steps"

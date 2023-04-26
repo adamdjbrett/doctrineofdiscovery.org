@@ -8,6 +8,7 @@ tags:
   - link
   - Canopy
   - Johnson
+  - featured
 link: https://canopyforum.org/2023/03/18/haaland-v-brackeen-and-the-logic-of-discovery/
 date: 2023-03-18 01:54:46
 author: danallyod

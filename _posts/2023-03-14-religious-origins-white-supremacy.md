@@ -15,6 +15,7 @@ tags:
   - Conference
   - Christianity
   - Christian-Zionism
+  - featured
 author: admin
 sidebar:
   - title: "Next Steps"

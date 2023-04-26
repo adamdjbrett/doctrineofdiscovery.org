@@ -7,6 +7,7 @@ tags:
   - link
   - Canopy
   - Johnson
+  - featured
 link: https://canopyforum.org/200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands/
 date: 2023-03-10 09:54:46
 sidebar:

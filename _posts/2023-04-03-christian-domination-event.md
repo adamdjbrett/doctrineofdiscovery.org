@@ -11,6 +11,7 @@ tags:
   - Christianity
   - featured
   - conference
+  - featured
 suggestedcitiation: false
 ---
 Please join us for panel discussion with Philip P. Arnold, Tupac Enrique Acosta, Sandy Bigtree, Joe Heath, Betty Lyons, Tina Ngata.

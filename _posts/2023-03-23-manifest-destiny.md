@@ -12,6 +12,7 @@ tags:
   - religion
   - Christianity
   - Manifest-Destiny
+  - featured
 author: rmruehl
 sidebar:
   - title: "Next Steps"

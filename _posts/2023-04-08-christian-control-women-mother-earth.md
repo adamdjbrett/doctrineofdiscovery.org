@@ -12,6 +12,7 @@ tags:
   - religion
   - Christianity
   - feminism
+  - featured
 author: sally-roesch-wagner
 sidebar:
   - title: "Next Steps"

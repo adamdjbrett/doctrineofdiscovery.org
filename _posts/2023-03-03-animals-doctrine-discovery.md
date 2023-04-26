@@ -11,7 +11,7 @@ tags:
   - law
   - free-exercise
   - indigenous-peoples
-  - 
+  - featured
 author: tracy-basile
 sidebar:
   - title: "Next Steps"

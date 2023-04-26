@@ -11,6 +11,7 @@ tags:
   - law
   - religion
   - Christianity
+  - featured
 author: tupac-enrique-acosta
 sidebar:
   - title: "Next Steps"

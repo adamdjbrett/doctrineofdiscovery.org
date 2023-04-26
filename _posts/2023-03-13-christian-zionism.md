@@ -12,6 +12,7 @@ tags:
   - law
   - Christianity
   - Christian-Zionism
+  - featured
 author: jonathan.brenneman
 sidebar:
   - title: "Next Steps"

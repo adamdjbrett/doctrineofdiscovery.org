@@ -12,6 +12,7 @@ tags:
   - law
   - repudiations
   - IUCN
+  - featured
 author: christopher.sudol
 sidebar:
   - title: "Next Steps"
