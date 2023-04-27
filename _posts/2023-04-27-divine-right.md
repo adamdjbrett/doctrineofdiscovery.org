@@ -12,6 +12,7 @@ tags:
   - law
   - religion
   - Christianity
+  - featured
 author: kenneth-chestek
 sidebar:
   - title: "Next Steps"
