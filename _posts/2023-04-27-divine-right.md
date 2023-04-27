@@ -5,7 +5,7 @@ excerpt: "Conventional wisdom holds that the Doctrine of Discovery originated wi
 header:
   image: /assets/images/richard-cohrs-DeRk8Mlnd78-unsplash.jpg
   caption: "The Supreme Court of the United States. Photo by [Richard Cohrs](https://unsplash.com/@rpcohrs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/SCOTUS?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)."
-date: 2023-03-23 07:54:46
+date: 2023-04-27 07:54:46
 categories:
   - blog
 tags:
