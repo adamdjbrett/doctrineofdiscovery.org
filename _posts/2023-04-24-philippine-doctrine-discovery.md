@@ -108,9 +108,7 @@ Ultimately, if we truly understood the stakes, we would endeavor to make the fig
 
 * Mbembe, A. (2019). *Necropolitics*. Durnham, NC: Duke University Press.
 
-* Magos, A. P. (1997). SEAMEO-Jasper Fellowship Monograph Series 5: The concept of
-
-* mari-it (Dangerous Zones) in Panaynon worldview and its impact on sustainable human development.
+* Magos, A. P. 1997. The Concept of Mari-it (Dangerous Zones) in Panaynon Worldview and its Impact on Sustainable Human Development. SEAMEO-Jasper Fellowship Monograph Series 5.
 
 * Mendoza, S. L. (2013). Savage representations in the discourse of modernity: Liberal ideology and the impossibility of nativist longing. *Decolonization, Indigenization, Education, and Society. 2* (1), 1-19.
 
