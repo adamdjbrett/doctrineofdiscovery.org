@@ -13,7 +13,7 @@ links:
   - label: "Linkedin"
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/sarah-nahar-31996357/"
-  - label: "Mennonite Stir"
+  - label: "Stir Up Peace"
     icon: "fas fa-fw fa-link"
     url: "https://www.mennonitemission.net/resources/peace/stir-up-peace" 
   - label: "Envirostory"
