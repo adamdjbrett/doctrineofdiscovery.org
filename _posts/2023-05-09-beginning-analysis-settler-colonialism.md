@@ -5,7 +5,7 @@ excerpt: "Indigenous women from around Africa arrived to traditionally Native la
 header:
   image: /assets/images/Screen-Shot-2023-03-23at12.50.45AM.png
   caption: "Screenshot from Allied Media Project, 2022. via [youtube](https://www.youtube.com/watch?v=iYM0Jf4mWjE)."
-date: 2023-03-23 07:54:46
+date: 2023-05-09 07:54:46
 categories:
   - blog
   - river
@@ -38,7 +38,7 @@ In response to lived conditions, feminisms developed in various Black and Indige
 3.  Analyze how engaging the Doctrine of Discovery can be a way Black feminists incorporate an analysis of settler colonialism without de-centering the issues that are essential to Black feminist theory and practice.
 4.  Imagine a future in which Black and Indigenous Feminisms make common cause, for the purpose of healing our lineages, and practicing the liberatory politics we aspire.
 
-[Part 1](#link){: .btn .btn--primary} [Part 2](#link){: .btn .btn--success} [Part 3](#link){: .btn .btn--warning} [Part 4](#link){: .btn .btn--danger}
+[Part 1](/blog/river/combahee-river/){: .btn .btn--primary} [Part 2](#link){: .btn .btn--success} <!--[Part 3](#link){: .btn .btn--warning} [Part 4](#link){: .btn .btn--danger}-->
 
 ***
 
