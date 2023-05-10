@@ -5,7 +5,7 @@ excerpt: "The Doctrine of Discovery (DoD, sometimes called the Doctrine of Chris
 header:
   image: /assets/images/a-correct-map-of-virginia-2e6b71-1600.jpg
   caption: "1814 Map of Virginia via [NYPL](https://nypl.getarchive.net/media/a-correct-map-of-virginia-ad98f0)."
-date: 2023-03-23 07:54:46
+date: 2023-05-10 12:54:46
 categories:
   - blog
   - river
