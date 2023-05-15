@@ -41,7 +41,7 @@ In response to lived conditions, feminisms developed in various Black and Indige
 3.  Analyze how engaging the Doctrine of Discovery can be a way Black feminists incorporate an analysis of settler colonialism without de-centering the issues that are essential to Black feminist theory and practice.
 4.  Imagine a future in which Black and Indigenous Feminisms make common cause, for the purpose of healing our lineages, and practicing the liberatory politics we aspire.
 
-[Part 1](/blog/river/combahee-river/){: .btn .btn--primary} [Part 2](/blog/river/beginning-analysis-settler-colonialism/){: .btn .btn--success} [Part 3](/blog/river/settler-colonialism-analyized/){: .btn .btn--warning} <!--[Part 4](#link){: .btn .btn--danger} -->
+[Part 1](/blog/river/combahee-river/){: .btn .btn--primary} [Part 2](/blog/river/beginning-analysis-settler-colonialism/){: .btn .btn--success} [Part 3](/blog/river/settler-colonialism-analyized/){: .btn .btn--warning} [Part 4](/blog/river/imagining-shared-futures/){: .btn .btn--danger} 
 
 ***
 
