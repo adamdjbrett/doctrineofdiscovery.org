@@ -74,11 +74,7 @@ We are interested in creating thematic panels on the following topics:
   -   Legal resistance to *Johnson* and the DoCD?
   -   How do we address and resist *Johnson* and settler colonialism today?
 
-## Call for Artists
-
-We will announce a Call for Artists to submit works on the conference themes. If you have questions, please email Prof. Philip P. Arnold at <info@indigenousvalues.org>.
-
-## Submission Instructions
+## Paper Submission Instructions
 
   -   Please send in a 300-word abstract of your paper and/or panel
   -   CV/Resume
@@ -89,4 +85,35 @@ We will announce a Call for Artists to submit works on the conference themes. If
   -   For questions please email Prof. Philip P. Arnold at <info@indigenousvalues.org>
   -   All submissions msut be via [the form](https://forms.gle/cZ1ZiUUbQ4BDXykU8) on <doctrineofdiscovery.org>
 
-[Submissions](https://forms.gle/cZ1ZiUUbQ4BDXykU8){: .btn .btn--success .btn--x-large}
+[Paper Submissions](https://forms.gle/cZ1ZiUUbQ4BDXykU8){: .btn .btn--success .btn--x-large}
+
+## Call for Artists
+### Eligibility:
+There are no hard restrictions on genre, subject matter, or media; however, we ask artists to keep the conference theme and description in mind when creating and/or selecting work for submission. The artwork must also be suitable or print-friendly for posters, promotional graphics, conference programs, etc.
+
+There are no age restrictions. Artists of all ages may submit their work. For artists under the age of eighteen (18), parent or legal guardian permission is required.
+
+### Compensation and Transfer of Ownership:
+Each artist whose piece is selected for exhibition will receive a one-time payment of $1,500.00 USD.  As part of this payment, artists will be required to sign an agreement transferring ownership of their piece (including any copyrights) to the Indigenous Values Initiative (IVI).
+
+Artist will also receive one (1) conference pass to attend any and all conference sessions.
+
+During the conference our distinguished jurists, other invited jurists, as well conference participants, will vote and select the best in show piece. There will be three awards given of first, second and third prize.
+
+-   First Prize -- $5,000 USD
+-   Second Prize -- $3,000 USD
+-   Third Prize -- $2,000 USD
+
+### Submission requirements:
+
+-   Artists may submit one piece of artwork for consideration.
+-   Each submission must include a description of the artwork, detailing inspiration, medium, process of creation, physical dimensions.
+-   Submitted artwork must be of high-resolution quality (300 DPI, .jpeg or .png recommended). If applicable, please include a layered version (.ai,  psd, .indd) of the artwork
+-   Digital Submission of Works by November 1
+-   Artist Selection and Notification by November 15
+-   If selected physical objects must be received by November 30
+All selected artworks will be exhibited during the conference at Syracuse University from Dec 8-10.
+
+If you have questions, please email Prof. Philip P. Arnold at <info@indigenousvalues.org>.
+
+[Submissions](https://syracuseuniversity.qualtrics.com/jfe/form/SV_5u4auzuwe7xvRjw){: .btn .btn--success .btn--x-large}
