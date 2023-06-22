@@ -33,12 +33,16 @@ tags:
 *   Evangelical Lutheran Church
     *   [The Evangelical Lutheran Church in Canada](#)
     *   [The Evangelical Lutheran Church in America (ELCA)](/elca/)
-*   [Friends General Conference](/friends-general-conference/)
+*   Society of Friends
+    * [Baltimore Yearly Meeting](/repudiations/faith-communities/bym/)
+    * [Canadian Friends Service Committee (Quakers)](/repudiations/faith-communities/canadian-quakers/)
+    * [Friends General Conference](/friends-general-conference/)
 *   [Mennonite Church USA](/repudiations/faith-communities/mennonite-usa/)
 *   Presbyterian Church
     *   [Presbyterian Church (USA)](/presbyterian-church-usa-repudiates-the-doctrine-of-discovery/)
     *   [Presbyterian Church in Canada](/repudiations/faith-communities/presbyterians-canada/)
 *   [Quakers](/repudiations/faith-communities/quakers/)
+    * [Baltimore Yearly Meeting](/repudiations/faith-communities/bym/)
     * [Canadian Friends Service Committee (Quakers)](/repudiations/faith-communities/canadian-quakers/)
     * [Friends General Conference](/friends-general-conference/)
 *   [Roman Catholic Organizations](/roman-catholic-organizations-repudiate-the-doctrine-of-discovery/)
