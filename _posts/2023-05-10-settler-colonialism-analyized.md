@@ -15,6 +15,7 @@ tags:
   - Christianity
   - Environment
   - river-series
+  - featured
 author: sarah-nahar
 sidebar:
   - title: "Next Steps"
