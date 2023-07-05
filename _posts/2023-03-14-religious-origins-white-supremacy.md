@@ -29,7 +29,7 @@ toc_icon: "cog"
 suggestedcitiation: false
 ---
 ## Details
-  - The conference occur at Syracuse University from 8-10 December 2023.
+  - The conference will take place at Syracuse University from 8-10 December 2023.
 
 ## Sponsored by:
 
@@ -63,6 +63,8 @@ We are interested in paper and session proposals from scholars, students, activi
 
 We are interested in creating thematic panels on the following topics:
 
+  -   Religious Racism
+  -   White Christian Nationalism
   -   What are the mythic origins of white supremacy within the Doctrine of Christian Discovery (DoCD)?
   -   International implications of *Johnson v. M'Intosh*
   -   International implications of the DoCD and white supremacy
