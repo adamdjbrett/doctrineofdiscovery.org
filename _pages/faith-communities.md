@@ -23,6 +23,7 @@ tags:
 ### Religious Communities who have Repudiated the Doctrine of Discovery
 
 *   [Anglican Church of Canada](/anglican-church-of-canada-repudiates-the-doctrine-of-discovery/)
+*   [Baptist World Alliance](#)
 *   [The Christian Church (Disciples of Christ, the U.S and Canada)](/the-christian-church-disciples-of-christ-the-u-s-and-canada/)
 *   [Christian Reformed Church (NA)](/repudiations/faith-communities/christian-reformed-church/)
 *   [Community of Christ](/repudiations/faith-communities/community-of-christ/)
