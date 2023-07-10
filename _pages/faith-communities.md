@@ -24,6 +24,7 @@ tags:
 
 *   [Anglican Church of Canada](/anglican-church-of-canada-repudiates-the-doctrine-of-discovery/)
 *   [Baptist World Alliance](/repudiations/faith-communities/baptist-world-alliance/)
+*   [Church of the Brethern](/repudiations/faith-communities/church-brethren/)
 *   [The Christian Church (Disciples of Christ, the U.S and Canada)](/the-christian-church-disciples-of-christ-the-u-s-and-canada/)
 *   [Christian Reformed Church (NA)](/repudiations/faith-communities/christian-reformed-church/)
 *   [Community of Christ](/repudiations/faith-communities/community-of-christ/)
