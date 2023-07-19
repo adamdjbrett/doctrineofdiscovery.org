@@ -13,7 +13,7 @@ tags:
   - repudiations
   - IUCN
   - featured
-author: christopher.sudol
+author: christopher-sudol
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

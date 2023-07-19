@@ -14,7 +14,7 @@ tags:
   - Christian
   - Repudiations
   - featured
-author: david.wilkins
+author: david-wilkins
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

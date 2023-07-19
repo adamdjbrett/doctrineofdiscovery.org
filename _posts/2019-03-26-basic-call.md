@@ -1,6 +1,6 @@
 ---
 title: "Basic Call to Consciousness"
-author: adamdjbrett
+author: adam-dj-brett
 excerpt: "Basic Call to Consciousness copies are available in English and Spanish."
 permalink: /basic-call/
 published: true

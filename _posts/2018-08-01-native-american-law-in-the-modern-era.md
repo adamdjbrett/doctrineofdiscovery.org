@@ -1,7 +1,7 @@
 ---
 ID: 9221
 title: "Native American Law in the Modern Era"
-author: heath
+author: joseph-heath
 excerpt: "Albany Government Law Review Volume 10 Issues 1&2 2016-2017"
 permalink: /native-american-law-in-the-modern-era/
 published: true

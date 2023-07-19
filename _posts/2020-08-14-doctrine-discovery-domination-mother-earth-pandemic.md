@@ -20,7 +20,7 @@ tags:
   - US-Indian-Law
   - Indigenous-Peoples
   - featured
-author: heath  
+author: joseph-heath  
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "fire"  # corresponding Font Awesome icon name (without fa prefix)

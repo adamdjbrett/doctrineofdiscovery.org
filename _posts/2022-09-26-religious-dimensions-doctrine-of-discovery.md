@@ -1,6 +1,6 @@
 ---
 title: "Ten Religious Themes of the Doctrine of Christian Discovery (DoCD) that Contrast with Indigenous Values"
-author: admin
+author: Indigenous-Values-Initiative
 date: 2022-09-26T07:54:46
 excerpt: "With issuance of 15th century Papal Bulls known as the Doctrine of Christian Discovery, religion has been used all over the world as a weapon against Indigenous Peoples and the land."
 published: true

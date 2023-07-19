@@ -1,5 +1,5 @@
 ---
-username: Church-Brethren
+username: church-brethren
 name: Church of the Brethren
 bio: "Continuing the work of Jesus. Peacefully. Simply. Together."
 avatar: /assets/images/authors/cob.jpg

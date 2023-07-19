@@ -1,5 +1,5 @@
 ---
-username: newcomb
+username: steven-newcomb
 name: "Steven T. Newcomb"
 bio: "Steven Newcomb (Shawnee, Lenape) is the co-founder and director of the Indigenous Law Institute, and author of _Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery _(Fulcrum, 2008). He co-produced the documentary movie “_The Doctrine of Discovery: Unmasking the Domination Code_” (2015), which is based on _Pagans_ and his four decades of research."
 avatar: /assets/images/authors/steven-newcomb.jpg
@@ -19,4 +19,6 @@ links:
   - label: "Vimeo"
     icon: "fab fa-fw fa-vimeo"
     url: "https://vimeo.com/ondemand/dominationcode"
+redirect_from:
+  - /authors/newcomb/
 ---

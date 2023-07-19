@@ -10,7 +10,7 @@ tags:
   - religion
   - featured
 date: 2023-04-12 01:54:46
-author: tina.ngata
+author: tina-ngata
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

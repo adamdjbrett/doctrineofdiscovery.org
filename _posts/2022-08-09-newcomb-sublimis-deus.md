@@ -8,7 +8,7 @@ tags:
   - doctrine-discovery
   - featured
 link: https://indiancountrytoday.com/archive/on-the-papal-bull-sublimis-deus
-author: admin
+author: Indigenous-Values-Initiative
 ---
 > The bull _Sublimis Deus_ was not retroactive. It could not be projected back in time. It could not remove the death, destruction, and dehumanization that the Holy See had unleashed for more than four decades on the basis of the Alexandrian bulls of 1493. Nor did Pope Paul II intend for the bull _Sublimis Deus_ to liberate the Original Free Nations from the Spanish Catholic system of domination that had already been imposed on them based on the Alexandrian papal bulls. The most that the Indians could hope for as a result of the bull _Sublimis Deus_ was to be “free” _under_ or _beneath_ the Spanish crown’s domination.
 >  

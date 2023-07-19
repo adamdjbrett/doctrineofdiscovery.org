@@ -15,7 +15,7 @@ tags:
   - sherrill
   - oneida
   - featured
-author: heath
+author: joseph-heath
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

@@ -8,7 +8,7 @@ tags:
   - call-for-authors
   - doctrine-discovery
   - featured
-author: admin
+author: Indigenous-Values-Initiative
 ---
 We are now accepting applications for partnership and collaboration with The Doctrine of Discovery Project. We are interested in publishing original essays roughly 1,000-3,000 words in length for [doctrineofdiscovery.org](https://doctrineofdiscovery.org/). Applicants must have specific knowledge pertaining to Indigenous Peoples issues and/or graduate level training in religious studies, law, humanities, social sciences, or ecology. This partnership is open to faculty, independent scholars, graduate students and Haudenosaunee and Indigenous knowledge sharers. Stipends are available.
 

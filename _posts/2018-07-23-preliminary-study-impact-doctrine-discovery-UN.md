@@ -1,7 +1,7 @@
 ---
 title: "Preliminary study of the impact on indigenous peoples of the international legal construct known as the Doctrine of Discovery"
 date: 2018-07-23T14:54:46
-author: blyons
+author: betty-lyons
 excerpt: "Preliminary study of the impact on indigenous peoples of the international legal construct known as the Doctrine of Discovery / submitted by the Special Rapporteur Tonya Gonella Frichner (Onondaga Nation), Executive Director American Indian Law Alliance"
 published: true
 categories:

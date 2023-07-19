@@ -1,5 +1,5 @@
 ---
-username: Baptist-World-Alliance
+username: baptist-world-alliance
 name: Baptist World Alliance
 bio: "A global network of 51 million Baptists in 130 countries and territories unified by a mission to impact the world for Christ."
 avatar: /assets/images/authors/BWAIcon.jpg

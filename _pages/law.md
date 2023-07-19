@@ -2,7 +2,7 @@
 title: "Law"
 header:
   image: /assets/images/book-1659717_1280.jpg
-author: admin
+author: Indigenous-Values-Initiative
 excerpt: "Laws and legal cases relating to the Doctrine of Discovery."
 permalink: /law/
 published: true

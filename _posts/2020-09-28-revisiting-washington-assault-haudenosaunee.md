@@ -10,7 +10,7 @@ tags:
   - Haudenosaunee
   - Washington
   - Sullivan-Clinton
-author: adamdjbrett
+author: adam-dj-brett
 ---
 In 1779, General George Washington suspended the colonial war against England and moved to extinguish the Haudenosaunee (Six Nations Iroquois) with his “Sullivan-Clinton Scorched Earth Campaign.” <!--more-->
 Washington’s soldiers were paid with land.  As a result, the Haudenosaunee created the title of President, Hanadagá•yas “[Town Destroyer](http://onondaganation.org/history/us-presidents-hanadagayas/),” It was the largest assault upon Native nations in US history, yet rarely is it mentioned. The effects, however, continue to reverberate throughout the world and can be traced through land theft, broken treaties, attacks on Haudenosaunee sovereignty, that continue to inflict harm today. Through an Indigenous perspective, this panel seeks to disrupt the narrative of colonial US history and demonstrate how an interdisciplinary humanities approach to the campaign complicates this settler narrative, so we can help elevate Indigenous voices.  This panel will reveal that the Haudenosaunee understanding of the campaign not only provides a more accurate account in highlighting how xenophobia, racism, and sexism are part of the framing of the United States of America, but also provides insight into establishing a more perfect union. Scholars from religion, anthropology, transnational studies, history, and Native American studies join with Jake Edwards of Onondaga Nation to assess the 240 years of harm.

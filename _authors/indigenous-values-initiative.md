@@ -1,5 +1,5 @@
 ---
-username: admin
+username: indigenous-values-initiative
 name: Indigenous Values Initiative
 avatar: /assets/images/indigenousvalues-2020.png
 links:
@@ -24,4 +24,6 @@ links:
   - label: "YouTube"
     icon: "fab fa-fw fa-youtube-square"
     url: "https://youtube.com/c/IndigenousValuesInitiative"
+redirect_from:
+  - /authors/admin/
 ---

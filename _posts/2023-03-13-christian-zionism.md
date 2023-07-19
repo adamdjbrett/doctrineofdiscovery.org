@@ -13,7 +13,7 @@ tags:
   - Christianity
   - Christian-Zionism
   - featured
-author: jonathan.brenneman
+author: jonathan-brenneman
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

@@ -1,5 +1,5 @@
 ---
-username: danalloyd
+username: dana-lloyd
 name: Dana Lloyd
 bio: "Assistant Professor of Global Interdisciplinary Studies, Affiliated Faculty, Center for Peace and Justice Education, Villanova University."
 avatar: /assets/images/authors/DanaLloyd-headshot-150x150.jpg
@@ -13,4 +13,6 @@ links:
   - label: "PoliticalTheology"
     icon: "fas fa-fw fa-landmark"
     url: "https://politicaltheology.com/author/danalloyd/"
+redirect_from:
+  - /authors/danalloyd/
 ---

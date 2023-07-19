@@ -16,4 +16,6 @@ links:
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     url: "https://twitter.com/ailanyc"
+redirect_from:
+  - /authors/blyons
 ---

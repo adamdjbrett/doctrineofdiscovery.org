@@ -1,6 +1,6 @@
 ---
 title: "Mother Earth‘s Pandemic: The Doctrine of Discovery"
-author: adamdjbrett
+author: adam-dj-brett
 excerpt: "This conference will connect the dots between our current pandemic, environmental devastation, the Doctrine of Discovery, and a way forward."
 date: 2020-06-29 13:15:09
 header:

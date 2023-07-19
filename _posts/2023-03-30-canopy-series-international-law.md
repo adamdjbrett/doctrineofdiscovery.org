@@ -10,7 +10,7 @@ tags:
   - religion
   - featured
 date: 2023-03-30 01:54:46
-author: rjmiller
+author: robert-miller
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

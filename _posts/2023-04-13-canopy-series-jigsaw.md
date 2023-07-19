@@ -10,7 +10,7 @@ tags:
   - religion
   - featured
 date: 2023-04-13 01:54:46
-author: newcomb
+author: steven-newcomb
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

@@ -1,7 +1,7 @@
 ---
 ID: 8825
 title: "Inter Caetera"
-author: admin
+author: Indigenous-Values-Initiative
 translator: Sebastian Modrow and Melissa Smith
 excerpt: "The Papal Bull _Inter Caetera_ of May 4, 1493"
 permalink: /inter-caetera/

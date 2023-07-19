@@ -10,7 +10,7 @@ tags:
   - lecture
   - Maine
   - Christianity
-author: admin  
+author: Indigenous-Values-Initiative  
 ---
 Oct. 15: The Doctrine Of Christian Discovery And Domination, Colonizing Indigenous Peoples, And The State Of Maine
 

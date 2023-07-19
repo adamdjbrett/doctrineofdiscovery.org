@@ -1,7 +1,7 @@
 ---
 ID: 8909
 title: "Anglican Church of Canada Repudiates the Doctrine of Discovery"
-author: adamdjbrett
+author: adam-dj-brett
 excerpt: "Anglican Church of Canada's statement repudiating the Doctrine of Discovery."
 permalink: /anglican-church-of-canada-repudiates-the-doctrine-of-discovery/
 published: true

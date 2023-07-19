@@ -1,7 +1,7 @@
 ---
 ID: 8875
 title: "2014 Conference Photo Gallery"
-author: admin
+author: Indigenous-Values-Initiative
 excerpt: "2014 conference photo gallery"
 permalink: /2014-conference-photo-gallery/
 published: true

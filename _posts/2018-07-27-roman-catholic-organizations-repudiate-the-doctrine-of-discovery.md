@@ -1,7 +1,7 @@
 ---
 ID: 8914
 title: "Roman Catholic Organizations Repudiate the Doctrine of Discovery"
-author: admin
+author: Indigenous-Values-Initiative
 excerpt: "Roman Catholic Organization Statements Repudiating the Doctrine of Discovery."
 permalink: /roman-catholic-organizations-repudiate-the-doctrine-of-discovery/
 published: true

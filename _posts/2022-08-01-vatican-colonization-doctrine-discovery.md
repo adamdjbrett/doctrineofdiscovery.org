@@ -7,7 +7,7 @@ tags:
   - link
   - doctrine-discovery
 link: https://www.theglobeandmail.com/canada/article-pope-visit-doctrine-of-discovery/
-author: admin
+author: Indigenous-Values-Initiative
 ---
 >Beneath glowering portraits of Balboa, Cortez and other Spanish conquistadors, Mr. Newcomb pored over the familiar Latin phrases, many of which he’d memorized over 40 years of researching the doctrine. The archivist flipped over the document. It was mostly blank, but one phrase gave Mr. Newcomb a jolt: “To Win and Conquer the Indies.” The Vatican’s ambitions were revealed.
 

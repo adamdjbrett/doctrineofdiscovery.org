@@ -4,7 +4,7 @@ title: "Patent Granted by Henry VII to John Cabot"
 header:
   image: /assets/images/john-cabot-patent.jpg
   caption: "Photo of John Cabot Charter via [heritage.nf.ca](http://web.archive.org/web/20190319231251/https://www.heritage.nf.ca/articles/exploration/1496-cabot-patent.php)"
-author: admin
+author: Indigenous-Values-Initiative
 excerpt: "By this public document, Henry VII indicated his official, royal support for Cabot's enterprise."
 permalink: /patent-cabot-henry-vii/
 published: true

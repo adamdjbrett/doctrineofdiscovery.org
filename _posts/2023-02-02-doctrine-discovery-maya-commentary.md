@@ -13,7 +13,7 @@ tags:
   - Maya
   - Mexico
   - featured
-author: manuel.may
+author: manuel-may
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

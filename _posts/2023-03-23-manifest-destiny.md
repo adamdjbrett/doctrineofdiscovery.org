@@ -13,7 +13,7 @@ tags:
   - Christianity
   - Manifest-Destiny
   - featured
-author: rmruehl
+author: robert-ruehl
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

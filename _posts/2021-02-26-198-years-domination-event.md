@@ -19,7 +19,7 @@ tags:
   - US-Law
   - US-Indian-Law
   - Indigenous-Peoples
-author: newcomb  
+author: steven-newcomb  
 
 ---
 ## **A Two Year Journey leading to the 200th Anniversary of the US Supreme Court Case _Johnson v. M'Intosh_**

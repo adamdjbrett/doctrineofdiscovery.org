@@ -1,6 +1,6 @@
 ---
 title: "Christian Domination and the Failure of ‘Truth and Reconciliation’"
-author: adamdjbrett
+author: adam-dj-brett
 excerpt: "A conference in Onondaga Nation Territory, at Syracuse University and Skä·noñh—Great Law of Peace Center, Saturday and Sunday, 17-18 August 2019."
 permalink: /christian-domination/
 published: true

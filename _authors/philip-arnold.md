@@ -1,7 +1,7 @@
 ---
-username: pparnold
+username: philip-arnold
 name: Philip P. Arnold
-bio: "Associate Professor and Chair of the Department of Religion at Syracuse University, Founding Director of the Skä·noñh—Great Law of Peace Center, and President of Indigenous Values Initiative."
+bio: "Associate Professor of Religion at Syracuse University, Founding Director of the Skä·noñh—Great Law of Peace Center, and President of Indigenous Values Initiative."
 avatar: /assets/images/authors/pparnold.jpg
 links:
   - label: "Email"
@@ -16,4 +16,6 @@ links:
   - label: "YouTube"
     icon: "fab fa-fw fa-youtube-square"
     url: "https://youtube.com/c/IndigenousValuesInitiative"
+redirect_from:
+  - /authors/pparnold/
 ---

@@ -23,7 +23,7 @@ tags:
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "fire"
-author: adamdjbrett  
+author: adam-dj-brett  
 toc: true
 toc_label: "Overview"
 toc_icon: "cog" 
