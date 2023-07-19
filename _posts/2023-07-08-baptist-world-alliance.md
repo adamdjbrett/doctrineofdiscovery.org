@@ -1,6 +1,6 @@
 ---
 title: "Baptist World Alliance General Council Resolution 2023.1: Dignity and Justice for Indigenous Peoples"
-author: Baptist-World-Alliance
+author: baptist-world-alliance
 excerpt: "Baptist World Alliance's statement repudiating the Doctrine of Discovery."
 published: true
 date: 2023-07-08

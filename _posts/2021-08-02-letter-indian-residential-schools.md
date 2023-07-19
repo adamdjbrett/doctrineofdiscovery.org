@@ -9,6 +9,6 @@ tags:
   - soverignty
   - TheyWereChildren
   - featured
-author: aila
+author: betty-lyons
 link: https://aila.ngo/an-open-letter-on-indian-residential-schools/
 ---

@@ -1,5 +1,5 @@
 ---
-username: prebyterian-ca
+username: prebyterian-church-canada
 name: "The Presbyterian Church in Canada"
 bio: "The Presbyterian Church in Canada is a Presbyterian denomination, serving in Canada under this name since 1875."
 avatar: /assets/images/authors/Presbyterian_Church_in_Canada_logo.png
@@ -10,4 +10,6 @@ links:
   - label: "Facebook"
     icon: "fab fa-fw fa-facebook"
     url: "https://www.facebook.com/pcconnect"
+redirect_from:
+  - /authors/prebyterian-ca/
 ---

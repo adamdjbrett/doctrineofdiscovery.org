@@ -4,7 +4,7 @@ title: 'United Nations Declaration on the Rights of Indigenous Peoples'
 header:
   image: assets/images/united-nations-hq-by-basil-d-soufi-min.jpg
 caption: "United Nations General Assembly Hall in the UN Headquarters, New York. Photo credit: Basil D Soufi"
-author: Indigenous-Values-Initiative
+author: indigenous-values-initiative
 excerpt: "Resolution adopted by the General Assembly on 13 September 2007"
 permalink: /united-nations-declaration-on-the-rights-of-indigenous-peoples/
 published: true

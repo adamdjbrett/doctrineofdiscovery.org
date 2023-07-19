@@ -4,7 +4,7 @@ title: "The Bull Romanus Pontifex"
 header:
   image: /assets/images/papal-bull-doctrine-of-discovery-770.jpg
 caption: 'Romanus Pontifex Papal Bull'
-author: Indigenous-Values-Initiative
+author: indigenous-values-initiative
 excerpt: "The Bull Romanus Pontifex (Nicholas V) January 8, 1454"
 permalink: /the-bull-romanus-pontifex-nicholas-v/
 published: true

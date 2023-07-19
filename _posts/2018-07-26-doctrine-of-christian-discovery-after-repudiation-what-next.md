@@ -1,6 +1,6 @@
 ---
 title: "Doctrine of Christian Discovery: After Repudiation, What Next"
-author: Indigenous-Values-Initiative
+author: indigenous-values-initiative
 excerpt: "Doctrine of Christian Discovery: After Repudiation, What Next? Conference May 24-25 2014 The Skä·noñh — Great Law of Peace Center."
 permalink: /doctrine-of-christian-discovery-after-repudiation-what-next/
 published: true

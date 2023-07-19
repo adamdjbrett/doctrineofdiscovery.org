@@ -1,7 +1,7 @@
 ---
 ID: 8866
 title: "Monroe Doctrine"
-author: Indigenous-Values-Initiative
+author: indigenous-values-initiative
 excerpt: "Excerpts from President James Monroe's seventh annual message to Congress, December 2, 1823."
 permalink: /monroe-doctrine/
 published: true

@@ -1,7 +1,7 @@
 ---
 ID: 8814
 title: "Dum Diversas"
-author: Indigenous-Values-Initiative
+author: indigenous-values-initiative
 excerpt: "Papal Bull Dum Diversas 18 June, 1452"
 permalink: /dum-diversas/
 published: true

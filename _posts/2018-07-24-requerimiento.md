@@ -1,7 +1,7 @@
 ---
 ID: 8834
 title: "Requerimiento"
-author: Indigenous-Values-Initiative
+author: indigenous-values-initiative
 excerpt: "Spanish conquistadors read this document, composed in 1510, to Indians of the new world. It briefly explains Spain's assertion of its legal and moral right to rule over the inhabitants of Latin America. It also provides a rationale for a 'just war'."
 permalink: /requerimiento/
 published: true

@@ -1,7 +1,7 @@
 ---
 ID: 8864
 title: "Roosevelt Corollary"
-author: Indigenous-Values-Initiative
+author: indigenous-values-initiative
 excerpt: "Roosevelt asserted that European nations should not intervene in countries to the south of the US, however under certain conditions, United States intervention might be justified."
 permalink: /roosevelt-corollary/
 published: true

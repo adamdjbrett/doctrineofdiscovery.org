@@ -10,7 +10,7 @@ tags:
   - featured
 link: https://canopyforum.org/2023/03/14/the-contemporary-presence-of-discoverys-assertion-in-canada/
 date: 2023-03-11 01:54:46
-author: marky-tremblay
+author: mark-tremblay
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

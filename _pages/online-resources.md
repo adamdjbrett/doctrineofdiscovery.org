@@ -1,6 +1,6 @@
 ---
 title: "Online Resources"
-author: Indigenous-Values-Initiative
+author: indigenous-values-initiative
 excerpt: "Online Resources about the Doctrine of Discovery"
 permalink: /online-resources/
 published: true

@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-01-21T15:34:30-04:00
-author: Indigenous-Values-Initiative
+author: indigenous-values-initiative
 author_profile: true
 suggestedcitiation: true
 permalink: /about/

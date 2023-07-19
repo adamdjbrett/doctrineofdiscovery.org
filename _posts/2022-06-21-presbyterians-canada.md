@@ -1,6 +1,6 @@
 ---
 title: "The Presbyterian Church in Canada"
-author: presbyterian-ca
+author: prebyterian-church-canada
 date: 2022-06-27T15:54:46
 excerpt: "Read the Presbyterian Church in Canada's statement repudiating the Doctrine of Discovery."
 published: true

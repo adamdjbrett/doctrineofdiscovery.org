@@ -1,6 +1,6 @@
 ---
 title: "Bibliography"
-author: Indigenous-Values-Initiative
+author: indigenous-values-initiative
 excerpt: "The Doctrine of Discovery Working Bibliography"
 permalink: /bibliography/
 published: true

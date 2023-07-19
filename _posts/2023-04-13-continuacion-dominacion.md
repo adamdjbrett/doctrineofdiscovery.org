@@ -10,7 +10,7 @@ tags:
   - Catholic
   - Vatican
   - featured
-author: Indigenous-Values-Initiative
+author: indigenous-values-initiative
 translator: Tupac Enrique Acosta
 header:
   image: /assets/images/burning-the-papal-bulls.dodconf2018.jpg

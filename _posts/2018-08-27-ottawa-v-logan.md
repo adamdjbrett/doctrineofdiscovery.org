@@ -1,7 +1,7 @@
 ---
 ID: 9484
 title: "Ottawa v. Logan"
-author: Indigenous-Values-Initiative
+author: indigenous-values-initiative
 excerpt: "the Indian tribes who have a right to those lands are quietly to enjoy them, hunting, planting and dwelling thereon so long as they please, without any molestation from the United States..."
 permalink: /ottawa-v-logan/
 published: true
