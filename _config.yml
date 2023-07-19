@@ -195,7 +195,7 @@ defaults:
     values:
       layout: author-single
       author_profile: true
-      suggestedcitiation: true
+      suggestedcitiation: false
 
 category_archive:
   type: liquid

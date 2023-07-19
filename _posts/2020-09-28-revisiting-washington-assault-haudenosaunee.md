@@ -19,13 +19,13 @@ Washington’s soldiers were paid with land.  As a result, the Haudenosaunee cr
 **Sponsors:**
 
 *   [Syracuse University Humanities Center](http://humcenter.syr.edu/)
-*   [Syracuse University Department of Religion](https://thecollege.syr.edu/religion/)
+*   [Syracuse University Department of Religion](https://artsandsciences.syracuse.edu/religion/)
 *   [Skä•noñh – Great Law of Peace Center](http://skanonhcenter.org/)
 *   [Indigenous Values Initiative](http://indigenousvalues.org/)
 
 **Presenter/Performer**:
 
-*   [Philip P. Arnold](https://thecollege.syr.edu/people/faculty/arnold-philip-p/) (Syracuse University, Religion)
+*   [Philip P. Arnold](https://artsandsciences.syracuse.edu/religion/) (Syracuse University, Religion)
 *   [Alyssa Mt. Pleasant](https://arts-sciences.buffalo.edu/africana-and-american-studies/faculty/faculty-directory/mt-pleasant.html) (University of Buffalo, Transnational Studies)
 *   [Jake Haiwhagai'i Edwards](https://indigenousvalues.org/about/our-team/) (Onondaga Nation)
 *   [Andrea Smith](https://anthrosoc.lafayette.edu/andrea-smith/) (Lafayette College, Anthropology)

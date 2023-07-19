@@ -32,6 +32,6 @@ The Doctrine of Discovery Project ([doctrineofdiscovery.org](https://doctrineofd
 
 ## **About the Principal Investigator**
 
-Prof. Philip P. Arnold ([Religion, Syracuse University](https://thecollege.syr.edu/people/faculty/arnold-philip-p/)) has been writing and working on Indigenous issues for over 30 years. With Sandy Bigtree (Akwesasne Mohawk Nation), they founded the not-for-profit [Indigenous Values Initiative](https://indigenousvalues.org/) where they launched the Doctrine of Discovery Project site in 2009-2010. To learn more see: “[Examining the History and Consequences of the Doctrine of Christian Discovery.](https://thecollege.syr.edu/news-all/news-from-2022/examining-the-history-and-consequences-of-the-doctrine-of-christian-discovery/)”
+Prof. Philip P. Arnold ([Religion, Syracuse University](https://artsandsciences.syracuse.edu/people/faculty/arnold-philip-p/)) has been writing and working on Indigenous issues for over 30 years. With Sandy Bigtree (Akwesasne Mohawk Nation), they founded the not-for-profit [Indigenous Values Initiative](https://indigenousvalues.org/) where they launched the Doctrine of Discovery Project site in 2009-2010. To learn more see: “[Examining the History and Consequences of the Doctrine of Christian Discovery.](https://artsandsciences.syracuse.edu/news-all/news-from-2022/examining-the-history-and-consequences-of-the-doctrine-of-christian-discovery/)”
 
 [Apply Now](https://indigenousvalues.org/call-for-authors-on-the-doctrine-of-discovery/){: .btn .btn--primary .btn--x-large}

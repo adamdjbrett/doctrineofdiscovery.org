@@ -52,7 +52,7 @@ If you have any questions, comments, or additions please [contact us](/contact/)
 *   [Quotidian: A curated blog about everyday religion](https://quotidian.pub)
 *   [Sullivan/Clinton Campaign THEN & NOW](http://sullivanclinton.com/)
 *   [Syracuse University](https://www.syracuse.edu/)
-*   [Syracuse University Department of Religion](https://thecollege.syr.edu/religion/)
+*   [Syracuse University Department of Religion](https://artsandsciences.syracuse.edu/religion/)
 *   [Tonatierra](http://www.Tonatierra.org)
 
 ### License
