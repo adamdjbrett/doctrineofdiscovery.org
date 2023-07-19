@@ -6,4 +6,7 @@ links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://blogs.umass.edu/derrico/"
+  - label: "Substack"
+    icon: "fas fa-fw fa-link"
+    url: "https://peterderrico.substack.com/"
 ---
