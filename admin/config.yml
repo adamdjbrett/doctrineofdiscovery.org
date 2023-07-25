@@ -13,14 +13,29 @@ collections:
     editor:
       preview: false
     fields:
-#     - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
-  #   - { label: 'Description', name: 'description', widget: 'text' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
       - { label: 'Header Image', name: 'image', widget: 'image' }
-      - { label: 'Categories', name: 'categories', widget: 'string' }
-      - { label: 'Tags', name: 'tags', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'list' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - name: 'sidebar'
+        label: 'Sidebar' 
+        widget: 'list'
+        options:
+         - { label: 'Title', name: 'title', widget: 'string' }
+         - { label: 'Image', name: 'image', widget: 'image' }
+         - { label: 'Image ALT', name: 'image-alt', widget: 'string' }
+         - { label: 'Text', name: 'text', widget: 'string' }
+         - { label: 'Nav', name: 'nav', widget: 'string' }
+      - name: 'toc'
+        label: 'Toc' 
+        widget: 'select'
+        options:
+         - { label: "True", value: "true" }
+         - { label: "False", value: "false" }
+      - { label: 'Toc Label', name: 'toc_label', widget: 'string' }
+      - { label: 'Toc Icon', name: 'toc_icon', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'page'
     label: 'Page'
@@ -34,7 +49,139 @@ collections:
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Header Image', name: 'image', widget: 'image' }
-#      - { label: 'Categories', name: 'categories', widget: 'string' }
-#      - { label: 'Tags', name: 'tags', widget: 'string' }
       - { label: 'Permalink', name: 'permalink', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'categories'
+    label: 'Categories'
+    folder: '_pages/categories'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'category' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Taxonomy', name: 'taxonomy', widget: 'string' }
+      - name: 'author_profile'
+        label: 'Author Profile' 
+        widget: 'select'
+        options:
+         - { label: "True", value: "true" }
+         - { label: "False", value: "false" }
+      - name: 'suggestedcitiation'
+        label: 'Suggested Citiation' 
+        widget: 'select'
+        options:
+         - { label: "True", value: "true" }
+         - { label: "False", value: "false" }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: "navs"
+    label: "Navigation"
+    extension: "yml"
+    editor:
+      preview: false
+    files:
+     - file: "_data/navigation.yml"
+       label: "Navigation Settup"
+       name: "navigation"
+       widget: object
+       fields:
+         - name: 'main'
+           label: 'Main' 
+           widget: 'list'
+           fields:
+            - { name: 'title', label: 'Title', widget: 'string' }
+            - { name: 'url', label: 'URL Link', widget: 'string' }
+         - name: 'next-steps'
+           label: 'Next Steps' 
+           widget: 'list'
+           fields:
+            - { name: 'title', label: 'Title', widget: 'string' }
+            - { name: 'url', label: 'URL Link', widget: 'string' }
+            - name: 'children'
+              label: 'Children' 
+              widget: 'list'
+              fields:
+               - { name: 'title', label: 'Title', widget: 'string' }
+               - { name: 'url', label: 'URL Link', widget: 'string' }
+  - name: "snips"
+    label: "Snips"
+    extension: "yml"
+    editor:
+      preview: false
+    files:
+     - file: "_data/snippets.yml"
+       label: "Snippets Settup"
+       name: "snippets"
+       widget: object
+       fields:
+         - name: 'footer'
+           label: 'Footer' 
+           widget: 'object'
+           fields:
+            - { name: 'license', label: 'License', widget: 'markdown' }
+            - { name: 'financial', label: 'Financial', widget: 'markdown' }
+         - name: 'donation-alert'
+           label: 'Donation Alert' 
+           widget: 'object'
+           fields:
+            - { name: 'h2', label: 'H2', widget: 'string' }
+            - { name: 'text', label: 'Text', widget: 'markdown' }
+         - { name: 'suggested-citation', label: 'Suggested Citation', widget: 'string' }
+         - { name: 'title-open-quote', label: 'Title Open Quote', widget: 'string' }
+         - { name: 'title-close-quote', label: 'Title Close Quote', widget: 'string' }
+         - { name: 'translator', label: 'Translator', widget: 'string' }
+         - { name: 'journal-title', label: 'Journal Title', widget: 'string' }
+  - name: "config"
+    label: "Configuration"
+    extension: "yml"
+    editor:
+      preview: false
+    files:
+     - file: "_config.yml"
+       label: "Configuration Menu"
+       name: "conf"
+       widget: list
+       fields:
+         - { name: 'locale', label: 'Locale', widget: 'string' }
+         - { name: 'title', label: 'Title', widget: 'string' }
+         - { name: 'email', label: 'Email', widget: 'string'}
+         - { name: 'description', label: 'Description', widget: 'text'}
+         - { name: 'url', label: 'Site URL', widget: 'string' }
+         - { name: 'twitter_username', label: 'Twitter Username', widget: 'string' }
+         - { name: 'teaser', label: 'Teaser', widget: 'image' }
+         - { name: 'logo', label: 'Logo', widget: 'image' }
+         - { name: 'paginate', label: 'Pagination', widget: 'number' }
+         - name: 'author'
+           label: 'Author' 
+           widget: 'object'
+           fields:
+            - { name: 'name', label: 'Author Name', widget: 'string' }
+            - { name: 'avatar', label: 'Avatar', widget: 'string' }
+            - { name: 'bio', label: 'Bio', widget: 'text' }
+            - name: 'links'
+              label: 'Links' 
+              widget: 'list'
+              fields:
+               - { name: 'label', label: 'Label', widget: 'string' }
+               - { name: 'icon', label: 'Icon', widget: 'string' }
+               - { name: 'url', label: 'URL Link', widget: 'string' }
+         - name: 'image'
+           label: 'Image' 
+           widget: 'object'
+           fields:
+            - { name: 'path', label: 'Path Image', widget: 'image' }
+            - { name: 'width', label: 'width', widget: 'string' }
+            - { name: 'alt', label: 'Image Alt', widget: 'text' }
+         - name: 'footer'
+           label: 'Footers' 
+           widget: 'object'
+           fields:
+            - name: 'links'
+              label: 'Links' 
+              widget: 'list'
+              fields:
+               - { name: 'label', label: 'Label', widget: 'string' }
+               - { name: 'icon', label: 'Icon', widget: 'string' }
+               - { name: 'url', label: 'URL Link', widget: 'string' }
