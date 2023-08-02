@@ -85,7 +85,7 @@ We are interested in creating thematic panels on the following topics:
   -   Papers from graduate students are encouraged.
   -   Undergraduate panels with a professor are also encouraged.
   -   For questions please email Prof. Philip P. Arnold at <info@indigenousvalues.org>
-  -   All submissions msut be via [the form](https://forms.gle/cZ1ZiUUbQ4BDXykU8) on <doctrineofdiscovery.org>
+  -   All submissions msut be via [the form](https://forms.gle/cZ1ZiUUbQ4BDXykU8).
 
 [Paper Submissions](https://forms.gle/cZ1ZiUUbQ4BDXykU8){: .btn .btn--success .btn--x-large}
 
