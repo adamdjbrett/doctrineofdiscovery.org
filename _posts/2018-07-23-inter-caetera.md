@@ -13,6 +13,8 @@ categories:
   - Catholic
 tags:
   - Catholic
+redirect_from:
+  - /8825/
 ---
 ## The Papal Bull _Inter Caetera_ of May 4, 1493
 

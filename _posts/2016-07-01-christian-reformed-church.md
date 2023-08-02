@@ -14,6 +14,8 @@ tags:
   - Christian
   - PDF
   - Repudiations
+redirect_from:
+  - /1607/
 ---
 
 

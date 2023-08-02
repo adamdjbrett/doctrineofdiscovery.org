@@ -15,7 +15,9 @@ tags:
   - Law
   - England
   - US
-redirect_from: /cabot/  
+redirect_from: 
+  - /cabot/
+  - /8831/  
 ---
 ### Patent Granted by King Henry VII to John Cabot and his Sons
 

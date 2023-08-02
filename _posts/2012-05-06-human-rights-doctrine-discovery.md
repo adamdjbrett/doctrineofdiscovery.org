@@ -12,6 +12,8 @@ tags:
   - Indigenous-Peoples
   - Human-Rights
 author: tadodaho
+redirect_from:
+  - /1215/
 ---
 When the United Nations Permanent Forum on Indigenous Issues convenes on May 7th in New York, native peoples around the world will turn their eyes to the most important effort to renounce the [Doctrine of Discovery](/what-is-the-doctrine-of-discovery/), a 15th-century Papal bull that has been exploited for five centuries to deny the human rights of hundreds of millions of people who continue to be subject to its power.
 

@@ -12,6 +12,8 @@ tags:
   - Indigenous-Peoples
   - Human-Rights
 author: tadodaho
+redirect_from:
+  - /1030/
 ---
 ![Six Nations Passport Cover](/assets/images/1041.jpg)
 Front cover of Haudenosaunee passport. Photograph: Sid Hill
