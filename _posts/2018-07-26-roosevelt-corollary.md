@@ -13,6 +13,8 @@ tags:
   - President
   - Monroe
   - Roosevelt
+redirect_from:
+  - /8864/
 ---
 ## The Monroe Doctrine and the Roosevelt Corollary
 The Monroe Doctrine, put forth in 1823 by President James Monroe, called for an end to European intervention in the American continents (both north and south). This applied only to independent governments in the Americas however, not to areas that were colonies at that time.

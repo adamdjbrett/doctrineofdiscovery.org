@@ -14,7 +14,9 @@ categories:
   - Catholic
 tags:
   - Catholic
-redirect_from: /romanus-pontifex/
+redirect_from: 
+  - /romanus-pontifex/
+  - /8817/
 ---
 ## **The Bull Romanus Pontifex (Nicholas V) January 8, 1454**
 

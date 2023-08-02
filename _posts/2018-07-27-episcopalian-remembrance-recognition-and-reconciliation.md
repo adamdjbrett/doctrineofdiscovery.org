@@ -14,6 +14,8 @@ tags:
   - Christian
   - Maine
   - Repudiations
+redirect_from:
+  - /8937/
 ---
 ### **Remembrance, Recognition and Reconciliation: The Episcopal Church’s Call for Justice for Indigenous People A Sermon Preached by John Dieffenbacher-Krall at St. James’ Episcopal Church, Old Town, Maine October 15, 2006**
 

@@ -19,6 +19,8 @@ tags:
  - United-Nations
  - Onondaga-Nation
  - featured
+redirect_from:
+  - /8906/
 ---
 ### Eleventh Session of the United Nations Permanent Forum on Indigenous Issues 7-18 May, 2012  
 Agenda Item 3 – May 8, 2012  

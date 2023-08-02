@@ -13,6 +13,8 @@ tags:
   - President
   - Doctrine
   - treaty
+redirect_from:
+  - /8866/
 ---
 ## Historic Documents
 ### The Monroe Doctrine

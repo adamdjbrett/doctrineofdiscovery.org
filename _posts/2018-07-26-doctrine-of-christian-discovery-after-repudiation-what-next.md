@@ -92,6 +92,8 @@ gallery:
     image_path: /assets/images/2014-conf/IMG_0901.jpg
     alt: "people eating lunch"
     title: "lunch discussion"
+redirect_from:
+  - /0726/
 ---
 ### "Doctrine of Christian Discovery: After Repudiation, What Next?" Conference May 24-25 2014 The Skä·noñh — Great Law of Peace Center 6680 Onondaga Lake Parkway, Liverpool, NY 13088
 

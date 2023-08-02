@@ -13,6 +13,8 @@ tags:
   - Friends
   - Repudiations
   - christianity
+redirect_from:
+  - /8860/
 ---
 Quaker Indian Committee disavows Doctrine of Discovery, affirms Declaration
 By Gale Courey Toensing

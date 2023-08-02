@@ -18,6 +18,7 @@ tags:
 redirect_from:
   - /tordesillas/
   - /tordesillas.htm
+  - /8828/
 ---
 ## Treaty of Tordesillas
 ### June 7, 1494

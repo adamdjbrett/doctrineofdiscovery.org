@@ -18,6 +18,8 @@ tags:
   - Pax-Christi
   - Loretto
   - LCWR
+redirect_from:
+  - /8914/
 ---
 ### Roman Catholic Organization Statements Repudiating the Doctrine of Discovery.
 

@@ -18,6 +18,8 @@ tags:
  - Indigenous-Peoples
  - United-Nations
  - Onondaga-Nation
+redirect_from:
+  - /8898/
 ---
 Statement on the Historical Use of the Doctrine of Christian Discovery by the United States Supreme Court Since 1823 By Joseph J. Heath, Esq. Onondaga Nation General Counsel. May 24, 2014
 

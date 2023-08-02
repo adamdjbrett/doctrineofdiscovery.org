@@ -14,6 +14,8 @@ tags:
   - Christian
   - Maine
   - Repudiations
+redirect_from:
+  - /8934/
 ---
 ### **How St. James’ Might Respond to [General Convention Resolution D035](/episcopal-church-repudiates-the-doctrine-of-discovery/)
 A Sermon Preached by John Dieffenbacher-Krall at St. James’ Episcopal Church, Old Town, Maine October 11, 2009**

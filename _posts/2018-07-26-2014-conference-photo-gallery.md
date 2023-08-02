@@ -10,6 +10,8 @@ categories:
   - Event
 tags:
   - photos
+redirect_from:
+  - /8875/
 ---
 <!--more-->
 

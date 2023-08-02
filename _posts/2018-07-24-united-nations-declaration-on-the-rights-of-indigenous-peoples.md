@@ -16,6 +16,8 @@ tags:
   - United-Nations
   - Indigenous-Peoples
   - UNDRIP
+redirect_from:
+  - /8843/
 ---
 ### Resolution adopted by the General Assembly on 13 September 2007
 

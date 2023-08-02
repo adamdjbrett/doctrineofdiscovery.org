@@ -13,6 +13,8 @@ tags:
   - Episcopal
   - Episcopalians
   - Sermon
+redirect_from:
+  - /8941/
 ---
 ## **Rejecting the Christian Doctrine of Discovery and Forging a New Relationship with North America’s Indigenous People A Sermon Preached by John Dieffenbacher-Krall at St. David’s Episcopal Church, Barneveld, NY in the Central Diocese of NY July 12, 2009**
 

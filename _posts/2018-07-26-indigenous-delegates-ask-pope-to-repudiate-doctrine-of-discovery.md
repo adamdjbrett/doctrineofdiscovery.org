@@ -15,6 +15,8 @@ tags:
   - Repudiations
   - Indigenous-Peoples
   - parliament-of-worlds-religions
+redirect_from:
+  - /8858/
 ---
 Indigenous delegates ask Pope to repudiate Doctrine of Discovery
 By Gale Courey Toensing

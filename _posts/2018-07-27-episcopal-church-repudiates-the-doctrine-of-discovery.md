@@ -11,6 +11,8 @@ categories:
   - Repudiations
 tags:
   - Repudiations
+redirect_from:
+  - /8930/
 ---
 
 *   (2018) [Resolution establishing a framework for anti-racism training that cites history of boarding schools](https://episcopalarchives.org/cgi-bin/acts/acts_resolution.pl?resolution=2018-A044)

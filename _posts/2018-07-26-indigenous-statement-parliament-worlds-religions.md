@@ -11,6 +11,8 @@ categories:
   - Religion
 tags:
   - World-Parliament
+redirect_from:
+  - /8856/
 ---
 ### An Indigenous Peoples’ Statement to the World Delivered at The Parliament of the World’s Religions Convened at Melbourne, Australia on the Traditional Lands of the Wurundjeri People of the Kulin Nation
 

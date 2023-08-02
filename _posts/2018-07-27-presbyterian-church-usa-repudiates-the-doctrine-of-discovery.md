@@ -15,6 +15,8 @@ tags:
   - Repudiations
   - christianity
   - PDF
+redirect_from:
+  - /8915/
 ---
 ### Doctrine of Discovery: A Review of Its Origins and Implications for Congregations in the PC(USA) and Support for Native American Sovereignty.
 

@@ -12,6 +12,8 @@ tags:
   - Repudiations
   - Episcopal
   - Christianity
+redirect_from:
+  - /8862/
 ---
 Episcopal Church repudiates Doctrine of Discovery
 By Gale Courey Toensing

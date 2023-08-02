@@ -23,6 +23,8 @@ sidebar:
 toc: true
 toc_label: "Overview"
 toc_icon: "cog"
+redirect_from:
+  - /0727/
 ---
 
 ## Ten Legal Elements of the Doctrine of Discovery
