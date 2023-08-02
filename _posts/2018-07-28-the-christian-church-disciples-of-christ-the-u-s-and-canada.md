@@ -17,6 +17,8 @@ tags:
   - Canada
   - DOC
   - Disciples-of-Christ
+redirect_from:
+  - /8953/
 ---
 ## Reflection on Christian Theology and Polity, the Christian Doctrine of Discovery, and the Indigenous Voice
 > That the General Assembly of the Christian Church (Disciples of Christ) in the United States and Canada, meeting, July 13-17, 2013, in Orlando, Florida, accept “Reflection on Christian Theology and Polity, the Christian Doctrine of Discovery, and the Indigenous Voice” as an Item for Reflection and Research during the 2013- 2015 biennium. This reflection and research process would be accountable by report to the Administrative Committee, the General Board, and the 2015 General Assembly.

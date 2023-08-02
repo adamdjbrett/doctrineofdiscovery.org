@@ -15,6 +15,8 @@ tags:
   - Canada
   - Christianity
   - UCC
+redirect_from:
+  - /8983/
 ---
 *   [Social Policies of The United Church of Canada: Doctrine of Discovery (⤓ PDF download)](/assets/pdfs/Doctrine-of-Discovery-2012-10-26-018.pdf)
 *   [We repudiate the Doctrine of Discovery, which asserted that lands belonged to the Christian powers that “discovered” them (offsite)](https://www.united-church.ca/social-action/justice-initiatives/doctrine-discovery).

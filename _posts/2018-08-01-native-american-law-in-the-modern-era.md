@@ -16,6 +16,8 @@ tags:
   - Haudenosaunee-Confederacy
   - Anishinaabe
   - Land
+redirect_from:
+  - /9221/
 ---
 ### [Albany Government Law Review Volume 10 Issues 1&2 2016-2017](https://www.albanygovernmentlawreview.org/issue/3132-vol-10-issue-1-2017)
 

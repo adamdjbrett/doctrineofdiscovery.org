@@ -14,6 +14,8 @@ tags:
   - education
   - listserv
   - resources
+redirect_from:
+  - /8805/
 ---
 ### We are the Doctrine of Discovery Study Group
 

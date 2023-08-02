@@ -23,6 +23,7 @@ tags:
 redirect_from:
   - /whatis
   - /the-doctrine-of-
+  - /9103/
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

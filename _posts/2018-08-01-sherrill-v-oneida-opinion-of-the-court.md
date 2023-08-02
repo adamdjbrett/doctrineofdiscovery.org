@@ -18,7 +18,9 @@ tags:
   - SCOTUS
   - Ginsburg
   - featured
-redirect_from: /sherrill/  
+redirect_from: 
+  - /sherrill/  
+  - /9250/
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

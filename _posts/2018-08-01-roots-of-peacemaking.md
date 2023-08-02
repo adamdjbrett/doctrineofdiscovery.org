@@ -14,6 +14,8 @@ tags:
   - peacemaking
   - Haudenosaunee-Confederacy
   - Onondaga-Nation
+redirect_from:
+  - /9222/
 ---
 
 ### **2009 event archive "Roots of Peacemaking: Indigenous Values, Global Crisis"**   

@@ -15,6 +15,8 @@ tags:
   - Conference
   - Peace
   - skanonhcenter
+redirect_from:
+  - /9102/
 ---
 ### Details:
 

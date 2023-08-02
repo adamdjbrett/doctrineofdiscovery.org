@@ -14,6 +14,8 @@ tags:
   - Unitarian
   - Universalist
   - UUA
+redirect_from:
+  - /8964/
 ---
 
 *   [A Unitarian Universalist Resolution To Repudiate the Doctrine of Discovery, and Implement the UN Declaration on the Rights of Indigenous Peoples (⤓ PDF download)](/assets/pdfs/UUofP-Resolution-012911.pdf)
