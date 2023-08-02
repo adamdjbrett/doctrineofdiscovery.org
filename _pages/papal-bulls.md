@@ -16,6 +16,8 @@ tags:
   - Papal-Bulls
   - Catholic
   - featured
+redirect_from:
+  - /bulls/
 ---
 ### Papal Bulls that create the foundation of the Doctrine of Discovery
 

@@ -17,7 +17,9 @@ tags:
   - Indigenous-Peoples
 toc: true
 toc_label: "Table of Contents"
-toc_icon: "cog"  
+toc_icon: "cog"
+redirect_from:
+  - /online/  
 ---
 ### Links to Related Web Sites
 

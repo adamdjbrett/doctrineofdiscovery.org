@@ -19,6 +19,9 @@ tags:
   - Faith-Communities
   - main-list
   - featured
+redirect_from:
+  - /repudiations
+  - /faith
 ---
 ### Religious Communities who have Repudiated the Doctrine of Discovery
 

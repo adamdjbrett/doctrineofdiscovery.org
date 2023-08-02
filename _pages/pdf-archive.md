@@ -3,6 +3,8 @@ title: PDF Archive Index
 author_profile: false
 permalink: /pdf-archive/
 suggestedcitiation: false
+redirect_from:
+  - /pdf/
 ---
 ## PDF Archive
 

@@ -5,6 +5,8 @@ author_profile: false
 permalink: /contact/
 redirect_from: /table/
 suggestedcitiation: false
+redirect_from:
+  - /contact/
 ---
 
 - **Email:** [contact@doctrineofdiscovery.org](mailto:contact@doctrineofdiscovery.org)

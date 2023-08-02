@@ -2,7 +2,9 @@
 title: "Privacy Policy"
 author_profile: false
 permalink: /privacy-policy/
-redirect_from: "/privacy-policy-2/"
+redirect_from: 
+    - /privacy-policy-2/
+    - /privacy/
 suggestedcitiation: false
 ---
 # Who we are
