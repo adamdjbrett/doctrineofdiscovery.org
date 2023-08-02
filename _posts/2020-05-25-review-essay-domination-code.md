@@ -1,4 +1,5 @@
 ---
+ID: 9542
 title: "REVIEW ESSAY The Doctrine of Discovery as a Doctrine of Domination"
 author: indigenous-values-initiative
 excerpt: "In JSRNC, independent scholar Joy Greenberg reviewed _Pagans in the Promised Land_ and _The Doctrine of Discovery: Unmasking the Domination Code_."

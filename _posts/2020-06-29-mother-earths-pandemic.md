@@ -1,4 +1,5 @@
 ---
+ID: 9544
 title: "Mother Earth‘s Pandemic: The Doctrine of Discovery"
 author: adam-dj-brett
 excerpt: "This conference will connect the dots between our current pandemic, environmental devastation, the Doctrine of Discovery, and a way forward."

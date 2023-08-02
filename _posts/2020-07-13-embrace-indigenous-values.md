@@ -1,4 +1,5 @@
 ---
+ID: 9545
 title: "Embrace Indigenous Values and Remove Iconic Fascist Memorials"
 date: 2020-07-13T14:00:30-05:00
 header:

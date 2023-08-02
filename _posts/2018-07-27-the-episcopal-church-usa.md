@@ -1,4 +1,5 @@
 ---
+ID: 7271
 title: "The Episcopal Church USA Statements on the Doctrine of Discovery"
 author: episcopal-church
 excerpt: "Presiding Bishop Katharine Jefferts Schori on the Repudiation of the Doctrine of Discovery"

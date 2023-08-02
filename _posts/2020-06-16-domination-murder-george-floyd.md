@@ -1,4 +1,5 @@
 ---
+ID: 9543
 title: "Domination and the Murder of George Floyd"
 author: steven-newcomb
 excerpt: "In CounterPunch, Shawnee/Lenape scholar Steve Newcomb connects anti-blackness and racism to the domination and dehumanization of the Doctrine of Discovery."
