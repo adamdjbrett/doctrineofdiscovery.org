@@ -80,8 +80,8 @@ We are interested in creating thematic panels on the following topics:
 
   -   Please send in a 300-word abstract of your paper and/or panel
   -   CV/Resume
-  -   Proposals should be received by August 15
-  -   Acceptance notices will be sent on September 1
+  -   Proposals should be received by September 15
+  -   Acceptance notices will be sent on October 1
   -   Papers from graduate students are encouraged.
   -   Undergraduate panels with a professor are also encouraged.
   -   For questions please email Prof. Philip P. Arnold at <info@indigenousvalues.org>
