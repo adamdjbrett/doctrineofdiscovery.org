@@ -23,7 +23,7 @@ toc: true
 toc_label: "Overview"
 toc_icon: "cog" 
 ---
-## B CEMANAHUAC
+## CEMANAHUAC
 ### Superseding the Doctrine of Discovery: World Water One www.www.www
 
 
