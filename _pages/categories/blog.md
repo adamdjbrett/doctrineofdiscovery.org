@@ -6,3 +6,4 @@ taxonomy: Blog
 author_profile: false
 suggestedcitiation: false
 ---
+https://doctrineofdiscovery.org/tags/#featured
