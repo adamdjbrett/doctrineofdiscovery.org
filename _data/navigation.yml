@@ -13,6 +13,8 @@ main:
     url: https://podcast.doctrineofdiscovery.org/
   - title: "About"
     url: /about/
+  - title: "Featured"
+    url: /tagged/featured/  
   - title: "Posts"
     url: /posts/
   - title: "Give"
@@ -29,10 +31,6 @@ main:
     url: /bibliography/
   - title: "Online Resources"
     url: /online-resources/
-  - title: "Feed"
-    url: /feed.xml
-  - title: "Privacy Policy"
-    url: /privacy-policy/
 
 next-steps:
   - title: "What is it?"
