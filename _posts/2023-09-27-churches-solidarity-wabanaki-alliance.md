@@ -12,7 +12,7 @@ tags:
 author: john-dieffenbacher-krall
 ---
 
-## St.  Andrew's  Episcopal  Church,  Newcastle,  Maine 17^th^ Sunday after Pentecost
+## St.  Andrew's  Episcopal  Church,  Newcastle,  Maine 17<sup>th</sup> Sunday after Pentecost
 ### September  24,  2023
 
 ## Living  into  Christ's  Great  Commandment,  Our  Baptismal  Covenant,  and  the  Biblical  Imperative to Do Justice: How Do We Stand in Solidarity with Wabanaki Nations?
