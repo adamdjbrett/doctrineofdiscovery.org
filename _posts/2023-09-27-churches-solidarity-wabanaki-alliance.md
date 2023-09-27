@@ -1,5 +1,5 @@
 ---
-title: "Living  into  Christ's  Great  Commandment,  Our  Baptismal  Covenant,  and  the  Biblical  Imperative to Do Justice: How Do We Stand in Solidarity with Wabanaki Nations?"
+title: "How Do Christians Stand in Solidarity with Wabanaki Nations?"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
