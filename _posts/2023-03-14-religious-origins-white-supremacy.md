@@ -28,6 +28,11 @@ toc_label: "Overview"
 toc_icon: "cog" 
 suggestedcitiation: false
 ---
+## Quick Actions
+[Register Now](https://cusecommunity.syr.edu/s/1632/17/interior.aspx?sid=1632&gid=2&pgid=9401&content_id=13275){: .btn .btn--info .btn--x-large}
+[Call for Artists](https://syracuseuniversity.qualtrics.com/jfe/form/SV_5u4auzuwe7xvRjw){: .btn .btn--success .btn--x-large}
+[Call for Papers](https://docs.google.com/forms/d/e/1FAIpQLSd-A7Eef3hU7RmrsOWm61GuMrLzocXwcTM-UU2jPVfqlnanuA/viewform){: .btn .btn--warning .btn--x-large}
+
 ## Details
   - The conference will take place at Syracuse University from 8-10 December 2023.
 
@@ -54,7 +59,6 @@ The project's key collaborators include [Syracuse University](https://syracuse.e
 ## Registration
 
 [Register Now](https://cusecommunity.syr.edu/s/1632/17/interior.aspx?sid=1632&gid=2&pgid=9401&content_id=13275){: .btn .btn--info .btn--x-large}
-
 
 ## Call for Papers
 
