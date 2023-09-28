@@ -20,7 +20,7 @@ toc_icon: "cog"
 
 ## Living  into  Christ's  Great  Commandment,  Our  Baptismal  Covenant,  and  the  Biblical  Imperative to Do Justice: How Do We Stand in Solidarity with Wabanaki Nations?
 
-### By John Diffenbacher-Krall
+### By John Dieffenbacher-Krall
 
 ### readings
 
