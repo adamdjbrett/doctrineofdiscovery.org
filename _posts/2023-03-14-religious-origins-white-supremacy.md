@@ -7,7 +7,7 @@ header:
   caption: "'We were planting corn and they were planting crosses. ~ Faithkeeper Oren Lyons.' Image from the Skä•noñh
 Great Law of Peace Center."
 date: 2023-03-29 11:54:46
-last_modified_at: 2023-03-29 09:54:46
+last_modified_at: 2023-09-28 09:54:46
 categories:
   - Blog
 tags:
@@ -50,7 +50,12 @@ The project's key collaborators include [Syracuse University](https://syracuse.e
     <figcaption>Event flyer. <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png" target="_blank" rel="noopener">⤓ Download Image</a>, <a href="/assets/pdfs/CFP-Religious-Origins-Conference-Flyer-8.5x11-rev2.pdf" target="_blank" rel="noopener">⤓ Download PDF</a>.
 </figcaption>
 </figure>
-  
+
+## Registration
+
+[Register Now](https://cusecommunity.syr.edu/s/1632/17/interior.aspx?sid=1632&gid=2&pgid=9401&content_id=13275){: .btn .btn--info .btn--x-large}
+
+
 ## Call for Papers
 
 We are interested in paper and session proposals from scholars, students, activists, artists, lawyers, policy makers, religious leaders, Indigenous leaders, and more. Our conference seeks to bring together a broad coalition of people working on examining not only the Doctrine of Christian Discovery but also the religious origins of white supremacy.
