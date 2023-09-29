@@ -21,7 +21,6 @@ sidebar:
     text: "Learn More about the Doctrine of Discovery"
     nav: next-steps  
 ---
-## Call for Artists
 [Submit now](https://syracuseuniversity.qualtrics.com/jfe/form/SV_5u4auzuwe7xvRjw){: .btn .btn--success .btn--x-large}
 
 **Theme:**\
