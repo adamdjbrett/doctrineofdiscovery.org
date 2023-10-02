@@ -12,7 +12,7 @@ links:
     url: "https://artsandsciences.syracuse.edu/people/faculty/arnold-philip-p/"
   - label: "Facebook"
     icon: "fab fa-fw fa-facebook-square"
-    url: "https://www.facebook.com/Doctrine-of-Discovery-115693763603203"
+    url: "https://www.facebook.com/doctrineofdiscovery"
   - label: "YouTube"
     icon: "fab fa-fw fa-youtube-square"
     url: "https://youtube.com/c/IndigenousValuesInitiative"

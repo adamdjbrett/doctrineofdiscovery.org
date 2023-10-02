@@ -14,7 +14,7 @@ links:
     url: "https://facebook.com/indigenousvalues"
   - label: "Facebook"
     icon: "fab fa-fw fa-facebook-square"
-    url: "https://www.facebook.com/Doctrine-of-Discovery-115693763603203"
+    url: "https://www.facebook.com/doctrineofdiscovery"
   - label: "Instagram"
     icon: "fab fa-fw fa-instagram"
     url: "https://instagram.com/indigenousVI"
