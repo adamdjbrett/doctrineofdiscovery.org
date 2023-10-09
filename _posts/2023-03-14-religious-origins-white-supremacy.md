@@ -116,7 +116,7 @@ During the conference our distinguished jurists, other invited jurists, as well 
 -   Third Prize -- $2,000 USD
 
 ### Submission requirements:
-
+- Due by October 30, 2023
 -   Artists may submit one piece of artwork for consideration.
 -   Each submission must include a description of the artwork, detailing inspiration, medium, process of creation, physical dimensions.
 -   Submitted artwork must be of high-resolution quality (300 DPI, .jpeg or .png recommended). If applicable, please include a layered version (.ai,  psd, .indd) of the artwork

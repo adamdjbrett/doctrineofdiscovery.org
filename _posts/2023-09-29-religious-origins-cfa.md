@@ -23,14 +23,15 @@ sidebar:
 ---
 [Submit now](https://syracuseuniversity.qualtrics.com/jfe/form/SV_5u4auzuwe7xvRjw){: .btn .btn--success .btn--x-large}
 
-**Theme:**\
-The Religious Origins of White Supremacy:  Johnson V. M'Intosh and the Doctrine of Christian Discovery.\
-**Eligibility:**\
+**Theme:**
+The Religious Origins of White Supremacy:  Johnson V. M'Intosh and the Doctrine of Christian Discovery.
+
+**Eligibility:**
 There are no hard restrictions on genre, subject matter, or media; however, we ask artists to keep the conference theme and description in mind when creating and/or selecting work for submission. The artwork must also be suitable or print-friendly for posters, promotional graphics, conference programs, etc.
 
 There are no age restrictions. Artists of all ages may submit their work. For artists under the age of eighteen (18), parent or legal guardian permission is required.
 
-**Compensation and Transfer of Ownership:**\
+**Compensation and Transfer of Ownership:**
 Each artist whose piece is selected for exhibition will receive a one-time payment of $1,500.00 USD.  As part of this payment, artists will be required to sign an agreement transferring ownership of their piece (including any copyrights) to the Indigenous Values Initiative (IVI).
 
 Artist will also receive one (1) conference pass to attend any and all conference sessions.
@@ -40,6 +41,7 @@ During the conference our distinguished jurists, other invited jurists, as well 
 -   First Prize -- $5,000 USD
 -   Second Prize -- $3,000 USD
 -   Third Prize -- $2,000 USD\
+
 **Submission requirements:**
 
 -   Artists may submit one piece of artwork for consideration.
@@ -51,4 +53,5 @@ During the conference our distinguished jurists, other invited jurists, as well 
 All selected artworks will be exhibited during the conference at Syracuse University from Dec 8-10.
 
 ## Submissions
+- Due by October 30, 2023
 [Submit now](https://syracuseuniversity.qualtrics.com/jfe/form/SV_5u4auzuwe7xvRjw){: .btn .btn--success .btn--x-large}
