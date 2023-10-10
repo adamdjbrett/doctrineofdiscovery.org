@@ -6,7 +6,7 @@ excerpt: "Roman Catholic Organization Statements Repudiating the Doctrine of Dis
 permalink: /roman-catholic-organizations-repudiate-the-doctrine-of-discovery/
 published: true
 date: 2021-06-22 11:31:27
-last_modified_at: 2022-01-28
+last_modified_at: 2023-10-10 
 categories:
   - Repudiations
   - Catholic
@@ -21,6 +21,9 @@ tags:
 redirect_from:
   - /8914/
 ---
+## Roman Catholic Church Statements
+* [Joint Statement of the Dicasteries for Culture and Education and for Promoting Integral Human Development on the “Doctrine of Discovery”, 30.03.2023](https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2023/03/30/0238/00515.html)
+
 ### Roman Catholic Organization Statements Repudiating the Doctrine of Discovery.
 
 *   [The Leadership Conference of Women Religious (LCWR)](https://lcwr.org/social-justice/doctrine-discovery)  [(⤓ PDF download)](/assets/pdfs/LCWR-dod-resolution-2014.pdf)

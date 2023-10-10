@@ -52,6 +52,7 @@ redirect_from:
     * [Friends General Conference](/friends-general-conference/)
 *   [Roman Catholic Organizations](/roman-catholic-organizations-repudiate-the-doctrine-of-discovery/)
     * _linked above are the following_
+    * * [Joint Statement of the Dicasteries for Culture and Education and for Promoting Integral Human Development on the “Doctrine of Discovery”, 30.03.2023](https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2023/03/30/0238/00515.html)
     * The Leadership Conference of Women Religious (LCWR)
     * Passionists International
     * Pax Christi
