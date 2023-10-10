@@ -6,8 +6,5 @@ categories:
 tags:
   - event
   - Conference
+published: false
 ---
-## Friday, 12/8/2023
-| Time | Description | Location |
-| --- | --- | -- |
-| 12:00 - 4:00 | *Check-in* | Sheraton |
