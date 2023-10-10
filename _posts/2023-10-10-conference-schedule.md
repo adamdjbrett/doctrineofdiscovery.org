@@ -7,386 +7,554 @@ tags:
   - event
   - Conference
 ---
-<table>
-<caption>Conference Scheudle</caption>
-<thead>
-<tr>
-	<th scope="col">Friday, 12/8/2023</th>
-	<th scope="col"></th>
-	<th scope="col"></th>
-	<th scope="col"></th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td>12:00 - 4:00</td>
-	<td>"Check in</td>
-</tr>
-<tr>
-	<td>Sheraton"</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td align="right">4:00-8:00</td>
-	<td>"The Opening Address</td>
-</tr>
-<tr>
-	<td>Social Dancing, Dinner and Tour, Keynote by Steven Newcomb</td>
-</tr>
-<tr>
-	<td>Skä•noñh Great Law of Peace Center"</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>Saturday, 12/9/2023</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td></td>
-	<td>Session 1</td>
-	<td>Session 2</td>
-	<td>Session 3</td>
-</tr>
-<tr>
-	<td>8:30 - 9:20</td>
-	<td>Confronting Religious Racism Panel</td>
-	<td>The Religious Origins of January 6th</td>
-	<td>The Story of the Empty Cradleboard Mandate: Indigenous Delegates to Vatican Discuss Lessons Learned and Next Steps After Repudiation</td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td>Boaz, Chaves, Melo Cerqueira, Desir</td>
-	<td>Northern Virginia Community College</td>
-	<td>Schenandoah, Herne, Antoine, Beauvais</td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>9:30 - 10:20</td>
-	<td>Confronting Religious Racism Workshop</td>
-	<td>Political Theologies of Discovery</td>
-	<td>Christian Control of Women and Mother Earth: The Doctrine of Discovery and The Doctrine of Male Dominion</td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td>Boaz, Chaves, Melo Cerqueira, Desir</td>
-	<td>Bossen, Peacock, Somayajula</td>
-	<td>Reeder (c), Bigtree, Reeder, Roesch Wagner</td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>10:30 - 11:20</td>
-	<td>Law Panel I: 200 Years of Johnson v. M'Intosh</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td>Johnson (c), Heath, Jacobs, Miller, Robinson</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>11:20 - 12:00</td>
-	<td>Lunch Break</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>12:00 - 12:50</td>
-	<td>"Bishops Panel</td>
-</tr>
-<tr>
-	<td>HBC Gifford"</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td>Arnold  (c), Edwards, Lucia, Miller, Duncan-Probe, Jacques</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>1:00 - 1:50</td>
-	<td>The impact of the Doctrine in Aotearoa upon wellbeing and Indigenous knowledge</td>
-	<td>Challenging Christianization and Civlization Narratives</td>
-	<td>Syracuse University Doctrine of Discovery Seminar Presentations</td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td>Ngata, Kopua, Kopua, Webster, Jones, Solomon, Williams</td>
-	<td>Chestek, Klein, Long, Raju</td>
-	<td>Phili P. Arnold and his students</td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>2:00 - 2:50</td>
-	<td>Engaged Humanities Network: Engaging the Doctrine of Discovery Beyond the Classroom</td>
-	<td>International Dimensions of the Doctrine of Discovery Panel I</td>
-	<td>Catholicism and the Doctrine of Discovery</td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td>Nahar and Nordquist</td>
-	<td>Alencar, Mendoza, Trinkauskaite</td>
-	<td>Fernández, Hill Fletcher, Hunsinger</td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>3:00 - 3:50</td>
-	<td>Documenting the Doctrine of Discovery, Mueseums, Libraries & Data Science</td>
-	<td>Land Panel I: Devestated Landscapes and Eco-Justice</td>
-	<td>International Dimensions of the Doctrine of Discovery Panel III: International Human Rights</td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td>Arnold, Adams, Cunningham, Modrow, Loewen-Colon</td>
-	<td>Barry, Henkel, Telles</td>
-	<td>Brett, Lyons, Reyes-Aguirre</td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>4:00 - 4:50</td>
-	<td>"Davíd Carrasco</td>
-</tr>
-<tr>
-	<td>HBC Gifford"</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>5:00 - 7:00</td>
-	<td>Dinner Break</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td align="right">7:00</td>
-	<td>"In the Court of the Conqueror</td>
-</tr>
-<tr>
-	<td>Goldstein Auditorium"</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>Sunday, 12/10/23</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td></td>
-	<td>Session 1</td>
-	<td>Session 2</td>
-	<td>Session 3</td>
-</tr>
-<tr>
-	<td>8:30 - 9:20</td>
-	<td>Law Panel II: Federal Anti-Indian Law</td>
-	<td>International Dimensions of the Doctrine of Discovery Panel II</td>
-	<td>Contesting White Christian Nationalism</td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td>Heath, Newcomb, d'Errico</td>
-	<td>Burke, Kirkhusmo Pharo, Melton, Ness</td>
-	<td>Nahar, Perkinson, Randall</td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>9:30 - 10:20</td>
-	<td>Law Panel III: White Christian Desire for the Indigenous and the Logic of Discovery</td>
-	<td>Land Panel II: Narratives for Collective Survival</td>
-	<td>New Books in the Study of Domination</td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td>Chi, Lloyd, Miller</td>
-	<td>Nahar, Felese, Wolcott</td>
-	<td>Arnold, Boaz, Chaves, Jones, Ngata</td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>10:30 - 11:20</td>
-	<td>Recognizing Indigenous Rights Inter-nationally</td>
-	<td>Colonial Words Creating Worlds</td>
-	<td>Faith & Land Justice Roundtable: Repairing the Harms of the Doctrine of Christian Discovery</td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td>Robinson, Haub</td>
-	<td>Brackens, Stanzione, Kritkausky</td>
-	<td>Augustine, Bradley, McCabe, Ufford-Chase</td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td align="right">11:20-12:00</td>
-	<td>SUNY ESF Diversity and Knowledge of the Environment Class</td>
-	<td>Using the Two Row Wampum Method at the Vatican</td>
-	<td>Contextualizing Domination through Intellectual History</td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td>Moran, Nahar</td>
-	<td>Arnold, Bigtree, Brett, Lyons, Modrow</td>
-	<td>Burke, Fitzsimmons, Peters, Smith</td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>12:00 - 12:50</td>
-	<td>Lunch Break</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>1:00 - 1:50</td>
-	<td>Artist Award Announcements by Prize Winners</td>
-	<td>TBD</td>
-	<td>Blanket Exercise Part 1</td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td>Arnold and Bigtree</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>2:00 - 2:50</td>
-	<td>TBD</td>
-	<td>Conference Reflection and Next Steps</td>
-	<td>Blanket Exercise Part 2</td>
-</tr>
-<tr>
-	<td>Presenters</td>
-	<td></td>
-	<td>Arnold, Boaz</td>
-	<td>Neighbors of Onondaga Nation (NOON)</td>
-</tr>
-<tr>
-	<td>Location</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>3:00 - 4:30</td>
-	<td>"Closing panel</td>
-</tr>
-<tr>
-	<td>The Religious Origins of White Supremacy: Johnson v. M'Intosh and the Doctrine of Christian Discovery.</td>
-</tr>
-<tr>
-	<td>Betty Lyons (c), Oren Lyons, Robby Jones, Anthea Butler,</td>
-</tr>
-<tr>
-	<td>Goldstein Auditorium"</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td align="right">4:30-6:00</td>
-	<td>Māori Performance</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td align="right">6:00-6:30</td>
-	<td>Traditional Haudenosaunee Thanksgiving Address Closing</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>ANY TIME</td>
-	<td>Visit the Art Gallery and Poster Sessions</td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>Other Points of Interest</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td>Resistance: The Art of Peter B. Jones</td>
-	<td></td>
-	<td></td>
-	<td></td>
-</tr>
-</tbody>
-</table>
+<div class="divTable">
+    <div class="row">
+        <div class="cell">Friday, 12/8/2023</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">12:00 - 4:00</div>
+        <div class="cell">&quot;Check in</div>
+    </div>
+    <div class="row">
+        <div class="cell">Sheraton&quot;</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">4:00-8:00</div>
+        <div class="cell">&quot;The Opening Address</div>
+    </div>
+    <div class="row">
+        <div class="cell">Social Dancing, Dinner and Tour, Keynote by Steven Newcomb</div>
+    </div>
+    <div class="row">
+        <div class="cell">Skä•noñh Great Law of Peace Center&quot;</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Saturday, 12/9/2023</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell"></div>
+        <div class="cell">Session 1</div>
+        <div class="cell">Session 2</div>
+        <div class="cell">Session 3</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">8:30 - 9:20</div>
+        <div class="cell">Confronting Religious Racism Panel</div>
+        <div class="cell">The Religious Origins of January 6th </div>
+        <div class="cell">The Story of the Empty Cradleboard Mandate: Indigenous Delegates to Vatican Discuss Lessons Learned and Next Steps After Repudiation</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell">Boaz, Chaves, Melo Cerqueira, Desir</div>
+        <div class="cell">Northern Virginia Community College</div>
+        <div class="cell">Schenandoah, Herne, Antoine, Beauvais</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">9:30 - 10:20</div>
+        <div class="cell">Confronting Religious Racism Workshop</div>
+        <div class="cell">Political Theologies of Discovery</div>
+        <div class="cell">Christian Control of Women and Mother Earth: The Doctrine of Discovery and The Doctrine of Male Dominion</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell">Boaz, Chaves, Melo Cerqueira, Desir</div>
+        <div class="cell">Bossen, Peacock, Somayajula</div>
+        <div class="cell">Reeder (c), Bigtree, Reeder, Roesch Wagner</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">10:30 - 11:20</div>
+        <div class="cell">Law Panel I: 200 Years of Johnson v. M&#39;Intosh</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell">Johnson (c), Heath, Jacobs, Miller, Robinson</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">11:20 - 12:00</div>
+        <div class="cell">Lunch Break</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">12:00 - 12:50</div>
+        <div class="cell">&quot;Bishops Panel</div>
+    </div>
+    <div class="row">
+        <div class="cell">HBC Gifford&quot;</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell">Arnold  (c), Edwards, Lucia, Miller, Duncan-Probe, Jacques</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">1:00 - 1:50</div>
+        <div class="cell">The impact of the Doctrine in Aotearoa upon wellbeing and Indigenous knowledge</div>
+        <div class="cell">Challenging Christianization and Civlization Narratives</div>
+        <div class="cell">Syracuse University Doctrine of Discovery Seminar Presentations</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell">Ngata, Kopua, Kopua, Webster, Jones, Solomon, Williams</div>
+        <div class="cell">Chestek, Klein, Long, Raju</div>
+        <div class="cell">Philip P. Arnold and his students</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">2:00 - 2:50</div>
+        <div class="cell">Engaged Humanities Network: Engaging the Doctrine of Discovery Beyond the Classroom</div>
+        <div class="cell">International Dimensions of the Doctrine of Discovery Panel I</div>
+        <div class="cell">Catholicism and the Doctrine of Discovery</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell">Nahar and Nordquist</div>
+        <div class="cell">Alencar, Mendoza, Trinkauskaite</div>
+        <div class="cell">Fernández, Hill Fletcher, Hunsinger</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">3:00 - 3:50</div>
+        <div class="cell">Documenting the Doctrine of Discovery, Mueseums, Libraries &amp; Data Science</div>
+        <div class="cell">Land Panel I: Devestated Landscapes and Eco-Justice</div>
+        <div class="cell">International Dimensions of the Doctrine of Discovery Panel III: International Human Rights</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell">Arnold, Adams, Cunningham, Modrow, Loewen-Colon</div>
+        <div class="cell">Barry, Henkel, Telles</div>
+        <div class="cell">Brett, Lyons, Reyes-Aguirre</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">4:00 - 4:50</div>
+        <div class="cell">&quot;Davíd Carrasco</div>
+    </div>
+    <div class="row">
+        <div class="cell">HBC Gifford&quot;</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">5:00 - 7:00</div>
+        <div class="cell">Dinner Break</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">7:00</div>
+        <div class="cell">&quot;In the Court of the Conqueror</div>
+    </div>
+    <div class="row">
+        <div class="cell">Goldstein Auditorium&quot;</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Sunday, 12/10/23</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell"></div>
+        <div class="cell">Session 1</div>
+        <div class="cell">Session 2</div>
+        <div class="cell">Session 3</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">8:30 - 9:20</div>
+        <div class="cell">Law Panel II: Federal Anti-Indian Law</div>
+        <div class="cell">International Dimensions of the Doctrine of Discovery Panel II</div>
+        <div class="cell">Contesting White Christian Nationalism</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell">Heath, Newcomb, d&#39;Errico</div>
+        <div class="cell">Burke, Kirkhusmo Pharo, Melton, Ness</div>
+        <div class="cell">Nahar, Perkinson, Randall</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">9:30 - 10:20</div>
+        <div class="cell">Law Panel III: White Christian Desire for the Indigenous and the Logic of Discovery</div>
+        <div class="cell">Land Panel II: Narratives for Collective Survival</div>
+        <div class="cell">New Books in the Study of Domination</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell">Chi, Lloyd, Miller</div>
+        <div class="cell">Nahar, Felese, Wolcott</div>
+        <div class="cell">Arnold, Boaz, Chaves, Jones, Ngata</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">10:30 - 11:20</div>
+        <div class="cell">Recognizing Indigenous Rights Inter-nationally</div>
+        <div class="cell">Colonial Words Creating Worlds</div>
+        <div class="cell">Faith &amp; Land Justice Roundtable: Repairing the Harms of the Doctrine of Christian Discovery</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell">Robinson, Haub</div>
+        <div class="cell">Brackens, Stanzione, Kritkausky</div>
+        <div class="cell">Augustine, Bradley, McCabe, Ufford-Chase</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">11:20-12:00</div>
+        <div class="cell">SUNY ESF Diversity and Knowledge of the Environment Class</div>
+        <div class="cell">Using the Two Row Wampum Method at the Vatican</div>
+        <div class="cell">Contextualizing Domination through Intellectual History</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell">Moran, Nahar</div>
+        <div class="cell">Arnold, Bigtree, Brett, Lyons, Modrow</div>
+        <div class="cell">Burke, Fitzsimmons, Peters, Smith</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">12:00 - 12:50</div>
+        <div class="cell">Lunch Break</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">1:00 - 1:50</div>
+        <div class="cell">Artist Award Annoucements by Prize Winners</div>
+        <div class="cell">TBD</div>
+        <div class="cell">Blanket Exercise Part 1</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell">Arnold and Bigtree</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">2:00 - 2:50</div>
+        <div class="cell">TBD</div>
+        <div class="cell">Conference Reflection and Next Steps</div>
+        <div class="cell">Blanket Exercise Part 2</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Presenters</div>
+        <div class="cell"></div>
+        <div class="cell">Arnold, Boaz</div>
+        <div class="cell">Neighbors of Onondaga Nation (NOON)</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Location</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">3:00 - 4:30</div>
+        <div class="cell">&quot;Closing panel</div>
+    </div>
+    <div class="row">
+        <div class="cell">The Religious Origins of White Supremacy: Johnson v. M&#39;Intosh and the Doctrine of Christian Discovery. </div>
+    </div>
+    <div class="row">
+        <div class="cell">Betty Lyons (c), Oren Lyons, Robby Jones, Anthea Butler, </div>
+    </div>
+    <div class="row">
+        <div class="cell">Goldstein Auditorium&quot;</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">4:30-6:00</div>
+        <div class="cell">Māori Performance</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">6:00-6:30</div>
+        <div class="cell">Traditional Haudenosaunee Thanksgiving Address Closing</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">ANY TIME</div>
+        <div class="cell">Visit the Art Gallery and Poster Sessions</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Other Points of Interest</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+    <div class="row">
+        <div class="cell">Resistance: The Art of Peter B. Jones</div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+</div>
