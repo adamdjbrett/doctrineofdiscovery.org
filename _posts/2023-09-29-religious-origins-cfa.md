@@ -40,7 +40,7 @@ During the conference our distinguished jurists, other invited jurists, as well 
 
 -   First Prize -- $5,000 USD
 -   Second Prize -- $3,000 USD
--   Third Prize -- $2,000 USD\
+-   Third Prize -- $2,000 USD
 
 **Submission requirements:**
 
