@@ -31,22 +31,25 @@ Tel: +1 315-475-3000
  {% include_cached scheduleupdate.html %}
 
 
-## Detailed Schedule
-### Key 
+# Detailed Schedule
+## Key 
 Room numbers and location to be determined. 
 
-### Friday, 12/8/2023
-#### Time
-##### Event &mdash; TBD
+## Friday, 12/8/2023
+### Panel Z100
+### Panel Title: Sample Title
+#### Panelists:
+*John Doe, University, Chair*
+Jane Doe, University, Paper Title (optional)
 
-### Saturday, 12/9/2023			
-#### Time
-##### Event &mdash; TBD
 
-### Sunday, 12/10/23			
-#### Time
-##### Event &mdash; TBD
+## Saturday, 12/9/2023			
+### Panel #
+### Panel Title
 
+## Sunday, 12/10/23			
+### Panel #
+### Panel Title
 
 
 ## Presenter Bios
