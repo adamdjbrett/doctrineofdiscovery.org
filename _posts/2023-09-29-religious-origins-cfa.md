@@ -21,6 +21,7 @@ sidebar:
     text: "Learn More about the Doctrine of Discovery"
     nav: next-steps  
 ---
+![Conference Flyer](/assets/images/2023-conference-banner.jpg)
 [Submit now](https://syracuseuniversity.qualtrics.com/jfe/form/SV_5u4auzuwe7xvRjw){: .btn .btn--success .btn--x-large}
 
 **Theme:**

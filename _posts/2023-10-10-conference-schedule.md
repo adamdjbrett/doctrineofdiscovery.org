@@ -8,6 +8,9 @@ tags:
   - Conference
 published: true
 ---
+![Conference Flyer](/assets/images/2023-conference-banner.jpg)
+
+
 ## Register
 [Register Now](https://cusecommunity.syr.edu/s/1632/17/interior.aspx?sid=1632&gid=2&pgid=9401&content_id=13275){: .btn .btn--info .btn--x-large}
 
