@@ -6,6 +6,16 @@ categories:
 tags:
   - event
   - Conference
+author: indigenous-values-initiative
+sidebar:
+  - title: "Next Steps"
+    image: /assets/images/colonial-contact.jpg
+    image-alt: "Indigenous peoples on the left and European Christian colonizers on the right planting a cross. In the middle is Mother Earth."
+    text: "Learn More about the Doctrine of Discovery"
+    nav: next-steps 
+toc: true
+toc_label: "Overview"
+toc_icon: "cog"
 published: true
 ---
 ![Conference Flyer](/assets/images/2023-conference-banner.jpg)
