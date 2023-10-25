@@ -419,7 +419,7 @@ Dana Lloyd, Villanova University
 - Randy Kritkausky, ECOLOGIA, "Untangling Ourselves from The Doctrine of Discovery"
 - Vincent Stanzione, Independent Writer, Researcher, Translator, "Subjugation of the Popol Wuj: the Translation-Appropriation of the Ancient Word"
 - Jonathan Brackens, University of Massachusetts School of Law, "The Hays Between Scroggs and Smith: A Quantitative Integrative Review of Personal Jurisdiction In Romans 1 Legal Exegesis And Its Racial Implications On Christian Gentile Homonegative Doctrines"
-- Victor Valle, California Polytechnic State University
+- Victor Valle, California Polytechnic State University, *Toward a Poetics of Chile...in another Mexico*
 
 
 
