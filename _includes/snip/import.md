@@ -222,7 +222,7 @@
 ### [Panel B105](#B105)
 
 #### [Challenging Christianization and Civlization Narratives](#B105)
-
+- *Fatma Celik, Syracuse University, Chair*
 - Sandra Klein, Université de Liège, "Religion as a Tool for Racist Subjugation and Black Liberation in Robert Jones, Jr.’s The Prophets (2021)"
 - Jason Long Youngstown State University  "“Christianized and Civilized”: Protestant Missionaries and American Hegemony in Hawai‘i, 1820-1898"
 - Kenneth Chestek,University of Wyoming, "The Myth of Divine Right and the Doctrine of Discovery"
@@ -416,7 +416,6 @@ Dana Lloyd, Villanova University
 #### [Colonial Words Creating Worlds](#C114)
 
 - Randy Kritkausky, ECOLOGIA, "Untangling Ourselves from The Doctrine of Discovery"
-- Vincent Stanzione, Independent Writer, Researcher, Translator, "Subjugation of the Popol Wuj: the Translation-Appropriation of the Ancient Word"
 - Jonathan Brackens, University of Massachusetts School of Law, "The Hays Between Scroggs and Smith: A Quantitative Integrative Review of Personal Jurisdiction In Romans 1 Legal Exegesis And Its Racial Implications On Christian Gentile Homonegative Doctrines"
 - Victor Valle, California Polytechnic State University, *Toward a Poetics of Chile...in another Mexico*
 
