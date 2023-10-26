@@ -17,7 +17,7 @@ links:
     url: "https://www.facebook.com/doctrineofdiscovery"
   - label: "Instagram"
     icon: "fab fa-fw fa-instagram"
-    url: "https://instagram.com/indigenousVI"
+    url: "https://instagram.com/indigenousvalues"
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     url: "https://twitter.com/indigenousvi"
