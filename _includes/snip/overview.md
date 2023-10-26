@@ -36,4 +36,4 @@
 - [Panel C111](#C111) - [Sacred Places Institute](#C111)
 - [Panel C114](#C114) - [Colonial Words Creating Worlds](#C114)
 - [Panel C115](#C115) - [Contextualizing Domination through Intellectual History](#C115)
-- [Panel D111](#D111) - [Blanket Exercise](#D111)
+- [Panel D111](#D111) - [Witness to Injustice Program](#D111)

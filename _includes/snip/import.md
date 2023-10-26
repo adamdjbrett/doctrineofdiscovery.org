@@ -238,7 +238,6 @@
 *Lars Kirkhusmo Pharo,Nord University, Chair*
 - Zachary Melton, University of Iceland, "Race and Religion in the Medieval Norse Discovery"
 - Lars Kirkhusmo Pharo, Nord University, "Intellectual Diversity and Complexity in “Terra Nullius” Methodology of Comparative History of Religions and Ideas"
-- Mary Burke, "University of Connecticut, Settler-colonial Irish Catholics & Protestants & the routing of Indigenous America"
 - Tove Mentse Ness, Nord University, "‘We tried to take care of her, but it got too exhausting.’ A study of the transition from family carer to employer"
 
 
@@ -440,7 +439,7 @@ Dana Lloyd, Villanova University
 <span id="dd111"></span>
 ### [Panel D111](#D111)
 
-#### [Blanket Exercise](#D111)
+#### [Witness to Injustice Program](#D111)
 
 *Neighbors of Onondaga Nation (NOON)*
 
