@@ -18,6 +18,15 @@ toc_label: "Overview"
 toc_icon: "cog"
 published: true
 ---
+## Description
+December 8-10, 2023, Syracuse University 
+
+## Sponsors
+* Henry Luce Foundation
+* Syracuse University
+* Indigenous Values Initiative
+
+
 ![Conference Flyer](/assets/images/2023-conference-banner.jpg)
 
 
