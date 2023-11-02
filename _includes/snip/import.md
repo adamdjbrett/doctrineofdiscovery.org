@@ -116,7 +116,7 @@
 - *Philip P. Arnold, Syracuse University , Chair*
 - Sebastian Modrow, Syracuse University
 - Meave Callan, Simpson University, "The Medieval Origins of Religious White Supremacy: The King of Tars, Crusade Defeats, and the Doctrine of Discovery"
-- Sean Cunningham, The National Archives (UK)
+- Sean Cunningham, The National Archives (UK), *Archival Evidence of Ideology, Trade and Plunder as Motivations in England’s North American Voyages, C.1480-1503*
 - James Adams, National Museum of the American Indian - Smithsonian, "Pre-History of the "Doctrine of Christian Discovery"; Nicholas V and the English Eruption into the North Atlantic"
 
 
@@ -389,7 +389,7 @@ Dana Lloyd, Villanova University
 ### [Panel C110](#C110)
 
 #### [Contesting White Christian Nationalism](#C110)
-
+*- Joss Yarbrough, Syracuse University, Chair*
 - James (Jim) Perkinson,Ecumenical Theological Seminary,Routing Out Supremacy’s Religious Roots From Skin Color Back Through Bible Code to City-State Coercion
 - Jonathan Nahar, "The DoCD White Christian Nationalism, and Palestine"
 - Mitch Randall, Good Faith Media
@@ -414,7 +414,7 @@ Dana Lloyd, Villanova University
 ### [Panel C114](#C114)
 
 #### [Colonial Words Creating Worlds](#C114)
-
+- *Brianna Svitak, Syracuse University, Chair*
 - Randy Kritkausky, ECOLOGIA, "Untangling Ourselves from The Doctrine of Discovery"
 - Jonathan Brackens, University of Massachusetts School of Law, "The Hays Between Scroggs and Smith: A Quantitative Integrative Review of Personal Jurisdiction In Romans 1 Legal Exegesis And Its Racial Implications On Christian Gentile Homonegative Doctrines"
 - Victor Valle, California Polytechnic State University, *Toward a Poetics of Chile...in another Mexico*
