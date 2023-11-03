@@ -100,9 +100,6 @@
 ### [Law Panel III: Federal Anti-Indian Law](#A110)
 
 - *Paula Johnson, Syracuse University College of Law,Chair*
-- Robert J. Miller, Arizona State University Sandra Day O'Connor College of Law
-- Dana Lloyd, Villanova University
-- Elisha Chi , Villanova University
 - Joseph J. Heath , Ononddaga Nation General Counsel
 - Steven T. Newcomb , Indigenous Law Institute/Original Free Nations
 - Peter d'Errico , University of Massachusetts Amherst
