@@ -403,12 +403,8 @@
 <span id="cc111"></span>
 ### [Panel C111](#C111)
 
-#### [Sacred Places Institute](#C111)
-- Brianna Rose Svitak, Syracuse University	Chair
-- Spenser James, Sacred Places Institute
-- Maritza Alvarez, Sacred Places Institute
-- Toni Cordero, Sacred Places Institute
-- Charles Sepulveda, Sacred Places Institute
+#### [Open](#C111)
+
 
 
 
