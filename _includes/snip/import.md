@@ -1,13 +1,16 @@
 ---
-
+## Detailed Schedule
 
 <span id="aa101"></span>
 ### [Panel A101](#A101) 
 
 #### [Syracuse University Doctrine of Discovery Seminar Presentations](#A101)
 
-- *Quin Pierson , Syracuse University ,  Chair*
-- *Philip P. Arnold , Syracuse University , Respondent*
+- *Quinn Pierson, Syracuse University, Chair*
+- Joss Yarbrough, Syracuse University
+- Naimi Pankaj Patel, Syracuse University
+- Shrutika Lakshmi, Syracuse University
+- *Philip P. Arnold, Syracuse University, Respondent*
 
 
 
@@ -17,10 +20,10 @@
 
 #### [Confronting Religious Racism Panel](#A102)
 
-- *Danielle Boaz , UNC Charlotte , Chair*
-- Gustavo Mello Cerqueira , International Commission to Combat Religious Racism
-- Charlene Desir , Nova Southeastern University
-- João Chaves , Baylor University 
+- *Danielle Boaz, UNC Charlotte, Chair*
+- Gustavo Mello Cerqueira, International Commission to Combat Religious Racism
+- Charlene Desir, Nova Southeastern University
+- João Chaves, Baylor University 
 
 
 
@@ -30,11 +33,11 @@
 
 #### [Law Panel I: 200 Years of Johnson v. M'Intosh](#A103)
 
-- *Paula Johnson , Syracuse University College of Law, Chair*
-- Joseph J. Heath , Onondaga Nation General Counsel
-- Robert J. Miller , Arizona State University Sandra Day O'Connor College of Law
-- Beverly Jacobs , University of Windsor
-- Nicolas Robinson , Pace University Elisabeth Haub School of Law
+- *Paula Johnson, Syracuse University College of Law, Chair*
+- Joseph J. Heath, Onondaga Nation General Counsel
+- Robert J. Miller, Arizona State University Sandra Day O'Connor College of Law
+- Beverly Jacobs, University of Windsor
+- Nicolas Robinson, Pace University Elisabeth Haub School of Law
 
 
 
@@ -43,7 +46,7 @@
 
 #### [Bishops Panel](#A104)
 
-- *Philip P. Arnold, Syracuse University , Chair*
+- *Philip P. Arnold, Syracuse University, Chair*
 
 
 <span id="aa105"></span>
@@ -51,7 +54,7 @@
 
 #### [The impact of the Doctrine in Aotearoa upon wellbeing and Indigenous knowledge](#A105)
 
-- *Tina Ngata , Chair*
+- *Tina Ngata, Chair*
 - Pāpā Mark Kopua
 - Diana Kopua
 - James Webster
@@ -65,8 +68,8 @@
 
 #### [Engaged Humanities Network: Engaging the Doctrine of Discovery Beyond the Classroom](#A106)
 
-- *Sarah Nahar , Syracuse University / SUNY ESF , Chair*
-- Sarah Nahar , Syracuse University / SUNY ESF , Engaged Humanities Network of SU
+- *Sarah Nahar, Syracuse University / SUNY ESF, Chair*
+- Sarah Nahar, Syracuse University / SUNY ESF, Engaged Humanities Network of SU
 - Brice Nordquist, Syracuse University, 
 - Jordan Brady Loewen-Colon, Syracuse University
 
@@ -76,7 +79,10 @@
 ### [Panel A107](#A107)
 
 #### [Law Panel II: White Christian Desire for the Indigenous and the Logic of Discovery](#A107)
-
+- *Paula  Johnson, Syracuse University College of Law, Chair*
+- Robert J.	Miller, Arizona State University Sandra Day O'Connor College of Law	
+- Dana Lloyd, Villanova University	
+- Elisha Chi, Villanova University	
 
 
 <span id="aa108"></span>
@@ -84,7 +90,7 @@
 
 #### [Title TBD](#A108)
 
-*Davíd Carrasco , Harvard University*
+*Davíd Carrasco, Harvard University*
 
 
 <span id="aa109"></span>
@@ -100,21 +106,20 @@
 ### [Law Panel III: Federal Anti-Indian Law](#A110)
 
 - *Paula Johnson, Syracuse University College of Law,Chair*
-- Joseph J. Heath , Ononddaga Nation General Counsel
-- Steven T. Newcomb , Indigenous Law Institute/Original Free Nations
-- Peter d'Errico , University of Massachusetts Amherst
+- Joseph J. Heath, Ononddaga Nation General Counsel
+- Steven T. Newcomb, Indigenous Law Institute/Original Free Nations
+- Peter d'Errico, University of Massachusetts Amherst
 
 
 <span id="aa111"></span>
 ### [Panel A111](#A111)
 
-#### [Documenting the Doctrine of Discovery, Mueseums, Libraries & Data Science](#A111)
+#### [Documenting the Doctrine of Discovery, Mueseums, Libraries & Data Science Part 1](#A111)
 
-- *Philip P. Arnold, Syracuse University , Chair*
+- *Philip P. Arnold, Syracuse University, Chair*
 - Sebastian Modrow, Syracuse University
-- Meave Callan, Simpson University, "The Medieval Origins of Religious White Supremacy: The King of Tars, Crusade Defeats, and the Doctrine of Discovery"
 - Sean Cunningham, The National Archives (UK), *Archival Evidence of Ideology, Trade and Plunder as Motivations in England’s North American Voyages, C.1480-1503*
-- James Adams, National Museum of the American Indian - Smithsonian, "Pre-History of the "Doctrine of Christian Discovery"; Nicholas V and the English Eruption into the North Atlantic"
+
 
 
 <span id="aa112"></span>
@@ -122,17 +127,16 @@
 
 #### [Recognizing Indigenous Rights Inter-nationally](#A112)
 
-- *Nicholas Robinson, Elisabeth Haub School of Law at Pace University, Chair*
-- Nicholas Robinson, Elisabeth Haub School of Law at Pace University
+- *Nicholas Robinson, Elisabeth Haub School of Law at Pace University, Chair & Panelist*
 - Chris Sudol, Elisabeth Haub School of Law at Pace University
 
 
 <span id="aa113"></span>
 ### [Panel A113](#A113)
 
-#### 
+#### SUNY ESF Diversity and Knowledge of the Environment Class
 
-- *Sarah Nahar , Syracuse University / SUNY ESF , Chair*
+- *Sarah Nahar, Syracuse University / SUNY ESF, Chair*
 - Sarah Nahar, SUNY ESF Diversity and Knowledge of the Environment Class, Undergrad Panel: The Doctrine of Discovery: Its contemporary impacts and resistance
 - Sharon Moran, SUNY ESF,
 
@@ -140,11 +144,13 @@
 <span id="aa114"></span>
 ### [Panel A114](#A114)
 
-#### [Artist Award Annoucements by Prize Winners](#A114)
+#### [Documenting the Doctrine of Discovery, Museums, Libraries & Data Science Part 2](#A114)
 
-- Philip P. Arnold, Syracuse University
-- Sandy Bigtree, Indigenous Values Initiative
-
+- Philip P.	Arnold, Syracuse University, Chair
+- Meave Callan, Simpson University, "The Medieval Origins of Religious White Supremacy: The King of Tars, Crusade Defeats, and the Doctrine of Discovery"
+- James Adams, National Museum of the American Indian - Smithsonian, "Pre-History of the "Doctrine of Christian Discovery"; Nicholas V and the English Eruption into the North Atlantic"
+- Jordan Loewen-Colon, Syracuse University, "Unveiling the Digital Doctrine of Discovery: Lessons from the Taino Encounter for Contemporary Data Society"  
+- Sandy Bigtree, Indigenous Values Initiative	
 
 <span id="aa115"></span>
 ### [Panel A115](#A115)
@@ -207,7 +213,7 @@
 ### [Panel B102](#B102)
 
 #### [Political Theologies of Discovery](#B102)
-
+- *Naimi Patel, Syracuse University, Chair*
 - Cara Peacock, University of Toronto, Settler Colonial Christianity: Unravelling the Political Theologies of Settler Statecraft and Colonial Violence
 - Colin Bossen, First Unitarian Universalist Church of Houston, The Political Theology of Replacement Theory
 - Pranay Somayajula, Hindus for Human Rights 
@@ -244,9 +250,9 @@
 ### [Panel B107](#B107)
 
 #### [Land Panel I: Devestated Landscapes and Eco-Justice](#B107)
-
-- Luke Henkel,Laudato Si Movement, "Chi’chil Bildagoteel, the Doctrine of Discovery, and Religious Freedom: unprecedented challenges and opportunities"
-- Renée Barry, The Matilda Joslyn Gage Center and Erie Canal Museum Fellowship, "On "Deconstruction" of the Erie Canal"
+- *Sara	Shute, Indigenous Values Initiative, Chair*
+- Luke Henkel,Laudato Si Movement, "Chi’chil Bildagoteel, the Doctrine of Discovery, and Religious Freedom: Unprecedented Challenges and Opportunities"
+- Renée Barry and Danielle Nagle, The Matilda Joslyn Gage Center and Erie Canal Museum Fellowship, "On "Deconstruction" of the Erie Canal"
 - Franklyn Telles, Northern Arizona University, "Columbine Lake Discovers Dust caused by Colonization"
 
 
@@ -256,7 +262,7 @@
 ### [Panel B110](#B110)
 
 #### [International Dimensions of the Doctrine of Discovery Panel II](#B110)
-
+- *Terry Reeder, Syracuse University, Chair*
 - S. Lily Mendoza, Oakland University, "An Unholy Wedding: Christianity, Civilizational Supremacy and the In/visibility of “Race” in Post-colonial Philippines"
 - Eglute Trinkauskaite, Maryland Institute College of Art, "Christian Nationalism in the Lithuanian context"
 - Telma Alencar, York University, "Silencing the Doctrine of Discovery in Brazil"
@@ -280,13 +286,13 @@
 
 #### [New Books in the Study of Domination](#B112)
 
-Adam DJ	Brett, Syracuse University
-Philip P. Arnold, Syracuse University
-Danielle Boaz, UNC Charlotte
-João Chaves, Baylor University
-Andrea Smith, Lafayette College
-Tina Ngata, 
-Dana Lloyd, Villanova University
+- *Adam DJ Brett, Syracuse University, Chair*
+- Philip P. Arnold, Syracuse University
+- Danielle Boaz, UNC Charlotte
+- João Chaves, Baylor University
+- Andrea Smith, Lafayette College
+- Tina Ngata, 
+- Dana Lloyd, Villanova University
 
 
 
@@ -295,7 +301,7 @@ Dana Lloyd, Villanova University
 
 #### [Using the Two Row Wampum Method at the Vatican](#B113)
 
-- *Philip P.Arnold,Syracuse University, Chair & Panelist*
+- *Philip P.Arnold, Syracuse University, Chair & Panelist*
 - Sandra Bigtree, Indigenous Values Initiative
 - Betty Lyons, American Indian Law Alliance
 - Sebastian Modrow, Syracuse University
@@ -309,10 +315,10 @@ Dana Lloyd, Villanova University
 
 #### [Confronting Religious Racism Workshop](#B114)
 
-- *Danielle Boaz,UNC Charlotte, Chair*
-- Gustavo Melo ,Cerqueira, International Commission to Combat Religious Racism
+- *Danielle Boaz, UNC Charlotte, Chair*
+- Gustavo Melo, Cerqueira, International Commission to Combat Religious Racism
 - Charlene Desir, Nova Southeastern University
-- Danielle Boaz,UNC Charlotte
+- Danielle Boaz, UNC Charlotte
 
 
 
@@ -359,7 +365,7 @@ Dana Lloyd, Villanova University
 ### [Panel C106](#C106)
 
 #### [Catholicism and the Doctrine of Discovery](#C106)
-
+- *Eglute Trinkauskaite, Maryland Institute College of Art, Chair*
 - Cristofer Fernández OFM Conv., Franciscan Friars Conventual, "Catholic Franciscan Decoloniality? DoCD Landlessness, Catholicity, and an Emergent Cosmography"
 - Jeannine Hill Fletcher, Fordham University, "Partners in Resistance and Repair: Using Brave Heart’s Method to Leverage Resources from Historically White-Serving Catholic Institutions"
 - Tiffany Hunsinger, University of Dayton, "Our Lady of the Sioux: The Role of Mary as Propaganda for Stealing Indigenous Land and Children"
@@ -373,7 +379,7 @@ Dana Lloyd, Villanova University
 
 #### [International Dimensions of the Doctrine of Discovery Panel III: International Human Rights](#C107)
 
-- *Shrutika Lakshmi,Syracuse University, Chair*
+- *Shrutika Lakshmi, Syracuse University, Chair*
 - Adam DJ Brett, American Indian Law Alliance
 - Betty Lyons, American Indian Law Alliance
 - Eve Reyes Aguirre, Tonatierra
@@ -386,7 +392,7 @@ Dana Lloyd, Villanova University
 ### [Panel C110](#C110)
 
 #### [Contesting White Christian Nationalism](#C110)
-*- Joss Yarbrough, Syracuse University, Chair*
+- *Joss Yarbrough, Syracuse University, Chair*
 - James (Jim) Perkinson,Ecumenical Theological Seminary,Routing Out Supremacy’s Religious Roots From Skin Color Back Through Bible Code to City-State Coercion
 - Jonathan Nahar, "The DoCD White Christian Nationalism, and Palestine"
 - Mitch Randall, Good Faith Media
@@ -398,7 +404,7 @@ Dana Lloyd, Villanova University
 ### [Panel C111](#C111)
 
 #### [Sacred Places Institute](#C111)
-
+- Brianna Rose Svitak, Syracuse University	Chair
 - Spenser James, Sacred Places Institute
 - Maritza Alvarez, Sacred Places Institute
 - Toni Cordero, Sacred Places Institute
@@ -423,8 +429,7 @@ Dana Lloyd, Villanova University
 ### [Panel C115](#C115)
 
 #### [Contextualizing Domination through Intellectual History](#C115)
-
-- Mary Burke, University of Connecticut,“Great White Father with a Sword”: Sectarianism, White Supremacy, and the Specter of Andrew Jackson in James, Faulkner, and Fitzgerald"
+- *Dillon Sampson, Syracuse University, Chair*
 - Xavier Fitzsimmons Cruz, New York University, Bartolomé de las Casas, Theodicy and the ecclesiastical struggle against colonialism in the Americas.
 - Andrea Smith, Lafayette College, "Making White Space: Staking Land Claims through Historical Markers"
 - Katie Peters, University of Connecticut, "The Mutual Construction of Religion, Women’s Rights, and KKK Propaganda: Bishop Alma Bridwell White"
