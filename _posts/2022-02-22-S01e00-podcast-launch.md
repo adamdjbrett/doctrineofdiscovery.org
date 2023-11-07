@@ -2,7 +2,7 @@
 title: "Episode 0 - Introduction to Mapping the Doctrine of Discovery Podcast"
 categories:
   - Podcast
-  - s01
+  - S01
 tags:
   - link
   - audio
