@@ -1,7 +1,7 @@
 ---
 username: sarah-nahar
 name: "Sarah Nahar"
-bio: "Sarah Nahar is a third year PhD student in Religion and Environmental Studies at Syracuse University and SUNY College of Environmental Science and Forestry, on unceded Onondaga land."
+bio: "Sarah Nahar is a PhD student in Religion and Environmental Studies at Syracuse University and SUNY College of Environmental Science and Forestry, on unceded Onondaga land."
 avatar: /assets/images/authors/sarah-nahar.jpeg
 links:
   - label: "Website"

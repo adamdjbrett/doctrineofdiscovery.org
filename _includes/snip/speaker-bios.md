@@ -1,4 +1,3 @@
-## Speakers Bios
 
 ### James Adams
 
@@ -118,10 +117,28 @@ Tadodaho Sidney (Sid) Hill, *Onondaga Nation*, Haudenosaunee Confederacy. Born 
 
 Beverley Jacobs, CM, LLB, LLM, PhD is a member of the Bear Clan, Mohawk Nation of the Haudenosaunee Confederacy. She is Associate Dean (Academic) at the Faculty of Law, University of Windsor and she practices law part-time at her home community of Six Nations of the Grand River Territory. Beverley has obtained a Bachelor of Law Degree from the University of Windsor in 1994, a Master of Law Degree from the University of Saskatchewan in 2000 and a PhD from the University of Calgary in 2018. Beverley is also a consultant/researcher/writer/public speaker. Her work centres around ending gendered colonial violence against Indigenous people and restoring Indigenous laws, beliefs, values, and traditions.
 
+### Lars Kirkhusmo Pharo
+
+Professor of Religion and Ethics, Nord University
+
+### Sandra Klein
+
+Université de Liège
+
+### Randy Kritkausky 
+
+Randy Kritkausky is an enrolled tribal member of the Citizen Potawatomi Nation. He is a founder of ECOLOGIA, an international environmental organization that works on the planet’s more extreme challenges, and formerly professor at Keystone College, research scholar at Middlebury College, and Erasmus Mundus Scholar at the Central European University in Budapest and Lund University in Sweden. He lives in Vermont. 
+
+### Jordan Loewen-Colon
+[Dr. Jordan Loewen-Colón](https://www.jordanbradyloewen.com/) is the AI, Ethics, and Data Justice Fellow at Queen's University's School of Computing. His expertise is in philosophy and experiential design, where he researches and consults for new reality media projects (Video Games, Artificial Intelligence, and Virtual Reality), involving mysticism, altered states, and psychedelics.
+
 ### Dana Lloyd
 
 Dana Lloyd is Assistant Professor of Global Interdisciplinary Studies and Affiliated Faculty, Center for Peace and Justice Education at Villanova University. She is the author of *Land Is Kin: Sovereignty, Religious Freedom, and Indigenous Sacred Sites* (University Press of Kansas, 2023). She holds a PhD in Religion from Syracuse University, and a law degree and an LLM from Tel Aviv University's Faculty of Law. [Faculty Bio](https://www1.villanova.edu/university/liberal-arts-sciences/programs/global/faculty/biodetail.html?mail=dana.lloyd@villanova.edu&xsl=bio_long)
 
+### Jason Long
+
+Youngstown State University, History and Political Science
 
 ### Gaeñ hia uh/Betty Lyons
 
@@ -138,14 +155,31 @@ Recipient of several prestigious awards including; The United Nations NGO World 
 
 [Oren Lyons '58, H'93 Headlines August Conversations About the Doctrine of Discovery](https://news.syr.edu/blog/2020/07/29/oren-lyons-58-h93-headlines-august-conversations-about-the-doctrine-of-discovery/).
 
+### Zachary	Melton
+
+University of Iceland
+
+### S. Lily	Mendoza	
+
+S. Lily Mendoza is a Kapampangan-born Filipina and currently resides in Waawiyatanong (aka Detroit, Michigan). She is Full Professor of Culture and Communication at Oakland University in Rochester, Michigan and is known for her pathbreaking work on the politics of indigeneity particularly within the Philippine diasporic and homeland context. She is the author of books and essays exploring questions of identity and subjectivity, cultural politics in national, post- and trans- national contexts, discourses on indigenization, ecology, and the cultural logic of modernity and civilization. Among her book publications are *Between the Homeland and the Diaspora: The Politics of Theorizing Filipino and Filipino American Identities*, *Back from the Crocodile's Belly: Philippine Babaylan Studies and the Struggle for Indigenous Memory, *and, most recently, *Decolonizing Ecotheology: Indigenous and Subaltern Challenges*. Currently, she serves as the Executive Director of the Center for Babaylan Studies (CfBS), a movement for decolonization and indigenization among diasporic Filipinos.
+
+### Sharon Moran 
+Associate Professor, Environmental Studies, SUNY–ESF
+
+###  Tove Synnøve Mentsen Ness
+Avdelingsleder, Faculty of Education and Arts, Nord University
 
 ### Tina Nagata
 
 Tina Ngata (Ngāti Porou) is a mother of two from the East Coast of Te Ika a Maui, Aotearoa New Zealand. She is the author of Kia Mau: Resisting Colonial Fictions, which analyses the application of the Doctrine of Discovery by James Cook, and critiques the New Zealand government Cook anniversary celebrations. Her work involves advocacy for environmental, Indigenous and human rights. This includes local, national and international initiatives that highlight the role of settler colonialism in issues such as climate change and waste pollution, and promote Indigenous conservation as best practice for a globally sustainable future.
 
-### Sarah Nahar
+### Jonathan Nahar
+Jonathan is a Palestinian-American Christian and graduate of the Kroc Institute for International Peace Studies. He has worked in multiple countries doing Palestine advocacy, human rights monitoring, grassroots organizing, and challenging anti-Arab racism. Jonathan’s work connects the Palestinian decolonial struggle with those of other indigenous peoples, and challenges theologies of domination.
 
-Sarah Nahar neé Thompson (she/her) is from Elkhart, Indiana (Potowatomi Traditional land) and a first year PhD student in the Religion department at Syracuse University. Her research focus is "How do beliefs about the Earth and the End Times influence toileting practices of religious people?" She is matriculating concurrently at neighboring SUNY College of Environmental Science and Forestry (ESF) Department of Environmental Studies. She is also a nonviolent action trainer and interspiritual theologian. Previously, Sarah was a 2019 [Rotary Peace Fellow](https://www.rotary.org/en/our-programs/peace-fellowships) and worked at the [Martin Luther King, Jr. Center](http://www.thekingcenter.org/about-king-center) in Atlanta, Georgia. She is a member of the [Carnival de Resistance](http://www.carnivalderesistance.com/) and has been the Executive Director of [Christian Peacemaker Teams](https://cpt.org/). She attended [Spelman College](http://www.spelman.edu/), majoring in Comparative Women's Studies and International Studies, minoring in Spanish. She has an MDiv from [Anabaptist Mennonite Biblical Seminary](http://www.ambs.edu/) in her hometown. Her hobbies include capoeira and home improvement projects.
+### Sarah Nahar
+Sarah Nahar, M.Div (from Elkhart, Indiana Potawatomi traditional land) is a third year PhD student in the Religion department at Syracuse University. Her research focus is on the toilet, both the ritual and receptacle. She is matriculating concurrently at neighboring SUNY College of Environmental Science and Forestry in the Department of Environmental Studies. Other interests include working on dismantling the Doctrine of Discovery, community organizing, and capoeira.
+
+She is also a nonviolent action trainer and interspiritual theologian. Previously, Sarah was a 2019 [Rotary Peace Fellow](https://www.rotary.org/en/our-programs/peace-fellowships) and worked at the [Martin Luther King, Jr. Center](http://www.thekingcenter.org/about-king-center) in Atlanta, Georgia. She is a member of the [Carnival de Resistance](http://www.carnivalderesistance.com/) and has been the Executive Director of [Christian Peacemaker Teams](https://cpt.org/). She attended [Spelman College](http://www.spelman.edu/), majoring in Comparative Women's Studies and International Studies, minoring in Spanish. She has an MDiv from [Anabaptist Mennonite Biblical Seminary](http://www.ambs.edu/) in her hometown. Her hobbies include capoeira and home improvement projects.
 
 ### Brice Nordquist
 
@@ -158,18 +192,76 @@ My book, [*Literacy & Mobility*](https://www.routledge.com/Literacy-and-Mobilit
 
 Steven Newcomb (Shawnee/Lenape) co-founded the Indigenous Law Institute in 1992 with Birgil Kill Straight (1940-2019), who was a traditional headman and ceremonial leader of the Oglala Lakota Nation. Newcomb is recognized as one of the world's foremost authorities on the Doctrine of Discovery as made evident by his law review articles and his book *Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery *(Fulcrum, 2008). He is the co-producer of the documentary movie *The Doctrine of Discovery: Unmasking the Domination Code*, directed by Sheldon Wolfchild (Dakota), which is based on *Pagans in the Promised Land*. His website is [originalfreenations.com](http://originalfreenations.com/) and he can be contacted at stv4newcomb[at]yahoo[period]com. The documentary can be ordered at [38Plus2Productions.com](http://38plus2productions.com/).
 
+### Cara Peacock
+Univeristy of Toronto Ph.D. student in Political Science
+Nehiyaw and Anishinaabe. Political philosophy and decolonial feminisms.
+
+### James (Jim) Perkinson
+
+Ecumenical Theological Seminary, Theology and Ethics, Faculty Member.
+
+Jim Perkinson is a long-time activist and educator from inner city Detroit, where he has a history of involvement in various community development initiatives and low-income housing projects. He holds a PhD in theology/history of religions from the University of Chicago, is the author of White Theology: Outing Supremacy in Modernity and Shamanism, Racism, and Hip-Hop Culture: Essays on White Supremacy and Black Subversion, and has written extensively in both academic and popular journals on questions of race, class and colonialism in connection with religion and urban culture. He is in demand as a speaker on a wide variety of topics related to his interests and a recognized artist on the spoken-word poetry scene in the inner city. 
+
+Jim is interested in using a broad array of interdisciplinary tools to investigate the way socio-economic position, racial presupposition, and gender perspective already inform our values and orientation to life long before we begin to grapple with questions of identity, ministry or spirituality. He is particularly concerned to understand the way white supremacy, as an effect of colonial Christian practices, continues to be reproduced in mainstream Western cultures. In addition, he explores how the creative forms of cultural resistance developed by marginalized groups can critically challenge Christianity today. These concerns figure in both his academic writing and the performance poetry that he produce as a necessary adjunct to teaching. Becoming at least bi-cultural in communication skills and poly-rhythmic in spiritual practice is fast emerging as a requisite capacity for Christian leadership in a transnational world. And the need for a pedagogy adequate to such a demand is his consuming passion.
+
+### Katie Peters
+​I am an ABD doctoral student in Philosophy at the University of Connecticut, under the supervision of Heather Battaly and Tracy Llanera.
+ 
+My dissertation explores the intersection of extremism and gender—specifically, the role and presence of women in the American far-right. Women’s roles in the far-right have often been dismissed, ignored, or counted as 'feminist' wins despite the regressive content of their beliefs. My dissertation focuses on the ways in which we exculpate these women in discussions of moral responsibility, and proposes an alternative understanding of both backward- and forward-looking moral responsibility based in intersectional feminist theory.
+ 
+Aside from my dissertation, I work on projects in the field of virtue and vice epistemology.
+
+### CK	Raju
+(Honorary Professor) 
+Indian Institute of Education, G. D. Parikh Centre, J. P. Naik Bhavan, University of Mumbai, Kalina Campus,  Santacruz (E), Mumbai 400 098
+
+### Nicholas Robinson
+Elisabeth Haub School of Law at Pace University  
+
+Professor Nicholas A. Robinson has developed environmental law since 1969, when he was named to the Legal Advisory Committee of the President’s Council on Environmental Quality. He has practiced environmental law in law firms for municipalities and as general counsel of the New York State Department of Environmental Conservation. He drafted New York’s wetlands and wild bird laws and was inaugurated as the first chairman of both the statutory Freshwater Wetlands Appeals Board and Greenway Heritage Conservancy for the Hudson River Valley.
+
+Professor Robinson has served as legal advisor and chairman of the Commission on Environmental Law of the International Union for the Conservation of Nature and Natural Resources, engaged in drafting treaties and counseling different countries on the preparation of their environmental laws. He founded Pace’s environmental law programs, edited the proceedings of the 1992 United Nations Earth Summit in Rio de Janeiro, Brazil, and is author of several books and numerous articles. He teaches a number of environmental law courses. He is a member of the editorial boards of the Asia Pacific Journal of Environmental Law (University of Sydney, since 1998), the Macquarie Journal of International and Comparative Environmental Law (since 2004), and the journal of the Global Pandemic Network (since 2021). He is also an advisor of the Pace Environmental Law Review (since 1978), in addition to being on the Editorial Advisory Board, and Consulting Editor, Environmental Law, Oceana Publications (1996-2004).
+
+Professor Robinson served as James D. Hopkins Professor of Law during the 1991–1993 academic years. He established the Doctor of Juridical Sciences (SJD) program at Haub Law, along with the Masters of Laws degree (LLM) in Environmental Law, Feldschuh LL.M. Fellowship, and the JD Certificate in Environmental Law. On March 2009, the Pace University Board of Trustees conferred the position of University Professor for the Environment on Nicholas A. Robinson for his significant contribution to scholarship in the field of environmental law, both in the USA and abroad.
+
 ### Eve Reyes-Aguirre
 
 Eve Reyes-Aguirre, an Izkaloteka Azteca Indigenous woman, has been a community organizer at Tonatierra, An Embassy for Indigenous Peoples, for more than 22 years. In that time, Eve has been at the forefront in advocating for human rights, women's rights, Indigenous Peoples rights and environmental rights on the local, national, and international level. Eve has worked tirelessly to bring awareness to the political, social, economic and environmental challenges affecting Indigenous Peoples globally. She also organizes at the grassroots level regionally and locally to strengthen traditional identity, equality and well-being of Indigenous Women, Indigenous Peoples, and the protection of water and the environment.  Eve has represented her community annually at the United Nations Permanent Forum on Indigenous Issues. Eve has also served the Global Indigenous Women's Caucus as Co-chair and/or Rapporteur since 2009. In April of 2013, Eve was a co-organizer of the 1st International Conference on Dismantling the Doctrine of Discovery held in Phoenix Arizona, with over 430 indigenous participants from all over the globe.
+
+### Sally Roesch Wagner
+[DR. SALLY ROESCH WAGNER](https://Sallyroeschwagner.com). Awarded one of the first doctorates in the country for work in women's studies (UC Santa Cruz) and a founder of one the first college-level women's studies programs in the United States (CSU Sacramento), Dr. Wagner has taught women's studies courses for 51 years. The Founder/Director of the Matilda Joslyn Gage Foundation, she teaches in Syracuse University's Honors Program and California State University, Sacramento's Women and Gender Studies department.
+
+A major historian of the suffrage movement, Dr. Wagner is active on the national scene. She appeared on the CNN Special Report: *Women Represented* and CNN's *Quest's World of Wonder*. She has been quoted in the* New York Times, Washington Post, Smithsonian, Nation *and *Time Magazine, *among others. Her recent articles appeared in the *New York Daily News, Ms. Magazine*, the National Women's History Alliance newsletter and National Suffrage Centennial Commission blog. In March 2021, the Smithsonian Museum of the American Indian featured the film, *Without a Whisper* which traces Dr. Wagner's research demonstrating the Haudenosaunee influence on the suffrage movement through her friendship with Wakerakats:te, the Mohawk Bear Clan Mother. She appeared in and wrote the faculty guide for the Ken Burns' documentary, "Not for Ourselves Alone."
+
+A prolific author, Dr. Wagner's anthology [*The Women's Suffrage Movement*](https://amzn.to/2HUbMcV)*,* with a Forward by Gloria Steinem (Penguin Classics, 2019), unfolds a new intersectional look at the 19th century woman's rights movement.  [*Sisters in Spirit: Haudenosaunee* *(Iroquois) Influence on Early American Feminists*](https://amzn.to/2FA6Qac) (Native Voices, 2001) documents the surprisingly unrecognized authority of Native women, who inspired the suffrage movement. It was followed by her young reader's book, *We Want Equal Rights: How Suffragists Were Influenced by Native American Women* (Native Voices, 2020).
+
+Among her awards, Dr. Wagner was selected as a 2020 New York State Senate Woman of Distinction, one of "21 Leaders for the 21st Century" by Women's E-News in 2015 and she received the Katherine Coffey Award for outstanding service to museology from the Mid-Atlantic Association of Museums in 2012.
+
+### Michelle Schenandoah
+Kaluhyanu:wes “She is Fond of the Sky”
+
+Michelle D. Schenandoah is a traditional member of the Onʌyota’:aka Oneida Nation of the
+Haudenosaunee Confederacy. She was raised on Oneida territories within the traditional teachings
+of the Haudenosaunee Longhouse and a family of traditional leaders. Michelle is a mother of four
+and a new grandmother; she lives in her people’s homelands in Syracuse, NY with her family.
+
+### Christopher Sudol
+Christopher is a 2023 J.D. Candidate and Haub Scholar in the Elisabeth Haub School of Law at Pace University
+
+
+### Andrea Smith
+[Professor of Anthropology, Lafayette College](https://anthrosoc.lafayette.edu/people/1575-2/)
+
+### Franklyn Telles
+Northern Arizona University, Ph.D. Candidate in Earth Sciences and Environmental Sustainability.
+
+Experienced instructor with a demonstrated history of working in the higher education industry. Skilled in Arcgis Products, Lecturing, Instructional Design, Environmental Awareness, Culturally-Relevant Sustaining Education, and languages: Russian and Spanish. A strong education professional graduated from the University of California, Los Angeles, California State University, Northridge, and the Richard Gilder Graduate School (American Museum of Natural History).
 
 ### Eglute Trinkauskaite
 
 Eglute Trinkauskaite is a full time faculty in Humanistic Studies department at Maryland Institute College of Art.  
 
 She holds her PhD, MPhil, and MA in Religion from Syracuse University and her BA in Religion from Hunter College, City University of New York. Her teaching and research interests focus on indigenous and ethnic traditions, the natural environment, and globalization. Her latest writing explores complex layers of culture and religion in post-Soviet Lithuania. Her current book project, The Swarming Dead, focuses on the continued vitality of indigenous religion and its imprint on modern Lithuania and its diaspora. Eglute has taught at Syracuse University, Hamilton College, and Nazareth College of Rochester, New York. She is an active member of American Academy of Religion and Association for the Advancement of Baltic Studies.
-
-
-
 
 ### Kenneth H. Lokensgard
 
@@ -180,3 +272,10 @@ Dr. Kenneth H. Lokensgard is the Assistant Director for the [Center for Native 
 
 Hello, I am Terry Reeder PhD. I am an anti-racist feminist who has taught Religious Studies and Ethics at multiple colleges including Syracuse University, Nazareth College, St. John Fisher, the College of St. Rose and LeMoyne College. I am currently a Visiting Assistant Professor at the College of Wooster in Ohio. As a Catholic high school Religion teacher I became increasingly unable to live with the social justice violations that I was complicit with as a Catholic educator. This includes the Doctrine of Discovery. The year that I became a grandmother I began a doctoral program in Religion at Syracuse University. At SU I  studied the ethics of Christianity and ways to deconstruct and dismantle religious colonialism and sexism in order to  build a more just world. For me the most important way to grow in justice  is to learn from Indigenous teachers. I try to balance my scholarship with activism, and to continually decolonize myself, my pedagogy, and my religion.  It is an honor to be at this conference learning from and with these esteemed teachers and other participants.
 
+### Sara Jolena	Wolcott
+Sequoia Samanvaya
+Descendent of some of Founding Fathers of the United States of America, Sara Jolena Wolcott, M.Div, is now building people's capacity to collectively reMember our ecological familial, national and global origin stories to enable more harmonious futures. An ecotheologian and unconventional minister, she is the founder of Sequoia Samanvaya, a healer, a ceremonialist, and a Legacy Advisor with Innovation 4.4.  She is primarily interested in the work of ReMembering and ReEnchanting our world. She is known for her laughter and the (sometimes wild) power of her presence.
+
+Born and raised on the historical Ohlone lands in the California Bay Area into a Quaker family, her quest to understand how we might navigate through the current social and ecological crises took her on a global odyssey.  Her wide and wild range of experience, all of which brings depth to her ministry, includes : co-leading the 33-country multi-disciplinary ReImagining Development Program at the Institute of Development Studies (IDS), consulting for the World Bank, living as a traveling singer in India, serving as a community minister at Judson Memorial Church in New York City, working as a prison chaplain on Rikers Island Correctional Facility in NYC and working as a Fellow in Spirituality and Climate Change at the Institute of the Advancement of Science and Society in Germany. She also has nearly 20 years of experience as a healer and ceremonialist. 
+
+Her formal education includes a CMT from the McKinnon Institute of Massage Therapy in Oakland, CA; a BA from Haverford College in Anthropology, an MA in international development from the Institute of Development Studies at the University of Sussex, UK;  and a Masters of Divinity (M.Div.) at Union Theological Seminary. Her international speaking engagements have brought her to 10 countries and she has spoken in over 16 U.S. states. She currently lives on the historical homeland of the Mohigan/Mahican people in the Hudson Valley. She enjoys painting dragons, sitting around fires, and moonlit walks.
