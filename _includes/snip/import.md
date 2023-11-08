@@ -250,7 +250,7 @@
 ### [Panel B107](#B107)
 
 #### [Land Panel I: Devestated Landscapes and Eco-Justice](#B107)
-- *Sara	Shute, Indigenous Values Initiative, Chair*
+- *Terry Reeder, Syracuse University, Chair*
 - Luke Henkel,Laudato Si Movement, "Chi’chil Bildagoteel, the Doctrine of Discovery, and Religious Freedom: Unprecedented Challenges and Opportunities"
 - Renée Barry and Danielle Nagle, The Matilda Joslyn Gage Center and Erie Canal Museum Fellowship, "On "Deconstruction" of the Erie Canal"
 - Franklyn Telles, Northern Arizona University, "Columbine Lake Discovers Dust caused by Colonization"
@@ -262,7 +262,7 @@
 ### [Panel B110](#B110)
 
 #### [International Dimensions of the Doctrine of Discovery Panel II](#B110)
-- *Terry Reeder, Syracuse University, Chair*
+- *Sara	Shute, Indigenous Values Initiative, Chair*
 - S. Lily Mendoza, Oakland University, "An Unholy Wedding: Christianity, Civilizational Supremacy and the In/visibility of “Race” in Post-colonial Philippines"
 - Eglute Trinkauskaite, Maryland Institute College of Art, "Christian Nationalism in the Lithuanian context"
 - Telma Alencar, York University, "Silencing the Doctrine of Discovery in Brazil"
@@ -363,11 +363,11 @@
 ### [Panel C105](#C105)
 
 #### [Pupils in the professed Lands: Confronting White Supremacy Across the Disciplines](#C105)
-- *Michael Chaness, SUNY OSWEGO, Chair*
-- Dr. Roberta Hurtado (English)
-- Dr. Celinet Duran-Jimenez (Criminal Justice), 
-- Dr. Ritu Radhakrishnan (Education), 
-- Mr. Terrian Garvis (Triandiflou Institute)
+- *Michael Chaness, SUNY Oswego, Chair*
+- Roberta Hurtado, SUNY Oswego (English)
+- Celinet Duran-Jimenez, SUNY Oswego  (Criminal Justice), 
+- Ritu Radhakrishnan, SUNY Oswego (Education), 
+- Terrian Garvis (Triandiflou Institute)
 
 <span id="cc106"></span>
 ### [Panel C106](#C106)

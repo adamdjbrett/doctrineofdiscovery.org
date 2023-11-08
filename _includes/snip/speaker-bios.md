@@ -11,18 +11,31 @@ Telma's research focuses on identifying the intersections of the Doctrine of Dis
 
 Telma's research draws on neocolonialism studies as a theoretical framework, also focusing on intersections between Christianity and Global Capitalism, aiming at shedding light on the Doctrine of Discovery's effects and legacy related to the Global South, specifically to Brazilian Indigenous communities.
 
+### Chief Gerald Antoine
+Dene National Chief/AFN NWT Regional Chief 
+
 ### Philip P. Arnold
 
 [Dr. Philip P. Arnold](https://indigenousvalues.org/about/our-team/), Associate Professor in the Department of Religion at Syracuse University. Associate Professor and Chair of Religion Department at Syracuse University as well as core faculty in Native American and Indigenous Studies.  He is the Founding Director of the Skä-noñh---the Great Law of Peace Center (www.skanonhcenter.org).  His books are *Eating Landscape: Aztec and European Occupation of Tlalocan* (1999); *Sacred Landscapes and Cultural Politics: Planting a Tree* (2001); *The Gift of Sports: Indigenous Ceremonial Dimensions of the Games We Love* (2012) and *Urgency of Indigenous Values and the Future of Religion* (University of New Mexico Press, forthcoming).  He is a founding member of Neighbors of the Onondaga Nation (NOON), ([www.peacecouncil.net/NOON/](https://www.peacecouncil.net/NOON/)) and established the Doctrine of Discovery Study Group ([www.doctrineofdiscovery.org](https://www.doctrineofdiscovery.org)) He is President of the Indigenous Values Initiative ([www.indigenousvalues.org](https://www.indigenousvalues.org)), a non-profit organization to support the educational work of the Skä-noñh---Great Law of Peace Center.
 
-### Renée Barry	
+### Sarah Augustine
+Sarah Augustine, who is a Pueblo (Tewa) descendant, is co- founder and Executive Director of the Coalition to Dismantle the Doctrine of Discovery. She is also the co-founder of [Suriname Indigenous Health Fund](http://www.sihfund.org/) (SIHF), where she has worked in relationship with vulnerable Indigenous Peoples since 2005. She has represented the interests of Indigenous community partners to their own governments, the Inter-American development bank, the United Nations, the Organization of American States Inter-American Commission on Human Rights, the World Health Organization, and a host of other international actors including corporate interests. She is a columnist for Anabaptist World, and co-hosts the [Dismantling the Doctrine of Discovery podcast](https://anabaptistworld.org/podcast-latest/dismantling-the-doctrine-of-discovery-podcast/page/2/) with Sheri Hostetler. She has taught at Heritage University, Central Washington University, and Goshen College. In Washington State, where she lives, she serves in a leadership role on multiple boards and commissions to enable vulnerable peoples to speak for themselves in advocating for structural change. She and her husband, Dan Peplow, and their son live in the Yakima Valley of Washington. She is author of the book "The Land Is Not Empty: Following Jesus in Dismantling the Doctrine of Discovery" (Herald Press 2021).
+
+### Renée Barry 
 with the Matilda Joslyn Gage Center, Erie Canal Museum fellowship 
+
+### Jonel Beauvais
+Kanien’keha:ka (Mohawk), Wolf Clan  
 
 ### Sandy Bigtree
 
 [Sandy Bigtree](https://indigenousvalues.org/about/our-team/), (*Mohawk Nation*), Founding Board Member of the Indigenous Values Initiative. www.indigenousvalues.org With Philip Arnold, organized the: "Roots of Peacemaking" educational festivals at Onondaga Lake (2006-2007); the "Doctrine of Discovery Conference" in 2014; Co-edited the Neighbors of the Onondaga Nation (NOON) educational booklet. She was an original Planning Committee member of Skä-noñh---the Great Law of Peace Center and currently sits on the Educational Collaborative committee. 1984-85, she was the Administrative Assistant to the American Indian Law Support Center at NARF in Boulder, CO, where she learned the stark difference between Indigenous Nationhood, "Federal Indian Law." In 1980-82 performed with Native Americans in the Arts theatre troupe (an affiliate of the American Indian Community House) at LaMama, NYC, and toured the NE. From age 1-30, Sandy performed weekly on radio, TV with her sisters, and fronted her own band through the 1970s.
 
-### Colin Bossen	
+
+### Danielle Boaz
+Danielle N. Boaz is an Associate Professor of Africana Studies at the University of North Carolina at Charlotte, where she offers courses on human rights, social justice, and the law. She has a Ph.D. in history with a specialization in Africa and the African Diaspora; a J.D. with a concentration in International Law; and a LL.M. in Intercultural Human Rights. She is Co-Editor-in-Chief of the Journal of Africana Religions. Boaz's research focuses on the intersection of racism and religious intolerance, with an emphasis on discrimination and violence against devotees of African diaspora religions.
+
+### Colin Bossen 
 
 An award winning preacher, scholar and social justice organizer, I serve as the senior minister of the [First Unitarian Universalist Church, Houston, Texas](http://www.firstchurchnow.org/). From February 2022 to January 2023, I was a Community Stories Fellow with the [Crossroads Project](https://crossroads.princeton.edu/people/colin-bossen), affiliated with Princeton University's Center for Culture, Society, and Religion. Prior to that, from 2018 to 2020, I was an African American Religious Studies Forum Affiliate with Rice University's [Center for Engaged Research and Collaborative Learning](https://www.cercl.rice.edu/aarsf). My MDiv. is from Meadville Lombard Theological School. I have a PhD in [American Studies](http://americanstudies.fas.harvard.edu/) and an AM in History from Harvard University where I wrote a dissertation on the relationship between theology and populism. [Dan McKanan](https://hds.harvard.edu/people/dan-mckanan) and [Mayra Rivera Rivera](https://hds.harvard.edu/people/mayra-rivera-rivera) were my advisors, [Lisa McGirr](https://history.fas.harvard.edu/people/lisa-mcgirr) was my third reader, and [Sylvester Johnson](https://liberalarts.vt.edu/departments-and-schools/department-of-religion-and-culture/faculty/sylvester-johnson.html) served as my outside reader. I completed my undergraduate studies at Denison University.
 
@@ -38,15 +51,55 @@ A popular educator and community organizer, Sarah focuses on building movement p
 
 [Adam DJ Brett](https://adamdjbrett.com) earned his Ph.D. in religion from Syracuse University July 2022. His area of specialization is the religion, media and culture with attention to mass media and the diffuse influence of U.S. Protestant Fundamentalism on media, culture, business, and politics during the early 20th century. He is also interested in the efforts of Indigenous nations and peoples to oppose the Doctrine of Discovery. Both projects allow him to anchor his work within the sub-disciplines of critical theories of religion and American religious history with careful attention to discourses of identity and power. He has worked for the [American Indian Law Alliance (aila.ngo)](https://aila.ngo/) since 2016. As a student of religion, he is interested in the impact of the [Doctrine of Discovery](https://doctrineofdiscovery.org), religious freedom, and how religion gets understood through law. Additionally, he is the grant & event coordinator for the Doctrine of Discovery Project with Professor Philip P. Arnold who is the Principal Investigator. The project is funded in part by the Henry Luce Grant "200 Years of Johnson v. McIntosh." 
 
+### Anthea Butler
+Anthea Butler is Geraldine R. Segal Professor in American Social Thought, and chair of the department of Religious Studies at the University of Pennsylvania. A historian of African American and American religion, Professor Butler's research and writing spans African American religion and history, race, politics, Evangelicalism, gender and sexuality, media, and popular culture. You can find more of her writing and public engagement at [Antheabutler.com](https://antheabutler.com/)
+
+Professor Butler courses include Religion from Civil Rights to Black lives Matter, Religion in the African Diaspora, God and Money, Religion and American Politics, and Ritual and Practice in Religious Studies. She is a member of the graduate group in the History department at Penn. 
+
+Butler's recent book is [White Evangelical Racism: The Politics of Morality in America](https://uncpress.org/book/9781469661179/white-evangelical-racism/).  Her first book is* [Women in the Church of God in Christ: Making A Sanctified World](https://uncpress.org/book/9780807858080/women-in-the-church-of-god-in-christ/), *Both are published by Ferris and Ferris/UNC Press. Her next book project in progress is Reading Race: How Publishing created a lifeline for Black Baptists in Post Reconstruction America.
+
+[Podcast interview with Dr. Butler](https://podcast.doctrineofdiscovery.org/season3/episode-02/)
+
 ### Mary Burke
 Professor of English at University of Connecticut and UConn Irish Literature Concentration Coordinator. Work has placed with NPR, the *Irish Times*, RTÉ, and Faber. Former U of Notre Dame Irish Institute NEH Fellow, MLA Irish Literature Committee chair, and a 2022 Trinity College Dublin LHR Fellow. Graduate of TCD and Queen's University Belfast.
 [Faculty Profile](https://english.uconn.edu/person/mary-burke/)
+
+### Maeve Callan
+
+Maeve Callan is the Simpson College Department Chair of Religion, Co-Director of the Interfaith Fellows Program and Professor of Religion.
+
+I am the historian in our department, as well as the main “World Religions” professor. My first book, The Templars, the Witch, and the Wild Irish (2015), published by Cornell University Press and Four Courts Press, explores Ireland’s handful of heresy trials, their role in the colonization of the island by the English, and their relationship to heresy and witchcraft prosecution in Britain and on the Continent. My second, Sacred Sisters (2020), focuses on gender, sanctity, and power in medieval Ireland, and is the first book in Amsterdam University Press’s new “Hagiography Beyond Tradition” series. My current project examines the intersections between religion, ethnic identity, and racism in the British Isles between 1000 and 1500. With Rev. Mara Bailey, I co-direct Simpson’s Interfaith Fellows Program, which helps cultivate greater understanding and constructive engagement with religious diversity as it helps students develop leadership skills and abilities.
+
+### Davíd Carrasco
+Davíd Carrasco (Neil L. Rudenstine Professor of the Study of Latin America) is a Mexican American historian of religions with particular interest in Mesoamerican cities as symbols, and the Mexican-American borderlands. His studies with historians of religions at the University of Chicago inspired him to work on the question, "where is your sacred place," on the challenges of postcolonial ethnography and theory, and on the practices and symbolic nature of ritual violence in comparative perspective. Working with Mexican archaeologists, he has carried out research in the excavations and archives associated with the sites of Teotihuacan and Mexico-Tenochtitlan resulting in *Religions of Mesoamerica*, *City of Sacrifice*, and *Quetzalcoatl and the Irony of Empire. *An award-winning teacher, he has participated in spirited debates at Harvard with Cornel West and Samuel Huntington on the topics of race, culture, and religion in the Americas. He also directs the [Moses Mesoamerican Archive and Research Project](https://mmarp.fas.harvard.edu/en) at Harvard University.
+
+Recent collaborative publications include *Breaking Through Mexico's Past: Digging the Aztecs With Eduardo Matos Moctezuma* (2007), *Mysteries of the Maya Calendar Museum *(2012) with Laanna Carrasco, and *Cave, City, and Eagle's Nest: An Interpretive Journey Through the Mapa de Cuauhtinchan No. 2* (2007; gold winner of the 2008 PubWest Book Design Award in the academic book/nontrade category) recently featured in *The New York Review of Books*.
+
+His work has included a special emphasis on the religious dimensions of Latino experience: *mestizaje*, the myth of Aztlan, transculturation, and La Virgen de Guadalupe. He is co-producer of the film *Alambrista: The Director's Cut*, which puts a human face on the life and struggles of undocumented Mexican farm workers in the United States, and he edited *Alambrista and the U.S.-Mexico Border: Film, Music, and Stories of Undocumented Immigrants* (University of New Mexico Press). He is editor-in-chief of the award-winning three-volume *Oxford Encyclopedia of Mesoamerican Cultures*. His most recent publication is a new abridgement of Bernal Díaz del Castillo's memoir of the conquest of Mexico, *History of the Conquest of New Spain* (University of New Mexico Press).
+
+Carrasco has received the Mexican Order of the Aztec Eagle, the highest honor the Mexican government gives to a foreign national. He was chosen as the University of Chicago Alumnus of the Year in 2014.
+
+[Podcast interview with Dr. Carrasco](https://podcast.doctrineofdiscovery.org/season1/episode-03/)
+
+### Fatima Celik 
+Syracuse University
+
+### Gustavo Melo Cerqueira
+Gustavo Melo Cerqueira, Babalorixá of Ilê Axé Omi Ogun siwajú, Vice Preisdent of the International Commission to Combat Religious Racism. He is a babalorixá of Ilê Axé Omi, an actor, and a performer. He holds a PhD in African and African diaspora studies.
 
 ### Michael E. Chaness
 
 Dr. Michael E. Chaness -- I am currently a visiting assistant professor at SUNY-Oswego where I teach courses in Anthropology and Native American Studies. Previous to that appointment I earned my Ph.D. in the department of religion at Syracuse University under the tutelage of Dr. Philip Arnold. It was while living in Syracuse that I began to collaborate with onkwehonwe peoples. Throughout my graduate studies I worked simultaneously at the Onondaga Nation School and the relationships I cultivated at ONS lead directly to many years of (ongoing) informal fieldwork. My scholarship explores the intersections between Jewish American and Native American identity creation through the prisms of blood and land, philosophy and theology, gender and genocide, religion and ritual. I see this conference as an opportunity to focus attention on the insidiousness of the doctrine of Christian discovery so that we may uproot, expose, and begin to dismantle the legacies of white supremacy that have become entrenched throughout America's religious, legal, and political institutions. May this process, as our Haudenosaunee friends say, bring our minds together as one.
 
-### Kenneth	Chestek	
+### João Chaves	
+João B. Chaves joined the Department of Religion at Baylor University in the fall semester of 2023. His research focuses on the history of religion in the Américas, the influence of U.S. Protestantism in Latin America, and the development of Latin American/Latinx religious networks in the United States. Dr. Chaves is an award-winning author whose books include *Migrational Religion: Context and Creativity in the Latinx Diaspora* (Baylor University Press, 2021), *The Global Mission of the Jim Crow South: Southern Baptist Missionaries and the Shaping of Latin American Evangelicalism* (Mercer University Press, 2022), and *Remembering Antônia Teixeira: A Story of Missions, Violence, and Institutional Hypocrisy* (Eerdmans, 2023), co-authored with Dr. Mikeal Parsons. Dr. Chaves also co-edited a book with Dr. T. Laine Scales, titled *Baptists and the Kingdom of God: Global Perspectives* (Baylor University Press, 2023). His peer-review articles appear in several academic journals, such as The International Journal of Latin American Religions, The Journal of Reformed Theology, Political Theology, Review and Expositor, Perspectives in Religious Studies, and Baptist History and Heritage.
+
+Additionally, Dr. Chaves has written opinion pieces about the history of Christianity in Latin America for periodicals and magazines, including the Washington Post and The Christian Century. He serves on the editorial boards of Perspectives in Religious Studies, the HTI Book Series on Religion and Theology En Conjunto (Baylor University Press), and the Perspectives on Baptist Identities manuscript series (Mercer University Press), for which he serves as coeditor. He is also part of a research team working with award-winning filmmakers on a forthcoming documentary exploring the connections between Christian Nationalisms in Brazil and the United States.
+
+Dr. Chaves came to Baylor after holding simultaneous positions as an Associate Director at the Hispanic Theological Initiative at Princeton Theological Seminary (HTI) and an Assistant Professor at Austin Presbyterian Theological Seminary. In his role at HTI, Dr. Chaves helped write several grants, being part of the team who raised over $7.4 million in grants and gifts.
+
+
+### Kenneth Chestek 
 [Kenneth D. Chestek](https://www.uwyo.edu/law/directory/ken-chestek.html) joined the University of Wyoming College of Law faculty in the summer of 2012. He graduated cum laude from University of Pittsburgh School of Law where he was Editor in Chief of the Law Review. He practiced law for 21 years in Pennsylvania in a variety of settings, from solo practice to managing attorney for a branch office of a large law firm. While in practice, he also served for 18 years as Chief Civil Counsel to Erie County, Pennsylvania.
 
 From 2010 to 2012 he served as President of the Legal Writing Institute (LWI), an organization of more than 2700 legal writing professionals in the United States and around the world. Previously, he served as a member of the Board of Directors and Treasurer of LWI. From 2005-2008 he co-chaired the ALWD/LWI Annual Survey Committee, and from 2004-2008 he served as a member of the Editorial Board of Legal Writing: The Journal of the Legal Writing Institute, a peer-reviewed academic journal.
@@ -55,16 +108,43 @@ He has published and given lectures on a wide variety of subjects, including met
 
 Professor Chestek is one of three co-authors of a textbook for first-year courses in legal persuasion. All three authors are former Presidents of LWI. The second edition of the book, *Your Client's Story: Persuasive Legal Writing*, was published by Aspen in 2018.
 
-### Xavier Fitzsimmons Cruz	
+### Elisha Chi
+Ph.D. Candidate at Villanova University	
+My research sits at the intersection of Indigenous Studies, Ethics, and Theology and Religious studies, with a focus on anticolonial critique and decolonial return of Indigenous land. I love teaching, and have enjoyed dipping my toes into the fascinating world of digital scholarship for the humanities. I'm also grateful for my experience as a community mediator - specifically the social-emotional skills inherent in that work - which has helped me to successfully navigate conflicts between students in my classroom, as well as parse underlying assumptions and concerns that arise as questions during research presentations - all of which provides a better learning environment for everyone in the room.
+
+
+### Sean Cunningham
+The National Archives UK, Advice and Records Knowledge, Head of Medieval Records
+
+[Sean](https://nationalarchives.academia.edu/SeanCunningham) has broad experience of 15th- and early 16th-century government history, records and research methodologies. He is especially interested in the interconnecting processes of government and how they functioned through representative agencies, officials and individuals in the period 1399–1558. His research has investigated aspects of political, military, legal, and financial history and records in that period. He is one of the leading historians on the reign of Henry VII (1485–1509), and has published and lectured widely on many aspects of this reign and the key figures who helped to establish Tudor power in England and Wales before the Reformation.
+
+Sean is a Fellow of the Royal Historical Society and a member of the council of the Selden Society. As joint organiser and convenor of the Late Medieval Seminar at the Institute of Historical Research, Sean has strong links to medieval research communities across UK, Europe, North America and Australasia.
+
+Sean is currently exploring the nature of Tudor kingship and how it was projected, received, resisted and adapted between 1485 and 1530. Resulting from the Tudor Chamber Books project, Sean is currently co-authoring a major study, with Dr James Ross from Winchester University, for Oxford University Press.
+
+### Peter d'Errico
+Professor d'Errico retired from the University in August, 2002. A central figure in the development of the Legal Studies Department here at UMass, his research and teaching were focused on the legal issues of Native Americans and indigenous peoples. He has also been active in litigation of indigenous peoples' issues. He is the author of *Federal Anti-Indian Law*.
+
+Professor d'Errico continues to engage in law-related writing and consulting, primarily on issues of concern to indigenous peoples. He is especially involved with Mashpee Wampanoag and Western Shoshone issues, as well as the work of the [United Nations Permanent Forum on Indigenous Issues](http://www.un.org/esa/socdev/unpfii/). He is an occasional columnist for[ Indian Country Today](http://www.indiancountrytoday.com/) and book reviewer. He is also an elected member of the Leverett, MA, Select Board, the local governing body.   Peter also regularly posts academic information book reviews and much more at his Academia.edu page. 
+
+For more information, check his [website](https://www.umass.edu/legal/derrico/) and [NativeWeb](http://www.nativeweb.org/) (resources for indigenous peoples worldwide).
+
+
+[Podcast inteview with Peter d'Errico about his book.](https://podcast.doctrineofdiscovery.org/season2/episode-03/)
+
+### Charlene Desir	
+Dr. Charlene Désir is a professor at Nova Southeastern University’s Abraham S. Fischler College of Education and School of Criminal Justice. She received her doctorate from the Harvard Graduate School of Education. Dr. Désir’s academic interest is in the social, psychological, and spiritual adjustment of immigrants, specifically psycho-social trauma, and how psychosocial issues affect social, cognitive, identity, and spiritual development. Dr. Désir has presented various papers on the topic of immigrants and their adjustment to the US. She has also published on the topic of immigrant identity, spirituality, and becoming a reflective researcher. Dr. Désir founded the Empowerment Network (TEN), Global, a non-profit that supports the personal, spiritual, and academic development of women and students in Haiti and the US. She is a member of the Zeta Phi Beta Sorority, Inc. and the vice president of Kosanba, an academic association on the study of  PanAfrican Religions. She was the 2012 president of the Haitian Studies Association and a gubernatorial appointee to the Children’s Services Council in Broward County, FL. Dr. Désir has worked as a school psychologist, K-12 school counselor, school administrator, academic advisor, and professor.  
+
+### Jake Edwards
+
+Jake Edwards (Onondaga Eel Clan) lives on the Onondaga Nation.  He maintains the continuity of our longhouse oral teachings. He was appointed by the Grand Council of Chiefs (Six Nations Iroquois Confederacy) to the Haudenosaunee External Relations Committee to respectfully work on political and governmental structures beyond the borders of Haudenosaunee Country.  Jake is a board member of the Seventh Generation Fund for Indigenous Peoples and a board member of the Indigenous Values Initiative, he is instrumental in preserving cultures and traditions of indigenous peoples. Jake was one of the primary voices leading the 400th anniversary (1613 -- 2013) of the Two Row Wampum Campaign, paddling the waterways from the Onondaga Nation to the United Nations in NYC. He actively reminds people of the significance of our treaties and reflects upon decisions that will protect the people into the seventh generation. Jake explains how wampum laid the foundational principles and structure of the United States Constitution.
+
+### Xavier Fitzsimmons Cruz 
 MFA Candidate, New York University
 BA, SUNY Albany, History and English
 
 ### Wendy Felese
 Assistant Professor, Native American Studies, Montana State University Billings
-
-### Jake Edwards
-
-Jake Edwards (Onondaga Eel Clan) lives on the Onondaga Nation.  He maintains the continuity of our longhouse oral teachings. He was appointed by the Grand Council of Chiefs (Six Nations Iroquois Confederacy) to the Haudenosaunee External Relations Committee to respectfully work on political and governmental structures beyond the borders of Haudenosaunee Country.  Jake is a board member of the Seventh Generation Fund for Indigenous Peoples and a board member of the Indigenous Values Initiative, he is instrumental in preserving cultures and traditions of indigenous peoples. Jake was one of the primary voices leading the 400th anniversary (1613 -- 2013) of the Two Row Wampum Campaign, paddling the waterways from the Onondaga Nation to the United Nations in NYC. He actively reminds people of the significance of our treaties and reflects upon decisions that will protect the people into the seventh generation. Jake explains how wampum laid the foundational principles and structure of the United States Constitution.
 
 ### Cristofer Fernández, OFM Conv.
 [Cristofer](https://www.linkedin.com/in/cristofer-m-fern%C3%A1ndez-ofm-conv-7733a2105/) holds a B.S. in Environmental & Conservation Biology from George Mason University and a M.A. in Theology, Religion, and Culture Studies from the Catholic University of America. He is in his final year of initial formation as a student-friar with the Conventual Franciscans (OFM Conv.), a religious order of the Catholic church. In his religious formation, Brother Cristofer is exploring the intersections between ethics, faith and science; religion, ecology and culture; the institutional church, social action and spirituality. He hopes to pursue a graduate degree in applied integrative ecology in the near future.
@@ -78,7 +158,8 @@ His current project is an analysis of the underground Christian music scenes of 
 
 Joel also holds a BA in English Education from California State University, Long Beach, an MA in English from the University of Northern Colorado, an MA in Theology from Fuller Theological Seminary, and an MA in Religious Studies from Northwestern. Areas of specialization: 19th and early 20th century German philosophy, social and critical theory, ecclesiology, theology of culture.
 
-### Joe Heath
+### Joseph J. Heath
+Onondaga Nation General Counsel
 
 Joe Heath has a long background and extensive experience in civil rights litigation as one of the four lawyers representing a class action against New York State for the 1971 Attica prison assault and brutality, resulting in a $12 million settlement in 2000.  In his 45 years of practice, Joe has also worked in criminal defense; constitutional law and protection of free speech and assembly; protection of abused and neglected children; and fighting domestic AND POLICE violence; and he also an active member of Veterans for Peace.
 
@@ -92,15 +173,18 @@ He also took spend two weeks at Standing Rock in the fall of 2016, where he assi
 
 His third law review article is an important work exposing the doctrine and is available at: [Albany Government Law Review](http://www.albanygovernmentlawreview.org/archives/pages/article-information.aspx?volume=10&issue=1&page=112). Joe is also a decades long member of Veterans for Peace.
 
-### Luke Henkel	
+### Luke Henkel 
 Luke Henkel is an activist, a seeker, a healer, and a writer, among many other things. A recent MS graduate in Climate Justice, his focus has been on Indigenous spirituality and the healing that comes with institutionally dismantling the Doctrine of Discovery. He currently works with Laudato Si Movement as national programs coordinator.
 
-### Jeannine Hill Fletcher	
+### Jeannine Hill Fletcher 
 [Prof. Jeannine Hill Fletcher](https://www.fordham.edu/academics/departments/theology/faculty/jeannine-hill-fletcher/) grew up in a suburb of Chicago and attended the University of Illinois as an undergraduate, majoring in English. After a year with the Jesuit Volunteer Corps, she attended Harvard Divinity School, earning her MTS in 1996 and ThD in 2001. She joined the Fordham faculty in 2001.
 
 Prof. Hill Fletcher teaches at the intersection of Systematic Theology and issues of diversity (religious diversity, Christian cultural diversity, race and gender). Her research and teaching explore the role of theological thinking in shaping public discourse, including both activism and legislation. Prof. Hill Fletcher is a board member of the Northwest Bronx Community and Clergy Coalition, a multi-generational, multi-religious and multi-racial grassroots organization working for social change.
 
 She is the author of *The Sin of White Supremacy: Christianity, Racism and Religious Diversity in America*  (Maryknoll, N.Y.: Orbis, 2017). Honorable mention in category of 'Faithful Citizenship' Catholic Press Association Awards, 2018.
+
+### Louise Wakerakats:se Herne
+Kanien’keha:ka (Mohawk), Bear Clan Mother		
 
 ### Tadodaho Sidney (Sid) Hill
 
@@ -117,6 +201,24 @@ Tadodaho Sidney (Sid) Hill, *Onondaga Nation*, Haudenosaunee Confederacy. Born 
 
 Beverley Jacobs, CM, LLB, LLM, PhD is a member of the Bear Clan, Mohawk Nation of the Haudenosaunee Confederacy. She is Associate Dean (Academic) at the Faculty of Law, University of Windsor and she practices law part-time at her home community of Six Nations of the Grand River Territory. Beverley has obtained a Bachelor of Law Degree from the University of Windsor in 1994, a Master of Law Degree from the University of Saskatchewan in 2000 and a PhD from the University of Calgary in 2018. Beverley is also a consultant/researcher/writer/public speaker. Her work centres around ending gendered colonial violence against Indigenous people and restoring Indigenous laws, beliefs, values, and traditions.
 
+### Paula Johnson
+Paula C. Johnson is a professor of law at Syracuse University College of Law and newly appointed to the Franklin H. Williams Judicial Commission. This commission advises and educates decision makers in the New York Court System on issues surrounding litigants and employees of color, implementing recommendations in addressing these issues to ensure equitable justice in New York State. She earned her B.A. from the University of Maryland, College Park; J.D. from Temple University School of Law; and her LL.M. from Georgetown University Law Center. Professor Johnson and Professor Janis McDonald (emerita), co-founded and direct the Cold Case Justice Initiative (CCJI) at Syracuse University College of Law, which investigates racially-motivated murders committed during the civil rights era and in contemporary times. Professor Johnson has held several distinguished teaching posts, including the Haywood Burns Chair in Civil Rights at CUNY Law School (2005-2006), the Sparks Chair at the University of Alabama School of Law (2008), and the Syracuse University College of Law Bond, Schoeneck and King Distinguished Professorship (2004-2006). She also has taught at law schools at the University of Arizona, University of Baltimore, and Northern Illinois University.
+
+### Marina Johnson-Zafiris
+Marina Johnson-Zafiris (Mohawk, Wolf Clan) is second year PhD Student at Cornell University in Information Science, with a minor in American Indian and Indigenous studies. Her research focuses on computational community science and technological interventions for industrial accountability and socio-environmental justice in Haudenosaunee Territory.
+
+### Hinemoa	Jones
+Hinemoa Jones descends from the wellspring of memories of all her mothers and fathers before her. She is of Māori (Te Arawa, Tainui) and Pākehā descent. She is a writer, an educator, and a facilitator of Māori language and of the traditions of the whare tapere — specifically, Māori games, raranga, and karetao Māori (the Māori puppet). Hinemoa has performed extensively in Aotearoa and internationally with karetao Māori and is excited about the revival of this taonga. Hinemoa lives and works in Coromandel and draws inspiration for her writing from all her whānau unfoldings.
+
+### Robert P. Jones
+Robert P. Jones is the president and founder of Public Religion Research Institute (PRRI). He is the author of the New York Times bestseller [*The Hidden Roots of White Supremacy and the Path to a Shared American Future*](https://www.amazon.com/Hidden-Roots-White-Supremacy-American/dp/166800951X/) (published September 5, 2023), as well as [*White Too Long: The Legacy of White Supremacy in American Christianity*](https://smile.amazon.com/White-Too-Long-Supremacy-Christianity/dp/1982122870/), which won a 2021 American Book Award. He is also the author of [*The End of White Christian America*](http://smile.amazon.com/End-White-Christian-America/dp/1501122290/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1452200902&sr=8-1), which won the 2019 Grawemeyer Award in Religion.
+
+Jones writes regularly on politics, culture, and religion for *The Atlantic*, TIME, Religion News Service, and other outlets. He is frequently featured in major national media, such as CNN, MSNBC, NPR, *The New York Times, The Washington Post,* and others. Jones writes a weekly newsletter for those dedicated to the work of truth-telling, repair, and healing from the legacy of white supremacy in American Christianity at [www.whitetoolong.net](https://www.whitetoolong.net/).
+
+He holds a Ph.D. in religion from Emory University, an M.Div. from Southwestern Baptist Theological Seminary, and a B.S. in computing science and mathematics from Mississippi College. Jones was selected by Emory University's Graduate Division of Religion as Distinguished Alumnus of the Year in 2013, and by Mississippi College's Mathematics Department as Alumnus of the Year in 2016. Jones serves on the national program committee for the [American Academy of Religion](https://www.aarweb.org/node/104) and is a past member of the editorial boards for the *Journal of the American Academy of Religion*, and *Politics and Religion*, a journal of the American Political Science Association.
+
+Jones served as CEO of PRRI from the organization's inception in 2009 to 2022.  Before founding PRRI, he worked as a consultant and senior research fellow at several think tanks in Washington, D.C., and was an assistant professor of religious studies at Missouri State University.
+
 ### Lars Kirkhusmo Pharo
 
 Professor of Religion and Ethics, Nord University
@@ -125,9 +227,16 @@ Professor of Religion and Ethics, Nord University
 
 Université de Liège
 
+### Pāpā Mark Kopua
+
+### Diana Kopua
+
 ### Randy Kritkausky 
 
 Randy Kritkausky is an enrolled tribal member of the Citizen Potawatomi Nation. He is a founder of ECOLOGIA, an international environmental organization that works on the planet’s more extreme challenges, and formerly professor at Keystone College, research scholar at Middlebury College, and Erasmus Mundus Scholar at the Central European University in Budapest and Lund University in Sweden. He lives in Vermont. 
+
+### Shrutika Lakshmi
+I'm a graduate student in the Syracuse University Department of Religion. I'm interested in the study of women in diaspora in South Asia.
 
 ### Jordan Loewen-Colon
 [Dr. Jordan Loewen-Colón](https://www.jordanbradyloewen.com/) is the AI, Ethics, and Data Justice Fellow at Queen's University's School of Computing. His expertise is in philosophy and experiential design, where he researches and consults for new reality media projects (Video Games, Artificial Intelligence, and Virtual Reality), involving mysticism, altered states, and psychedelics.
@@ -139,6 +248,10 @@ Dana Lloyd is Assistant Professor of Global Interdisciplinary Studies and Affili
 ### Jason Long
 
 Youngstown State University, History and Political Science
+
+### Valentin Lopez 
+Valentin Lopez has been the Chairman of the Amah Mutsun Tribal Band since 2003, one of three historic tribes that are recognized as Ohlone. Valentin is Mutsun, Chumash and Yokuts. The Amah Mutsun are comprised of the documented descendants of Missions San Juan Bautista and Santa Cruz. Valentin Lopez is a Native American Advisor to the University o f California, Office of the President on issues related to repatriation. He is also a Native American Advisor to the National Alliance on Mental Illness (NAMI) and the Phoebe Hearst Museum of Anthropology. Valentin is actively involved in efforts to restore tribal indigenous knowledge and ensure our history is accurately told. Finally, Valentin is working to restore the Mutsun Language and is a traditional Mutsun singer and dancer. As Chairman, Valentin is a standing member on all Tribal committees and Boards.
+
 
 ### Gaeñ hia uh/Betty Lyons
 
@@ -155,13 +268,36 @@ Recipient of several prestigious awards including; The United Nations NGO World 
 
 [Oren Lyons '58, H'93 Headlines August Conversations About the Doctrine of Discovery](https://news.syr.edu/blog/2020/07/29/oren-lyons-58-h93-headlines-august-conversations-about-the-doctrine-of-discovery/).
 
-### Zachary	Melton
+### Pat McCabe (Diné)
+
+Pat McCabe (Weyakpa Najin Win, Woman Stands Shining) is a Diné (Navajo) mother, grandmother, activist, artist, writer, ceremonial leader, and international speaker. She is a voice for global peace, and her paintings are created as tools for individual, earth and global healing. She draws upon the Indigenous sciences of Thriving Life to reframe questions about sustainability and balance, and she is devoted to supporting the next generations, Women's Nation and Men's Nation, in being functional members of the "Hoop of Life" and upholding the honor of being human.
+
+Her primary work at the moment is:
+- The reconciliation between the masculine and feminine, Men's Nation and Women's Nation
+- Remembering, recreating or creating anew a narrative for the Sacred Masculine
+- Addressing the Archetypal Wounding that occurred in our misunderstanding and abuse of technology in prayer, ceremony and science
+
+### Zachary Melton
 
 University of Iceland
 
-### S. Lily	Mendoza	
+### S. Lily Mendoza 
 
 S. Lily Mendoza is a Kapampangan-born Filipina and currently resides in Waawiyatanong (aka Detroit, Michigan). She is Full Professor of Culture and Communication at Oakland University in Rochester, Michigan and is known for her pathbreaking work on the politics of indigeneity particularly within the Philippine diasporic and homeland context. She is the author of books and essays exploring questions of identity and subjectivity, cultural politics in national, post- and trans- national contexts, discourses on indigenization, ecology, and the cultural logic of modernity and civilization. Among her book publications are *Between the Homeland and the Diaspora: The Politics of Theorizing Filipino and Filipino American Identities*, *Back from the Crocodile's Belly: Philippine Babaylan Studies and the Struggle for Indigenous Memory, *and, most recently, *Decolonizing Ecotheology: Indigenous and Subaltern Challenges*. Currently, she serves as the Executive Director of the Center for Babaylan Studies (CfBS), a movement for decolonization and indigenization among diasporic Filipinos.
+
+### Robert J. Miller
+Robert J. Miller's areas of expertise are Federal Indian Law, American Indians and international law, American Indian economic development, Native American natural resources, and Civil Procedure. He is an enrolled citizen of the Eastern Shawnee Tribe, the Interim Chief Justice for the Pascua Yaqui Tribe Court of Appeals and sits as a judge for other tribes. He is the Willard H. Pedrick Distinguished Research Scholar at ASU and the Faculty Director of the Rosette LLP American Indian Economic Development Program at ASU. 
+
+In 2014 he was elected to the American Philosophical Society. The APS is the oldest learned society in the United States and was created by Benjamin Franklin in 1743. Thomas Jefferson served as president of the APS for seventeen years overlapping his time as president of the United States. The APS has only elected about 5,600 members in its 280 year history.
+
+Before joining ASU in 2013, Professor Miller was on the faculty of Lewis & Clark Law School from 1999-2013. Prior to his career in academia, he practiced Indian law with Hobbs, Straus, Dean & Walker, and practiced litigation with the Stoel Rives law firm. Following graduation from law school, he clerked for Judge Diarmuid O'Scannlain of the U.S. Court of Appeals for the Ninth Circuit.
+
+Professor Miller's scholarly works include articles, books, and book chapters on a wide array of Federal Indian Law issues and Civil Procedure, and he speaks regularly on Indian Law issues across the U.S. and in other countries. He is the author of "Native America, Discovered and Conquered: Thomas Jefferson, Lewis and Clark, and Manifest Destiny" (Praeger 2006), and "Reservation Capitalism: Economic Development in Indian Country" (Praeger 2012). He co-authored "A Promise Kept: The Muscogee (Creek) Nation and McGirt v. Oklahoma (forthcoming University of Oklahoma Press 2022); "Creating Private Sector Economies in Native America: Sustainable Development through Entrepreneurship (Cambridge University Press 2019); and "Discovering Indigenous Lands: The Doctrine of Discovery in the English Colonies" (Oxford University Press 2010). Professor Miller has worked as a consultant with the American Philosophical Society since 2006 on tribal language and archival issues. He was elected to the American Law Institute in 2012.
+
+### Sebastian Modrow
+Dr. Sebastian Modrow is an Assistant Professor at Syracuse University’s School of Information Studies. He received a doctorate in Ancient History from the University of Rostock, Germany, an Exam of the State degree (Masters equivalent) in History and Latin from the University of Greifswald, Germany, and a MLIS and a CAS in Cultural Heritage Preservation from Syracuse University.
+
+Previous work experiences include Lecturer for Latin at the University of Greifswald, Oldfather Research Fellow at the University of Illinois at Urbana-Champaign, Teacher for Latin and history, Coordinator of Syracuse University Libraries’ Marcel Breuer Digital Archives project, Assistant Archivist as well Curator of Rare Books and Manuscripts at Syracuse University Libraries’ Special Collections Research Center.
 
 ### Sharon Moran 
 Associate Professor, Environmental Studies, SUNY–ESF
@@ -173,7 +309,14 @@ Avdelingsleder, Faculty of Education and Arts, Nord University
 
 Tina Ngata (Ngāti Porou) is a mother of two from the East Coast of Te Ika a Maui, Aotearoa New Zealand. She is the author of Kia Mau: Resisting Colonial Fictions, which analyses the application of the Doctrine of Discovery by James Cook, and critiques the New Zealand government Cook anniversary celebrations. Her work involves advocacy for environmental, Indigenous and human rights. This includes local, national and international initiatives that highlight the role of settler colonialism in issues such as climate change and waste pollution, and promote Indigenous conservation as best practice for a globally sustainable future.
 
+### Danielle Nagle
+
+She is the the Matilda Joslyn Gage Foundation Executive Director. Danielle is inspired by Gage's philosophies on the relationships between women, science, and the earth. Danielle looks forward to pushing the possibilities for public education and social change in the context of historic house museums.
+
+Danielle earned a Ph.D. in Environmental Science from the SUNY College of Environmental Science and Forestry in 2021 and is the author of multiple peer-reviewed journal articles.
+
 ### Jonathan Nahar
+
 Jonathan is a Palestinian-American Christian and graduate of the Kroc Institute for International Peace Studies. He has worked in multiple countries doing Palestine advocacy, human rights monitoring, grassroots organizing, and challenging anti-Arab racism. Jonathan’s work connects the Palestinian decolonial struggle with those of other indigenous peoples, and challenges theologies of domination.
 
 ### Sarah Nahar
@@ -211,7 +354,10 @@ My dissertation explores the intersection of extremism and gender—specifically
  
 Aside from my dissertation, I work on projects in the field of virtue and vice epistemology.
 
-### CK	Raju
+### Quinn Pierson
+Syracuse University
+
+### CK Raju
 (Honorary Professor) 
 Indian Institute of Education, G. D. Parikh Centre, J. P. Naik Bhavan, University of Mumbai, Kalina Campus,  Santacruz (E), Mumbai 400 098
 
@@ -272,7 +418,7 @@ Dr. Kenneth H. Lokensgard is the Assistant Director for the [Center for Native 
 
 Hello, I am Terry Reeder PhD. I am an anti-racist feminist who has taught Religious Studies and Ethics at multiple colleges including Syracuse University, Nazareth College, St. John Fisher, the College of St. Rose and LeMoyne College. I am currently a Visiting Assistant Professor at the College of Wooster in Ohio. As a Catholic high school Religion teacher I became increasingly unable to live with the social justice violations that I was complicit with as a Catholic educator. This includes the Doctrine of Discovery. The year that I became a grandmother I began a doctoral program in Religion at Syracuse University. At SU I  studied the ethics of Christianity and ways to deconstruct and dismantle religious colonialism and sexism in order to  build a more just world. For me the most important way to grow in justice  is to learn from Indigenous teachers. I try to balance my scholarship with activism, and to continually decolonize myself, my pedagogy, and my religion.  It is an honor to be at this conference learning from and with these esteemed teachers and other participants.
 
-### Sara Jolena	Wolcott
+### Sara Jolena Wolcott
 Sequoia Samanvaya
 Descendent of some of Founding Fathers of the United States of America, Sara Jolena Wolcott, M.Div, is now building people's capacity to collectively reMember our ecological familial, national and global origin stories to enable more harmonious futures. An ecotheologian and unconventional minister, she is the founder of Sequoia Samanvaya, a healer, a ceremonialist, and a Legacy Advisor with Innovation 4.4.  She is primarily interested in the work of ReMembering and ReEnchanting our world. She is known for her laughter and the (sometimes wild) power of her presence.
 
