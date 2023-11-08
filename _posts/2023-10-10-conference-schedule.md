@@ -50,7 +50,7 @@ Tel: +1 315-475-3000
 
  {% include_cached snip/import.md %}
 
- ## Speaker Bios
+## Speaker Bios
 if you would like your bio included please email your *short* bio to info@indigenousvalues.org
 
- {% include_cached snip/speaker-bios.md %}
+  {% include_cached snip/speaker-bios.md %}

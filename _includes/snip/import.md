@@ -359,7 +359,15 @@
 - Terry Reeder, Syracuse University
 
 
+<span id="cc105"></span>
+### [Panel C105](#C105)
 
+#### [Pupils in the professed Lands: Confronting White Supremacy Across the Disciplines](#C105)
+- *Michael Chaness, SUNY OSWEGO, Chair*
+- Dr. Roberta Hurtado (English)
+- Dr. Celinet Duran-Jimenez (Criminal Justice), 
+- Dr. Ritu Radhakrishnan (Education), 
+- Mr. Terrian Garvis (Triandiflou Institute)
 
 <span id="cc106"></span>
 ### [Panel C106](#C106)
