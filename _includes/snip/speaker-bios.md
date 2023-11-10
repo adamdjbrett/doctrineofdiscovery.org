@@ -335,6 +335,9 @@ My book, [*Literacy & Mobility*](https://www.routledge.com/Literacy-and-Mobilit
 
 Steven Newcomb (Shawnee/Lenape) co-founded the Indigenous Law Institute in 1992 with Birgil Kill Straight (1940-2019), who was a traditional headman and ceremonial leader of the Oglala Lakota Nation. Newcomb is recognized as one of the world's foremost authorities on the Doctrine of Discovery as made evident by his law review articles and his book *Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery *(Fulcrum, 2008). He is the co-producer of the documentary movie *The Doctrine of Discovery: Unmasking the Domination Code*, directed by Sheldon Wolfchild (Dakota), which is based on *Pagans in the Promised Land*. His website is [originalfreenations.com](http://originalfreenations.com/) and he can be contacted at stv4newcomb[at]yahoo[period]com. The documentary can be ordered at [38Plus2Productions.com](http://38plus2productions.com/).
 
+### Naimi Pankaj Patel
+Began Ph.D. program at Syracuse University in religion 2022; MTS in South Asian Religions, Harvard Divinity School 2021; BA in Religion, Philosophy, and Journalism and Media Studies, Rutgers University 2018; Research Interests: Hindu Religious Traditions; love, affect, and performance; digital religiosity; comparative religion, global religious movements, South Asian diaspora; identity, community, and belonging.
+
 ### Cara Peacock
 Univeristy of Toronto Ph.D. student in Political Science
 Nehiyaw and Anishinaabe. Political philosophy and decolonial feminisms.
@@ -361,6 +364,9 @@ Syracuse University
 (Honorary Professor) 
 Indian Institute of Education, G. D. Parikh Centre, J. P. Naik Bhavan, University of Mumbai, Kalina Campus,  Santacruz (E), Mumbai 400 098
 
+### Mitch Randall
+Mitch is the executive officer of Good Faith Media. Before joining GFM, he was the executive director of the Baptist Center for Ethics. In addition, he pastored churches in Kansas, Texas and Oklahoma for over 20 years, and he holds a Master’s of Divinity with Biblical Languages from Southwestern Baptist Theological Seminary and a Doctor of Ministry degree from George W. Truett Theological Seminary. Mitch is a citizen of the Muscogee Creek Nation with his ancestors reaching back to the McIntosh and Childers clans. He is married to Missy Randall and they reside in Norman, Oklahoma. They have two adult sons.
+
 ### Nicholas Robinson
 Elisabeth Haub School of Law at Pace University  
 
@@ -383,6 +389,19 @@ A prolific author, Dr. Wagner's anthology [*The Women's Suffrage Movement*](htt
 
 Among her awards, Dr. Wagner was selected as a 2020 New York State Senate Woman of Distinction, one of "21 Leaders for the 21st Century" by Women's E-News in 2015 and she received the Katherine Coffey Award for outstanding service to museology from the Mid-Atlantic Association of Museums in 2012.
 
+### Dillon Sampson
+Syracuse University
+
+### George Emilio Sanchez
+
+George Emilio Sanchez is a writer, performance artist and social justice activist. He was born in Los Angeles, raised in Orange County, California, and became a New York transplant in 1978. He began making original pieces in 1992 and has continued making performance work and social justice projects to this day. He is currently in the process of crafting a new performance series titled "Performing the Constitution." The first installment of the series, titled *XIV*, will premiere at Dixon Place in June 2019. This work melds autobiography and history in a performance that gives narrative to the injustices racialized communities face as they fight for "equal protection of the laws." The second performance in the series is titled ***In the Court of the Conqueror*** and confronts the over 200 year-old history of U.S. Supreme Court rulings that have diluted the Tribal Sovereignty of Native Nations. This second installment will premiere at Abrons Arts Center in fall of 2020, where George is the 2019--20 PATHS Social Practice Artist in Residence. As the Abrons Social Practice AIR he works with youth groups on the Lower East Side to use the arts as a restorative tool while addressing the reality and trauma of gun violence. For the past two years, he organized and facilitated *BANG BANG GUN AMOK*, a 24-hour performance filibuster on gun culture.
+
+George has been the Performance Director of *Emergenyc* under the umbrella of the Hemispheric Institute of Performance and Politics since 2008. This three-month program works with cohorts of 16-20 national and international participants to explore the intersection of arts and activism. He also teaches performance and arts education at the College of Staten Island/City University of New York. He is a Professor in the Performing and Creative Arts Department where he served as the chairperson for 12 years.
+
+George's work has been presented by theaters and museums in over 25 states and has received support from National Performance Network, the Fulbright Program (Peru), New York Foundation for the Arts, the Jerome Foundation, and the Rockefeller Foundation. George has been an artist-in-residence at Brooklyn Arts Exchange, Abrons Arts Center, Dixon Place, Dance Theater Workshop, Pergones Theater, The MacDowell Colony, Tigertail Productions (Miami), Dance Umbrella (Austin), Centro Cultural de la Raza (San Diego), and Guadalupe Cultural Arts Center (San Antonio).
+
+George resides in Fort Greene, Brooklyn and has three daughters.
+
 ### Michelle Schenandoah
 Kaluhyanu:wes “She is Fond of the Sky”
 
@@ -390,6 +409,14 @@ Michelle D. Schenandoah is a traditional member of the Onʌyota’:aka Oneida Na
 Haudenosaunee Confederacy. She was raised on Oneida territories within the traditional teachings
 of the Haudenosaunee Longhouse and a family of traditional leaders. Michelle is a mother of four
 and a new grandmother; she lives in her people’s homelands in Syracuse, NY with her family.
+
+### Sarah Shute
+Indigenous Values Initiative
+
+### Rikki Solomon
+
+### Pranay Somayajula
+Hindus for Human Rights	
 
 ### Christopher Sudol
 Christopher is a 2023 J.D. Candidate and Haub Scholar in the Elisabeth Haub School of Law at Pace University
@@ -418,6 +445,16 @@ Dr. Kenneth H. Lokensgard is the Assistant Director for the [Center for Native 
 
 Hello, I am Terry Reeder PhD. I am an anti-racist feminist who has taught Religious Studies and Ethics at multiple colleges including Syracuse University, Nazareth College, St. John Fisher, the College of St. Rose and LeMoyne College. I am currently a Visiting Assistant Professor at the College of Wooster in Ohio. As a Catholic high school Religion teacher I became increasingly unable to live with the social justice violations that I was complicit with as a Catholic educator. This includes the Doctrine of Discovery. The year that I became a grandmother I began a doctoral program in Religion at Syracuse University. At SU I  studied the ethics of Christianity and ways to deconstruct and dismantle religious colonialism and sexism in order to  build a more just world. For me the most important way to grow in justice  is to learn from Indigenous teachers. I try to balance my scholarship with activism, and to continually decolonize myself, my pedagogy, and my religion.  It is an honor to be at this conference learning from and with these esteemed teachers and other participants.
 
+### Brianna Rose Svitak	
+Syracuse University
+
+### Rick Ufford-Chase
+Center for Jubilee Practice	
+
+### James Webster
+
+### Bronwyn	Williams
+
 ### Sara Jolena Wolcott
 Sequoia Samanvaya
 Descendent of some of Founding Fathers of the United States of America, Sara Jolena Wolcott, M.Div, is now building people's capacity to collectively reMember our ecological familial, national and global origin stories to enable more harmonious futures. An ecotheologian and unconventional minister, she is the founder of Sequoia Samanvaya, a healer, a ceremonialist, and a Legacy Advisor with Innovation 4.4.  She is primarily interested in the work of ReMembering and ReEnchanting our world. She is known for her laughter and the (sometimes wild) power of her presence.
@@ -425,3 +462,16 @@ Descendent of some of Founding Fathers of the United States of America, Sara Jol
 Born and raised on the historical Ohlone lands in the California Bay Area into a Quaker family, her quest to understand how we might navigate through the current social and ecological crises took her on a global odyssey.  Her wide and wild range of experience, all of which brings depth to her ministry, includes : co-leading the 33-country multi-disciplinary ReImagining Development Program at the Institute of Development Studies (IDS), consulting for the World Bank, living as a traveling singer in India, serving as a community minister at Judson Memorial Church in New York City, working as a prison chaplain on Rikers Island Correctional Facility in NYC and working as a Fellow in Spirituality and Climate Change at the Institute of the Advancement of Science and Society in Germany. She also has nearly 20 years of experience as a healer and ceremonialist. 
 
 Her formal education includes a CMT from the McKinnon Institute of Massage Therapy in Oakland, CA; a BA from Haverford College in Anthropology, an MA in international development from the Institute of Development Studies at the University of Sussex, UK;  and a Masters of Divinity (M.Div.) at Union Theological Seminary. Her international speaking engagements have brought her to 10 countries and she has spoken in over 16 U.S. states. She currently lives on the historical homeland of the Mohigan/Mahican people in the Hudson Valley. She enjoys painting dragons, sitting around fires, and moonlit walks.
+
+### Joss Yarbrough
+Syracuse University
+
+### Victor Valle
+California Polytechnic State University
+
+Prof. Victor Valle started his writing career in the 1970s, publishing poetry, literary translations, and editing literary magazines. After receiving an MSJ from Medill in 1981, he joined the Los Angeles Times, where he earned several honors during his eight-year career there, including a Pulitzer Prize he shared with fellow Chicano journalists in 1984. He branched out to cultural history with Recipe of Memory: Five Generations of Mexican Cuisine, which garnered two literary nominations in 1996 and an Italian-language edition in 2000, the same year the University of Minnesota Press published Latino Metropolis. His book has since been reviewed in more than a dozen scholarly journals such as the Journal of American Ethnic History, the Journal of American History, the Journal of Historical Geography, and Ethnic and Racial Studies, which qualified it “A truly important work” (http://www.upress.umn.edu/Books/V/valle_latino.html).
+
+In 2007, the Library of America, publisher of “best and most significant American writing,” excerpted Recipe of Memory in American Food Writing: A Literary Anthology. Famed urban historian Mike Davis describes Valle’s next book, City of Industry: Genealogies of Power in Southern California, forthcoming from Rutgers University Press in August, “a stunning non-fiction sequel to Robert Towne’s ‘Chinatown.’”
+
+
+

@@ -98,7 +98,7 @@
 
 #### *[In the Court of the Conqueror](#A109)*
 
-*George Emilo Sanchez*
+*George  Emilio Sanchez*
 
 
 <span id="aa110"></span>
