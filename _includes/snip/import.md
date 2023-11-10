@@ -88,7 +88,7 @@
 <span id="aa108"></span>
 ### [Panel A108](#A108)
 
-#### [Title TBD](#A108)
+#### [Indigenous Peoples and Religious Modes of Othering: A History of Religions Perspective](#A108)
 
 *Davíd Carrasco, Harvard University*
 

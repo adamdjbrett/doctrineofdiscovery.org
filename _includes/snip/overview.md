@@ -6,7 +6,7 @@
 - [Panel A105](#A105) - [The impact of the Doctrine in Aotearoa upon wellbeing and Indigenous knowledge](#A105)
 - [Panel A106](#A106) - [Engaged Humanities Network: Engaging the Doctrine of Discovery Beyond the Classroom](#A106)
 - [Panel A107](#A107) - [Law Panel II: White Christian Desire for the Indigenous and the Logic of Discovery](#A107)
-- [Panel A108](#A108) - [Title TBD](#A108)
+- [Panel A108](#A108) - [Indigenous Peoples and Religious Modes of Othering: A History of Religions Perspective](#A108)
 - [Panel A109](#A109) - *[In the Court of the Conqueror](#A109)*
 - [Panel A110](#A110) - [Law Panel III: Federal Anti-Indian Law](#A110)
 - [Panel A111](#A111) [Documenting the Doctrine of Discovery, Mueseums, Libraries & Data Science](#A111)
