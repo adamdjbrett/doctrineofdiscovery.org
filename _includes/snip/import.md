@@ -293,6 +293,7 @@
 - Andrea Smith, Lafayette College
 - Tina Ngata, 
 - Dana Lloyd, Villanova University
+- Victor Valle, California Polytechnic State University
 
 
 
