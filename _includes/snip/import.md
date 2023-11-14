@@ -68,10 +68,10 @@
 
 #### [Engaged Humanities Network: Engaging the Doctrine of Discovery Beyond the Classroom](#A106)
 
-- *Sarah Nahar, Syracuse University / SUNY ESF, Chair*
-- Sarah Nahar, Syracuse University / SUNY ESF, Engaged Humanities Network of SU
-- Brice Nordquist, Syracuse University, 
-- Jordan Brady Loewen-Colon, Syracuse University
+- *Brice Nordquist, Director of the Engaged Humanities Network, Chair*
+- Heather Law Pezzarossi - Assistant Professor, Anthropology Department, SU
+- Rochelle Royster - Assistant Professor, Creative Arts Therapy, SU
+- Scott Manning Stevens - Akwesasne Mohawk, Director, Native American and Indigenous Studies, SU
 
 
 
@@ -135,10 +135,7 @@
 ### [Panel A113](#A113)
 
 #### SUNY ESF Diversity and Knowledge of the Environment Class
-
-- *Sarah Nahar, Syracuse University / SUNY ESF, Chair*
-- Sarah Nahar, SUNY ESF Diversity and Knowledge of the Environment Class, Undergrad Panel: The Doctrine of Discovery: Its contemporary impacts and resistance
-- Sharon Moran, SUNY ESF,
+*Students welcome you to take a gallery walk around the room to talk with them about their final class posters, featuring ways the DoCD is still operating, and ways it is being resisted by humans and the more-than-human.*
 
 
 <span id="aa114"></span>
