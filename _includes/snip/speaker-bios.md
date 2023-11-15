@@ -81,7 +81,7 @@ Carrasco has received the Mexican Order of the Aztec Eagle, the highest honor th
 
 [Podcast interview with Dr. Carrasco](https://podcast.doctrineofdiscovery.org/season1/episode-03/)
 
-### Fatima Celik 
+### Fatma Celik 
 Syracuse University
 
 ### Gustavo Melo Cerqueira
