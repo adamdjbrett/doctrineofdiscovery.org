@@ -213,7 +213,7 @@
 - *Naimi Patel, Syracuse University, Chair*
 - Cara Peacock, University of Toronto, Settler Colonial Christianity: Unravelling the Political Theologies of Settler Statecraft and Colonial Violence
 - Colin Bossen, First Unitarian Universalist Church of Houston, The Political Theology of Replacement Theory
-- Pranay Somayajula, Hindus for Human Rights 
+- Pranay Somayajula, Hindus for Human Rights, "Hindu Political Theology: Beyond Hindutva’s Political Monotheism"
 
 
 
@@ -372,7 +372,6 @@
 
 #### [Catholicism and the Doctrine of Discovery](#C106)
 - *Eglute Trinkauskaite, Maryland Institute College of Art, Chair*
-- Cristofer Fernández OFM Conv., Franciscan Friars Conventual, "Catholic Franciscan Decoloniality? DoCD Landlessness, Catholicity, and an Emergent Cosmography"
 - Jeannine Hill Fletcher, Fordham University, "Partners in Resistance and Repair: Using Brave Heart’s Method to Leverage Resources from Historically White-Serving Catholic Institutions"
 - Tiffany Hunsinger, University of Dayton, "Our Lady of the Sioux: The Role of Mary as Propaganda for Stealing Indigenous Land and Children"
 - Valentin Lopez, Amah Mutsun Tribal Band, "The Doctrine of Discovery's Genocidal Impact on the California Mission System"

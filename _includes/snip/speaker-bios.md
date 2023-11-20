@@ -423,7 +423,7 @@ Christopher is a 2023 J.D. Candidate and Haub Scholar in the Elisabeth Haub Scho
 
 
 ### Andrea Smith
-[Professor of Anthropology, Lafayette College](https://anthrosoc.lafayette.edu/people/1575-2/)
+A. Lynn Smith is a historical anthropologist whose research explores settler colonialism, collective and public memory, and place-loss. Memory Wars: Settlers and Natives Remember Washington’s Sullivan Expedition of 1779 (2023) critically examines the public memory of the Sullivan Expedition against the Haudenosaunee, and contrasts settler accounts with the depiction found at Haudenosaunee cultural centers.  Previous books include Colonial Memory and Postcolonial Europe: Maltese Settlers in Algeria and France (2006), on settler memory of Algeria; Europe’s Invisible Migrants (2005); and Rebuilding Shattered Worlds: Creating Community by Voicing the Past (2016). She is currently working on a book on the public memory of the Walking Purchase "treaty" in eastern Pennsylvania.
 
 ### Franklyn Telles
 Northern Arizona University, Ph.D. Candidate in Earth Sciences and Environmental Sustainability.
