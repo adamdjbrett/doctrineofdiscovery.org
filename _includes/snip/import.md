@@ -144,7 +144,7 @@
 #### [Documenting the Doctrine of Discovery, Museums, Libraries & Data Science Part 2](#A114)
 
 - Philip P.	Arnold, Syracuse University, Chair
-- Meave Callan, Simpson University, "The Medieval Origins of Religious White Supremacy: The King of Tars, Crusade Defeats, and the Doctrine of Discovery"
+- Maeve Callan, Simpson University, "The Medieval Origins of Religious White Supremacy: The King of Tars, Crusade Defeats, and the Doctrine of Discovery"
 - James Adams, National Museum of the American Indian - Smithsonian, "Pre-History of the "Doctrine of Christian Discovery"; Nicholas V and the English Eruption into the North Atlantic"
 - Jordan Loewen-Colon, Syracuse University, "Unveiling the Digital Doctrine of Discovery: Lessons from the Taino Encounter for Contemporary Data Society"  
 - Sandy Bigtree, Indigenous Values Initiative	
