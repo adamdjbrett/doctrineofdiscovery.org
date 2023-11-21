@@ -238,8 +238,13 @@ Randy Kritkausky is an enrolled tribal member of the Citizen Potawatomi Nation. 
 ### Shrutika Lakshmi
 I'm a graduate student in the Syracuse University Department of Religion. I'm interested in the study of women in diaspora in South Asia.
 
-### Jordan Loewen-Colon
-[Dr. Jordan Loewen-Colón](https://www.jordanbradyloewen.com/) is the AI, Ethics, and Data Justice Fellow at Queen's University's School of Computing. His expertise is in philosophy and experiential design, where he researches and consults for new reality media projects (Video Games, Artificial Intelligence, and Virtual Reality), involving mysticism, altered states, and psychedelics.
+### Heather Law Pezzarossi
+
+**Heather Law Pezzarossi** is an anthropologically trained archaeologist. She does collaborative work with Indigenous communities in North America, focusing on community-led heritage and archaeological projects that address the past, especially the colonial past, through methods and theories that serve Indigenous communities in the present and for the future. [Faculty Profile](https://www.maxwell.syr.edu/directory/heather-law-pezzarossi "https://www.maxwell.syr.edu/directory/heather-law-pezzarossi").
+
+### Jordan Loewen-Colón
+
+**Dr. Jordan Loewen-Colón** is the AI, Ethics, and Data Justice Fellow at Queen's University's School of Computing. His expertise is in philosophy and experiential design, where he researches and consults for new reality media projects (Video Games, Artificial Intelligence, and Virtual Reality), involving mysticism, altered states, and psychedelics. [Website here](https://www.jordanbradyloewen.com/ "https://www.jordanbradyloewen.com/").
 
 ### Dana Lloyd
 
@@ -250,6 +255,7 @@ Dana Lloyd is Assistant Professor of Global Interdisciplinary Studies and Affili
 Youngstown State University, History and Political Science
 
 ### Valentin Lopez 
+
 Valentin Lopez has been the Chairman of the Amah Mutsun Tribal Band since 2003, one of three historic tribes that are recognized as Ohlone. Valentin is Mutsun, Chumash and Yokuts. The Amah Mutsun are comprised of the documented descendants of Missions San Juan Bautista and Santa Cruz. Valentin Lopez is a Native American Advisor to the University o f California, Office of the President on issues related to repatriation. He is also a Native American Advisor to the National Alliance on Mental Illness (NAMI) and the Phoebe Hearst Museum of Anthropology. Valentin is actively involved in efforts to restore tribal indigenous knowledge and ensure our history is accurately told. Finally, Valentin is working to restore the Mutsun Language and is a traditional Mutsun singer and dancer. As Chairman, Valentin is a standing member on all Tribal committees and Boards.
 
 
@@ -320,20 +326,24 @@ Danielle earned a Ph.D. in Environmental Science from the SUNY College of Enviro
 Jonathan is a Palestinian-American Christian and graduate of the Kroc Institute for International Peace Studies. He has worked in multiple countries doing Palestine advocacy, human rights monitoring, grassroots organizing, and challenging anti-Arab racism. Jonathan’s work connects the Palestinian decolonial struggle with those of other indigenous peoples, and challenges theologies of domination.
 
 ### Sarah Nahar
-Sarah Nahar, M.Div (from Elkhart, Indiana Potawatomi traditional land) is a third year PhD student in the Religion department at Syracuse University. Her research focus is on the toilet, both the ritual and receptacle. She is matriculating concurrently at neighboring SUNY College of Environmental Science and Forestry in the Department of Environmental Studies. Other interests include working on dismantling the Doctrine of Discovery, community organizing, and capoeira.
 
-She is also a nonviolent action trainer and interspiritual theologian. Previously, Sarah was a 2019 [Rotary Peace Fellow](https://www.rotary.org/en/our-programs/peace-fellowships) and worked at the [Martin Luther King, Jr. Center](http://www.thekingcenter.org/about-king-center) in Atlanta, Georgia. She is a member of the [Carnival de Resistance](http://www.carnivalderesistance.com/) and has been the Executive Director of [Christian Peacemaker Teams](https://cpt.org/). She attended [Spelman College](http://www.spelman.edu/), majoring in Comparative Women's Studies and International Studies, minoring in Spanish. She has an MDiv from [Anabaptist Mennonite Biblical Seminary](http://www.ambs.edu/) in her hometown. Her hobbies include capoeira and home improvement projects.
+**Sarah Nahar,** M.Div (from Elkhart, Indiana Potawatomi traditional land) is a fourth year PhD student in the Religion department at Syracuse University. Her research focus is on the toilet, both the ritual and receptacle. She is matriculating concurrently at neighboring SUNY College of Environmental Science and Forestry in the Department of Environmental Studies.
+
+Sarah is also a nonviolent action trainer and interspiritual theologian. Previously, Sarah was a 2019 [Rotary Peace Fellow](https://www.rotary.org/en/our-programs/peace-fellowships "https://www.rotary.org/en/our-programs/peace-fellowships") and worked at the [Martin Luther King, Jr. Center](http://www.thekingcenter.org/about-king-center "http://www.thekingcenter.org/about-king-center") in Atlanta, Georgia. She was a founding member of the ecojustice Carnival de Resistance and has been the Executive Director of [Community Peacemaker Teams](https://cpt.org/ "https://cpt.org/"). She attended [Spelman College](http://www.spelman.edu/ "http://www.spelman.edu/"), majoring in Comparative Women's Studies and International Studies, minoring in Spanish. She has an MDiv from [Anabaptist Mennonite Biblical Seminary](http://www.ambs.edu/ "http://www.ambs.edu/") in her hometown. Her hobbies include capoeira, community organizing, and home improvement projects.
 
 ### Brice Nordquist
 
-I am a community-engaged writing and literacy researcher and teacher. I work through ethnographic and participatory research and public arts and humanities projects to study and support students' movements across contexts of learning and stages of education. I am the co-founder and co-director of the [Narratio Fellowship](https://narratio.org/fellowship), a storytelling and educational pipeline program for resettled refugee youth, and the founder and director of the College of Arts & Sciences's Engaged Humanities Network , which seeds, supports, and fosters exchanges across publicly-engaged research, teaching, and creative projects in pursuit of more inclusive, interconnected, and just communities and institutions.
+**Brice Nordquist** is a community-engaged writing and literacy researcher and teacher. He works through ethnographic and participatory research and public arts and humanities projects to study and support students' movements across contexts of learning and stages of education. He co-founded and co-directs the [Narratio Fellowship](https://narratio.org/fellowship "https://narratio.org/fellowship"), a storytelling and educational pipeline program for resettled refugee youth, and the founder and director of the College of Arts & Sciences's [Engaged](https://artsandsciences.syracuse.edu/engaged-humanities/ "https://artsandsciences.syracuse.edu/engaged-humanities/")[ Humanities Network](https://artsandsciences.syracuse.edu/engaged-humanities/ "https://artsandsciences.syracuse.edu/engaged-humanities/") , which seeds, supports, and fosters exchanges across publicly-engaged research, teaching, and creative projects in pursuit of more inclusive, interconnected, and just communities and institutions.
 
-My book, [*Literacy & Mobility*](https://www.routledge.com/Literacy-and-Mobility-Complexity-Uncertainty-and-Agency-at-the-Nexus/Nordquist/p/book/9781138189874) (Routledge), received the 2019 Conference on College Composition and Communication [Advancement of Knowledge Award](https://cccc.ncte.org/cccc/awards/advknowledge), presented annually for the empirical research publication in the previous two years that most advances writing studies. The book follows first-generation college students from different tracks of English in a public high school through their first years at research universities, community colleges, and full-time jobs to show how they draw upon multiple literacies and linguistic resources to both accommodate and transform conventions of reading and writing.
-[Faculty Profile](https://artsandsciences.syracuse.edu/people/faculty/nordquist-brice/)
+Hi book, [*Literacy & Mobility*](https://www.routledge.com/Literacy-and-Mobility-Complexity-Uncertainty-and-Agency-at-the-Nexus/Nordquist/p/book/9781138189874 "https://www.routledge.com/Literacy-and-Mobility-Complexity-Uncertainty-and-Agency-at-the-Nexus/Nordquist/p/book/9781138189874") (Routledge), received the 2019 Conference on College Composition and Communication [Advancement of Knowledge Award](https://cccc.ncte.org/cccc/awards/advknowledge "https://cccc.ncte.org/cccc/awards/advknowledge"), presented annually for the empirical research publication in the previous two years that most advances writing studies. The book follows first-generation college students from different tracks of English in a public high school through their first years at research universities, community colleges, and full-time jobs to show how they draw upon multiple literacies and linguistic resources to both accommodate and transform conventions of reading and writing. [Faculty Profile](https://artsandsciences.syracuse.edu/people/faculty/nordquist-brice/ "https://artsandsciences.syracuse.edu/people/faculty/nordquist-brice/")
 
 ### Steven T. Newcomb
 
 Steven Newcomb (Shawnee/Lenape) co-founded the Indigenous Law Institute in 1992 with Birgil Kill Straight (1940-2019), who was a traditional headman and ceremonial leader of the Oglala Lakota Nation. Newcomb is recognized as one of the world's foremost authorities on the Doctrine of Discovery as made evident by his law review articles and his book *Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery *(Fulcrum, 2008). He is the co-producer of the documentary movie *The Doctrine of Discovery: Unmasking the Domination Code*, directed by Sheldon Wolfchild (Dakota), which is based on *Pagans in the Promised Land*. His website is [originalfreenations.com](http://originalfreenations.com/) and he can be contacted at stv4newcomb[at]yahoo[period]com. The documentary can be ordered at [38Plus2Productions.com](http://38plus2productions.com/).
+
+### Jim O'Connor
+
+**Jim O'Connor** is a Special Collections Research Center at Syracuse University Library. He is a member of Sound Beat: Access Audio, a storytelling initiative of the Special Collections Research Center at Syracuse University Libraries, which launched a 12-part podcast series titled, "[The Land You're On: Acknowledging the Haudenosaunee](https://soundbeat.org/sound-beat-access-audio/the-land-youre-on-acknowledging-the-haudenosaunee/ "https://soundbeat.org/sound-beat-access-audio/the-land-youre-on-acknowledging-the-haudenosaunee/")." The podcast series features candid conversations with SU Haudenosaunee students, alumni, staff and community members. Its aim is to help listeners learn about the history and the people who were the first residents of the area.
 
 ### Naimi Pankaj Patel
 Began Ph.D. program at Syracuse University in religion 2022; MTS in South Asian Religions, Harvard Divinity School 2021; BA in Religion, Philosophy, and Journalism and Media Studies, Rutgers University 2018; Research Interests: Hindu Religious Traditions; love, affect, and performance; digital religiosity; comparative religion, global religious movements, South Asian diaspora; identity, community, and belonging.
@@ -358,16 +368,20 @@ My dissertation explores the intersection of extremism and gender—specifically
 Aside from my dissertation, I work on projects in the field of virtue and vice epistemology.
 
 ### Quinn Pierson
+
 Syracuse University
 
 ### CK Raju
+
 (Honorary Professor) 
 Indian Institute of Education, G. D. Parikh Centre, J. P. Naik Bhavan, University of Mumbai, Kalina Campus,  Santacruz (E), Mumbai 400 098
 
 ### Mitch Randall
+
 Mitch is the executive officer of Good Faith Media. Before joining GFM, he was the executive director of the Baptist Center for Ethics. In addition, he pastored churches in Kansas, Texas and Oklahoma for over 20 years, and he holds a Master’s of Divinity with Biblical Languages from Southwestern Baptist Theological Seminary and a Doctor of Ministry degree from George W. Truett Theological Seminary. Mitch is a citizen of the Muscogee Creek Nation with his ancestors reaching back to the McIntosh and Childers clans. He is married to Missy Randall and they reside in Norman, Oklahoma. They have two adult sons.
 
 ### Nicholas Robinson
+
 Elisabeth Haub School of Law at Pace University  
 
 Professor Nicholas A. Robinson has developed environmental law since 1969, when he was named to the Legal Advisory Committee of the President’s Council on Environmental Quality. He has practiced environmental law in law firms for municipalities and as general counsel of the New York State Department of Environmental Conservation. He drafted New York’s wetlands and wild bird laws and was inaugurated as the first chairman of both the statutory Freshwater Wetlands Appeals Board and Greenway Heritage Conservancy for the Hudson River Valley.
@@ -381,6 +395,7 @@ Professor Robinson served as James D. Hopkins Professor of Law during the 1991�
 Eve Reyes-Aguirre, an Izkaloteka Azteca Indigenous woman, has been a community organizer at Tonatierra, An Embassy for Indigenous Peoples, for more than 22 years. In that time, Eve has been at the forefront in advocating for human rights, women's rights, Indigenous Peoples rights and environmental rights on the local, national, and international level. Eve has worked tirelessly to bring awareness to the political, social, economic and environmental challenges affecting Indigenous Peoples globally. She also organizes at the grassroots level regionally and locally to strengthen traditional identity, equality and well-being of Indigenous Women, Indigenous Peoples, and the protection of water and the environment.  Eve has represented her community annually at the United Nations Permanent Forum on Indigenous Issues. Eve has also served the Global Indigenous Women's Caucus as Co-chair and/or Rapporteur since 2009. In April of 2013, Eve was a co-organizer of the 1st International Conference on Dismantling the Doctrine of Discovery held in Phoenix Arizona, with over 430 indigenous participants from all over the globe.
 
 ### Sally Roesch Wagner
+
 [DR. SALLY ROESCH WAGNER](https://Sallyroeschwagner.com). Awarded one of the first doctorates in the country for work in women's studies (UC Santa Cruz) and a founder of one the first college-level women's studies programs in the United States (CSU Sacramento), Dr. Wagner has taught women's studies courses for 51 years. The Founder/Director of the Matilda Joslyn Gage Foundation, she teaches in Syracuse University's Honors Program and California State University, Sacramento's Women and Gender Studies department.
 
 A major historian of the suffrage movement, Dr. Wagner is active on the national scene. She appeared on the CNN Special Report: *Women Represented* and CNN's *Quest's World of Wonder*. She has been quoted in the* New York Times, Washington Post, Smithsonian, Nation *and *Time Magazine, *among others. Her recent articles appeared in the *New York Daily News, Ms. Magazine*, the National Women's History Alliance newsletter and National Suffrage Centennial Commission blog. In March 2021, the Smithsonian Museum of the American Indian featured the film, *Without a Whisper* which traces Dr. Wagner's research demonstrating the Haudenosaunee influence on the suffrage movement through her friendship with Wakerakats:te, the Mohawk Bear Clan Mother. She appeared in and wrote the faculty guide for the Ken Burns' documentary, "Not for Ourselves Alone."
@@ -389,7 +404,16 @@ A prolific author, Dr. Wagner's anthology [*The Women's Suffrage Movement*](htt
 
 Among her awards, Dr. Wagner was selected as a 2020 New York State Senate Woman of Distinction, one of "21 Leaders for the 21st Century" by Women's E-News in 2015 and she received the Katherine Coffey Award for outstanding service to museology from the Mid-Atlantic Association of Museums in 2012.
 
+### Rochele Royster
+
+Rochele Royster, Ph.D, ATR-BC is an assistant professor of art therapy in the Department of Creative Arts Therapy. Royster has worked for the last 20 years integrating art therapy into the educational setting and has worked with youth, adolescents, and young adults with various learning differences such as autism, traumatic brain disorders, and attention deficit hyperactivity disorder. Using a trans-disciplinary approach, she is interested in community and school-based art therapy; race, power and policy in education; multi-sensory methods in reading and literacy; trauma-informed classrooms; environmental justice; black disability; and special education as it relates to decolonization of pedagogy and practice in institutional and public settings.
+
+Royster’s dissertation developed as a grassroots approach to arts-based social change and addresses gun violence, death, and grief through memorials of resistance. She assisted in creating transformative art-based social justice curriculum for Cities of Peace/Jane Addams Hull House, the Teacher Institute/ Museum of Contemporary Art, and the Office of Arts and Education at CPS and has conducted workshop series for Chicago Park District teaching artists. She has also worked with sexual, domestic violence, and human trafficking survivors and Cambodian youth refugees.
+
+In 2017, Royster completed a Ph.D. in community psychology at National Louis University in Chicago and also holds master’s degrees in special education (2000) from Virginia State University and art therapy (2002) from the School of the Art Institute of Chicago as well as a B.F.A. in studio arts (1998) from Virginia State University. Royster serves on the steering committee of Psychologists for Social Responsibility and is a board director for the American Art Therapy Association.
+
 ### Dillon Sampson
+
 Syracuse University
 
 ### George Emilio Sanchez
@@ -416,16 +440,24 @@ Indigenous Values Initiative
 ### Rikki Solomon
 
 ### Pranay Somayajula
+
 Hindus for Human Rights	
 
 ### Christopher Sudol
+
 Christopher is a 2023 J.D. Candidate and Haub Scholar in the Elisabeth Haub School of Law at Pace University
 
 
 ### Andrea Smith
+
 A. Lynn Smith is a historical anthropologist whose research explores settler colonialism, collective and public memory, and place-loss. Memory Wars: Settlers and Natives Remember Washington’s Sullivan Expedition of 1779 (2023) critically examines the public memory of the Sullivan Expedition against the Haudenosaunee, and contrasts settler accounts with the depiction found at Haudenosaunee cultural centers.  Previous books include Colonial Memory and Postcolonial Europe: Maltese Settlers in Algeria and France (2006), on settler memory of Algeria; Europe’s Invisible Migrants (2005); and Rebuilding Shattered Worlds: Creating Community by Voicing the Past (2016). She is currently working on a book on the public memory of the Walking Purchase "treaty" in eastern Pennsylvania.
 
+### Scott Manning Stevens
+
+**Scott Manning Stevens** is a citizen of the Akwesasne Mohawk Nation and earned his PhD in English from Harvard University. Dr. Stevens was the former Director of the D'Arcy McNickle Center for American Indian and Indigenous Studies at the Newberry Library in Chicago. He is currently the Director of the Native American Indigenous Studies Program at Syracuse University. There he also teaches courses in the departments of English and Art History. During the academic year 2021-2022, he was a fellow at the Harvard Radcliffe Institute for Advanced Study. Stevens is the co-author of two books on Native American history and visual culture, *Home Front: Daily Life in the Civil War North* (U Chicago 2013) and *Art of the American West *(Yale UP, 2014).  Dr. Stevens is also a co-editor and contributor to the 2015 collection of essays *Why You Can't Teach United States History without American Indians*. His recent book chapters and articles include: "From 'Iroquois Cruelty' to the Mohawk Warrior Society: Stereotyping and the Strategic Uses of a Reputation for Violence," *Violence and Indigenous Communities: Confronting the Past, Engaging the Present*, (Northwestern UP, 2021) and"On Native American Erasure in the Classroom," *Teaching Race in Perilous Times*, (SUNY Press, 2021). Stevens also serves or has served on advisory committees at the National Museum of the American Indian, the Smithsonian American Art Museum, and the New York Historical Society. In the past he has held fellowships from the Mellon Foundation, the Ford Foundation, and the National Endowment of the Humanities.
+
 ### Franklyn Telles
+
 Northern Arizona University, Ph.D. Candidate in Earth Sciences and Environmental Sustainability.
 
 Experienced instructor with a demonstrated history of working in the higher education industry. Skilled in Arcgis Products, Lecturing, Instructional Design, Environmental Awareness, Culturally-Relevant Sustaining Education, and languages: Russian and Spanish. A strong education professional graduated from the University of California, Los Angeles, California State University, Northridge, and the Richard Gilder Graduate School (American Museum of Natural History).

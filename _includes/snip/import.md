@@ -62,7 +62,6 @@
 - Rikki Solomon
 - Bronwyn Williams
 
-
 <span id="aa106"></span>
 ### [Panel A106](#A106)
 
@@ -70,8 +69,9 @@
 
 - *Brice Nordquist, Director of the Engaged Humanities Network, Chair*
 - Heather Law Pezzarossi - Assistant Professor, Anthropology Department, SU
-- Rochelle Royster - Assistant Professor, Creative Arts Therapy, SU
+- Rochele Royster - Assistant Professor, Creative Arts Therapy, SU
 - Scott Manning Stevens - Akwesasne Mohawk, Director, Native American and Indigenous Studies, SU
+- Jordan Loewen-Colón - Queens University
 
 
 
@@ -117,7 +117,7 @@
 #### [Documenting the Doctrine of Discovery, Mueseums, Libraries & Data Science Part 1](#A111)
 
 - *Philip P. Arnold, Syracuse University, Chair*
-- Sebastian Modrow, Syracuse University
+- Sebastian Modrow, Syracuse University, “Charting the Doctrine in the Colonial Archive: Papal Bulls and the Translation of the ‘Discovery’ Purpose”
 - Sean Cunningham, The National Archives (UK), *Archival Evidence of Ideology, Trade and Plunder as Motivations in England’s North American Voyages, C.1480-1503*
 
 
@@ -146,7 +146,7 @@
 - Philip P.	Arnold, Syracuse University, Chair
 - Maeve Callan, Simpson University, "The Medieval Origins of Religious White Supremacy: The King of Tars, Crusade Defeats, and the Doctrine of Discovery"
 - James Adams, National Museum of the American Indian - Smithsonian, "Pre-History of the "Doctrine of Christian Discovery"; Nicholas V and the English Eruption into the North Atlantic"
-- Jordan Loewen-Colon, Syracuse University, "Unveiling the Digital Doctrine of Discovery: Lessons from the Taino Encounter for Contemporary Data Society"  
+- Jordan Loewen-Colón, Queens University, "Unveiling the Digital Doctrine of Discovery: Lessons from the Taino Encounter for Contemporary Data Society"  
 - Sandy Bigtree, Indigenous Values Initiative	
 
 <span id="aa115"></span>
@@ -178,13 +178,10 @@
 
 #### [Māori Performance](#A117)
 
-- Tina Ngata
-- Pāpā Mark Kopua
-- Diana Kopua
-- James Webster
-- Hinemoa Jones
-- Rikki Solomon
-- Bronwyn Williams
+- Poetry: Tina Ngata, Bronwyn Wilkiams
+- Storytelling: Papa Mark Kopua, Dr. Di Kopua
+- Instrumentalists: James Webster, Hinemoa Jones, Rikki Solomon
+- Karetao Puppetry: James Webster, Hinemoa Jones
 
 
 
