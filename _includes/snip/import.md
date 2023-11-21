@@ -178,7 +178,7 @@
 
 #### [Māori Performance](#A117)
 
-- Poetry: Tina Ngata, Bronwyn Wilkiams
+- Poetry: Tina Ngata, Bronwyn Williams
 - Storytelling: Papa Mark Kopua, Dr. Di Kopua
 - Instrumentalists: James Webster, Hinemoa Jones, Rikki Solomon
 - Karetao Puppetry: James Webster, Hinemoa Jones
