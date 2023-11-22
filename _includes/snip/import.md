@@ -178,7 +178,7 @@
 
 #### [Māori Performance](#A117)
 
-![Cover Art](/assets/images/Maori-Performance.jpg)
+[![Cover Art](/assets/images/Maori-Performance.jpg)](/assets/images/Maori-Performance.jpg)
 
 - Poetry: Tina Ngata, Bronwyn Williams
 - Storytelling: Papa Mark Kopua, Dr. Di Kopua
