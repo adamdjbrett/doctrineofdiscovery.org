@@ -343,12 +343,14 @@ Steven Newcomb (Shawnee/Lenape) co-founded the Indigenous Law Institute in 1992
 
 ### Jim O'Connor
 
-**Jim O'Connor** is a Special Collections Research Center at Syracuse University Library. He is a member of Sound Beat: Access Audio, a storytelling initiative of the Special Collections Research Center at Syracuse University Libraries, which launched a 12-part podcast series titled, "[The Land You're On: Acknowledging the Haudenosaunee](https://soundbeat.org/sound-beat-access-audio/the-land-youre-on-acknowledging-the-haudenosaunee/ "https://soundbeat.org/sound-beat-access-audio/the-land-youre-on-acknowledging-the-haudenosaunee/")." The podcast series features candid conversations with SU Haudenosaunee students, alumni, staff and community members. Its aim is to help listeners learn about the history and the people who were the first residents of the area.
+**Jim O'Connor** is the producer of Access Audio, a storytelling initiative of the Special Collections Research Center at Syracuse University Libraries, which launched a 12-part podcast series titled, "[The Land You're On: Acknowledging the Haudenosaunee](https://soundbeat.org/sound-beat-access-audio/the-land-youre-on-acknowledging-the-haudenosaunee/ "https://soundbeat.org/sound-beat-access-audio/the-land-youre-on-acknowledging-the-haudenosaunee/")." The podcast series features candid conversations with SU Haudenosaunee students, alumni, staff and community members. Its aim is to help listeners learn about the history and the people who were the first residents of the area.
 
 ### Naimi Pankaj Patel
+
 Began Ph.D. program at Syracuse University in religion 2022; MTS in South Asian Religions, Harvard Divinity School 2021; BA in Religion, Philosophy, and Journalism and Media Studies, Rutgers University 2018; Research Interests: Hindu Religious Traditions; love, affect, and performance; digital religiosity; comparative religion, global religious movements, South Asian diaspora; identity, community, and belonging.
 
 ### Cara Peacock
+
 Univeristy of Toronto Ph.D. student in Political Science
 Nehiyaw and Anishinaabe. Political philosophy and decolonial feminisms.
 
@@ -361,6 +363,7 @@ Jim Perkinson is a long-time activist and educator from inner city Detroit, wher
 Jim is interested in using a broad array of interdisciplinary tools to investigate the way socio-economic position, racial presupposition, and gender perspective already inform our values and orientation to life long before we begin to grapple with questions of identity, ministry or spirituality. He is particularly concerned to understand the way white supremacy, as an effect of colonial Christian practices, continues to be reproduced in mainstream Western cultures. In addition, he explores how the creative forms of cultural resistance developed by marginalized groups can critically challenge Christianity today. These concerns figure in both his academic writing and the performance poetry that he produce as a necessary adjunct to teaching. Becoming at least bi-cultural in communication skills and poly-rhythmic in spiritual practice is fast emerging as a requisite capacity for Christian leadership in a transnational world. And the need for a pedagogy adequate to such a demand is his consuming passion.
 
 ### Katie Peters
+
 ​I am an ABD doctoral student in Philosophy at the University of Connecticut, under the supervision of Heather Battaly and Tracy Llanera.
  
 My dissertation explores the intersection of extremism and gender—specifically, the role and presence of women in the American far-right. Women’s roles in the far-right have often been dismissed, ignored, or counted as 'feminist' wins despite the regressive content of their beliefs. My dissertation focuses on the ways in which we exculpate these women in discussions of moral responsibility, and proposes an alternative understanding of both backward- and forward-looking moral responsibility based in intersectional feminist theory.

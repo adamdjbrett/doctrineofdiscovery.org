@@ -41,6 +41,12 @@ Tel: +1 315-475-3000
 [Book your group rate for Indigenous Values Initiative Room Block](https://www.marriott.com/events/start.mi?id=1696255556793&key=GRP){: .btn .btn--success .btn--x-large}
 
 
+## Parking
+
+- Friday, December 8th:  Parking available in Hillside, College Place, Carnegie lots and Irving garage  
+- Saturday, December 9th and Sunday, December 10th events: 
+  - Comstock Avenue Garage, and the following open lots:  
+  - University Ave. North, University Ave. South and Harrison.  
 
 ## Tenative Conference Schedule
 

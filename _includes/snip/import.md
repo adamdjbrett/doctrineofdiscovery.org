@@ -178,6 +178,8 @@
 
 #### [Māori Performance](#A117)
 
+![Cover Art](/assets/images/Maori-Performance.jpg)
+
 - Poetry: Tina Ngata, Bronwyn Williams
 - Storytelling: Papa Mark Kopua, Dr. Di Kopua
 - Instrumentalists: James Webster, Hinemoa Jones, Rikki Solomon
