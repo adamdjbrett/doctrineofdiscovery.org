@@ -106,7 +106,7 @@
 ### [Law Panel III: Federal Anti-Indian Law](#A110)
 
 - *Paula Johnson, Syracuse University College of Law,Chair*
-- Joseph J. Heath, Ononddaga Nation General Counsel
+- Joseph J. Heath, Onondaga Nation General Counsel
 - Steven T. Newcomb, Indigenous Law Institute/Original Free Nations
 - Peter d'Errico, University of Massachusetts Amherst
 
