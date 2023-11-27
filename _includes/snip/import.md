@@ -47,7 +47,11 @@
 #### [Bishops Panel](#A104)
 
 - *Philip P. Arnold, Syracuse University, Chair*
-
+- Rev. Lee M. Miller II
+- Bishop Douglas Lucia
+- Rt. Rev. Dr. DeDe Duncan-Probe 
+- Jake Haiwhagai’i Edwards
+- Freida J. Jacques, Whatwehni:neh
 
 <span id="aa105"></span>
 ### [Panel A105](#A105)

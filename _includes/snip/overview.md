@@ -12,7 +12,7 @@
 - [Panel A111](#A111) [Documenting the Doctrine of Discovery, Mueseums, Libraries & Data Science](#A111)
 - [Panel A112](#A112) - [Recognizing Indigenous Rights Inter-nationally](#A112)
 - [Panel A113](#A113) - [Soulforce](#A113)
-- [Panel A114](#A114) - [Artist Award Annoucements by Prize Winners](#A114)
+- [Panel A114](#A114) - [Documenting the Doctrine of Discovery, Museums, Libraries & Data Science Part 2](#A114)
 - [Panel A115](#A115) - [Faith & Land Justice: Repairing the Harms of the Doctrine of Christian Discovery](#A115)
 - [Panel A116](#A116) - [The Religious Origins of White Supremacy: Johnson v. M'Intosh and the Doctrine of Christian Discovery.](#A116)
 - [Panel A117](#A117) - [Māori Performance: Tēnei Te Põ Nau Mai Te Ao: Ancient Māori Puppetry Healing Traumatic Histories](#A117)
