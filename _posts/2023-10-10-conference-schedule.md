@@ -59,11 +59,11 @@ to open on your device. If it doesn’t open on its own, [open your browser to t
 
 ## Tenative Conference Schedule
 
- {% include_cached schedule.html %}
+ {% include_cached scheduleupdate.html %}
 
 
 
- {% include_cached snip/import.md %}
+ {% include_cached snip/importnew.md %}
 
 ## Speaker Bios
 if you would like your bio included please email your *short* bio to info@indigenousvalues.org
