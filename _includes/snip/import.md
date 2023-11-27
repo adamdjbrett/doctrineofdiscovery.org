@@ -68,10 +68,10 @@
 #### [Engaged Humanities Network: Engaging the Doctrine of Discovery Beyond the Classroom](#A106)
 
 - *Brice Nordquist, Director of the Engaged Humanities Network, Chair*
-- Heather Law Pezzarossi - Assistant Professor, Anthropology Department, SU
-- Rochele Royster - Assistant Professor, Creative Arts Therapy, SU
-- Scott Manning Stevens - Akwesasne Mohawk, Director, Native American and Indigenous Studies, SU
-- Jordan Loewen-Colón - Queens University
+- Heather Law Pezzarossi, Assistant Professor, Anthropology Department, SU
+- Rochele Royster, Assistant Professor, Creative Arts Therapy, SU
+- Scott Manning Stevens, Akwesasne Mohawk, Director, Native American and Indigenous Studies, Syracuse University
+- Jordan Loewen-Colón, Queens University
 
 
 
@@ -133,9 +133,7 @@
 
 <span id="aa113"></span>
 ### [Panel A113](#A113)
-
-#### SUNY ESF Diversity and Knowledge of the Environment Class
-*Students welcome you to take a gallery walk around the room to talk with them about their final class posters, featuring ways the DoCD is still operating, and ways it is being resisted by humans and the more-than-human.*
+#### SOULFORCE
 
 
 <span id="aa114"></span>
@@ -176,7 +174,7 @@
 <span id="aa117"></span>
 ### [Panel A117](#A117)
 
-#### [Māori Performance](#A117)
+#### [Māori Performance: Tēnei Te Põ Nau Mai Te Ao: Ancient Māori Puppetry Healing Traumatic Histories](#A117)
 
 [![Cover Art](/assets/images/Maori-Performance.jpg)](/assets/images/Maori-Performance.jpg)
 
@@ -406,10 +404,12 @@ Dene Nation & Assembly of First Nations Regional Chief
 
 
 
-<span id="cc111"></span>
-### [Panel C111](#C111)
+<span id="cc113"></span>
+### [Panel C113](#C113)
 
-#### [Open](#C111)
+#### [SUNYESF](#C113)
+#### SUNY ESF Diversity and Knowledge of the Environment Class
+*Students welcome you to take a gallery walk around the room to talk with them about their final class posters, featuring ways the Doctrine of Christian Discovery is still operating, and ways it is being resisted by humans and the more-than-human.*
 
 
 

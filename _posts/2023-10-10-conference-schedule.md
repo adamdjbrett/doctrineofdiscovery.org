@@ -18,6 +18,9 @@ toc_label: "Overview"
 toc_icon: "cog"
 published: true
 ---
+## Website Note
+The printed conference schedeule will have panel locations. The printed schedule is canonical.
+
 ## Description
 December 8-10, 2023, Syracuse University 
 
