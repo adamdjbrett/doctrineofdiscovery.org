@@ -336,12 +336,14 @@
 
 #### [The Story of the Empty Cradleboard Mandate: Indigenous Delegates to Vatican Discuss Lessons Learned and Next Steps After Repudiation](#C101)
 
-- *Kalhuyanu:wes Michelle,Schenandoah,Syracuse University College of Law,Chair*
-- Kalhuyanu:wes Michelle, Schenandoah Onʌyota’:aka (Oneida) Wolf Clan 
-- Louise Wakerakats:se,Herne Kanien’keha:ka (Mohawk), Bear Clan Mother
-- Chief Gerald Antoine,Dene National Chief/AFN NWT Regional Chief
-- Jonel Beauvais,Kanien’keha:ka (Mohawk), Wolf Clan
-
+- Name: Mommabear, Wakerakats:te 
+Bear Clan Mother, Mohawk Nation 
+- Name: Michelle Schenandoah, Kaluhyanu:wes  
+Oneida Nation & Rematriation, Founder 
+-  Name: Jonel Beauvais, Kaianenhawis 
+Mohawk Nation, Mother & Community Member 
+-  Name: Chief Gerald Antoine
+Dene Nation & Assembly of First Nations Regional Chief 
 
 
 
