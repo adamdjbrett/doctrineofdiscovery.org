@@ -25,9 +25,21 @@ The printed conference schedeule will have panel locations. The printed schedule
 December 8-10, 2023, Syracuse University 
 
 ## Sponsors
-* Henry Luce Foundation
-* Syracuse University
-* Indigenous Values Initiative
+-	The Henry Luce Foundation
+-	Syracuse University
+  - Religion Department
+  - Biology Department
+-	Indigenous Values Initiative
+-	American Indian Law Alliance
+-	American Indian Community House
+-	Good Faith Media (GFM)
+- Neighbors of Onondaga Nation (NOON)
+- Syracuse Peace Council
+- Syracuse Cultural Workers
+-	Tonatierra 
+- Toward Our Common Public Life
+- Unitarian Universalisty Association
+
 
 
 ![Conference Flyer](/assets/images/2023-conference-banner.jpg)
