@@ -48,6 +48,12 @@ Tel: +1 315-475-3000
   - Comstock Avenue Garage, and the following open lots:  
   - University Ave. North, University Ave. South and Harrison.  
 
+## Campus WiFi
+1. You need a text-capable mobile phone to complete the process.
+2. Connect to the AirOrangeGuest wireless network and wait for the Network Guest Service Portal
+to open on your device. If it doesn’t open on its own, [open your browser to the guest portal](https://guestadmin.syr.edu/guest/register.php?_browser=1).
+3. Follow the instructions.
+
 ## Tenative Conference Schedule
 
  {% include_cached schedule.html %}
