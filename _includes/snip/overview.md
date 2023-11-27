@@ -33,7 +33,7 @@
 - [Panel C106](#C106) - [Catholicism and the Doctrine of Discovery](#C106)
 - [Panel C107](#C107) - [International Dimensions of the Doctrine of Discovery Panel III: International Human Rights](#C107)
 - [Panel C110](#C110) - [Contesting White Christian Nationalism](#C110)
-- [Panel C113](#C113) - [Soulforce](#C113)
+- [Panel C113](#C113) - [SUNY/ESF Poster Session](#C113)
 - [Panel C114](#C114) - [Colonial Words Creating Worlds](#C114)
 - [Panel C115](#C115) - [Contextualizing Domination through Intellectual History](#C115)
 - [Panel D111](#D111) - [Witness to Injustice Program](#D111)
