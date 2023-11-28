@@ -338,13 +338,13 @@
 
 #### [The Story of the Empty Cradleboard Mandate: Indigenous Delegates to Vatican Discuss Lessons Learned and Next Steps After Repudiation](#C101)
 
-- Name: Mommabear, Wakerakats:te 
+- Mommabear, Wakerakats:te 
 Bear Clan Mother, Mohawk Nation 
-- Name: Michelle Schenandoah, Kaluhyanu:wes  
+- Michelle Schenandoah, Kaluhyanu:wes  
 Oneida Nation & Rematriation, Founder 
--  Name: Jonel Beauvais, Kaianenhawis 
+- Jonel Beauvais, Kaianenhawis 
 Mohawk Nation, Mother & Community Member 
--  Name: Chief Gerald Antoine
+- Chief Gerald Antoine
 Dene Nation & Assembly of First Nations Regional Chief 
 
 
