@@ -42,7 +42,7 @@ December 8-10, 2023, Syracuse University
 
 
 
-![Conference Flyer](/assets/images/2023-conference-banner.jpg)
+[![Conference Flyer](/assets/images/2023-conference-banner.jpg)](/assets/images/2023-conference-banner.jpg)
 
 
 ## Register
