@@ -156,8 +156,8 @@
 
 #### [Faith & Land Justice: Repairing the Harms of the Doctrine of Christian Discovery](#A115)
 
-- Sarah Bradley, Nuns & Nones Land Justice Project, Chair
 - Pat McCabe, (Diné)
+- Sarah Bradley, Nuns & Nones Land Justice Project
 - Sarah Augustine, (Tewa), Dismantling the Doctrine of Discovery Coalition
 - Rick Ufford-Chase, Center for Jubilee Practice
 - Sarah Bradley, Nuns & Nones Land Justice Project
@@ -237,7 +237,6 @@
 #### [International Dimensions of the Doctrine of Discovery Panel I](#B106)
 
 *Lars Kirkhusmo Pharo,Nord University, Chair*
-- Zachary Melton, University of Iceland, "Race and Religion in the Medieval Norse Discovery"
 - Lars Kirkhusmo Pharo, Nord University, "Intellectual Diversity and Complexity in “Terra Nullius” Methodology of Comparative History of Religions and Ideas"
 - Tove Mentse Ness, Nord University, "‘We tried to take care of her, but it got too exhausting.’ A study of the transition from family carer to employer"
 
