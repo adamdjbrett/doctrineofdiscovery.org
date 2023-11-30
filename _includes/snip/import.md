@@ -137,7 +137,12 @@
 
 <span id="aa113"></span>
 ### [Panel A113](#A113)
-#### SOULFORCE
+#### Spirits Unyielding: Sabotaging the Ideologies of white Christian Supremacy from the US South and the Global South
+##### SOULFORCE
+- Rev Alba Onofrio, Appalachia, Western NC (Executive Director)
+- Assata de la Cruz, Mobile, Alabama (Director of Community Outreach)
+- Karina Vargas, Costa Rica (Director of the Institute on Spiritual Violence, Healing, and Social Change)
+- Nadia Arellano, Mexico (Associate Director of Soulforce, and Director of Latin American Programming)
 
 
 <span id="aa114"></span>

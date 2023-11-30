@@ -14,6 +14,12 @@ Telma's research draws on neocolonialism studies as a theoretical framework, als
 ### Chief Gerald Antoine
 Dene National Chief/AFN NWT Regional Chief 
 
+### Nadia Arellano
+#### Soulforce
+Nadia Arellano Tapia is an intercultural facilitator from Mexico City with a background in human rights and feminist theologies. Nadia accompanies the family members of victims of violence, and also works with feminist women of faith and religious communities open to the LGBTIQA+ community as they mobilize against religious fundamentalisms and spiritual violence. She is passionate about learning, asking questions, reading, and thinking aloud with others.
+
+
+
 ### Philip P. Arnold
 
 [Dr. Philip P. Arnold](https://indigenousvalues.org/about/our-team/), Associate Professor in the Department of Religion at Syracuse University. Associate Professor and Chair of Religion Department at Syracuse University as well as core faculty in Native American and Indigenous Studies.  He is the Founding Director of the Skä-noñh---the Great Law of Peace Center (www.skanonhcenter.org).  His books are *Eating Landscape: Aztec and European Occupation of Tlalocan* (1999); *Sacred Landscapes and Cultural Politics: Planting a Tree* (2001); *The Gift of Sports: Indigenous Ceremonial Dimensions of the Games We Love* (2012) and *Urgency of Indigenous Values and the Future of Religion* (University of New Mexico Press, forthcoming).  He is a founding member of Neighbors of the Onondaga Nation (NOON), ([www.peacecouncil.net/NOON/](https://www.peacecouncil.net/NOON/)) and established the Doctrine of Discovery Study Group ([www.doctrineofdiscovery.org](https://www.doctrineofdiscovery.org)) He is President of the Indigenous Values Initiative ([www.indigenousvalues.org](https://www.indigenousvalues.org)), a non-profit organization to support the educational work of the Skä-noñh---Great Law of Peace Center.
@@ -109,9 +115,14 @@ He has published and given lectures on a wide variety of subjects, including met
 Professor Chestek is one of three co-authors of a textbook for first-year courses in legal persuasion. All three authors are former Presidents of LWI. The second edition of the book, *Your Client's Story: Persuasive Legal Writing*, was published by Aspen in 2018.
 
 ### Elisha Chi
-Ph.D. Candidate at Villanova University	
+
+Ph.D. Candidate at Villanova University.	
+
 My research sits at the intersection of Indigenous Studies, Ethics, and Theology and Religious studies, with a focus on anticolonial critique and decolonial return of Indigenous land. I love teaching, and have enjoyed dipping my toes into the fascinating world of digital scholarship for the humanities. I'm also grateful for my experience as a community mediator - specifically the social-emotional skills inherent in that work - which has helped me to successfully navigate conflicts between students in my classroom, as well as parse underlying assumptions and concerns that arise as questions during research presentations - all of which provides a better learning environment for everyone in the room.
 
+### Assata de la Cruz
+
+Assata de la Cruz is a Black & Indigenous Queer Southern mama of two. In addition to Soulforce, she is the owner of an apothecary and botanica rooted in Yoruba and Chahta ancestral wisdom. Through academia, she studied Journalism and Communications with a minor in Theology. Through her community, she is a forever student of rootwork, curanderismo and yoga. As an Aquarius, she thrives on creativity which she shares with the world through writing, photography and creating online content to amplify marginalized voices particularly against white Christian Supremacy.
 
 ### Sean Cunningham
 The National Archives UK, Advice and Records Knowledge, Head of Medieval Records
@@ -265,6 +276,10 @@ I'm a graduate student in the Syracuse University Department of Religion. I'm in
 
 Dana Lloyd is Assistant Professor of Global Interdisciplinary Studies and Affiliated Faculty, Center for Peace and Justice Education at Villanova University. She is the author of *Land Is Kin: Sovereignty, Religious Freedom, and Indigenous Sacred Sites* (University Press of Kansas, 2023). She holds a PhD in Religion from Syracuse University, and a law degree and an LLM from Tel Aviv University's Faculty of Law. [Faculty Bio](https://www1.villanova.edu/university/liberal-arts-sciences/programs/global/faculty/biodetail.html?mail=dana.lloyd@villanova.edu&xsl=bio_long)
 
+### Kenneth H. Lokensgard
+
+Dr. Kenneth H. Lokensgard is the Assistant Director for the [Center for Native American Research & Collaboration](https://native.wsu.edu/cnrc/), in the Office of [Native American Programs](https://native.wsu.edu/), at Washington State University. Ken's research has focused upon the sometimes conflicting ontologies and epistemologies of Indigenous and Non-Indigenous peoples. Specifically, he has worked with *Niitsitapi* (Blackfoot) elders and ceremonialists, in the US and Canada, to highlight the personhood of Blackfoot ceremonial items and the need for their repatriation. He is also interested in traditional protocols of reciprocity practiced by Native Americans and how they inform Indigenous research methodologies. Dr. Lokensgard is committed to promoting the importance of these protocols and methodologies, as means of facilitating collaborative work between Native and Non-Native communities. To this end, he is active in developing Institutional Review Board processes and guidelines that ensure collaboration and recognition of Tribal sovereignty. He is also committed to promoting Native scholarship and scholars within the academy and elsewhere.
+
 ### Jason Long
 
 Youngstown State University, History and Political Science
@@ -368,6 +383,10 @@ Steven Newcomb (Shawnee/Lenape) co-founded the Indigenous Law Institute in 1992
 ### Jim O'Connor
 
 **Jim O'Connor** is the producer of Access Audio, a storytelling initiative of the Special Collections Research Center at Syracuse University Libraries, which launched a 12-part podcast series titled, "[The Land You're On: Acknowledging the Haudenosaunee](https://soundbeat.org/sound-beat-access-audio/the-land-youre-on-acknowledging-the-haudenosaunee/ "https://soundbeat.org/sound-beat-access-audio/the-land-youre-on-acknowledging-the-haudenosaunee/")." The podcast series features candid conversations with SU Haudenosaunee students, alumni, staff and community members. Its aim is to help listeners learn about the history and the people who were the first residents of the area.
+
+### Rev Alba Onofrio
+
+Rev Alba Onofrio (aka Reverend Sex) is a Southern Appalachian First-Gen Latinx Queer Evangelical Femme Resister who lives and loves in la Lucha with QTPOC folks as a Spiritual Healer and Bruja Troublemaker to subvert systems of domination, combat spiritual terrorism, reclaim the Divine and the erotic, and eradicate shame and fear wherever they are found. They hold a Masters of Divinity degree from Vanderbilt Divinity School, where their studies focused on the theologies of sex, embodiment of the Divine in the queer colonized body, and sexual ethics based in queer desire. Alba has also worked in the immigrants rights movement for over a decade, previously serving as the Executive Director of El Centro Hispano, the then-largest non-religiously affiliated grassroots community center in North Carolina. As the former spiritual strategist for Soulforce and co-founder of the Sexual Liberation Collective, Reverend Sex continues to work for Queer Liberation all over the place, but most fondly in the US South and in solidarity with the Global South.
 
 ### Naimi Pankaj Patel
 
@@ -495,11 +514,6 @@ Eglute Trinkauskaite is a full time faculty in Humanistic Studies department at 
 
 She holds her PhD, MPhil, and MA in Religion from Syracuse University and her BA in Religion from Hunter College, City University of New York. Her teaching and research interests focus on indigenous and ethnic traditions, the natural environment, and globalization. Her latest writing explores complex layers of culture and religion in post-Soviet Lithuania. Her current book project, The Swarming Dead, focuses on the continued vitality of indigenous religion and its imprint on modern Lithuania and its diaspora. Eglute has taught at Syracuse University, Hamilton College, and Nazareth College of Rochester, New York. She is an active member of American Academy of Religion and Association for the Advancement of Baltic Studies.
 
-### Kenneth H. Lokensgard
-
-Dr. Kenneth H. Lokensgard is the Assistant Director for the [Center for Native American Research & Collaboration](https://native.wsu.edu/cnrc/), in the Office of [Native American Programs](https://native.wsu.edu/), at Washington State University. Ken's research has focused upon the sometimes conflicting ontologies and epistemologies of Indigenous and Non-Indigenous peoples. Specifically, he has worked with *Niitsitapi* (Blackfoot) elders and ceremonialists, in the US and Canada, to highlight the personhood of Blackfoot ceremonial items and the need for their repatriation. He is also interested in traditional protocols of reciprocity practiced by Native Americans and how they inform Indigenous research methodologies. Dr. Lokensgard is committed to promoting the importance of these protocols and methodologies, as means of facilitating collaborative work between Native and Non-Native communities. To this end, he is active in developing Institutional Review Board processes and guidelines that ensure collaboration and recognition of Tribal sovereignty. He is also committed to promoting Native scholarship and scholars within the academy and elsewhere.
-
-
 ### Terry Reeder
 
 Hello, I am Terry Reeder PhD. I am an anti-racist feminist who has taught Religious Studies and Ethics at multiple colleges including Syracuse University, Nazareth College, St. John Fisher, the College of St. Rose and LeMoyne College. I am currently a Visiting Assistant Professor at the College of Wooster in Ohio. As a Catholic high school Religion teacher I became increasingly unable to live with the social justice violations that I was complicit with as a Catholic educator. This includes the Doctrine of Discovery. The year that I became a grandmother I began a doctoral program in Religion at Syracuse University. At SU I  studied the ethics of Christianity and ways to deconstruct and dismantle religious colonialism and sexism in order to  build a more just world. For me the most important way to grow in justice  is to learn from Indigenous teachers. I try to balance my scholarship with activism, and to continually decolonize myself, my pedagogy, and my religion.  It is an honor to be at this conference learning from and with these esteemed teachers and other participants.
@@ -509,6 +523,11 @@ Syracuse University
 
 ### Rick Ufford-Chase
 Center for Jubilee Practice	
+
+### Karina Vargas
+Karina Vargas Espinoza is Costa Rican, and an educator, feminist theologian, linguist, and psychologist. She holds a Master’s Degree in Global Leadership from Fuller Seminary in Pasadena, California, and a Master’s Degree in Studies of Social and Family Violence from Universidad Estatal a Distancia located in San José, Costa Rica. She currently serves as Director for the Institute on Spiritual Violence, Healing and Social Change, a project of Soulforce. She is also a professor of Liberation Theologies at the Center for World Education and Experience at the University of Augsburg in Minnesota. Among her main research focuses are the power dynamics involved in spiritual-religious violence and therapeutic processes to support survivors of these forms of violence.
+
+
 
 ### James Webster
 
