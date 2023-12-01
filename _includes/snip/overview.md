@@ -1,5 +1,5 @@
 
-- [Panel A101](#A101) - [Syracuse University Doctrine of Discovery Seminar Presentations](#A101)
+- [Panel A101](#A101) - [Syracuse University Discovery and Indigenous Peoples Seminar](#A101)
 - [Panel A102](#A102) - [Confronting Religious Racism Panel](#A102)
 - [Panel A103](#A103) - [Law Panel I: 200 Years of Johnson v. M'Intosh](#A103)
 - [Panel A104](#A104) - [Bishops Panel](#A104)

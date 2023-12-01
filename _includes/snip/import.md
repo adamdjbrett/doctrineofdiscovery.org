@@ -4,15 +4,13 @@
 <span id="aa101"></span>
 ### [Panel A101](#A101) 
 
-#### [Syracuse University Doctrine of Discovery Seminar Presentations](#A101)
+#### [Syracuse University Discovery and Indigenous Peoples Seminar](#A101)
 
 - *Quinn Pierson, Syracuse University, Chair*
-- Joss Yarbrough, Syracuse University
-- Naimi Pankaj Patel, Syracuse University
-- Shrutika Lakshmi, Syracuse University
+- Joss Willsbrough, Syracuse University, *"Word Became Flesh” - The DoCD and Sedimented Trauma in the Settler-Colonial Body*
+- Naimi Pankaj Patel, Syracuse University, *Epistemicide*
+- Shrutika Lakshmi, Syracuse University, *Other ways of dwelling: A Dalit Feminist Perspective*
 - *Philip P. Arnold, Syracuse University, Respondent*
-
-
 
 <span id="aa102"></span>
 ### [Panel A102](#A102)
@@ -404,7 +402,7 @@ Dene Nation & Assembly of First Nations Regional Chief
 ### [Panel C110](#C110)
 
 #### [Contesting White Christian Nationalism](#C110)
-- *Joss Yarbrough, Syracuse University, Chair*
+- *Joss Willsbrough, Syracuse University, Chair*
 - James (Jim) Perkinson,Ecumenical Theological Seminary,Routing Out Supremacy’s Religious Roots From Skin Color Back Through Bible Code to City-State Coercion
 - Jonathan Nahar, "The DoCD White Christian Nationalism, and Palestine"
 - Mitch Randall, Good Faith Media

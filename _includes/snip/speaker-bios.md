@@ -541,7 +541,7 @@ Born and raised on the historical Ohlone lands in the California Bay Area into a
 
 Her formal education includes a CMT from the McKinnon Institute of Massage Therapy in Oakland, CA; a BA from Haverford College in Anthropology, an MA in international development from the Institute of Development Studies at the University of Sussex, UK;  and a Masters of Divinity (M.Div.) at Union Theological Seminary. Her international speaking engagements have brought her to 10 countries and she has spoken in over 16 U.S. states. She currently lives on the historical homeland of the Mohigan/Mahican people in the Hudson Valley. She enjoys painting dragons, sitting around fires, and moonlit walks.
 
-### Joss Yarbrough
+### Joss Willsbrough
 Syracuse University
 
 ### Victor Valle
