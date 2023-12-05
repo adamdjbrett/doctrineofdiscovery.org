@@ -172,7 +172,7 @@
 
 #### [The Religious Origins of White Supremacy: Johnson v. M'Intosh and the Doctrine of Christian Discovery.](#A116)
 
-- *Betty Lyons,American Indian Law Alliance, Chair*
+- *Betty Lyons, American Indian Law Alliance, Chair*
 - Oren Lyons, Onondaga Nation
 - Robert P. Jones,The Public Religion Research Institute
 - Anthea Butler,University of Pennsylvania
