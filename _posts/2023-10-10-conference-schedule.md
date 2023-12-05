@@ -21,6 +21,9 @@ published: true
 ## Website Note
 The printed conference schedeule will have panel locations. The printed schedule is canonical.
 
+## Land Acknowledgement
+We acknowledge with respect the Onondaga Nation, firekeepers of the Haudenosaunee, the Indigenous peoples on whose ancestral lands Syracuse University now stands. 
+
 ## Description
 December 8-10, 2023, Syracuse University 
 
@@ -69,6 +72,28 @@ Tel: +1 315-475-3000
 to open on your device. If it doesn’t open on its own, [open your browser to the guest portal](https://guestadmin.syr.edu/guest/register.php?_browser=1).
 3. Follow the instructions.
 
+
+### Meals
+
+- Friday dinner is provided at the Skä-noñh Center
+
+- Saturday and Sunday lunch is provided
+
+### Book Display
+
+Many of our conference attendees have new or recent books on topics related to the conference. We encourage you to stop by the Syracuse University bookstore display on the first floor of the Hall of Languages. Some of these books will only be easily available at this conference.
+
+### Questions
+
+- Find event staff wearing the event lanyard and ask.
+
+- Ask at the info table on the first floor of the Hall of Languages
+
+### Navigation
+
+- For a detailed campus map visit [maps.syracuse.edu](https://maps.syracuse.edu/)
+
+
 ## Tenative Conference Schedule
 
  {% include_cached schedule.html %}
@@ -81,3 +106,6 @@ to open on your device. If it doesn’t open on its own, [open your browser to t
 if you would like your bio included please email your *short* bio to info@indigenousvalues.org
 
   {% include_cached snip/speaker-bios.md %}
+
+## Special Thanks
+Special thanks to Dr. Adam DJ Brett, Deborah Pratt, Alex Snow, and our volunteers.
