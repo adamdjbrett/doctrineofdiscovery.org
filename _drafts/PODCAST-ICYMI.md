@@ -19,3 +19,14 @@ Join us for an intriguing dive into Lithuania's rich post-Soviet culture and anc
 Immerse yourself in the unique spiritual aspects of Lithuania's mushroom and bee traditions, explore the country's religious evolution, and uncover the challenges of preserving ancient traditions in our latest podcast episode. #LithuanianTraditions #Religion #Podcast
 
 How has Lithuania's independence in 1991 impacted the resurgence of religious traditions? Our latest podcast episode discusses the intersection of history, culture, and religion in post-Soviet Lithuania. Don't miss out! #Lithuania #ReligiousResurgence #Podcast
+
+## S03E05
+Immerse yourself in a deep exploration of sacred land, indigenous rights, and sovereignty with Dr. Dana Lloyd in our latest podcast episode. Discover the parallels between Israel-Palestine and the US settler colonial contexts. #SacredLand #IndigenousRights
+
+
+Unpack the complexities of indigenous sovereignty, religion, and property law in our recent episode with Dr. Dana Lloyd. Understand the Ling case's impact on indigenous and settler law. Don't miss out! #IndigenousSovereignty #SettlerLaw #Podcast
+
+
+In our new episode, we delve into the intersection of environmentalism and indigenous rights. Dr. Dana Lloyd guides us through the concept of wilderness, challenging your perceptions. Tune in now! #Environmentalism #IndigenousRights #Podcast
+
+
