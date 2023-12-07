@@ -347,6 +347,8 @@ Previous work experiences include Lecturer for Latin at the University of Greifs
 ### Sharon Moran 
 Associate Professor, Environmental Studies, SUNY–ESF
 
+Sharon Moran is a geographer from the Department of Environmental Studies at SUNY- Environmental Science and Forestry. Her research explores the connections among people, water, and land in several places across Turtle Island. She's especially interested how technologies are involved in mediating people's relationships with water. Classes she offers to SU and ESF students include 'Sustainable Enterprise' and 'Diversity and Knowledge of the Environment.' Her recent work has explored ways to advance environmental justice, stream restoration, community science, and composting toilets, among other things. Together with Professors Richard Smardon and April Baptiste, she's a co-author of *Revitalizing Urban Waterways: Streams of Environmental Justice*.
+
 ###  Tove Synnøve Mentsen Ness
 Avdelingsleder, Faculty of Education and Arts, Nord University
 
