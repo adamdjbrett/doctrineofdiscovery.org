@@ -88,6 +88,9 @@ Many of our conference attendees have new or recent books on topics related to t
 
 - Ask at the info table on the first floor of the Hall of Languages
 
+### Classroom technology options
+[In the Hall of Languages here is what is available technology wise](https://answers.syr.edu/display/itslemp/Hall+of+Languages)
+
 ### Navigation
 
 - For a detailed campus map visit [maps.syracuse.edu](https://maps.syracuse.edu/)
