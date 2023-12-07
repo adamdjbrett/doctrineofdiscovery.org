@@ -200,6 +200,9 @@ Prof. Hill Fletcher teaches at the intersection of Systematic Theology and issue
 
 She is the author of *The Sin of White Supremacy: Christianity, Racism and Religious Diversity in America*  (Maryknoll, N.Y.: Orbis, 2017). Honorable mention in category of 'Faithful Citizenship' Catholic Press Association Awards, 2018.
 
+### Leanne Goose
+Leanne Goose, Dene and Inuvialuit (Inuit), was the Indian Residential Schools Portfolio, AFN Senior Advisor for the Indigenous delegations that traveled to the Vatican to address Pope Francis in 2021, and for the Papal Visit to deliver his Apology to Indigenous Peoples in Canada. Goose is currently the senior policy advisor for the Dene Nation/Assembly of First Nations Northwest Territories. 
+
 ### Louise Wakerakats:se Herne
 Kanien’keha:ka (Mohawk), Bear Clan Mother		
 
