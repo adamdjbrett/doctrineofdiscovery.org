@@ -93,6 +93,25 @@ Many of our conference attendees have new or recent books on topics related to t
 
 - For a detailed campus map visit [maps.syracuse.edu](https://maps.syracuse.edu/)
 
+#### In the Court of the Conqueror
+"In the Court of the Conqueror"
+
+written and performed by george emilio sanchez 
+
+In collaboration with visual artist Patty Ortiz
+
+#### Techical Assistance
+
+- Lights: Jorgen Skjaervold
+- Video projections: Patty Ortiz
+- Acknowledgements for the program:
+
+#### Thanks
+We especially with to acknowledge and thank:
+- Lauren Parrish-Tech Director for *In the Court of the Conqueror*
+- Andre Bouchard and Indigenous Performance Productions
+- The University of Oklahoma's Indigenous Peoples Law Masters of Legal Studies program
+
 
 ## Tenative Conference Schedule
 

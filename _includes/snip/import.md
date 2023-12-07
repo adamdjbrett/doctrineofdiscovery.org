@@ -348,7 +348,7 @@ Oneida Nation & Rematriation, Founder
 Mohawk Nation, Mother & Community Member 
 - Chief Gerald Antoine
 Dene Nation & Assembly of First Nations Regional Chief 
-- Leanne Goose, Dene and Inuvialuit (Inuit)
+- Leanne Goose, Senior Policy Advisor -  Dene Nation/Assembly of First Nationals Northwest Territories.
 
 
 
