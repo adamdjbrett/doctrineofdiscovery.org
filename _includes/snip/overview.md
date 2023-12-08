@@ -19,7 +19,7 @@
 - [Panel A118](#A118) - [Traditional Haudenosaunee Thanksgiving Address Closing](#A118)
 - [Panel B101](#B101) - [The Religious Origins of January 6th: Fear, Otherness, and White Supremacy](#B101)
 - [Panel B102](#B102) - [Political Theologies of Discovery](#B102)
-- [Panel B105](#B105) - [Challenging Christianization and Civlization Narratives](#B105)
+- [Panel B105](#B105) - [Challenging Christianization and Civilization Narratives](#B105)
 - [Panel B106](#B106) - [International Dimensions of the Doctrine of Discovery Panel I](#B106)
 - [Panel B107](#B107) - [Land Panel I: Devestated Landscapes and Eco-Justice](#B107)
 - [Panel B110](#B110) - [International Dimensions of the Doctrine of Discovery Panel II](#B110)

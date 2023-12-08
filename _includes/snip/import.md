@@ -225,7 +225,7 @@
 <span id="bb105"></span>
 ### [Panel B105](#B105)
 
-#### [Challenging Christianization and Civlization Narratives](#B105)
+#### [Challenging Christianization and Civilization Narratives](#B105)
 - *Fatma Celik, Syracuse University, Chair*
 - Sandra Klein, Université de Liège, "Religion as a Tool for Racist Subjugation and Black Liberation in Robert Jones, Jr.’s The Prophets (2021)"
 - Jason Long Youngstown State University  "“Christianized and Civilized”: Protestant Missionaries and American Hegemony in Hawai‘i, 1820-1898"

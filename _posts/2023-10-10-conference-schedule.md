@@ -109,7 +109,7 @@ In collaboration with visual artist Patty Ortiz
 - Acknowledgements for the program:
 
 #### Thanks
-We especially with to acknowledge and thank:
+We especially would like to acknowledge and thank:
 - Lauren Parrish-Tech Director for *In the Court of the Conqueror*
 - Andre Bouchard and Indigenous Performance Productions
 - The University of Oklahoma's Indigenous Peoples Law Masters of Legal Studies program
