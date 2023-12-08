@@ -96,11 +96,7 @@ Many of our conference attendees have new or recent books on topics related to t
 - For a detailed campus map visit [maps.syracuse.edu](https://maps.syracuse.edu/)
 
 #### In the Court of the Conqueror
-"In the Court of the Conqueror"
-
-written and performed by george emilio sanchez 
-
-In collaboration with visual artist Patty Ortiz
+"In the Court of the Conqueror" written and performed by george emilio sanchez and in collaboration with visual artist Patty Ortiz.
 
 #### Techical Assistance
 
@@ -115,8 +111,7 @@ We especially would like to acknowledge and thank:
 - The University of Oklahoma's Indigenous Peoples Law Masters of Legal Studies program
 
 #### Annotated Bibliography
-[In the Court of the Conqueror Annotated Bibliography by george emilio sanchez
-](assets/pdfs/In-the-Court-of -the-Conqueror-Annotated-Bibliography.pdf)
+[In the Court of the Conqueror Annotated Bibliography by george emilio sanchez](assets/pdfs/In-the-Court-of-the-Conqueror-Annotated-Bibliography.pdf)
 
 ## Tenative Conference Schedule
 
