@@ -41,7 +41,7 @@ December 8-10, 2023, Syracuse University
 - Syracuse Cultural Workers
 -	Tonatierra 
 - Toward Our Common Public Life
-- Unitarian Universalisty Association
+- Unitarian Universalist Association
 
 
 
