@@ -39,7 +39,7 @@ In January 2021, on the day the Capital building was under siege, Betty Lyons, D
 What follows is a brief lesson in the events that occurred when European Christians unloaded their domesticated animals from their ships on to the Indigenous lands of North America. The arrival of pigs, cattle, and horses --- along with their masters --- ushered in a transformation beyond belief. It all begins with the Doctrine of Discovery.
 
 
-\*\*\*
+*\*\*
 
 > **_Terra Nullius_**: _A Latin term meaning “land belonging to no one;” the refusal to recognize indigeneity; the handmaiden of colonization._
 
