@@ -16,7 +16,7 @@ categories:
   - Education
   - Papal-Bulls
 tags:
-  - Featured
+  - featured
   - papal-Bulls
   - education
   - resources
