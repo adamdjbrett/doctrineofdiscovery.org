@@ -12,7 +12,6 @@ tags:
   - Conference
   - Christianity
   - Christian-Zionism
-  - featured
 author: indigenous-values-initiative
 sidebar:
   - title: "Next Steps"
