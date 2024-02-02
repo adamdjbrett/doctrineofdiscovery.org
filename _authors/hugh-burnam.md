@@ -1,6 +1,6 @@
 ---
 username: hugh-burnam
-name: Hugh-Burnam
+name: Hugh Burnam
 avatar: /assets/images/authors/hugh-burnam-headshot.png
 links:
   - label: "Email"
