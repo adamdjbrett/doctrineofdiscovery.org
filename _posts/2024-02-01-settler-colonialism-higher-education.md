@@ -14,6 +14,7 @@ tags:
   - Syracuse
   - settler-colonialism
   - higher-education
+  - featured
 author: hugh-burnam
 sidebar:
   - title: "Next Steps"
