@@ -2,7 +2,7 @@
 title: "Settler Colonialism in Higher Education: Syracuse University and the Legacy of the Doctrine of Discovery (... and Onondaga Limestone)"
 excerpt_separator: "<!--more-->"
 header:
-  image: /assets/images/
+  image: /assets/images/Sims_Resized-copy.jpg
   caption: "[Sims Hall, SU Photo & Imaging RS 8246](https://library.syracuse.edu/special-collections-research-center/university-archives/buildings/sims-hall/)"
 categories:
   - Blog
