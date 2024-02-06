@@ -77,7 +77,7 @@ According to Greene (2000), the first building built on campus was the Hall of L
 
 Attorney for the Onondaga Nation, Joe Heath, explains that Syracuse University's founding and how they acquired the land is a mystery, but "how Onondaga lost it is simple: it was stolen" (para 3, Rivera, 2021). Of course, Joe Heath is referring to over 100 years prior, in which New York State illegally interfered with federal treaties to acquire lands from the Onondaga Nation and other Haudenosaunee nations through illegal deeds and treaties made with New York State officials (Graymont, 1976). New York State's illegal dealings foreshadow much of the ways in which Syracuse University and its leadership attempted to completely undermine and eradicate the Onondaga people, which is discussed in the next section.
 
-### "The Onondaga Indian Problem"
+### "The Onondaga Indian Problem"
 
 The Indian Removal Policy was most favored by settler society, but while Indian land was being stolen, bought, then resold through the Allotment Act (or the Dawes Act, 1887), subsequently the "Indian problem" became much more prominent and politicized as land became available (Otis, 2014). Much of these attitudes about Indigenous Peoples were documented and well known.
 
