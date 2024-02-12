@@ -3,7 +3,7 @@ gem "webrick"
 
 gem "github-pages", group: :jekyll_plugins
 gem 'liquid-c', '~> 4.0'
-
+gem 'jekyll', '3.8.6'
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
