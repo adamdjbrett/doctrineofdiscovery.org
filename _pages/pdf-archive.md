@@ -1,5 +1,6 @@
 ---
 title: PDF Archive Index
+layout: posts
 author_profile: false
 permalink: /pdf-archive/
 suggestedcitiation: false

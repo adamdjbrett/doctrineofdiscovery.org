@@ -1,5 +1,6 @@
 ---
 title: Join our email list
+layout: posts
 author_profile: false
 permalink: /email/
 suggestedcitiation: false

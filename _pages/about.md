@@ -1,5 +1,6 @@
 ---
 title: "About"
+layout: posts
 date: 2022-01-21T15:34:30-04:00
 author: indigenous-values-initiative
 author_profile: true

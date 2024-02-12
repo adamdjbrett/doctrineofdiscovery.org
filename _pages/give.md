@@ -1,5 +1,6 @@
 ---
 title: Give
+layout: posts
 author_profile: false
 permalink: /give/
 suggestedcitiation: false

@@ -1,5 +1,6 @@
 ---
 title: "Featured"
+layout: posts
 date: 2023-01-25T15:34:30-04:00
 author: indigenous-values-initiative
 author_profile: true
