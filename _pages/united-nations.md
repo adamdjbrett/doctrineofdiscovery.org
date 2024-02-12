@@ -5,7 +5,6 @@ header:
   image: assets/images/united-nations-hq-by-basil-d-soufi-min.jpg
   caption: "United Nations General Assembly Hall in the UN Headquarters, New York. Photo credit, Basil D Soufi."
 author: indigenous-values-initiative
-excerpt: "United Nations Declaration on the Rights of Indigenous Peoples and State of the World’s Indigenous Peoples."
 permalink: /united-nations/
 redirect_from: "/un/"
 published: true
@@ -19,7 +18,8 @@ tags:
   - United-Nations
   - Featured
 ---
-
+## United Nations Declaration on the Rights of Indigenous Peoples and State of the World’s Indigenous Peoples.
+<!--more-->
 
 * [United Nations Declaration on the Rights of Indigenous Peoples](/united-nations-declaration-on-the-rights-of-indigenous-peoples/)
 * [State of the World’s Indigenous Peoples](/sowip/)

@@ -5,7 +5,6 @@ header:
   caption: "Clergy from around the nation stood in solidarity with indigenous nations at Standing Rock Nov. 3. [(**Photo/Ellin Jimmerson**)](https://baptistnews.com/article/clergy-repudiate-doctrine-of-discovery-as-hundreds-support-indigenous-rights-at-standing-rock/)"
 caption: 'Clergy from around the nation stood in solidarity with indigenous nations at Standing Rock Nov. 3. Photo/Ellin Jimmerson.'
 author: indigenous-values-initiative
-excerpt: "Religious Communities who have Repudiated the Doctrine of Discovery."
 permalink: /faith-communities/
 published: true
 date: 2018-07-30 17:36:53
