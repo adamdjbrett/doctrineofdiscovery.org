@@ -12,6 +12,10 @@ tags:
   - religion
   - Christianity
   - featured
+  - WorldWaterOne
+  - domination
+  - doctrineofdiscovery
+  - cemanahuac
 author: tupac-enrique-acosta
 sidebar:
   - title: "Next Steps"
