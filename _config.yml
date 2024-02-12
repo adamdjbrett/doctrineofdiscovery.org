@@ -44,7 +44,7 @@ analytics:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "<!--more-->"
 incremental: true #set incremental to true to speed things up. if changes arent showing set to false
 
 # Markdown Processing
@@ -180,7 +180,6 @@ defaults:
       layout: single
       author_profile: false
       suggestedcitiation: false
-      #excerpt_separator: false
   # assets
   - scope:
       path: "assets/images"
