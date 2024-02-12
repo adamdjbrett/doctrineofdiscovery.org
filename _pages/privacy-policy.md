@@ -1,6 +1,5 @@
 ---
 title: "Privacy Policy"
-layout: posts
 author_profile: false
 permalink: /privacy-policy/
 redirect_from: 

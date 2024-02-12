@@ -1,6 +1,5 @@
 ---
 title: "Papal Bulls"
-layout: posts
 header:
   image: assets/images/papal-bull-doctrine-of-discovery-770.jpg
   caption: "Photo Credit: [Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection](https://www.gilderlehrman.org/content/doctrine-discovery-1493)"

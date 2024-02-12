@@ -1,6 +1,5 @@
 ---
 title: "Online Resources"
-layout: posts
 author: indigenous-values-initiative
 excerpt: "Online Resources about the Doctrine of Discovery"
 permalink: /online-resources/

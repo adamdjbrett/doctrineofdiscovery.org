@@ -1,6 +1,5 @@
 ---
 title: Thank you
-layout: posts
 author_profile: false
 permalink: /thank-you/
 suggestedcitiation: false

@@ -1,6 +1,5 @@
 ---
 title: "Law"
-layout: posts
 header:
   image: /assets/images/book-1659717_1280.jpg
 author: indigenous-values-initiative

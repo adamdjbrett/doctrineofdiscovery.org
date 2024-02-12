@@ -1,7 +1,6 @@
 ---
 ID: 8841
 title: "United Nations"
-layout: posts
 header:
   image: assets/images/united-nations-hq-by-basil-d-soufi-min.jpg
   caption: "United Nations General Assembly Hall in the UN Headquarters, New York. Photo credit, Basil D Soufi."

@@ -1,6 +1,5 @@
 ---
 permalink: /canopy/
-layout: posts
 title: "Canopy Forum Series"
 ---
 ## 200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands
