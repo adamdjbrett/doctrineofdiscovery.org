@@ -16,3 +16,7 @@ link: https://goodfaithmedia.org/new-good-faith-media-podcast-highlights-doctrin
 > “These Papal Bulls were a continuation of what had been going on since at least the 8th century from Charlemagne, through the Crusades, the Inquisition, the war on witches, to the Reconquista of the Iberian Peninsula,” the site says. 
 > 
 > The podcast was produced at the “Religious Origins of White Supremacy” conference in December 2023 at Syracuse University in New York. The conference was organized by Professor Philip P. Arnold of Syracuse, Sandy Bigtree (Mohawk Nation,) and Adam DJ Brett.
+
+Listen to the podcast on [Megaphone](https://goodfaithmedia.org/doctrine-of-christian-discovery/), [Spotify](https://open.spotify.com/show/4VnMhbq2UJbu3fdehsQ66I) or [Apple](https://podcasts.apple.com/us/podcast/doctrine-of-christian-discovery/id1729219360).
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4VnMhbq2UJbu3fdehsQ66I?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -1,5 +1,5 @@
 ---
-title: "New Good Faith Media Podcast Highlights ‘Doctrine of Christian Discovery’"
+title: "Listsen to the Doctrine of Christian Discovery Podcast Now"
 categories:
   - Blog
   - podcasts
