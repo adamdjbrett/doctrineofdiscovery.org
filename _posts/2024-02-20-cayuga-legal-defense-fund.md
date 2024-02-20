@@ -1,5 +1,5 @@
 ---
-title: "PGayogohó:nǫ˺ (Cayuga) Legal Defense Fund Launches: Justice for an Indigenous People"
+title: "Gayogohó:nǫ˺ (Cayuga) Legal Defense Fund Launches: Justice for an Indigenous People"
 categories:
   - Blog
 tags:
