@@ -93,8 +93,13 @@ next-steps:
         url: /blog/divine-right/  
       - title: "River Series"
         url: /categories/river/  
-  - title: "Podcast"
+  - title: "Podcasts"
     url: https://podcast.doctrineofdiscovery.org/
+    children:
+      - title: "Mapping the Doctrine of Discovery"
+        url: "https://podcast.doctrineofdiscovery.org"
+      - title: "Doctrine of Christian Discovery"
+        url: "https://cms.megaphone.fm/channel/AOOOI2818414790?selected=AOOOI9257433215"  
   - title: "Law"
     url: /law/
     children:
