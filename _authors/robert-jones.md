@@ -13,7 +13,7 @@ links:
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     url: "https://twitter.com/@robertpjones"
-    - label: "Facebook"
+  - label: "Facebook"
     icon: "fab fa-fw fa-facebook-square"
     url: "https://www.facebook.com/robertpjonesDC"
   - label: "Instagram"
