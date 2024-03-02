@@ -204,7 +204,7 @@
 
 #### [The Religious Origins of January 6th: Fear, Otherness, and White Supremacy](#B101)
 
-- *Joel Harriso, Northern Virginia Community College, Chair*
+- *Joel Harrison, Northern Virginia Community College, Chair*
 - Students of Northern Virginia Community College
 
 
