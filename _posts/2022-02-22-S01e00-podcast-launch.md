@@ -13,7 +13,7 @@ suggestedcitiation: false
 
 <div id="buzzsprout-player-10062173"></div><script src="https://www.buzzsprout.com/1926214/10062173-introduction-to-mapping-the-doctrine-of-discovery-podcast.js?container_id=buzzsprout-player-10062173&player=small" type="text/javascript" charset="utf-8"></script>
 
-[⤓ Download a transcript of Episode 0 as a PDF](/assets/pdfs/Episode-0-Introducting-Mapping-The-Doctrine-of-Discovery-Transcript-rev2.pdf) // [→ Subscribe](/subscribe/)
+[⤓ Download a transcript of Episode 0 as a PDF](https://podcast.doctrineofdiscovery.org/assets/pdfs/Episode-0-Introducting-Mapping-The-Doctrine-of-Discovery-Transcript-rev2.pdf) // [→ Subscribe](/subscribe/)
 
 > We begin this episode with a [land acknowledgement](/land/). Our hosts Prof. [Philip P. Arnold and Sandy Bigtree (Mohawk Nation)](https://indigenousvalues.org/about/our-team/) begin by explaining the need for and importance of this podcast and how they hope it will be a helpful educational resource for college classrooms.
 > 
