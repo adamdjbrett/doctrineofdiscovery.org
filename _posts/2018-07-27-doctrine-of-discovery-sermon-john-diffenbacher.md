@@ -17,7 +17,7 @@ tags:
 redirect_from:
   - /8934/
 ---
-### **How St. James’ Might Respond to [General Convention Resolution D035](/episcopal-church-repudiates-the-doctrine-of-discovery/)
+### How St. James’ Might Respond to [General Convention Resolution D035](/episcopal-church-repudiates-the-doctrine-of-discovery/)
 A Sermon Preached by John Dieffenbacher-Krall at St. James’ Episcopal Church, Old Town, Maine October 11, 2009**
 
 Nearly three years ago something started here at St. James’ that has received international attention. On October 15, 2006, I preached a sermon titled “[Remembrance, Recognition and Reconciliation: The Episcopal Church’s Call for Justice for Indigenous People](/episcopalian-remembrance-recognition-and-reconciliation/).” In that sermon, I called upon St. James’, our diocese, the Episcopal Church, and the Anglican Communion to denounce the Christian Doctrine of Discovery and to forge a more just, mutually beneficial, and loving relationship with the Indigenous Peoples of this world.  
