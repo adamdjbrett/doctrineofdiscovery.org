@@ -8,6 +8,7 @@ tags:
   - immigration
   - dehumanization
 link: https://goodfaithmedia.org/432273-2/
+author: adam-dj-brett
 ---
 > Civilization and personhood are the intellectual bulwarks for the justification of colonization. The colonizer assumes they are made in the image of their God while spreading the message of conquest, civilization and Christianity.
 > 
