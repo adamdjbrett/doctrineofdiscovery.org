@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /
+
+# block “AI” bots
+RewriteCond %{HTTP_USER_AGENT} ({{ site.data.bots | sort_natural | join: "|" }}) [NC]
+RewriteRule ^ – [F]
+</IfModule>
