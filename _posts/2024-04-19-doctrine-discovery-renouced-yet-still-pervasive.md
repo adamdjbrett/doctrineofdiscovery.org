@@ -10,9 +10,9 @@ tags:
   - law
 author: robert-miller
 ---
-By William D. Sunderlin, Ph.D., and Robert J. Miller, J.D.*
+*By William D. Sunderlin, Ph.D., and Robert J. Miller, J.D.*
 
-ALBANY, New York | PHOENIX, Arizona | 16 April 2024 (IDN) --- It seems ridiculous that a repudiated Catholic doctrine dating back to the 15th century should have legal standing anywhere in the world today. Yet the Onondaga, an Indigenous nation located in Central New York, [have to argue for their land rights](https://web.archive.org/web/20240417002026/https://apnews.com/article/native-american-land-rights-organization-american-states-dcaa3c82acdb75b72cc3ea11be0d9d70) in front of the Inter-American Commission on Human Rights because of centuries of United States case law that relies on the Doctrine of Discovery, renounced by Pope Francis one year ago.
+ALBANY, New York \| PHOENIX, Arizona \| 16 April 2024 (IDN) &emdash; It seems ridiculous that a repudiated Catholic doctrine dating back to the 15th century should have legal standing anywhere in the world today. Yet the Onondaga, an Indigenous nation located in Central New York, [have to argue for their land rights](https://web.archive.org/web/20240417002026/https://apnews.com/article/native-american-land-rights-organization-american-states-dcaa3c82acdb75b72cc3ea11be0d9d70) in front of the Inter-American Commission on Human Rights because of centuries of United States case law that relies on the Doctrine of Discovery, renounced by Pope Francis one year ago.
 
 Indigenous communities traditionally hold and use approximately one-half of the world's land. Indigenous and community land rights are not recognized for much of this land---in 49 countries with detailed statistics, [at least 21.1%](https://web.archive.org/web/20240417002026/https://rightsandresources.org/wp-content/uploads/Who-Owns-the-Worlds-Land_Final-EN.pdf) of all land should be recognized as theirs but isn't. And that is where the Doctrine of Discovery comes into play.
 
@@ -20,7 +20,7 @@ The Doctrine is a 15th-century edict that helped lay the foundation for European
 
 These principles became embedded in the ideological, political, cultural, and legal frameworks not just of the European colonizing countries but also of the new countries that were formed centuries later.
 
-##### The attempt to right past wrongs
+## The attempt to right past wrongs
 
 To its credit, on March 30, 2023, [the Vatican renounced the Doctrine](https://web.archive.org/web/20240417002026/https://www.nytimes.com/2023/03/30/world/europe/vatican-repudiates-doctrine-of-discovery-colonization.html). The attempt to right past wrongs is justified not just for moral reasons, but also because it bears heavily on efforts to avert the worst impacts of climate change. Indigenous land rights have been recognized by the [Intergovernmental Panel on Climate Change](https://web.archive.org/web/20240417002026/https://www.ipcc.ch/site/assets/uploads/2019/11/SRCCL-Full-Report-Compiled-191128.pdf) and in [numerous scientific studies](https://web.archive.org/web/20240417002026/https://blogs.worldbank.org/en/climatechange/indigenous-land-rights-critical-pillar-climate-action) as a bulwark against tropical deforestation and biodiversity extinction.
 
@@ -30,7 +30,7 @@ For example, the first Congress of the United States implemented the Doctrine of
 
 The Doctrine has served as a legal justification not only for seizing Native American lands, but also for blocking subsequent Native Nations' efforts to reclaim their lands. In 2005, in a Supreme Court decision authored by Justice Ruth Bader Ginsburg, [the Doctrine was invoked](https://web.archive.org/web/20240417002026/https://supreme.justia.com/cases/federal/us/544/197/) as a justification for denying the efforts of the Oneida Nation and its people to reclaim a portion of their sovereignty and lands, and in 2010 a federal judge relied on the Oneida ruling to dismiss the Onondaga Nation's land rights action.
 
-##### The repressive force of the 15th-century doctrine
+## The repressive force of the 15th-century doctrine
 
 The Doctrine continues to wield its repressive force worldwide, in the laws of ex-colonies such as [Australia, Canada, New Zealand](https://web.archive.org/web/20240417002026/https://heinonline.org/HOL/LandingPage?handle=hein.journals/sealr34&div=18&id=&page=507), [Chile](https://web.archive.org/web/20240417002026/https://digitalcommons.unl.edu/nlr/vol89/iss4/6/), Mexico, Kenya, Tanzania, and Uganda in [East Africa](https://web.archive.org/web/20240417002026/https://scholarship.law.duke.edu/djcil/vol32/iss1/1/).
 
