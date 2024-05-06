@@ -4,7 +4,8 @@ categories:
   - Blog
 tags:
   - link
-  - Post Formats
+  - theology
+  - discovery
 link: https://doi.org/10.1177/03063968241238601
 ---
 
