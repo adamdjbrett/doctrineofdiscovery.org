@@ -9,6 +9,7 @@ tags:
   - link
   - law
 author: robert-miller
+link: https://indepthnews.net/renounced-by-the-vatican-yet-the-repressive-force-of-15th-century-persists/
 ---
 *By William D. Sunderlin, Ph.D., and Robert J. Miller, J.D.*
 
