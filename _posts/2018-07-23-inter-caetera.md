@@ -17,6 +17,11 @@ redirect_from:
   - /8825/
 ---
 ## The Papal Bull _Inter Caetera_ of May 4, 1493
+<figure>
+	<a href="https://www.gilderlehrman.org/history-resources/spotlight-primary-source/doctrine-discovery-1493"><img src="/assets/images/GLC04093_0.jpg"></a>
+	<figcaption><a href="https://www.gilderlehrman.org/history-resources/spotlight-primary-source/doctrine-discovery-1493" title="Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection">Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection</a>.</figcaption>
+</figure>
+
 
 ### Introduced and translated by Sebastian Modrow and Melissa Smith
 

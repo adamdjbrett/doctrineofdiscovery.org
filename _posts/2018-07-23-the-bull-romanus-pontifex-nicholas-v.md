@@ -3,6 +3,7 @@ ID: 8817
 title: "The Bull Romanus Pontifex"
 header:
   image: /assets/images/papal-bull-doctrine-of-discovery-770.jpg
+  caption: "Photo Credit: [Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection](https://www.gilderlehrman.org/content/doctrine-discovery-1493)"
 caption: 'Romanus Pontifex Papal Bull'
 author: indigenous-values-initiative
 excerpt: "The Bull Romanus Pontifex (Nicholas V) January 8, 1454"
