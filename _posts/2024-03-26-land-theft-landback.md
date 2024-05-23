@@ -11,7 +11,11 @@ tags:
   - landback
 link: https://aila.ngo/from-land-theft-to-land-back/
 author: aila
+toc: true
+toc_label: "Overview"
+toc_icon: "cog"
 ---
+
 From Land Theft To Land Back The OAS And The Onondaga Nation Land Rights Action
 -------------------------------------------------------------------------------
 
