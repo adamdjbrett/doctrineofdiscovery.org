@@ -9,6 +9,9 @@ tags:
   - podcast
 link: https://religionnews.com/2024/05/15/stealing-land-in-the-name-of-god/
 author: steven-newcomb
+toc: true
+toc_label: "Overview"
+toc_icon: "cog"
 ---
 
 ## **What's a 15th-century statement from a pope have to do with U.S. land policy today?**

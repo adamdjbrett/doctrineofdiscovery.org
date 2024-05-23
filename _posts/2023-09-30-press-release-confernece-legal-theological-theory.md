@@ -21,6 +21,9 @@ sidebar:
     nav: next-steps  
 link: https://artsandsciences.syracuse.edu/religion/news/university-to-host-conference-that-addresses-legal-and-theological-theory-of-the-doctrine-of-christian-discovery/
 ---
+toc: true
+toc_label: "Overview"
+toc_icon: "cog"
 ![Conference Flyer](/assets/images/2023-conference-banner.jpg)
 
 ## Quick Actions

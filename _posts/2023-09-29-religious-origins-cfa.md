@@ -13,6 +13,9 @@ tags:
   - Christianity
   - Christian-Zionism
 author: indigenous-values-initiative
+toc: true
+toc_label: "Overview"
+toc_icon: "cog"
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

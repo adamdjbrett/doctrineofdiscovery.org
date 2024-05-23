@@ -8,6 +8,9 @@ tags:
   - podcast
   - doctrine
 link: https://goodfaithmedia.org/new-good-faith-media-podcast-highlights-doctrine-of-christian-discovery/
+toc: true
+toc_label: "Overview"
+toc_icon: "cog"
 ---
 The "Doctrine of Christian Discovery" [podcast](https://goodfaithmedia.org/doctrine-of-christian-discovery/)---produced in collaboration with [Syracuse University](https://www.syracuse.edu/) and [Indigenous Values Initiative](https://indigenousvalues.org/)---explores how a 15th-century Christian doctrine encouraged conquest and colonization of non-Christians. The podcast also unpacks how its legacies still affect various lands and peoples, including the United States.
 
