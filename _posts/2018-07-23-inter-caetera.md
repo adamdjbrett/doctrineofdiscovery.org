@@ -15,6 +15,9 @@ tags:
   - Catholic
 redirect_from:
   - /8825/
+toc: true
+toc_label: "Overview"
+toc_icon: "cog"
 ---
 ## The Papal Bull _Inter Caetera_ of May 4, 1493
 
@@ -22,10 +25,14 @@ redirect_from:
 
 #### [⤓ Download and Read the new translation as a PDF ](/assets/pdfs/Inter_Caetera_Modrow&Smith.pdf)
 
+* * * 
+
 <figure>
 	<a href="https://www.gilderlehrman.org/history-resources/spotlight-primary-source/doctrine-discovery-1493"><img src="/assets/images/GLC04093_0.jpg"></a>
 	<figcaption><a href="https://www.gilderlehrman.org/history-resources/spotlight-primary-source/doctrine-discovery-1493" title="Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection">Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection</a>.</figcaption>
 </figure>
+
+* * * 
 
 ### Introduction
 
@@ -42,8 +49,12 @@ Alexander’s second version of _Inter Caetera_, dated only one day later (May 4
 The Latin text was established using the digitized original[^6] as well as Davenport’s edition.[^7] Mostly in concordance with Davenport but in contrast to the edition of Levy Maria Jordão,[^8] it reproduces the original’s 15th-century Latin spelling as well as its capitalizations and only rarely disagrees with Davenport’s readings, as in its retention of the text’s _negocio_ in contrast to Davenport’s hypercorrect _negotio_. However, while Davenport for the sake of greater readability dissolved all abbreviations, for this edition, the abbreviations are expanded by including the omitted letters in square brackets. We are aware that this might slightly decrease the readability of the edited Latin text but hope that it will increase and encourage the use of the original document, which in Davenport’s day was reproducible only as a black and white facsimile, in contrast to today’s high resolution digital surrogates. To further encourage the use of this edition alongside the (digitized) original, we also indicated line breaks with a slash where they occur in the document, which will hopefully help readers navigate the text in the original bull.
 
 Translation differences between this new translation and Davenport’s occur more often in tone than in content. Of the latter, the most important is probably this: When discussing the religious aims of these expeditions and conquests, the pope states that it is a priority for him that those barbarian peoples _ad fidem ipsam reducantur_, which Davenport translates as being “brought to the faith itself.” However, since the semantics of the verb _reducere_ carry an element of ‘back/return’ due to its prefix ‘re-’, we decided to translate the clause as “bringing them back to the faith”, the implications of which Sebastian Modrow is exploring in a separate piece of scholarship. With slight variations, this papal request to return the local populations to the true faith occurs multiple times throughout the bull.
+* * * 
+
 
 ### [⤓ Download the new translation as a PDF ](/assets/pdfs/Inter_Caetera_Modrow&Smith.pdf)
+
+* * * 
 
 ### Footnotes
 
@@ -55,6 +66,8 @@ Translation differences between this new translation and Davenport’s occur mor
 [^6]: “Bulla del Papa Alexandro VI dada el año 1493, en que concede a los Reyes Cathólicos y sus sucesores todo lo que ganaren y conquistaren en las Indias no estando ocupado por otros”. 1493-05-04 , Roma; MP-BULAS\_BREVES,4, Archivo General de Indias, Sevilla, Spain, <http://pares.mcu.es/ParesBusquedas20/catalogo/description/17163?nm>.
 [^7]: Davenport, _European Treaties_, 72-75.
 [^8]: Levy Maria Jordão, ed., _Bullarium Patronatus Portugalliae Regum in Ecclesiis Africae, Asiae Atque Oceaniae: Bullas, Brevia, Epistolas, Decreta Actaque Sanctae Sedis Ab Alexandro III Ad Hoc Usque Tempus Amplectens_, Tomus I (Lisbon: Ex Typographia nationali, 1868).
+
+* * * 
 
 ## Details
 ### PDF
