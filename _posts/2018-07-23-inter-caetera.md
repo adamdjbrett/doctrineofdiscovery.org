@@ -74,6 +74,6 @@ Translation differences between this new translation and Davenport’s occur mor
 - [⤓ Download the new translation as a PDF ](/assets/pdfs/Inter_Caetera_Modrow&Smith.pdf)
 
 ### Citation Files
-* [Bibtex citation](/assets/pdfs/citation-formats/modrow-smith-scholar.bibtex)
+* [Bibtex citation](/assets/pdfs/citation-formats/modrow-smith-scholar.bib)
 * [RIS](/assets/pdfs/citation-formats/modrow-smith-scholar.ris)
 * [XML](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.xml)
