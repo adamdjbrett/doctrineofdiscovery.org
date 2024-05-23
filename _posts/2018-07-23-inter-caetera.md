@@ -17,15 +17,15 @@ redirect_from:
   - /8825/
 ---
 ## The Papal Bull _Inter Caetera_ of May 4, 1493
+
+### Introduced and translated by Sebastian Modrow and Melissa Smith
+
+#### [⤓ Download and Read the new translation as a PDF ](/assets/pdfs/Inter_Caetera_Modrow&Smith.pdf)
+
 <figure>
 	<a href="https://www.gilderlehrman.org/history-resources/spotlight-primary-source/doctrine-discovery-1493"><img src="/assets/images/GLC04093_0.jpg"></a>
 	<figcaption><a href="https://www.gilderlehrman.org/history-resources/spotlight-primary-source/doctrine-discovery-1493" title="Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection">Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection</a>.</figcaption>
 </figure>
-
-
-### Introduced and translated by Sebastian Modrow and Melissa Smith
-
-#### [⤓ Download the new translation as a PDF ](/assets/pdfs/Inter_Caetera_Modrow&Smith.pdf)
 
 ### Introduction
 
@@ -55,3 +55,12 @@ Translation differences between this new translation and Davenport’s occur mor
 [^6]: “Bulla del Papa Alexandro VI dada el año 1493, en que concede a los Reyes Cathólicos y sus sucesores todo lo que ganaren y conquistaren en las Indias no estando ocupado por otros”. 1493-05-04 , Roma; MP-BULAS\_BREVES,4, Archivo General de Indias, Sevilla, Spain, <http://pares.mcu.es/ParesBusquedas20/catalogo/description/17163?nm>.
 [^7]: Davenport, _European Treaties_, 72-75.
 [^8]: Levy Maria Jordão, ed., _Bullarium Patronatus Portugalliae Regum in Ecclesiis Africae, Asiae Atque Oceaniae: Bullas, Brevia, Epistolas, Decreta Actaque Sanctae Sedis Ab Alexandro III Ad Hoc Usque Tempus Amplectens_, Tomus I (Lisbon: Ex Typographia nationali, 1868).
+
+## Details
+### PDF
+- [⤓ Download the new translation as a PDF ](/assets/pdfs/Inter_Caetera_Modrow&Smith.pdf)
+
+### Citation Files
+* [Bibtex citation](/assets/pdfs/citation-formats/modrow-smith-scholar.bibtex)
+* [RIS](/assets/pdfs/citation-formats/modrow-smith-scholar.ris)
+* [XML](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.xml)
