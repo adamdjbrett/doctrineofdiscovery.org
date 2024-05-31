@@ -42,7 +42,8 @@ redirect_from:
   *   [_U.s. V. King Mountain Tobacco Co., Inc. Decision_ 9th Circuit, August 13, 2018](https://doctrineofdiscovery.org/u-s-v-king-mountain-tobacco/)
 
 ### Related Materials
-  *   [COUGAR DEN, INC., RESPONDENT, V. DEPARTMENT OF LICENSING OF THE STATE OF WASHINGTON, APPELLANT. AMICUS CURIAE BRIEF OF THE CONFEDERATED TRIBES AND BANDS OF THE YAKAMA NATION, IN SUPPORT OF RESPONDENT](/assets/pdfs/92289-6-yakama-nation-amicus-brief.pdf)
+  * [Brief Of Amicus Curiae Confederated Tribes And Bands Of The Yakama Nation In Support Of Respondent with Ethan Jones, Counsel of Record](/assets/pdfs/20180924115810387_36893-pdf-Yakama-Nation-br.pdf)
+  *   [Amicus Curiae Brief Of The Confederated Tribes And Bands Of The Yakama Nation, In Support Of Respondent with Gabriel S. Galanda](/assets/pdfs/92289-6-yakama-nation-amicus-brief.pdf)
   *   [Statement on the Historical Use of the Doctrine of Christian Discovery by the United States Supreme Court Since 1823.](/statement-on-the-historical-use-of-the-doctrine-of-christian-discovery-by-the-united-states-supreme-court-since-1823/) By Joseph J. Heath, Esq. Onondaga Nation General Counsel.
   *   [Native American Law in the Modern Era in the Albany Government Law Review vol. 10 is. 1&2 2016-17](/native-american-law-in-the-modern-era/)
   *   [2018 Panel on "United States Indian Law."](/us-indian-law-panel/)
