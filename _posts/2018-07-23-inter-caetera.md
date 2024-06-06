@@ -17,7 +17,7 @@ redirect_from:
   - /8825/
   - /assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.bib
   - /assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.ris
-  / /assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.xml
+  - /assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.xml
 toc: true
 toc_label: "Overview"
 toc_icon: "cog"
