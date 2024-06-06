@@ -24,6 +24,7 @@ redirect_from:
   - /whatis
   - /the-doctrine-of-
   - /9103/
+  - /the-doctrine-of-dis
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg
