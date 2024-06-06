@@ -15,6 +15,9 @@ tags:
   - Catholic
 redirect_from:
   - /8825/
+  - /assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.bib
+  - /assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.ris
+  / /assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.xml
 toc: true
 toc_label: "Overview"
 toc_icon: "cog"
@@ -74,6 +77,6 @@ Translation differences between this new translation and Davenport’s occur mor
 - [⤓ Download the new translation as a PDF ](/assets/pdfs/Inter_Caetera_Modrow&Smith.pdf)
 
 ### Citation Files
-* [Bibtex citation](/assets/pdfs/citation-formats/modrow-smith-scholar.bib)
-* [RIS](/assets/pdfs/citation-formats/modrow-smith-scholar.ris)
+* [Bibtex citation](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.bib)
+* [RIS](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.ris)
 * [XML](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.xml)
