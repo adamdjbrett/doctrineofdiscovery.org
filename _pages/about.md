@@ -21,7 +21,7 @@ sidebar:
 We begin by acknowledging with respect the Onondaga Nation, Central Fire of the Haudenosaunee Confederacy, on whose ancestral lands we now inhabit.  Wherever you are located be aware of the Indigenous Peoples on whose lands you reside.  We are mindful that the technology that makes this conference possible comes from the mineral extraction by multinational corporations, which decimate and displace Indigenous people and their land all over the world.   May the information you glean from this website motivate you to uphold Indigenous values, protect Mother Earth, Honor Indian Treaties and hold your government and various institutions accountable who stand in the way.
 
 ## Contact
-If you have any questions, comments, or additions please [contact us](/contact/).
+If you have any questions, comments, or additions please [contact us](/contact/) <info@indigenousvalues.org>.
 
 [contact us](/contact/){: .btn .btn--primary .btn--x-large}
 
@@ -31,15 +31,6 @@ If you have any questions, comments, or additions please [contact us](/contact/)
   DeWitt, New York 13214-9211
   - **email:** [info@indigenousvalues.org](mailto:info@indigenousvalues.org)
   - **web:** [indigenousvalues.org](https://indigenousvalues.org)
-
-### American Indian Law Alliance
-  - Gaeñ hia uh, Betty Lyons, Executive Director of [American Indian Law Alliance](https://aila.ngo/)
-  - **mail:** P.O. Box 336
-  DeWitt, New York 13214-9211
-  - **email:** [aila@aila.ngo](mailto:aila@aila.ngo)
-    - or via the [contact AILA form](https://aila.ngo/contact-us/)
-  - **web:** [aila.ngo](https://aila.ngo)
-
 
 ### Collaborators
 
@@ -61,9 +52,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ### Security
 [Verify SSL](https://www.sslshopper.com/ssl-checker.html#hostname=doctrineofdiscovery.org).
-
-### Sponsors
-Doctrine of Discovery is an educational resource and study group maintained by the [Indigenous Values Initiative](https://indigenousvalues.org) and the [American Indian Law Alliance](https://aila.ngo)
 
 ### Web Administrator
 [**Adam DJ Brett**](https://adamdjbrett.com)
