@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2022-01-21T15:34:30-04:00
+date: 2024-06-11T00:34:30-04:00
 author: indigenous-values-initiative
 author_profile: true
 suggestedcitiation: true
