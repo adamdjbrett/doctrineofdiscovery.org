@@ -1,5 +1,5 @@
 ---
-title: "New Book"
+title: "New Book: In The Court of the Conqueror"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
