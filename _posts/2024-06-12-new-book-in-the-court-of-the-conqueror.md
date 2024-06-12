@@ -41,4 +41,4 @@ Cydney Payton is writer and curator who lives and works in Monterey, CA. She fou
 Small Editions is a book and print design studio, a book bindery, an artists' book publishing house, and an educational workshop space. The studio was founded in 2012 by Kimberly McClure and Corina Reynolds. Since 2019 Hannah Yukiko Pierce has been the owner and director. [smalleditions.nyc](https://smalleditions.nyc)
 
 ## Press Release
-[Press Release (PDF)](/asssets/pdfs/IntheCourtoftheConqueror-book.pdf)
+[Press Release (PDF)](/assets/pdfs/IntheCourtoftheConqueror-book.pdf)
