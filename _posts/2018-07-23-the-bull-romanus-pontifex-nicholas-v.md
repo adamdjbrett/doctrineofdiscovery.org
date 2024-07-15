@@ -6,7 +6,7 @@ header:
   caption: "Photo Credit: [Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection](https://www.gilderlehrman.org/content/doctrine-discovery-1493)"
 caption: 'Romanus Pontifex Papal Bull'
 author: indigenous-values-initiative
-excerpt: "The Bull Romanus Pontifex (Nicholas V) January 8, 1454"
+excerpt: "The Bull Romanus Pontifex (Nicholas V) January 8, 1455"
 permalink: /the-bull-romanus-pontifex-nicholas-v/
 published: true
 date: 2018-07-23T14:54:46
@@ -19,7 +19,7 @@ redirect_from:
   - /romanus-pontifex/
   - /8817/
 ---
-## **The Bull Romanus Pontifex (Nicholas V) January 8, 1454**
+## **The Bull Romanus Pontifex (Nicholas V) January 8, 1455**
 
 "Nicholas, bishop, servant of the servants of God. for a perpetual remembrance.
 

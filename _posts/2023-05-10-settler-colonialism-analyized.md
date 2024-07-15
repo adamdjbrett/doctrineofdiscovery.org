@@ -121,7 +121,7 @@ There are more reasons to use the DoD as a way to integrate an analysis of settl
 
 -   Wolfe, Patrick. "Settler Colonialism and the Elimination of the Native." *Journal of genocide research*4 (2006): 387-409.
 
--   Doctrine of Disovery Papal Bulls: Dum Diversas 18 June, 1452, The Bull Romanus Pontifex (Nicholas V), January 8, 1454 and The Bull Inter Caetera (Alexander VI), May 4, 1493. Later expansions of these bulls include the Treaty of Tordesillas, June 7, 1494, the Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496, The Requerimiento, 1514. <https://doctrineofdiscovery.org/>.
+-   Doctrine of Disovery Papal Bulls: Dum Diversas 18 June, 1452, The Bull Romanus Pontifex (Nicholas V), January 8, 1455 and The Bull Inter Caetera (Alexander VI), May 4, 1493. Later expansions of these bulls include the Treaty of Tordesillas, June 7, 1494, the Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496, The Requerimiento, 1514. <https://doctrineofdiscovery.org/>.
 
 
 ## Footnotes
@@ -134,7 +134,7 @@ There are more reasons to use the DoD as a way to integrate an analysis of settl
 
 [^4]: As an author who primarily identifies ethnically as a person of African descent, I will use personal or collective pronouns when speaking about Black people and our experience. Like many “African-Americans”, I have ancestors who are “Native-Americans.” That history and those connections were not kept alive in my immediate or extended families. Therefore, I employ the third person singular and plurals when referring to indigenous people and their experiences.
 
-[^5]: A listing of these bulls includes Papal Bull Dum Diversas 18 June, 1452, The Bull Romanus Pontifex (Nicholas V), January 8, 1454 and The Bull Inter Caetera (Alexander VI), May 4, 1493. Later expansions of these bulls include the Treaty of Tordesillas, June 7, 1494,  the Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496, The Requerimiento, 1514. https://doctrineofdiscovery.org/.
+[^5]: A listing of these bulls includes Papal Bull Dum Diversas 18 June, 1452, The Bull Romanus Pontifex (Nicholas V), January 8, 1455 and The Bull Inter Caetera (Alexander VI), May 4, 1493. Later expansions of these bulls include the Treaty of Tordesillas, June 7, 1494,  the Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496, The Requerimiento, 1514. https://doctrineofdiscovery.org/.
 
 [^6]: Dum Diversas, 1452.
 

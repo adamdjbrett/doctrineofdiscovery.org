@@ -24,7 +24,7 @@ redirect_from:
 
 *   [Papal Bull Dum Diversas](https://doctrineofdiscovery.org/dum-diversas/) 18 June, 1452
     *   [English Quotations from Dum Diversas](https://books.google.com/books?id=djkoAAAAYAAJ&dq=Dum%20Diversas%20English%20Translation&pg=PA12#v=onepage&q=%22Dum%20Diversas%22&f=false) and the [Latin original via google books](https://books.google.com/books?id=6NDmAAAAMAAJ&dq=%22Bullarium%20patronatus%20Portugalliae%20Regum%22&pg=PA22#v=onepage&q&f=false)
-*   [The Bull Romanus Pontifex (Nicholas V), January 8, 1454](https://doctrineofdiscovery.org/the-bull-romanus-pontifex-nicholas-v/)
+*   [The Bull Romanus Pontifex (Nicholas V), January 8, 1455](https://doctrineofdiscovery.org/the-bull-romanus-pontifex-nicholas-v/)
 *   [The Bull Inter Caetera (Alexander VI), May 4, 1493](https://doctrineofdiscovery.org/inter-caetera/)
 *   Expansion of Papal Bulls
     *   [Treaty of Tordesillas, June 7, 1494](https://doctrineofdiscovery.org/treaty-of-tordesillas/)
