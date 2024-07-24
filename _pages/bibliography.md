@@ -19,9 +19,39 @@ redirect_from:
   - /mainreadinga.htm
   - /bib/
 ---
-### **The Doctrine of Discovery Working Bibliography**
+## **The Doctrine of Discovery Working Bibliography**
 
-### **Listed by Author**
+### Critical Research on the Doctrine of Discovery
+- Arnold, Philip P. *The Urgency of Indigenous Values*. Syracuse University Press, 2023.
+- Augustine, Sarah. *The Land Is Not Empty: Following Jesus in Dismantling the Doctrine of Discovery*. MennoMedia, Inc., 2021.
+- Charles, Mark, and Soong-Chan Rah. *Unsettling Truths: The Ongoing, Dehumanizing Legacy of the Doctrine of Discovery*. InterVarsity Press, 2019.
+- Churchill, Ward. *A Little Matter of Genocide: Holocaust and Denial in the Americas 1492 to the Present*. City Lights Books, 1997.
+- Conroy-Krutz, Emily. *Christian Imperialism: Converting the World in the Early American Republic*. Cornell University Press, 2017.
+- Deloria Jr, Vine. *For This Land: Writings on Religion in America*. Routledge, 2013.
+- Deloria, Vine. *Custer Died for Your Sins: An Indian Manifesto*. University of Oklahoma Press, 1988.
+- ---------. *God Is Red : A Native View of Religion*. 1 online resource (344 pages) vols. New York: Fulcrum Pub., 2003. <https://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=478520>.
+- D'Errico, Peter P. *Federal Anti-Indian Law : The Legal Entrapment of Indigenous Peoples*. Santa Barbara, California: Praeger, an Imprint of ABC-CLIO, LLC, 2022.
+- Dunbar-Ortiz, Roxanne. *Not" a Nation of Immigrants": Settler Colonialism, White Supremacy, and a History of Erasure and Exclusion*. Beacon Press, 2021.
+- Greenberg, Joy H. "The Doctrine of Discovery as a Doctrine of Domination." *Journal for the Study of Religion, Nature & Culture* 10, no. 2 (2016).
+- Harvey, Roberta Carol, 1950-. *The Earth Is Red : The Imperialism of the Doctrine of Discovery*. Santa Fe: Sunstone Press, 2021.
+- Heath, Joseph J. "The Doctrine Of Christian Discovery: Its Fundamental Importance In United States Indian Law And The Need For Its Repudiation And Removal." *Albany Government Law Review* 10, no. 1 (April 27, 2017). <https://doctrineofdiscovery.org/law/resources/algr-doctrine-christian-discovery-indian-law-repuidation/>.
+- Jennings, Willie James. *The Christian Imagination: Theology and the Origins of Race*. Yale University Press, 2010.
+- Jones, Robert P. *The Hidden Roots of White Supremacy: And the Path to a Shared American Future*. Simon and Schuster, 2023.
+- Matthiessen, Peter, Daniel K. Inouye 1924-2012, Oren Lyons, John Mohawk 1945-2006., Robert W. Venables, Howard R. Berman, Curtis Berkey, Donald A. Grinde 1946-, Vine Deloria, and Laurence M. Hauptman. *Exiled in the Land of the Free : Democracy, Indian Nations, and the U.S. Constitution*. 1st ed. Santa Fe, N.M.: Clear Light Publishers, 1992.
+- Miller, Robert J. *Native America, Discovered and Conquered : Thomas Jefferson, Lewis & Clark, and Manifest Destiny*. Lincoln: University of Nebraska Press, 2008.
+- Miller, Robert J., Jacinta Ruru, Larissa Behrendt, and Tracey Lindberg. *Discovering Indigenous Lands: The Doctrine of Discovery in the English Colonies*. Oxford University Press, 2010. <https://doi.org/10.1093/acprof:oso/9780199579815.001.0001>.
+- Newcomb, Steven T. "Original Nations of 'Great Turtle Island' and the Genesis of the United States." *The Wiley Blackwell Companion to Religion and Politics in the US*, 2016, 5--17.
+- ---------. *Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery*. Fulcrum Publishing, 2008.
+- Notes, Akwesasne. *A Basic Call to Consciousness: The Haudenosaunee Address to the Western World*. Akwesasne, Mohawk Nation: Akwesasne Notes, 1978.
+- Robertson, Lindsay G. *Conquest by Law: How the Discovery of America Dispossessed Indigenous Peoples of Their Lands*. Oxford University Press, 2005.
+- Ruehl, Robert Michael. "Thoreau's 'A Week,' Religion as Preservative Care : Opposing the Christian Doctrine of Discovery, Manifest Destiny, and a Religion of Subjugation." Syracuse University, 2014. WorldCat. <https://www.proquest.com/docview/1540757471>.
+- Seed, Patricia. *Ceremonies of Possession in Europe's Conquest of the New World, 1492-1640*. Cambridge University Press, 1995.
+- *The Doctrine of Discovery : Unmasking the Domination Code*. [Morton, Minnesota]: 38 Plus 2 Productions [distributor], 2015.
+- Tinker, George E. *American Indian Liberation: A Theology of Sovereignty*. Orbis Books, 2020.
+- ---------. *Missionary Conquest: The Gospel and Native American Cultural Genocide*. Fortress Press, 1993.
+- Williams Jr, Robert A. *The American Indian in Western Legal Thought: The Discourses of Conquest*. Oxford University Press, 1992.
+
+### Open Access Resources Listed by Author
 
 - [d’Errico, Peter](https://doctrineofdiscovery.org/resources-by-peter-derrico/). “[**Replacing the Doctrine of Christian Discovery and Implementing the United Nations Declaration on the Rights of Indigenous Peoples**](https://doctrineofdiscovery.org/resources-by-peter-derrico/).”
 - \_\_\_\_\_. [**"Indigenous Lèse-majesté: Questioning U.S. Federal Indian Law"** (⤓ Download as PDF)](https://doctrineofdiscovery.org/assets/pdfs/2017_19-02_06_Errico.pdf).
