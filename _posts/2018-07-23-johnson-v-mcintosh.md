@@ -6,6 +6,7 @@ excerpt: "The Indians were admitted to be the rightful occupants of the soil, wi
 permalink: /johnson-v-mcintosh/
 published: true
 date: 2018-07-23T14:54:46
+last_modified_at: 2024-07-24T11:45:11
 categories:
   - Law
 tags:
@@ -16,6 +17,9 @@ redirect_from:
  - /johnvmac.htm
  - /johnson-v-mcin-tosh/
  - /8802/
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
 # Key Excerpts:
 
@@ -25,8 +29,25 @@ redirect_from:
 >
 > “However extravagant the pretension of converting the discovery of inhabited country into conquest may appear, if the principle has been asserted in the first instance, and afterwards sustained; if a country has acquired and held under it; if the property of the great mass of the community originates in it, it becomes the law of the land, and cannot be questioned.” (id., at 591.)
 
+## Academic Opinions on the case
+1.  [200 Years of *Johnson v. M'Intosh*: Law, Religion, and Native American Lands](https://canopyforum.org/200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands/)
+2.  ["Introduction to the 200 Years of *Johnson v. M'Intosh*: Law, Religion, and Native American Lands Series"](https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/)
+3.  ["*Johnson v. M'Intosh *and the Missing Cover of the Jigsaw Puzzle"](https://canopyforum.org/2023/04/13/johnson-v-mintosh-and-the-missing-cover-of-the-jigsaw-puzzle/)
+4.  ["*Johnson v. M'Intosh*, *Wi Parata v. Bishop of Wellington*, and the Legacy of the Doctrine of Discovery in Aotearoa-New Zealand"](https://canopyforum.org/2023/04/11/johnson-v-mintosh-wi-parata-v-bishop-of-wellington-and-the-legacy-of-the-doctrine-of-discovery-in-aotearoa-new-zealand/)
+5.  ["The Legacy of the Right to Control Land and Dependency"](https://canopyforum.org/2023/04/01/the-legacy-of-the-right-to-control-land-and-dependency/)
+6.  ["The International Law of Colonialism:](https://canopyforum.org/2023/03/30/the-international-law-of-colonialism-johnson-v-mintosh-and-the-doctrine-of-discovery-applied-worldwide/) [*Johnson v. M'Intosh* and the Doctrine of Discovery Applied Worldwide"](https://canopyforum.org/2023/03/30/the-international-law-of-colonialism-johnson-v-mintosh-and-the-doctrine-of-discovery-applied-worldwide/)
+7.  ["*Johnson v. M'Intosh,* Plenary Power, and Our Colonial Constitution"](https://canopyforum.org/2023/03/29/johnson-v-mintosh-plenary-power-and-our-colonial-constitution/?preview_id=20623&preview_nonce=8624d5ed5c&preview=true&_thumbnail_id=20632)
+8.  ["However, Extravagant The Pretensions of *Johnson V. M'Intosh*".](https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh/)
+9.  ["Did Pope Alexander VI Authorize England's Colonization of North America?"](https://canopyforum.org/2023/03/21/did-pope-alexander-vi-authorize-englands-colonization-of-north-america/)
+10. ["*Haaland v. Brackeen* and the Logic of Discovery"](https://canopyforum.org/2023/03/18/haaland-v-brackeen-and-the-logic-of-discovery/)
+11. ["The Contemporary Presence of Discovery's Assertion in Canada"](https://canopyforum.org/2023/03/14/the-contemporary-presence-of-discoverys-assertion-in-canada/)
+12. ["Order, Economy, and Legality: *Johnson v. M'Intosh* after Two Hundred Years"](https://canopyforum.org/2023/03/11/order-economy-and-legality-johnson-v-mintosh-after-two-hundred-years/)
+13. ["Federal Anti-Indian Law: The Legal Entrapment of Indigenous Peoples"](https://canopyforum.org/2023/03/07/federal-anti-indian-law-the-legal-entrapment-of-indigenous-peoples/)
+14. [S02E01 - The Backstory of Johnson v. M’Intosh with Lindsay Robertson](https://podcast.doctrineofdiscovery.org/season2/episode-01/)
+
+
 ## Resources
-<iframe src="https://archive.org/embed/podcast_freedom-101-2nd-series_johnson-v-mintosh_1000170206167" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/u9etyRazLvk?si=Kiq7MI0wnE4HhkXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <iframe src="https://archive.org/embed/illinoiswabashla00unit" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>  
@@ -37,16 +58,17 @@ The collection consists of 263 original manuscripts, five hand-drawn maps and se
 
 [Back to Law](https://doctrineofdiscovery.org/law/).
 
-***
+* * *
 
+## Text
 
-## Johnson v. M'Intosh, 21 U.S. 543, 5 L.Ed. 681, 8 Wheat. 543 (1823)
+### Johnson v. M'Intosh, 21 U.S. 543, 5 L.Ed. 681, 8 Wheat. 543 (1823)
 
-### JOHNSON and GRAHAM'S Lessee v.
+#### JOHNSON and GRAHAM'S Lessee v.
 
 WILLIAM M'INTOSH
 
-### March 10, 1823
+#### March 10, 1823
 
 "ERROR to the District Court of Illinois. This was an action of ejectment for lands in the State and District of Illinois, claimed by the plaintiffs under a purchase and conveyance from the Piankeshaw Indians, and by the defendant, under a grant from the United States. It came up on a case stated, upon which there was a judgment below for the defendant. The case stated set out the following facts:
 
@@ -298,4 +320,6 @@ After bestowing on this subject a degree of attention which was more required by
 
 Judgment affirmed, with costs."
 
+```
 archived from the defunct website healingtheheartland.com
+```

@@ -25,9 +25,6 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "fire"
 author: adam-dj-brett  
-toc: true
-toc_label: "Overview"
-toc_icon: "cog" 
 ---
 
 [Subscribe to the Indigenous Values Initiative YouTube Channel](https://youtube.com/c/IndigenousValuesInitiative){: .btn .btn--danger .btn--large}
