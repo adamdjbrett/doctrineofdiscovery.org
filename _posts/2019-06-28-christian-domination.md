@@ -30,7 +30,7 @@ This conference continues discussions between religious communities and Indigeno
 *   Betty Lyons ([American Indian Law Alliance](https://aila.ngo/))
 *   Sandy Bigtree (Indigenous Values Initiative)
 *   Joe Heath (General Council for the [Onondaga Nation](https://www.onondaganation.org/))
-*   Phil Arnold ([Religion, Syracuse University](http://religion.syr.edu/))
+*   Phil Arnold ([Religion, Syracuse University](https://artsandsciences.syracuse.edu/religion//))
 
 ### **Conference fees**:
 
