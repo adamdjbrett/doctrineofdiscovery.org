@@ -107,6 +107,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
   - jekyll-minifier
+  - nokogiri
 
 author:
   name   : "Indigenous Values Initiative"
