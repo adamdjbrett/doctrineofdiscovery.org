@@ -1,6 +1,5 @@
 # Doctrine of Discovery
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f4991e96-a11b-4dab-8f6c-6575ef141b7d/deploy-status)](https://app.netlify.com/sites/doctrineofdiscovery/deploys)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f4991e96-a11b-4dab-8f6c-6575ef141b7d/deploy-status)](https://app.netlify.com/sites/doctrineofdiscovery/deploys)
 [![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adamdjbrett/doctrineofdiscovery.org)
 ![GitHub last commit](https://img.shields.io/github/last-commit/adamdjbrett/doctrineofdiscovery.org)
