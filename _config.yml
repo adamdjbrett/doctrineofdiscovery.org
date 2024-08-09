@@ -24,7 +24,7 @@ url: "https://doctrineofdiscovery.org" # the base hostname & protocol for your s
 twitter_username: indigenousVI
 #github_username: username
 # Theme
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: default
 search: true
 teaser: "/assets/images/Mission-Interior-from-Lookout.jpg"
