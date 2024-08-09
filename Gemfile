@@ -16,6 +16,6 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem "jekyll-include-cache"
   gem "jekyll-minifier"
-  gem 'nokogiri', '~> 1.11.7'
+  gem 'nokogiri', '~> 1.16', '>= 1.16.7'
 
 end
