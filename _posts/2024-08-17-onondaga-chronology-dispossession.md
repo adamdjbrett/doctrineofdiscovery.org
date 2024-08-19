@@ -1,5 +1,4 @@
 ---
-date: 2024-08-16T14:27:30-04:00
 title: "Focus on the Onondaga: A chronology of dispossession"
 categories:
   - Blog
