@@ -39,7 +39,7 @@ Decades later, the Crown granted others charters to conquer, loot and plunder un
 
 Comprehending the relationship between settler-colonialism, Old Testament stories, European monarchs and the Vatican's holy decrees is essential to understanding the chaos and war in the world today. What is most important to understand is how the Doctrine of *Christian* Discovery impacts our world, here and now.
 
-This 500-year-old religious dogma is still being used.  In the 21^st^ century the U.S. Supreme Court continues to rationalize the "dominion" and "chosen people" dogma and mindset of the Old Testament and 15<sup>th</sup> century Christendom.
+This 500-year-old religious dogma is still being used.  In the 21<sup>st</sup> century the U.S. Supreme Court continues to rationalize the "dominion" and "chosen people" dogma and mindset of the Old Testament and 15<sup>th</sup> century Christendom.
 
 Property:
     <blockquote>
