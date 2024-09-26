@@ -1,5 +1,5 @@
 ---
-title: "S05E02: Exploring the Legacy of Vine Deloria Jr. on Native American Thought with Philip Deloria"
+title: "The International Law of Colonialism: Johnson v. M'Intosh and the Doctrine of Discovery Applied Worldwide"
 categories:
   - Blog
   - law
