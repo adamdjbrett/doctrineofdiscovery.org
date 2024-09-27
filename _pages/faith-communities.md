@@ -41,6 +41,7 @@ redirect_from:
     * [Baltimore Yearly Meeting](/repudiations/faith-communities/bym/)
     * [Canadian Friends Service Committee (Quakers)](/repudiations/faith-communities/canadian-quakers/)
     * [Friends General Conference](/friends-general-conference/)
+    * [New England Yearly Meeting](/blog/neym-quaker-indian-boarding-schools-findings/)
 *   [Mennonite Church USA](/repudiations/faith-communities/mennonite-usa/)
 *   Presbyterian Church
     *   [Presbyterian Church (USA)](/presbyterian-church-usa-repudiates-the-doctrine-of-discovery/)
@@ -49,6 +50,7 @@ redirect_from:
     * [Baltimore Yearly Meeting](/repudiations/faith-communities/bym/)
     * [Canadian Friends Service Committee (Quakers)](/repudiations/faith-communities/canadian-quakers/)
     * [Friends General Conference](/friends-general-conference/)
+    * [New England Yearly Meeting](/blog/neym-quaker-indian-boarding-schools-findings/)
 *   [Roman Catholic Organizations](/roman-catholic-organizations-repudiate-the-doctrine-of-discovery/)
     * _linked above are the following_
     * * [Joint Statement of the Dicasteries for Culture and Education and for Promoting Integral Human Development on the “Doctrine of Discovery”, 30.03.2023](https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2023/03/30/0238/00515.html)
