@@ -2,7 +2,7 @@
 title: "The Regalian Doctrine: The Philippine Case"
 excerpt_separator: "<!--more-->"
 header:
-  image: /assets/images/ar-_a1mNdnHE2E-unsplash.jpg
+  image: /assets/images/ar-_a1mNdnHE2E-unsplash.webp
   caption: "Photo by [AR](https://unsplash.com/@ar__?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/phillipines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)."
 date: 2023-04-24 07:54:46
 categories:
