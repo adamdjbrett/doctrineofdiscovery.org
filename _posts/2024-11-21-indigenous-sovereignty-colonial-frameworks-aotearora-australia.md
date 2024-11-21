@@ -1,5 +1,6 @@
 ---
 title: "Indigenous Sovereignty and Colonial Frameworks: A Comparative Analysis of Aotearoa (New Zealand) and Australia"
+description: "Indigenous resistance to colonial frameworks in settler-colonial states like Aotearoa (New Zealand) and Australia reveals an enduring tension between the desire for self-determination and the constraints of colonial structures."
 categories:
   - Blog
 tags:
