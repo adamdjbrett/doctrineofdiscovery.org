@@ -27,11 +27,11 @@ The Doctrine of Discovery was a legal and philosophical principle used by Europe
 
 Both Native Title and the Voice to Parliament demonstrate how colonial legacies (from the Doctrine) persist in modern frameworks, granting limited recognition but withholding true sovereignty. For example:
 
-a*. Native Title in Australia*
+### a*. Native Title in Australia*
 
 The Mabo decision (1992) provided a legal basis for Native Title by recognizing the pre-existing land rights of Indigenous peoples. However, this recognition is limited, as it operates within the colonial framework that insists on the Crown's sovereignty.[^6] The doctrine's continued influence on land rights laws reinforces Indigenous peoples' status as subjects under settler rule, rather than as independent sovereign entities.[^7]
 
-*b. Voice to Parliament*
+### *b. Voice to Parliament*
 
 The Voice to Parliament proposal in Australia represents another example of colonial logic. Its purpose - to provide Indigenous people with an advisory role - frames Indigenous voices as subordinate to the existing colonial state.[^8] [Critics](https://www.abc.net.au/listen/programs/speakingout/speaking-out/102636182), including Lidia Thorpe, argue that such measures perpetuate colonial inferior thinking, offering inclusion but no meaningful sovereignty. Instead of empowering self-determination, the Voice risks becoming a token gesture that reinforces the power of the Crown and the Australian Constitution, which were both shaped by colonial doctrines.[^9]
 
@@ -51,7 +51,7 @@ Lidia Thorpe's Protest: Rejecting Colonial Sovereignty
 
 Thorpe's actions underscore her rejection of the Voice to Parliament, which she sees as another form of colonial control.[^19] In her view, the Voice does not offer Indigenous peoples true self-determination; rather, it provides a platform for consultation without the power to enact change. Thorpe's critique of the Voice, like the broader Indigenous push for sovereignty, reflects a demand for equality and autonomy that challenges colonial systems designed to maintain dominance.[^20]
 
-**Indigenous Parliamentary Representation: Aotearoa's (New Zealand) Reserved Seats vs. Australia's Voice**
+### **Indigenous Parliamentary Representation: Aotearoa's (New Zealand) Reserved Seats vs. Australia's Voice**
 
 A significant point of comparison between Aotearoa and Australia lies in the political structures that represent Indigenous peoples. Aotearoa has long allowed Māori representation in Parliament through reserved Māori seats, which were first established in 1867.[^21] These seats provide Māori MPs with the full powers of parliamentary representation, including the ability to vote on and shape legislation. While the seats remain part of a colonial framework, they offer a tangible form of political power within the system, allowing Māori to directly influence laws that affect them.[^22]
 
@@ -104,7 +104,8 @@ Bibliography
 - Webb, Jill (2002) Indigenous Peoples and the Right to Self-determination, Journal of Indigenous Policy -- Issue 13 at <https://www.austlii.edu.au/au/journals/JlIndigP/2012/7.pdf>
 
 
-* * * * *
+* * *
+
 ## Works Cited
 
 [^1]:  Tully, 2007.
