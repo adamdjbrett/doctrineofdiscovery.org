@@ -1,8 +1,5 @@
 ---
 title: "Indigenous Sovereignty and Colonial Frameworks: A Comparative Analysis of Aotearoa (New Zealand) and Australia"
-header:
-  image: /assets/images/
-  caption: ""
 categories:
   - Blog
 tags:
