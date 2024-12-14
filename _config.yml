@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: en-US
-title: Doctrine of Discovery
+title: Doctrine of Discovery Project
+subtitle: An Indigenous Values Initiative and Syracuse University Project
 title_separator: "-"
 email: contact@doctrineofdiscovery.org
 description: >- # this means to ignore newlines until "baseurl:"
