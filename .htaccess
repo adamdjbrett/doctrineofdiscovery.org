@@ -2,6 +2,9 @@
 RewriteEngine on
 RewriteBase /
 
+#Fediverse
+RewriteRule ^.well-known/(host-meta|webfinger).* https://fed.brid.gy/$0  [redirect=302,last]
+
 # block “AI” bots
 RewriteCond %{HTTP_USER_AGENT} ({{ site.data.bots | sort_natural | join: "|" }}) [NC]
 RewriteRule ^ – [F]
