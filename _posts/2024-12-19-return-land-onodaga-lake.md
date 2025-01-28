@@ -1,5 +1,6 @@
 ---
 title: "Return land on Onondaga Lake to the Onondaga Nation (Your Letters)"
+excerpt: "What a delight to read Steve Featherstone’s feature article about the long-overdue return of 1,000 acres in the Tully Valley to the Onondaga Nation. Hearing several of our Onondaga neighbors share what the historic land return means for them and their community was deeply moving (“Onondaga Nation plans a wild future for 1,000 acres of reclaimed land,” Nov. 22, 2024). All of Central New York should celebrate this small step toward justice and healing. We urge readers who haven’t done so to read the article or watch the powerful 3-minute video."
 categories:
   - blog
   - link

@@ -1,5 +1,6 @@
 ---
 title: "Documenting Domination: From the Doctrine of Christian Discovery to Dominion Theology"
+excerpt: "The Doctrine of Christian Discovery is a series of fifteenth-century papal bulls that served as the theological and legal justification for the colonization of the world and the enslavement of the Original Free Nations, starting first on the African continent before spreading across the globe."
 categories:
   - blog
   - link

@@ -1,5 +1,6 @@
 ---
 title: "Race, Religion, and Nationalism in the 21st Century"
+excerpt: "This Special Issue invites submissions that interrogate the intersection between race, religion, and nationalism in the 21st century. Submissions might explore questions such as: What role does religion play in nationalist groups and movements? How do racism and racialization play a role in discrimination and violence against religious communities"
 categories:
   - Blog
   - link
