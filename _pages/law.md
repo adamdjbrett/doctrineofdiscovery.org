@@ -39,7 +39,7 @@ redirect_from:
   *   [_Oneida Indian Nation v. County of Oneida_, 617 F. 3d 114, August 9, 2010](https://doctrineofdiscovery.org/oneida-indian-nation-v-county-of-oneida/)
   *   [_Onondaga Nation v. NY_, 500 Fed. Appx. 87 (Argued October 12, 2012, decided October 19, 2012)](https://doctrineofdiscovery.org/onondaga-nation-v-ny/)
   *   [_White v. University of California_, 765 F. 3d 1010, (9th Cir., 2014)](https://doctrineofdiscovery.org/white-v-univ-of-cal/)
-  *   [_U.s. V. King Mountain Tobacco Co., Inc. Decision_ 9th Circuit, August 13, 2018](https://doctrineofdiscovery.org/u-s-v-king-mountain-tobacco/)
+  *   [_U.S. v. King Mountain Tobacco Co., Inc. Decision_ 9th Circuit, August 13, 2018](https://doctrineofdiscovery.org/u-s-v-king-mountain-tobacco/)
 
 ### Related Materials
   * [Brief Of Amicus Curiae Confederated Tribes And Bands Of The Yakama Nation In Support Of Respondent with Ethan Jones, Counsel of Record](/assets/pdfs/20180924115810387_36893-pdf-Yakama-Nation-br.pdf)
