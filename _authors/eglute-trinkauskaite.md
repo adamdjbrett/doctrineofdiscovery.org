@@ -1,7 +1,7 @@
 ---
 username: egulte-trinkauskaite
 name: "Eglutė Trinkauskaitė"
-bio: "CEglutė Trinkauskaitė is full time faculty in the department of Humanistic Studies at the Maryland Institute College of Art."
+bio: "Eglutė Trinkauskaitė is full time faculty in the department of Humanistic Studies at the Maryland Institute College of Art."
 avatar: /assets/images/authors/egluteTrinkauskaite.jpg
 links:
   - label: "Website"
