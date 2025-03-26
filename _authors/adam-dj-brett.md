@@ -19,6 +19,9 @@ links:
   - label: "LinkedIn"
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/adamdjbrett"
+  - label: "ORCID"
+    icon: "fab fa-fw fa-orcid"
+    url: https://orcid.org/0009-0004-6725-8425  
 redirect_from:
   - /authors/adamdjbrett/
 ---
