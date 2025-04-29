@@ -11,6 +11,7 @@ tags:
   - indigenous
   - journal
   - jcreor
+  - featured
 link: https://creor-ejournal.library.mcgill.ca/article/view/115
 author: betty-lyons
 ---
