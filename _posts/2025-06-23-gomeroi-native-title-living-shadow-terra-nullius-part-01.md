@@ -31,7 +31,7 @@ toc_icon: "cog"
 
 As Shawnee/Lenape legal scholar Steven T. Newcombe puts it, this article is a view from the shores, not the view from the ship - contrasting Indigenous perspectives with the colonisers' vantage point from the vessel ([Newcomb, 2024, p.1](https://issuu.com/ipjc/docs/a_view_from_the_shore_a_conversation_with_jode_go)). In this sense, this series challenges the idea that native title is a progressive legal instrument, arguing instead that it is the continuation of *terra nullius*, hidden behind a façade of procedural recognition.
 
-![Photo supplied by Gomeroi Elder, Polly Cutmore](/images/Figure-01-Photo-supplied-by-Gomeroi-Elder-Polly-Cutmore.png)
+![Photo supplied by Gomeroi Elder, Polly Cutmore](/assets/images/Figure-01-Photo-supplied-by-Gomeroi-Elder-Polly-Cutmore.png)
 *Photo supplied by Gomeroi Elder, Polly Cutmore*
 
 ## Part 1: Native Title and the Afterlife of Terra Nullius: Law as Containment, Not Recognition
