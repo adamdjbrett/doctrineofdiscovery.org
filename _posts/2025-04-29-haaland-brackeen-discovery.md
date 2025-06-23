@@ -1,6 +1,6 @@
 ---
 title: "Haaland v. Brackeen and the Logic of Discovery"
-description: " The ICWA was enacted to protect Indigenous sovereignty, but the Brackeens argued that its preference to Native American families in the fostering and adoption of Native American children amounts to racial discrimination, an argument the court did not substantively address because it judged the Brackeens lacked standing."
+description: "The ICWA was enacted to protect Indigenous sovereignty, but the Brackeens argued that its preference to Native American families in the fostering and adoption of Native American children amounts to racial discrimination, an argument the court did not substantively address because it judged the Brackeens lacked standing."
 categories:
   - blog
   - link
@@ -11,7 +11,7 @@ tags:
   - indigenous
   - journal
 link: https://muse.jhu.edu/article/908128
-author: Dana-Lloyd
+author: dana-lloyd
 ---
 ## Abstract
 
