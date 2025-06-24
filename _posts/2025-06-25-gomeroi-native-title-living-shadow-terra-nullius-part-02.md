@@ -14,7 +14,8 @@ toc: true
 toc_label: "Overview"
 toc_icon: "cog"
 ---
-## **Gomeroi Native Title - Living in the Shadow of *Terra Nullius***
+## Part 2
+### **Gomeroi Native Title - Living in the Shadow of *Terra Nullius***
 
 [Santos NSW Pty Ltd and Another v Gomeroi People and Another [2025] NNTTA 12](https://www.nntt.gov.au/News-and-Publications/latest-news/Documents/NF2021_0003-0006%2019052025.pdf)
 
