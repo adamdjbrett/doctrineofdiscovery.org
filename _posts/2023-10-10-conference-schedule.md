@@ -111,7 +111,7 @@ We especially would like to acknowledge and thank:
 - The University of Oklahoma's Indigenous Peoples Law Masters of Legal Studies program
 
 #### Annotated Bibliography
-[In the Court of the Conqueror Annotated Bibliography by george emilio sanchez](assets/pdfs/In-the-Court-of-the-Conqueror-Annotated-Bibliography.pdf)
+[In the Court of the Conqueror Annotated Bibliography by george emilio sanchez](/assets/pdfs/In-the-Court-of-the-Conqueror-Annotated-Bibliography.pdf)
 
 ## Tenative Conference Schedule
 
