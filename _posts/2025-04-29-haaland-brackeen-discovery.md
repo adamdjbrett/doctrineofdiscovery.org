@@ -5,7 +5,7 @@ categories:
   - blog
   - link
 tags:
-  - Law
+  - law
   - religion
   - values
   - indigenous

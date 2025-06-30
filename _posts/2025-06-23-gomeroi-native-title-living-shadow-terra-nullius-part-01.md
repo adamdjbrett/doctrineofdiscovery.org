@@ -4,11 +4,11 @@ description: "This article is presented as a two-part series examining the struc
 categories:
   - blog
 tags:
-  - Law
+  - law
   - religion
   - values
   - indigenous
-  - Gomeroi
+  - gomeroi
 author: phil-rodgers-falk
 toc: true
 toc_label: "Overview"
