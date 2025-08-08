@@ -14,7 +14,7 @@ tags:
 redirect_from:
   - /8834/
 ---
-## Requerimiento, 1514
+## Requerimiento, 1513
 [Document written by jurist Palacios Rubios, of the Council of Castille.]
   On the part of the King, Don Fernando, and of Doña Juana, his daughter, Queen of Castille and León, subduers of the barbarous nations, we their servants notify and make known to you, as best we can, that the Lord our God, Living and Eternal, created the Heaven and the Earth, and one man and one woman, of whom you and we, all the men of the world, were and are descendants, and all those who came after us. But, on account of the multitude which has sprung from this man and woman in the five thousand years since the world was created, it was necessary that some men should go one way and some another, and that they should be divided into many kingdoms and provinces, for in one alone they could not be sustained.
  

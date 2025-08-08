@@ -139,7 +139,7 @@ References
 
 -   Wolfe, Patrick. "Settler Colonialism and the Elimination of the Native." *Journal of genocide research*4 (2006): 387-409.
 
--   Doctrine of Disovery Papal Bulls: Dum Diversas 18 June, 1452, The Bull Romanus Pontifex (Nicholas V), January 8, 1455 and The Bull Inter Caetera (Alexander VI), May 4, 1493. Later expansions of these bulls include the Treaty of Tordesillas, June 7, 1494, the Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496, The Requerimiento, 1514. <https://doctrineofdiscovery.org/>.
+-   Doctrine of Disovery Papal Bulls: Dum Diversas 18 June, 1452, The Bull Romanus Pontifex (Nicholas V), January 8, 1455 and The Bull Inter Caetera (Alexander VI), May 4, 1493. Later expansions of these bulls include the Treaty of Tordesillas, June 7, 1494, the Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496, The Requerimiento, 1513. <https://doctrineofdiscovery.org/>.
 
 ## Footnotes
 

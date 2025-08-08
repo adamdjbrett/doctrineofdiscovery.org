@@ -29,6 +29,6 @@ redirect_from:
 *   Expansion of Papal Bulls
     *   [Treaty of Tordesillas, June 7, 1494](https://doctrineofdiscovery.org/treaty-of-tordesillas/)
     *   [Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496](https://doctrineofdiscovery.org/patent-cabot-henry-vii/)
-    *   [The Requerimiento, 1514](https://doctrineofdiscovery.org/requerimiento/)
+    *   [The Requerimiento, 1513](https://doctrineofdiscovery.org/requerimiento/)
 * [Sublimis Deus (Sublimis Dei) A Brief Overview](/papal-bulls/sublimis-deus/)
   * [Sublimis Deus, Pastorale Officium and Non IndecensVidetur – A Historical Dive Into the Vatican’s Failure to Rescind the Doctrine of Discovery](/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/)
