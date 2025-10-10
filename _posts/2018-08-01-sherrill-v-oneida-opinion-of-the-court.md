@@ -1,5 +1,4 @@
 ---
-ID: 9250
 title: "City of Sherrill v. Oneida Indian Nation of New York"
 author: dana-lloyd
 excerpt: "Ruth Bader Ginsburg on the Doctrine of Discovery."

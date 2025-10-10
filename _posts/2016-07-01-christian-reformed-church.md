@@ -1,5 +1,4 @@
 ---
-ID: 1607
 title: "Christian Reformed Church"
 date: 2016-07-01T15:08:34
 excerpt: "Read the Christian Reformed Church statement repudiating the Doctrine of Discovery."

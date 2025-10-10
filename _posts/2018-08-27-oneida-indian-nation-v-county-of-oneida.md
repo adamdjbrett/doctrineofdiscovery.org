@@ -1,5 +1,4 @@
 ---
-ID: 9487
 title: "Oneida Indian Nation v. County of Oneida"
 author: indigenous-values-initiative
 excerpt: "We have used the term “laches” here, as did the district court and this Court in Cayuga, as a convenient shorthand for the equitable principles at stake in this case, but the term is somewhat imprecise for the purpose of describing those principles."

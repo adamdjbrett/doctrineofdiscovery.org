@@ -1,5 +1,4 @@
 ---
-ID: 1215
 title: "Stand for Human Rights for Indigenous Peoples and Renounce the 'Doctrine of Discovery'"
 excerpt_separator: "<!--more-->"
 date: 2012-05-06T15:34:30-04:00

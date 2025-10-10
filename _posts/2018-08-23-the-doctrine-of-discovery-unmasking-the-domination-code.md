@@ -1,5 +1,4 @@
 ---
-ID: 9424
 title: 'The Doctrine of Discovery, Unmasking The Domination Code'
 header:
   image: /assets/images/doctrine-of-discovery-unmasking-domination-code.jpg

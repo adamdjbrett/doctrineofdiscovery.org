@@ -1,5 +1,4 @@
 ---
-ID: 9474
 title: "Haudenosaunee Democracy"
 author: jim-kent
 excerpt: "Academics, attorneys and religious leaders from as far away as Chile gathered at this site sacred to members of the Haudenosaunee Confederacy to discuss the Doctrine of Discovery."

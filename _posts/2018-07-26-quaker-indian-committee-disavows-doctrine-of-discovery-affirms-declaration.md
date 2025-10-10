@@ -1,5 +1,4 @@
 ---
-ID: 8860
 title: "Quaker Indian Committee disavows Doctrine of Discovery, affirms Declaration"
 author: gale-toensing
 excerpt: "Inspired by the actions of the Episcopal Church, a Quaker group has disavowed the Christian Doctrine of Discovery and voiced its support for the United Nations Declaration on the Rights of Indigenous Peoples."

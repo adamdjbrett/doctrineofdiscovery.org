@@ -1,5 +1,4 @@
 ---
-ID: 8930
 title: "Episcopal Church Repudiates the Doctrine of Discovery"
 author: john-chaffee
 excerpt: "That the 76th General Convention repudiates and renounces the Doctrine of Discovery as fundamentally opposed to the Gospel of Jesus Christ and our understanding of the inherent rights that individuals and peoples have received from God, and that this declaration be proclaimed among our churches and shared with the United Nations and all the nations and peoples located within The Episcopal Church’s boundaries."

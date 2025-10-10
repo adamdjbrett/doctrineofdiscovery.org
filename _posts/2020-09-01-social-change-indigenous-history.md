@@ -1,5 +1,4 @@
 ---
-ID: 9549
 title: "Let‘s Change the Subject: Grounding Social Change in Indigenous History and Philosophy"
 date: 2020-09-01 14:54:46
 excerpt_separator: "<!--more-->"

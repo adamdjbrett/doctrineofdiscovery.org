@@ -1,5 +1,4 @@
 ---
-ID: 9102
 title: "Taking on the Doctrine of Discovery, What are our Next Steps?"
 header:
   image: /assets/images/doctrine-of-discovery-flyer-min.jpg

@@ -1,5 +1,4 @@
 ---
-ID: 8825
 title: "Inter Caetera"
 author: indigenous-values-initiative
 translator: Sebastian Modrow and Melissa Smith

@@ -1,5 +1,4 @@
 ---
-ID: 8856
 title: 'Indigenous Statement to the Parliament of World&#8217;s Religions'
 author: indigenous-values-initiative
 excerpt: "An Indigenous Peoples’ Statement to the World Delivered at The Parliament of the World’s Religions Convened at Melbourne, Australia on the Traditional Lands of the Wurundjeri People of the Kulin Nation"

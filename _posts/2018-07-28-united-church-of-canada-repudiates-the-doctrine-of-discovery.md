@@ -1,5 +1,4 @@
 ---
-ID: 8983
 title: "United Church of Canada Repudiates the Doctrine of Discovery"
 author: united-church-canada
 excerpt: "We repudiate the Doctrine of Discovery, which asserted that lands belonged to the Christian powers that 'discovered' them."

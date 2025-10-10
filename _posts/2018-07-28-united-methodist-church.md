@@ -1,5 +1,4 @@
 ---
-ID: 8959
 title: "United Methodist Church Repudiates the Doctrine of Discovery"
 author: umc
 excerpt: "Trail of Repentance And Healing."

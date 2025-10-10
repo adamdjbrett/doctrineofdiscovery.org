@@ -1,5 +1,4 @@
 ---
-ID: 0726
 title: "Doctrine of Christian Discovery: After Repudiation, What Next"
 author: indigenous-values-initiative
 excerpt: "Doctrine of Christian Discovery: After Repudiation, What Next? Conference May 24-25 2014 The Skä·noñh — Great Law of Peace Center."

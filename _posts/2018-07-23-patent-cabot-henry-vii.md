@@ -1,5 +1,4 @@
 ---
-ID: 8831
 title: "Patent Granted by Henry VII to John Cabot"
 header:
   image: /assets/images/john-cabot-patent.jpg

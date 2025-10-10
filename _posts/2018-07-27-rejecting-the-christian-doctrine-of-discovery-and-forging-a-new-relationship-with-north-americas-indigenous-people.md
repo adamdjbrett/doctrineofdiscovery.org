@@ -1,5 +1,4 @@
 ---
-ID: 8941
 title: "Rejecting the Christian Doctrine of Discovery and Forging a New Relationship with North America’s Indigenous People"
 author: john-dieffenbacher-krall
 excerpt: Pope Nicholas V first articulated the Doctrine of Discovery in the papal bull Dum Diversas in 1452. The Doctrine of Discovery consists of the idea that Christians have a right sanctioned by God to take non-Christian lands and property and assert political control over the indigenous inhabitants.

@@ -1,5 +1,4 @@
 ---
-ID: 9537
 title: "Mexico demands Spain apologize for colonial abuse of indigenous people"
 author: adam-dj-brett
 excerpt: "In letter to Spanish king, President Obrador cites massacres and oppression during conquest of Mexico."

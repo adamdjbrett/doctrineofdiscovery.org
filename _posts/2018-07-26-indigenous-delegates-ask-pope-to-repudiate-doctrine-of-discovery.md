@@ -1,5 +1,5 @@
 ---
-ID: 8858
+
 title: "Indigenous delegates ask Pope to repudiate Doctrine of Discovery"
 author: gale-toensing
 excerpt: "Indigenous delegates ask Pope to repudiate Doctrine of Discovery"

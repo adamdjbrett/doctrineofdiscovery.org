@@ -1,5 +1,4 @@
 ---
-ID: 9547
 title: "The Good, The Bad & The Ugly In Mcgirt V. Oklahoma"
 excerpt_separator: "<!--more-->"
 date: 2020-08-14 14:54:46

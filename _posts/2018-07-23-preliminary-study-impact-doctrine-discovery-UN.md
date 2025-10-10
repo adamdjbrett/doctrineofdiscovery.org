@@ -1,5 +1,4 @@
 ---
-ID: 1817
 title: "Preliminary study of the impact on indigenous peoples of the international legal construct known as the Doctrine of Discovery"
 date: 2018-07-23T14:54:46
 author: betty-lyons

@@ -1,5 +1,4 @@
 ---
-ID: 9532
 title: "Canadian Lawmakers call on Pope to Apologize"
 excerpt: "Read the Canadian lawmakers letter to the pope."
 date: 2018-12-31 14:54:46

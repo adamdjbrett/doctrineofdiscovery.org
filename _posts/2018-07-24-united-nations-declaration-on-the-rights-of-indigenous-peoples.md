@@ -1,5 +1,4 @@
 ---
-ID: 8843
 title: 'United Nations Declaration on the Rights of Indigenous Peoples'
 header:
   image: assets/images/united-nations-hq-by-basil-d-soufi-min.jpg

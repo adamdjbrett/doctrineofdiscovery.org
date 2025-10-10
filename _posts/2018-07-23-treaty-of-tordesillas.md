@@ -1,5 +1,4 @@
 ---
-ID: 8828
 title: "Treaty of Tordesillas"
 header:
   image: /assets/images/tordesillashouse.jpg

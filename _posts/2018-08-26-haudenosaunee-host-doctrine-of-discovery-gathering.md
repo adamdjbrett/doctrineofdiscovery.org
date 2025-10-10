@@ -1,5 +1,4 @@
 ---
-ID: 9455
 title: "Haudenosaunee Host Doctrine of Discovery Gathering"
 author: jim-kent
 excerpt: "&quot; I think it’s something that people don’t really understand,&quot;  observes Betty Lyons, President and Director of the American Indian Law Alliance. &quot; They go about their daily lives and they do things and they don’t understand why they’re doing them and how much the Doctrine has affected everyone everywhere.&quot;"

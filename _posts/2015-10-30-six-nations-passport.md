@@ -1,5 +1,4 @@
 ---
-ID: 1030
 title: "My six nation Haudenosaunee passport is not a 'fantasy document'"
 excerpt_separator: "<!--more-->"
 date: 2015-10-30T15:34:30-04:00

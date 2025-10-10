@@ -1,5 +1,4 @@
 ---
-ID: 8802
 title: "Johnson v. M’Intosh"
 author: indigenous-values-initiative
 excerpt: "The Indians were admitted to be the rightful occupants of the soil, with a legal as well as just claim to retain possession of it, and to use it according to their own discretion; but their rights to complete sovereignty, as independent nations, were necessarily diminished, and...Discovery gave exclusive title to those who made it."

@@ -1,5 +1,4 @@
 ---
-ID: 8875
 title: "2014 Conference Photo Gallery"
 author: indigenous-values-initiative
 excerpt: "2014 conference photo gallery"

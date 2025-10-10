@@ -1,5 +1,4 @@
 ---
-ID: 8970
 title: "World Council of Churches Repudiates the Doctrine of Discovery"
 author: wcc
 excerpt: "WCC statement on the Doctrine of Discovery and its enduring impact on Indigenous Peoples."
