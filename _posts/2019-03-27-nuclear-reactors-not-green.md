@@ -1,5 +1,5 @@
 ---
-title: Nuclear Reactors are Not Green: A Red Paper"
+title: "Nuclear Reactors are Not Green: A Red Paper"
 categories:
   - Blog
   - redpaper
