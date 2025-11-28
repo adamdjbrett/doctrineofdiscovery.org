@@ -129,3 +129,5 @@ None of this will be easy, but pursuit of this ideal could go a long way toward 
 [^3]: Kenneth Chestek, *The Myth of Divine Right* (unpublished manuscript on file with the author), Chapter 2.
 
 [^4]: *See*, *e.g.*, Hans Hans Blumenberg, Work on Myth (MIT Press 1988) (Robert M. Wallace, trans.), at 67; Chiara Bottici, A Philosophy of Political Myth (Cambridge U. Press 2007), at 123.
+
+{% include citation-links.html %}

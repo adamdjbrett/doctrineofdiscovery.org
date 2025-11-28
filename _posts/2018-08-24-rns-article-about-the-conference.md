@@ -15,3 +15,5 @@ tags:
 > The way Steven T. Newcomb describes the Doctrine of Discovery these days is “a claim of a right of Christian domination.” It was first expressed by Pope Nicholas V in the 1452 papal bull “[Dum Diversas](/dum-Diversas/),” which — along with subsequent bulls [“Romanus Pontifex”](/the-bull-romanus-pontifex-nicholas-v/) and “[Inter Caetera](/inter-caetera/)” — created a theological justification for Christian rulers seizing the property and possessions of non-Christians.
 
 [Read more @ Religion News Service](https://religionnews.com/2018/08/22/denominations-repent-for-native-american-land-grabs/)
+
+{% include citation-links.html %}

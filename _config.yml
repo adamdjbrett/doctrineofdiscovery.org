@@ -212,6 +212,10 @@ github: true
 # Flags to enable/disable "donate box" alerts on lessons
 donation_alerts: true
 
+# Keep citation files when building
+keep_files:
+  - assets/citations
+
 
 jekyll-minifier:
   preserve_php: true                # Default: false

@@ -176,3 +176,5 @@ References
 [^16]: Tuck, Eve, and K. Wayne Yang. 2012. "Decolonization Is Not a Metaphor*." Decolonization: Indigeneity, Education & Society* 1.1: 1-40.
 
 [^17]: Arvin, Maile, Eve Tuck, and Angie Morrill. "Decolonizing feminism: Challenging connections between settler colonialism and heteropatriarchy." *Feminist formations* (2013): 8-34.
+
+{% include citation-links.html %}

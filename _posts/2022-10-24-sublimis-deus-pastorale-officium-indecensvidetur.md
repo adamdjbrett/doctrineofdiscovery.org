@@ -130,3 +130,5 @@ If, as they argue, the papal bulls no longer hold relevance in contemporary poli
 One would assume this would be an easy win for them to present themselves as supporters of Indigenous rights, and Indigenous Peoples have repeated stated that this matters a great deal to us. It is a very basic question that colonial states and the Vatican must sit with &mdash; if it matters nought, then why does revoking it continue to stoke contemporary colonial anxiety?
 
 In consideration of this history, there can be no doubt as to the fact that *Sublimis Deus* does not equate to the rescinding of the Doctrine of Discovery, that the duty still rests with the Vatican to formally, and ceremonially rescind the entire body of papal bulls that are collectively known as the Doctrine of Discovery, and that member state governments must still formally repudiate and renounce the Doctrine of Discovery as racist, scientifically false, legally invalid, morally condemnable and socially unjust.
+
+{% include citation-links.html %}

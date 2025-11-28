@@ -56,3 +56,5 @@ tags:
 - [→ For a more detailed bibliography on the Doctrine of Discovery see our bibliography page](/bibliography/).
 
 - [Back to Law](/law/)
+
+{% include citation-links.html %}

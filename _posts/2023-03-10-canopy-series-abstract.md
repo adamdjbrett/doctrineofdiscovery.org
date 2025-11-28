@@ -24,3 +24,5 @@ March – April 2023
 <!--more-->
 >
 > Grounding this conversation in the Two Row Wampum method, the editors of this series have worked to include both Indigenous and non-Indigenous voices so we can journey side by side without violating the waters down the river of life. We recognize the urgency and need for more inclusion of indigenous voices to reaffirm our proper relationship with the natural world in the staid disciplines of religion, law, history, anthropology, and cultural studies. We hope this series inspires generative conversations around *Johnson* and the Doctrine of Christian Discovery.
+
+{% include citation-links.html %}

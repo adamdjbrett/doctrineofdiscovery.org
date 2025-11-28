@@ -53,3 +53,5 @@ _Da nay to (now I am finished)_.
 **Recommendation**: That an international study be made by the UNPFII on the effects of the international construct known as the “Doctrine of Discovery” upon the health, physical, psychological, social, well-being, human and collective rights, resources, medicines, lands and titles to such lands, to be submitted to the UNPFII in 2014 as an addendum to the UN International Decade of Indigenous Peoples, with recommendations addressing the discoveries and findings of this study.  
 
 [⤓ Download the Statement as a PDF](/assets/pdfs/Haudenosaunee-stmt-on-Doctrine-of-Discovery-UNPFIP-2012.pdf)
+
+{% include citation-links.html %}

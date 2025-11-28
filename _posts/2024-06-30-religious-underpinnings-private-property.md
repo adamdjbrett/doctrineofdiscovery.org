@@ -33,3 +33,5 @@ link: https://dailymontanan.com/2024/06/29/the-religious-underpinnings-of-one-of
 <p><em>Steve Kelly is an artist, gardener and environmental activist who lives in Bozeman, Montana.&nbsp;</em></p>
 </div>
 </blockquote>
+
+{% include citation-links.html %}

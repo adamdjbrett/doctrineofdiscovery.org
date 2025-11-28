@@ -133,3 +133,5 @@ As identified here, other parts of the theological foundation needing to be repu
 This brings up the thorny problem of what to do with the Bible, which contains the dangerous passages identified here that led Christians to violate innate human rights and still do today. To simply say that popes and colonizers misunderstood or misused these passages does not increase the safety of non-Christians. We are talking about theologically trained popes and clergy as well as legions of ordinary Christians being led by the Bible to violate human rights over centuries.
 
 The Bible must somehow be made safer as a playbook for Christian behavior toward non-Christians. The recent rise of Christian nationalism makes this need urgent.
+
+{% include citation-links.html %}

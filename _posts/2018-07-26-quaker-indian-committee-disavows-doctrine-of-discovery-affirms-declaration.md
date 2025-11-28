@@ -87,3 +87,5 @@ Among the key topics at the PWR – the environment, poverty, building peace wit
 In addition to Lyons, the delegation to the Dec. 3 – 9 event included Tonya Gonnella Frichner, Esq., Onondaga Nation, the North American Representative to the United Nations Permanent Forum on Indigenous Issues and president and founder of the American Indian Law Alliance; Steven Newcomb, Shawnee Lenape, the indigenous law research coordinator in the education department of the Sycuan Band of the Kumeyaay Nation, the author of “Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery,” and Indian Country Today columnist; Jake Swamp, a former chief of the Akwesasne Mohawk Nation and a renowned educator and leader; Joanne Shenandoah, Oneida Indian Nation, award-winning singer-songwriter; Doug George-Kanentiio, Akwesasne Mohawk, an editor, columnist and author; scholars Philip Arnold and Mary McDonald.
 
 Major speakers scheduled to appear at the Parliament included His Holiness the Dalai Lama and President Jimmy Carter.
+
+{% include citation-links.html %}

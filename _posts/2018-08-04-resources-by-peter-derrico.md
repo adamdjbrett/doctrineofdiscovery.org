@@ -32,3 +32,5 @@ tags:
 *   [For more articles by Peter d'Errico view his profile on academia.edu ](https://umass.academia.edu/PeterdErrico)
 
 *   [Film](https://www.youtube.com/watch?v=SVgw_rD1YBM)
+
+{% include citation-links.html %}

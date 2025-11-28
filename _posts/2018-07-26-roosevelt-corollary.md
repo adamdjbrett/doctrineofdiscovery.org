@@ -26,3 +26,5 @@ In what came to be known as the Roosevelt Corollary to the Monroe Doctrine, Roos
 - [Theodore Roosevelt's Annual Message to Congress for 1904](https://catalog.archives.gov/id/5752367?objectPage=2)
 - [Transcript of Theodore Roosevelt's Corollary to the Monroe Doctrine (1905)](https://www.ourdocuments.gov/doc.php?flash=false&doc=56&page=transcript)
 - [Back to Law](https://doctrineofdiscovery.org/law/).
+
+{% include citation-links.html %}

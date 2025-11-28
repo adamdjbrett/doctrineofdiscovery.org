@@ -12,3 +12,5 @@ Philip P Arnold, a professor of religious studies at Syracuse University and the
 Their position is that: “the Vatican’s statement reads in part like an attempt at damage control” and that it, “falls short of the kind of full accountability required to heal past wounds”.
 
 Additionally, they argue that it does not compare favourably with other Christian repudiations:  the Episcopalians 2009, the World Council of Churches 2012, and myriad other Roman Catholic bodies throughout the 2000’s.
+
+{% include citation-links.html %}

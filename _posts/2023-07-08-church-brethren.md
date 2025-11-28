@@ -39,3 +39,5 @@ The following text from Page 181, Lines 17-30 incorporates the amendments to the
 4. That the Church of the Brethren consult with Indigenous organizations and tribes to develop opportunities for congregations, districts, and the denomination to consider some form of reparation following the leadership of Native nations or organizations.
 
 [learn more](https://www.brethren.org/news/2023/summary-of-actions-at-2023-annual-conference/){: .btn .btn--primary .btn--x-large}
+
+{% include citation-links.html %}

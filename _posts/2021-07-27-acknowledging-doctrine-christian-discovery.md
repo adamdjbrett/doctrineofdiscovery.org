@@ -141,3 +141,5 @@ As a matter of fact, one would think that our ancestors would honored to know th
 *   Richard Peter’s, Statutes At Large, Vol. VII, _Treaties Between the United States and the Indian Tribes_ (Washington: Government Printing Office).
 *   Dr. Luis Rivera-Pagán, A Violent Evangelism: The Political and Religious Conquest of America, 1992, (Louisville, KY: Westminster/John Knox Press).
 *   Joseph Story, _Commentaries on the Constitution of the United States_, Vol. I, (Boston: Hilliard, Gray and Company), 1933\. [https://lonang.com/library/reference/story-commentaries-us-constitution/](https://lonang.com/library/reference/story-commentaries-us-constitution/)
+
+{% include citation-links.html %}

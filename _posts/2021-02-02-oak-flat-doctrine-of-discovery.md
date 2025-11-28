@@ -10,3 +10,5 @@ author: steven-newcomb
 link: https://originalfreenations.com/oak-flat-and-pope-alexander-vis-papal-decree-of-domination-in-u-s-law/
 ---
 >Steven Newcomb (Shawnee/Lenape) Prior to the invasion of this continent (“North America”) by representatives of the monarchs of Western Christendom, the original nations and peoples of the continent, such as the Apache, were living their own free and independent way of life. We can think back on the thousands of years during which no Christians prior to the invasion of this continent (“North America”) by representatives of the monarchs of Western Christendom, the original nations and peoples of the continent, such as the Apache, were living their own free and independent way of life.
+
+{% include citation-links.html %}

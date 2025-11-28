@@ -149,3 +149,5 @@ Ultimately, if we truly understood the stakes, we would endeavor to make the fig
 [^6]:  Such as in the observance of the Indigenous practice of *mari-it*, places in the Wild watched over by *taglugar*, (spirit guardians) and understood as off-limits to humans (Magos, 1997; Nalangan, 2018).
 
 [^7]: "[M]en who have again mounted the saddle of savagery" (Steere, 1898, p. 407),
+
+{% include citation-links.html %}

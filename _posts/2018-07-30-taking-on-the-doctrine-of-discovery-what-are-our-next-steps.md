@@ -36,3 +36,5 @@ In 2014, before the Skä·noñh—Great Law of Peace Center had officially ope
 *  View the Tentative Schedule for Taking on the Doctrine of Discovery, What are our Next Steps?](https://indigenousvalues.org/draft-schedule-for-taking-on-the-doctrine-of-discovery/)
 *  If you want to contribute a scholarship for others to attend the conference you can donate to the conference](https://indigenousvalues.org/give/).
 *  [Next Steps](https://indigenousvalues.org/taking-on-the-doctrine-of-discovery-what-are-our-next-steps/)
+
+{% include citation-links.html %}

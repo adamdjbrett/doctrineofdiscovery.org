@@ -176,3 +176,5 @@ author: adam-dj-brett
 * [Framework of Dominance: UN Preliminary Study on the Doctrine of Discovery](http://unpfip.blogspot.com/p/framework-of-dominance-preliminary_03.html)
 * [Indigenous Peoples Forum on the Impact of the Doctrine of Discovery Purpose Goals and Objectives](https://doctrineofdiscoveryforum.blogspot.com/p/purpose-goals-and-objectives.html)
 * [Kia Mau – Resisting Colonial Fictions by Tina Ngata](https://tinangata.com/2020/06/14/kia-mau-resisting-colonial-fictions/)
+
+{% include citation-links.html %}

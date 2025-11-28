@@ -18,3 +18,5 @@ Excerpt:
 
 * [Read the full The TEE-HIT-TON INDIANS, An Identifiable Group of Alaska Indians, Petitioner, v. The UNITED STATES Decision.](https://www.law.cornell.edu/supremecourt/text/348/272)
 * [Back to Law](/law/).
+
+{% include citation-links.html %}

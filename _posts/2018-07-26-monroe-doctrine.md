@@ -27,3 +27,5 @@ The late events in Spain and Portugal, shew that Europe is still unsettled. Of t
 
 - [Transcript of Monroe Doctrine (1823)](https://www.ourdocuments.gov/doc.php?flash=false&doc=23&page=transcript)
 - [Back to Law](https://doctrineofdiscovery.org/law/).
+
+{% include citation-links.html %}

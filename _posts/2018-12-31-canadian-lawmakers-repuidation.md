@@ -14,3 +14,5 @@ tags:
 ## In 2018 Canadian Lawmakers Requested an official apology from the Pope
 
 * ["Request for an Official Papal Apology."](http://www.foxnews.com/politics/2018/05/02/canadian-lawmakers-seek-papal-apology-for-forced-schooling-indigenous-children.html)
+
+{% include citation-links.html %}

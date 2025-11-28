@@ -41,3 +41,5 @@ The opinions of [Betty Lyons](https://www.syracuse.com/opinion/2020/06/columbus-
 
 
 **Sandy Bigtree** \| Mohawk Nation of Akwesasne \| [**Skä·noñh—Great Law of Peace Center**](http://www.skanonhcenter.org/) Collaborative \| [**Indigenous Values Initiative**](https://indigenousvalues.org/)
+
+{% include citation-links.html %}

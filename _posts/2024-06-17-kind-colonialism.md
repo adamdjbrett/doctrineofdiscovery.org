@@ -22,3 +22,5 @@ Second, rapidly and aggressively assimilate them.
 
 Third, recruit local populations to carry out colonial work.
 </blockquote>
+
+{% include citation-links.html %}

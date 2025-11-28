@@ -14,3 +14,5 @@ tags:
 * [COVID-19 pandemic grew from centuries-old roots](https://www.mennonitemission.net/blog/COVID-19-pandemic-grew-from-centuries-old-roots)
 * [Despite Manifest Destiny, Indigenous cultures have survived](https://www.mennonitemission.net/blog/Despite-Manifest-Destiny-Indigenous-cultures-have-survived)
 * [Healing Mother Earth’s Pandemic](https://www.mennonitemission.net/blog/Healing-Mother-Earths-Pandemic)
+
+{% include citation-links.html %}

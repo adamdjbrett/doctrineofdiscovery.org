@@ -18,3 +18,5 @@ tags:
 ## In 2011 the Evangelical Church in Canada Repudiated the Doctrine of Discovery
 
 *  [A Resolution Encouraging Right Relationships with Indigenous Peoples (PDF)](/assets/pdfs/2011ELCICResolutiononRightRelationshipswithIndigenousPeoples.pdf)
+
+{% include citation-links.html %}

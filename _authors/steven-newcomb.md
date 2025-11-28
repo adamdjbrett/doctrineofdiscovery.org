@@ -27,7 +27,7 @@ links:
     url: "https://www.linkedin.com/in/steve-newcomb-a5a15828/"
   - label: "YouTube"
     icon": "fab fa-fw fa-youtube"
-    url: "https://www.youtube.com/@DominationChronicles
+    url: "https://www.youtube.com/@DominationChronicles"
   - label: "Vimeo"
     icon: "fab fa-fw fa-vimeo"
     url: "https://vimeo.com/ondemand/dominationcode"

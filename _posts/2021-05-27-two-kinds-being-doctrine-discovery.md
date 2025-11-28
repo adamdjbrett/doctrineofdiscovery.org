@@ -144,3 +144,5 @@ Most Christian denominations in the United States have roots in the Roman Cathol
 
 ## Cite this item
 Robert Franics, "Two Kinds of Beings: The Doctrine of Discovery And Its Implications for Yesterday and Today," Archived from Manataka American Indian Council, first posted 13 December 2003. Archived 27 May 2021.
+
+{% include citation-links.html %}

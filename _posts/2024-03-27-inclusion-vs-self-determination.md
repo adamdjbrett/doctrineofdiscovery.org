@@ -18,3 +18,4 @@ Does the appointment of a ‘Native American’ to high office in the US governm
 
 What does such an appointment signify about the relationship between the US and Original peoples?
 
+{% include citation-links.html %}

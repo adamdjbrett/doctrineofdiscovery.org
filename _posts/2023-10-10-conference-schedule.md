@@ -128,3 +128,5 @@ if you would like your bio included please email your *short* bio to info@indige
 
 ## Special Thanks
 Special thanks to Dr. Adam DJ Brett, Deborah Pratt, Alex Snow, and our volunteers.
+
+{% include citation-links.html %}

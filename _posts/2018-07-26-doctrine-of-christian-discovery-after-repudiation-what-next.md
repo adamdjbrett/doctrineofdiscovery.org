@@ -127,3 +127,5 @@ redirect_from:
 
 #### Conference Photos
 {% include gallery caption="This is the 2014 Photo Gallery." %}
+
+{% include citation-links.html %}

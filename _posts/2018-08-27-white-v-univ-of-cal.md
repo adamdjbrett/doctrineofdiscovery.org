@@ -20,3 +20,5 @@ Excerpt:
 - [Download White v. Univ. of Cal. as a PDF via CaseText.com](https://casetext.com/case/white-v-univ-of-cal)
 
 - [Back to Law](/law/).
+
+{% include citation-links.html %}

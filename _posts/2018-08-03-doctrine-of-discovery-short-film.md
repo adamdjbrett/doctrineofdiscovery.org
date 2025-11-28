@@ -21,3 +21,5 @@ tags:
 
 * [Doctrine of Discovery Short Film on Youtube](https://www.youtube.com/watch?v=V3gF7ULVrl4) 
 * [The First Video in the _Digital Wampum_ series](https://youtu.be/2DofTnRhm5o)
+
+{% include citation-links.html %}

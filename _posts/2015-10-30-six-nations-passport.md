@@ -46,3 +46,5 @@ Maintaining our sovereignty demands that we use our own passport. This is why we
 We do not have the option of simply accepting American or Canadian passports. We are citizens of the Haudenosaunee Confederacy, as we have been for millennia before the Europeans' arrival.
 
 That is not negotiable.
+
+{% include citation-links.html %}

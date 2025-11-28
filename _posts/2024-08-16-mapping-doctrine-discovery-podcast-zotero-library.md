@@ -13,3 +13,5 @@ link: https://www.zotero.org/groups/5628442/mapping_the_doctrine_of_discovery
 author: adam-dj-brett
 ---
 * [Mapping the Doctrine of Discovery Zotero Library](https://www.zotero.org/groups/5628442/mapping_the_doctrine_of_discovery)
+
+{% include citation-links.html %}

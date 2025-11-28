@@ -13,3 +13,5 @@ link: https://peterderrico.substack.com/p/political-principles-and-indian-sovere
 > Hester concludes that the labyrinth of “inherent and retained sovereignty under plenary power” obscures without resolving the fundamental and deepening issue: “Either Indians are or are not a part of the United States.”
 > 
 > The question is becoming increasingly difficult to answer.
+
+{% include citation-links.html %}

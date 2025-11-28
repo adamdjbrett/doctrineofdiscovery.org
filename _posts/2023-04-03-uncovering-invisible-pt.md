@@ -288,3 +288,5 @@ Para criar um futuro positivo e igualitário para todos os brasileiros, é essen
 * Thorpe, A. (2018). Pop-up property: Enacting ownership from San Francisco to Sydney. Retrieved February 19, 2023, from http://www5.austlii.edu.au/au/journals/UNSWLRS/2019/94.pdf
 
 * Walker, R.S., Kesler, D.C., & Hill, K.R. (2016). Are Isolated Indigenous Populations Headed toward Extinction? PLoS ONE, 11.
+
+{% include citation-links.html %}

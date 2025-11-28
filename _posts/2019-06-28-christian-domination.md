@@ -51,3 +51,5 @@ _If you need a scholarship, please send an email to info@indigenousvalues.org an
 ### Hotels
 
 [**Book your group rate for SU Religion**](https://www.marriott.com/events/start.mi?id=1555340255180&key=GRP)
+
+{% include citation-links.html %}

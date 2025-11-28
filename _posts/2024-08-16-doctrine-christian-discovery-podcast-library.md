@@ -13,3 +13,5 @@ link: https://www.zotero.org/groups/5628453/doctrine_of_christian_discovery_podc
 author: adam-dj-brett
 ---
 * [The Doctrine of Christian Discovery Podcast Zotero Library](https://www.zotero.org/groups/5628453/doctrine_of_christian_discovery_podcast)
+
+{% include citation-links.html %}

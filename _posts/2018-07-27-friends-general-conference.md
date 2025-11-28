@@ -32,3 +32,5 @@ redirect_from:
 *   [Quaker Indian Committee Disavows Doctrine of Discovery](/quaker-indian-committee-disavows-doctrine-of-discovery-affirms-declaration/)
 *   [Quakers](/repudiations/faith-communities/quakers/)
 * [Canadian Friends Service Committee (Quakers)](/repudiations/faith-communities/canadian-quakers/)
+
+{% include citation-links.html %}

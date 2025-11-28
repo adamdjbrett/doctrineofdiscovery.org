@@ -128,3 +128,5 @@ Bats, mycelium, and stars observe. B. Anderson, Kailea Frederick, Sister Sadada 
 [^9]: In the Indigenous Feminist Power Panel, Kim TallBear expressed an interest in relating to Black leaders in a people to people way, not mediated by white supremacy.
 
 [^10]: King with velez, "On the Black Shoals: Part 2". This paper is a work of mutual co-arising. As I was about to turn it in on December 15, I scrolled on Instagram and saw that this conversation on *For The Wild* just became available to the public. So exciting! I notice that their resource lists do not cite Combahee or the AMC panel. I have reached out to brontë share this vision of what a confluence of these streams of Black feminism may look like...how she and I might work together to actualize a vision of 2027.
+
+{% include citation-links.html %}

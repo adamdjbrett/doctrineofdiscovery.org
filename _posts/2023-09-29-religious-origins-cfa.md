@@ -58,3 +58,5 @@ All selected artworks will be exhibited during the conference at Syracuse Univer
 ## Submissions
 - Due by October 30, 2023
 [Submit now](https://syracuseuniversity.qualtrics.com/jfe/form/SV_5u4auzuwe7xvRjw){: .btn .btn--success .btn--x-large}
+
+{% include citation-links.html %}

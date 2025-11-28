@@ -126,3 +126,5 @@ Onondaga Nation General Counsel
 [^4]: [617 F](https://cite.case.law/f3d/617/114/). 3e 114, 127 (2nd Cir. 2010), _Cert. denied,_ 565 US 970 (2011).
 
 [^5]: [_Onondaga Nation v. New York_](https://casetext.com/case/nation-v-state), 500 F. App’x 87, 90 (2nd Cir. 2012).
+
+{% include citation-links.html %}

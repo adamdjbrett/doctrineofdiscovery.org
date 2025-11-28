@@ -19,3 +19,5 @@ sidebar:
     nav: next-steps 
 ---
 English imperial adventurism did not begin with Alexander. It began with [King] Henry [VII] skirting or directly contradicting *Inter caetera*. Henry would not be the last Englishman to do so.
+
+{% include citation-links.html %}

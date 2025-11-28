@@ -1,0 +1,8 @@
+{% comment %}
+  Generate citation download links for the current post.
+  Usage: {% include citation-links.html %}
+{% endcomment %}
+{% assign slug = page.url | split: '/' | last %}
+**Download citation formats:**
+- [Download RIS citation](/assets/citations/{{ slug }}.ris)
+- [Download CSL-JSON citation](/assets/citations/{{ slug }}.csl.json)

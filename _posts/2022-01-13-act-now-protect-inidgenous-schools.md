@@ -53,3 +53,5 @@ Phone 518-474-8390
 - [Letter to Governor Hochul](https://peacecouncil.net/sites/default/files/NativeSchoolsFunding-2ndLetter.pdf) from the 3 Superintendents
 
 - [Article from Onondaga Nation website](https://www.onondaganation.org/news/2021/superintendents-advocate-for-native-schools/) about the three superintendents advocating for increased funding
+
+{% include citation-links.html %}

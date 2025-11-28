@@ -21,3 +21,5 @@ tags:
 
 - [Learn more about the Onondaga Land Rights Complaint](https://www.onondaganation.org/land-rights/complaint/)
 - [Back to Law](/law/)
+
+{% include citation-links.html %}

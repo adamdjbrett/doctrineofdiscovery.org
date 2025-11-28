@@ -62,3 +62,5 @@ A movement to repudiate the Doctrine is gaining steam among Christian churches s
 Arnold said members of the Haudenosaunee delegation will continue to work to raise awareness of the Doctrine in the hope of gaining a critical mass of grassroots support the Vatican will not be able to ignore.
 
 “The Doctrine maps a cultural attitude – our arrogance – toward the indigenous peoples and the earth. The whole colonial project, which is the legacy of America, is based on these principles, which are directly antagonistic to Native peoples, but also antagonistic to the life systems of the earth. So this idea of Discovery just can’t hold up.”
+
+{% include citation-links.html %}

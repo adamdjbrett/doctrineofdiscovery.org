@@ -154,3 +154,5 @@ Healing these broken bonds requires the will of strong hearts. Such ways are not
 ### Biography
 
 *Tracy Basile is writing a book about the lives of animals in American history. Her articles have been published in The Village Voice, Orion Afield, ASPCA Animal Watch, and more. She teaches writing at Saint Thomas Aquinas College and lives in Lenapehoking in the Hudson Valley of New York.*
+
+{% include citation-links.html %}

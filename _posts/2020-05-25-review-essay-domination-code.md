@@ -17,3 +17,5 @@ Greenberg, Joy, "REVIEW ESSAY: The Doctrine of Discovery as a Doctrine of Domina
 
 * [Watch _The Doctrine of Discovery: Unmasking the Domination Code_ on Vimeo](https://vimeo.com/ondemand/dominationcode). The film is
  a collaborative effort between Dakota filmmaker and Director Sheldon Wolfchild and Co-Producer Steven Newcomb (Shawnee, Lenape).
+
+{% include citation-links.html %}

@@ -147,3 +147,5 @@ There are more reasons to use the DoD as a way to integrate an analysis of settl
 [^10]: Beloved Community, <https://becomingbelovedcommunity.org/doctrine-of-discovery>.
 
 [^11]: Kivel, Paul. *Living in the shadow of the cross: Understanding and resisting the power and privilege of Christian hegemony*. New Society Publishers, 2013.
+
+{% include citation-links.html %}

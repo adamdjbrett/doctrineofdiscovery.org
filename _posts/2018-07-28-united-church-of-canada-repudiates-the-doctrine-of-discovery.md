@@ -22,3 +22,5 @@ redirect_from:
 *   [Doctrine of Discovery Background (⤓ PDF download)](/assets/pdfs/Doctrine-of-Discovery-2012-10-26-018.pdf)
 *   [Indigenous Justice Archive of the UCC (offsite)](https://united-church.ca/social-action/justice-initiatives/reconciliation-and-indigenous-justice)
 *   [The Children Remembered Archival project](http://thechildrenremembered.ca/)
+
+{% include citation-links.html %}

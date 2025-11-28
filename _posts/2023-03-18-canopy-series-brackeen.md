@@ -20,3 +20,5 @@ sidebar:
     nav: next-steps 
 ---
 > In this light, I fear that the *Brackeen* lawsuit is the first in a row of dominoes --- if the Court strikes down ICWA, everything else could soon go with it." So is *Brackeen* a case about race or about sovereignty? A reading through the lens of *Johnson v. M'Intosh* suggests that it is about both.
+
+{% include citation-links.html %}

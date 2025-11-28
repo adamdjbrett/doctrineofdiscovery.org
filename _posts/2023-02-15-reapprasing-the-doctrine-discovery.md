@@ -81,3 +81,5 @@ To simplistically explain away loss of territory as the fault of the doctrine of
 Words matter. Native peoples have come together to successfully challenge the use of derogatory mascots, to rename offensive places, and are presently fighting to retain the essential right to decide their children’s future, because it is plain that reckless use of words impacts Native peoples directly. While arcane legal terms may seem far removed from our daily lives, they also drive behavior and determine policy with significant consequences.
 
 Abandonment of the flawed concept of the doctrine of discovery, both in legal and everyday parlance, makes good common sense. Indigenous nations should strive to enlist terms that accurately reflect what “actually” transpired in countless treaty negotiations, land transactions, and other binding agreements. To do so would be a significant first step in reformulating federal Indian policy and law so that justice, fairness, and historical accuracy were the basis of political relations.
+
+{% include citation-links.html %}

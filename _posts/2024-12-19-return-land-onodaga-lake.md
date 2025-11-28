@@ -54,3 +54,5 @@ Sarah Howard | Syracuse
 
 On behalf of Neighbors of the Onondaga Nation
 </blockquote>
+
+{% include citation-links.html %}

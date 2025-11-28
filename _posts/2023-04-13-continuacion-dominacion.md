@@ -71,3 +71,5 @@ La dominación cristiana está codificada en la ley colonial de colonos a travé
 Si bien damos la bienvenida a este primer paso del Vaticano reconociendo la opresión en curso, nosotros levantamos nuestra voz por Nuestra Madre Tierra y en solidaridad con todos los seres vivos del planeta.
 
 ¿Y Ustedes ? El tiempo es ahora.
+
+{% include citation-links.html %}

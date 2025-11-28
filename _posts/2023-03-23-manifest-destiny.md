@@ -100,3 +100,5 @@ When thinking about the Doctrine of Christian Discovery, Manifest Destiny, and r
 * Saito, Natsu Taylor. *Meeting the Enemy: American Exceptionalism and International Law.* New York UP, 2010.
 
 * Story, Joseph. *Commentaries on the Constitution of the United States: With a Preliminary Review of the Constitutional History of the Colonies and States Before the Adoption of the Constitution.* Little, Brown, and Company, 1891, 2 vols.
+
+{% include citation-links.html %}

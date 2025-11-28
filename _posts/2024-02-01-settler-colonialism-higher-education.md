@@ -183,3 +183,5 @@ In this paper, I discussed several historical moments in which Syracuse Universi
 [^1]: Cornell University sits on stolen Cayuga (Gayogo̱hó:nǫɁ) lands. The Cayuga Nation, a member of the Haudenosaunee Confederacy, lost over 1,200 acres of land after New York State violated the 1794 Canandaigua treaty.
 
 [^2]: Present-day Syracuse University houses the School of Education in a building called "Huntington Hall," named after Bishop Fredrick D. Huntington, a man who endorsed Christian conversion among the Onondaga people and whose participation in a local committee endorsed fraudulent treaty-making with the specific aim to divide the lands of the Onondaga Nation.
+
+{% include citation-links.html %}

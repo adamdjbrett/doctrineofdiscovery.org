@@ -31,3 +31,5 @@ So it is important to understand that, to the Haudenosaunee, the use of the term
 
 * * * 
 Read more&#8230; [(⤓ PDF download).](/assets/pdfs/NATION-NOT-TRIBE3-6-18.pdf)
+
+{% include citation-links.html %}

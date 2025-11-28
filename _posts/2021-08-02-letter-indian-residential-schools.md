@@ -12,3 +12,5 @@ tags:
 author: betty-lyons
 link: https://aila.ngo/an-open-letter-on-indian-residential-schools/
 ---
+
+{% include citation-links.html %}

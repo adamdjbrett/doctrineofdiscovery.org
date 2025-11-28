@@ -22,3 +22,5 @@ Excerpt:
 - [Download _Oneida Indian Nation v. County of Oneida, 617 F. 3d 114, August 9, 2010 (⤓ PDF Download).](/assets/pdfs/Oneida_Indian_Nation_of_New_York_et_al._v._County_of_Oneida_et_al._1.pdf)
 - [PDF via CourtListner.com](https://www.courtlistener.com/opinion/152512/oneida-indian-nation-v-county-of-oneida/)
 - [Back to Law](/law/).
+
+{% include citation-links.html %}

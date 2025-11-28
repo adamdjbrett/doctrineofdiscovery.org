@@ -22,3 +22,5 @@ Excerpt:
 - [Download _Onondaga Nation v. NY,_ 500 Fed. Appx. 87. (⤓ PDF Download)](/assets/pdfs/onondaga_nation_v._state_of_ny.pdf)
 - [PDF via CourtListner.com](https://www.courtlistener.com/opinion/810552/onondaga-nation-v-state-of-ny/)
 - [Back to Law](/law/).
+
+{% include citation-links.html %}

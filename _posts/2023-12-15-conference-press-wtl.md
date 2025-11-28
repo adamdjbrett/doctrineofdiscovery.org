@@ -9,3 +9,5 @@ tags:
   - press
 link: https://www.whitetoolong.net/p/wtl-conversations-s3e15-my-conversation
 ---
+
+{% include citation-links.html %}

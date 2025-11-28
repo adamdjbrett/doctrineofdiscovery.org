@@ -36,3 +36,4 @@ Panelists:
 -   Joe Heath
 -   Jake Edwards
 
+{% include citation-links.html %}

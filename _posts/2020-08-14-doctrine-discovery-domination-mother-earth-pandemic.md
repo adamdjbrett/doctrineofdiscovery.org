@@ -100,3 +100,5 @@ As promising as this decision is, deeply racist problems remain in US law.Left u
 * [The McGirt Decision and Federal Indian Law by Joe Heath](https://youtu.be/IhY1W3Xva9Y)
 * [McGirt v Oklahoma: Plenary Power & the Doctrine of Christian Discovery by Steve Newcomb & Joe Heath](https://youtu.be/NBi3TCrZTCU)
 * [Expanded analysis of Johnson v. M’Intosh by Steven Newcomb](https://youtu.be/Wo8LpsfIr-4)
+
+{% include citation-links.html %}

@@ -35,3 +35,5 @@ Like the rings of a tree, the record of our people, our indigenous truth, is car
 *   Tina Ngata (Māori, Ngati Porou)
 
 [Learn More at aila.ngo](https://aila.ngo/doctrine-of-discovery-and-colonial-terrorism/)
+
+{% include citation-links.html %}

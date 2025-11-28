@@ -26,3 +26,5 @@ Statement on the Historical Use of the Doctrine of Christian Discovery by the Un
 > This paper has been prepared for the May 24, 2014 conference, entitled: “Doctrine of Christian Discovery: After Repudiation, What Next?”. The purpose of this paper is to review the history of the use of the Doctrine of Christian Discovery in United States Supreme Court decisions since 1823. It is hopes that the historical perspective in this paper will be of assistance to readers and help them gain a better understanding as to how fundamental the Doctrine of Discovery is to all United State Indian law, particularly with regards to land rights.
 
 Download the Statement on the Historical use of The Doctrine of Christian Discovery by Joe Heath [(⤓ PDF download).](/assets/pdfs/DoctrineOfDiscovery5-24-14.pdf)
+
+{% include citation-links.html %}

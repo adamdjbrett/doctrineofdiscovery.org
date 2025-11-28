@@ -94,3 +94,5 @@ I ask for help and pray for *I la q' ai xisha* (lighting the way). *Thou' cu 
 
 <em>Sal Sahme, a Tygh-pum/Hopi member of the Warm Springs Nation, grew up on two separate Indian reservations. Firmly planted in an inheritance of cultures and languages, he chose to bridge two cultures through education and spiritual tradition. He received his BA with honors from the University of Minnesota and an MBA from Prometheus College in Tacoma, Washington. He retired following a mission to help his people overcome learned helplessness and become whole again.</em>
 </blockquote>
+
+{% include citation-links.html %}

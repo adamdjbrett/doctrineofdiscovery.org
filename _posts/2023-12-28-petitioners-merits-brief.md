@@ -18,3 +18,5 @@ tags:
 <!--more-->
 
 [Read the full brief](/assets/pdfs/Petitioners-Merits-Brief-revd-12.24.2023.pdf){: .btn .btn--danger .btn--x-large}
+
+{% include citation-links.html %}

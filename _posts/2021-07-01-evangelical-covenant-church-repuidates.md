@@ -19,3 +19,5 @@ tags:
 
 * [Download the 2021 Evangelical Covenant Church in Sweden's statement (⤓ PDF)](/assets/pdfs/Evangelical-Covenant-Church-35.-Resolution-to-Repudiate-the-Doctrine-of-Discovery.pdf "PDF")
 * Read about the [Evangelical Covenant Church joining the list of Protestant denominations rebuking Doctrine of Discovery](https://religionnews.com/2021/06/29/evangelical-covenant-church-joins-list-of-protestant-denominations-rebuking-doctrine-of-discovery/) in this article by Emily McFarlan Miller for RNS.
+
+{% include citation-links.html %}

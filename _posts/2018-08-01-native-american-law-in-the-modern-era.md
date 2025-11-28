@@ -83,3 +83,5 @@ redirect_from:
     10 Alb. Govt. L. Rev. 239 (2017)
 
   - [Back to Law](/law/).
+
+{% include citation-links.html %}

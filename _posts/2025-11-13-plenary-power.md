@@ -15,3 +15,4 @@ link: https://peterderrico.substack.com/p/gorsuch-and-thomas-attack-the-us
 author: peter-derrico
 ---
 
+{% include citation-links.html %}

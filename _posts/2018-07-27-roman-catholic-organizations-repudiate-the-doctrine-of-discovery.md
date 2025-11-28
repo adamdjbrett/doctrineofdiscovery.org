@@ -35,3 +35,5 @@ redirect_from:
 *   ["Nuns Blast Catholic Church's Doctrine of Discovery that Justified Indigenous Oppression." (RNS & huffpost)](https://www.huffpost.com/entry/catholic-church-doctrine-of-discovery_n_5793840)
 *   [Religious Groups Ask Pope Francis to Stand with Indigenous People \- Loretto Community](https://web.archive.org/web/20150124154455/https://www.lorettocommunity.org/religious-groups-ask-pope-francis-to-stand-with-indigenous-people/) and [(⤓ PDF Download)](/assets/pdfs/religious-groups-ask-pope-francis-to-stand-with-indigenous-people.pdf)
 *   [LCWR Doctrine of Discovery Repudiation](https://lcwr.org/social-justice/doctrine-discovery)
+
+{% include citation-links.html %}

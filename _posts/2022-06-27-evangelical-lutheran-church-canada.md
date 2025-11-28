@@ -20,3 +20,5 @@ tags:
 
 ### Further Resources
 * [Evangelical Lutheran Church in Canada: Indigenous Rights and Relationships Resources](https://elcic.ca/compassionate-justice-and-public-policy/indigenous-rights-relationships/)
+
+{% include citation-links.html %}

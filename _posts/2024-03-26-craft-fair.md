@@ -17,3 +17,5 @@ For Indigenous peoples wishing to serve as vendors, setup is done on a first-com
 The craft fair is cash only.
 
 If you have questions, email aila@aila.ngo
+
+{% include citation-links.html %}

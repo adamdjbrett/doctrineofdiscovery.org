@@ -19,3 +19,5 @@ sidebar:
     nav: next-steps 
 ---
 > *Johnson v. M'Intosh* was a land dispute, where multiple parties brought competing claims of title. Marshall boiled the case down to one question: can an Indian sell their land to a settler? Of course, this question begot another: can Indians own land at all? To answer these questions, Marshall recounted a story of colonization.
+
+{% include citation-links.html %}

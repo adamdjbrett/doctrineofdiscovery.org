@@ -230,3 +230,5 @@ U.S. Laws, States, Etc. "An Act to Regulate Trade and Intercourse with the India
 [^21]: *EarthJustice*; Fredricks 2016-2017, 472-477
 
 [^22]: Morales 2019, 80
+
+{% include citation-links.html %}

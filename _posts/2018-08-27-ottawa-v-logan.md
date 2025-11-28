@@ -104,3 +104,5 @@ NORRIS, J., delivered the opinion of the court, in which KENNEDY, J., joined. �
    
 Via: [OTTAWA TRIBE OF OKLAHOMA v. LOGAN at FindLaw.com](https://caselaw.findlaw.com/us-6th-circuit/1008282.html)  
 - [Back to Law](/law/).
+
+{% include citation-links.html %}

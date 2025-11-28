@@ -48,3 +48,5 @@ Simply put, the contemporary presumption that Congress has the right to unilater
 [Steven T. Newcomb](https://stevennewcomb.com) is co-founder and director of the [Indigenous Law Institute](https://ili.nativeweb.org) and author of *Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery* (Fulcrum, 2008). Peter d'Errico is Professor of Legal Studies Emeritus, University of Massachusetts / Amherst.
 
 ```Copyright, 2020```
+
+{% include citation-links.html %}

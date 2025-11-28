@@ -13,3 +13,5 @@ tags:
 
 - [→ Domination and the Murder of George Floyd - CounterPunch.org by Steve Newcomb](https://www.counterpunch.org/2020/06/04/domination-and-the-murder-of-george-floyd/)
 - [Ways to support Black Lives Matter](https://blacklivesmatter.carrd.co/)
+
+{% include citation-links.html %}

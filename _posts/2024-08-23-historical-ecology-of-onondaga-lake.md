@@ -9,3 +9,5 @@ tags:
   - Onondaga
 link: https://onondagalakehistoricalecology.weebly.com/
 ---
+
+{% include citation-links.html %}

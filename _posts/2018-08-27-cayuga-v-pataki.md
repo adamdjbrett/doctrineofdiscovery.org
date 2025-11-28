@@ -22,3 +22,5 @@ Excerpt:
 
 - [Download the Cayuga Indian Nation v. Pataki, 413 F. 3d 266, (2nd Cir. June 28, 2005) Decision. (⤓ Download as PDF)](/assets/pdfs/cayugaVpataki.pdf)
 - [Back to Law](https://doctrineofdiscovery.org/law/).
+
+{% include citation-links.html %}

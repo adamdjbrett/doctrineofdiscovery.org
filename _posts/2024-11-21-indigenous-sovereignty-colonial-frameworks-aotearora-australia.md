@@ -162,3 +162,5 @@ Bibliography
 [^26]: Fitzmaurice, 2010.
 
 [^27]: Alfred, 2009.
+
+{% include citation-links.html %}

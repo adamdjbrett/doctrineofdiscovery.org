@@ -42,3 +42,5 @@ Reproduced from H.P. Biggar, ed., _The Precursors of Jacques Cartier 1497-1534: 
 Photo of John Cabot Charter via [heritage.nf.ca](http://web.archive.org/web/20190319231251/https://www.heritage.nf.ca/articles/exploration/1496-cabot-patent.php). Thanks to Dave Ratcliffe for finding this image.
 
 - [Back to law](/law/)
+
+{% include citation-links.html %}

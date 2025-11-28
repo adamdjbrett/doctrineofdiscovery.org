@@ -37,3 +37,5 @@ Tobacco company, owned by a Yakima Nation citizen, makes cigarettes using 54 % t
 ## Footnotes
 
 [^1]: Here the Circuit is discussing the General Allotment Act of 1887, 24 Stat. 388.
+
+{% include citation-links.html %}

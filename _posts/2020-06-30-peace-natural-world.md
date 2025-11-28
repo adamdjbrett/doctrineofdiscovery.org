@@ -11,3 +11,5 @@ tags:
 author: tadodaho
 ---
 > “Peace can only be attained when human beings live in proper relationship to the natural world” ~ Tadodaho
+
+{% include citation-links.html %}

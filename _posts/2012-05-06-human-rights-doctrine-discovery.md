@@ -35,3 +35,5 @@ In fact, the Doctrine of Discovery is the basis for all Indian land law in this 
 We are encouraged that people of faith in this country and around the world have joined in the call for the Catholic Church to formally renounce the Doctrine to help heal the grievous injuries that its promulgation has released. Most recently, the [World Council of Churches](/world-council-of-churches/), at its meeting this past February in Switzerland, denounced the Doctrine "as fundamentally opposed to the gospel of Jesus Christ and as a violation of the inherent human rights that all individuals and peoples have received from God." The World Council went on to urge governments "to dismantle the legal structures and policies based on the Doctrine of Discovery and dominance, so as to empower and enable Indigenous Peoples to identify their own aspirations and issues of concern."
 
 This is not ancient history to Indians in this country or to Indigenous peoples around the world. It is a living insult to our rights as citizens of the world and must be renounced. We are on theEarth to heal the world. This wound must be healed.
+
+{% include citation-links.html %}

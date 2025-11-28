@@ -56,3 +56,5 @@ Next year the entire Maine Legislature will stand for election. We will also hav
 Our state motto, dirigo, means “I lead.” Let’s make St. James a leader in supporting our Wabanaki neighbors. Christ told us nothing is more important than loving God and our fellow brothers and sisters. Amen.  
 
 K
+
+{% include citation-links.html %}

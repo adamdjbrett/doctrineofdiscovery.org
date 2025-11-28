@@ -13,3 +13,5 @@ author: tina-ngata
 > TLDR: It’s ok to be Christian, it’s not ok to be Christian-supremacist.
 
 follow the link to the download
+
+{% include citation-links.html %}

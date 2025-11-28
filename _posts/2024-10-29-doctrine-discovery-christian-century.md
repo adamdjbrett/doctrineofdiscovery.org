@@ -8,3 +8,5 @@ tags:
   - doctrineofdiscovery
 link: https://www.christiancentury.org/books/when-doctrine-discovery-became-law 
 ---
+
+{% include citation-links.html %}

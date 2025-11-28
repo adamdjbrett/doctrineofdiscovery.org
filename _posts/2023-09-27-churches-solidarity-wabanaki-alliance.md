@@ -123,3 +123,5 @@ We know every one of us will die and shed this mortal coil. When God asks what k
 
 ## PDF
 [Download the Sermon as a PDF](/assets/pdfs/2023-9-23-JDK-sermon-St-Andrews-Newcastle-9-24-23[final].pdf)
+
+{% include citation-links.html %}

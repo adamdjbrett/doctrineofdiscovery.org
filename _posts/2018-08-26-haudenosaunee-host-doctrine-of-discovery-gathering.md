@@ -19,3 +19,5 @@ tags:
 “Really what we’re doing is bringing together people who did not get along in the recent past,” comments Phil Arnold. “What we’re trying to do is get Christian groups and other religious groups to put into the restoration and healing of Indigenous peoples, as much energy into that as they have in the past into their destruction. The idea was that they were a primitive and inferior group of people. They were hindering civilization and progress and so they were understood to be in the way.”
 
 - [Read More at the Lakota Country Times (subscription)](https://www.lakotacountrytimes.com/articles/haudenosaunee-host-doctrine-of-discovery-gathering/)
+
+{% include citation-links.html %}

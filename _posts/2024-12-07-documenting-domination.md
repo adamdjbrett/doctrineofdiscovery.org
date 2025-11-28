@@ -26,3 +26,5 @@ Brett, Adam DJ, and Betty Hill (Lyons). 2024. "Documenting Domination: From the 
 ## Download
 [bibtex](/assets/pdfs/citation-formats/religions-v15-i12_20241207.bib)
 [RIS](/assets/pdfs/citation-formats/religions-v15-i12_20241207.ris)
+
+{% include citation-links.html %}

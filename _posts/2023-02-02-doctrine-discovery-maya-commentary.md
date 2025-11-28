@@ -191,3 +191,5 @@ Although the word "discovery" is disappearing from the official vocabulary, heri
 [^14]: It could also be the case that they were inhabitants of nearby communities who, despite the relocations, ordered by the Crown in 1568 (see footnote 26 in Carrera Quezada 2015), made pilgrimages to Uxmal to perform rituals. Colonial mobility-migration in the Yucatan Peninsula was complex as we see in Farris 2012: 269-300 and Schüren 2017.
 
 [^15]: <https://www.gob.mx/siap/articulos/dia-de-la-raza-y-el-nuevo-mundo?idiom=es>
+
+{% include citation-links.html %}

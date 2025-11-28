@@ -153,3 +153,5 @@ So, what did the 19 May Tribunal decision prove? That native title cannot stop e
 * Newcomb, S. (2016) Property as a Right of Despotic Domination at <https://ictnews.org/archive/property-as-a-right-of-despotic-dominion/>
 
 * Newcomb, S. (2024) A View from the Shore, A Conversation with JoDe Goudy and editor Emily Sanna at <https://issuu.com/ipjc/docs/a_view_from_the_shore_a_conversation_with_jode_go>
+
+{% include citation-links.html %}

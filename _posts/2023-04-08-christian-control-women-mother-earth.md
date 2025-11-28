@@ -180,3 +180,5 @@ Footnotes
 [^27]: McElvaine, *Eve's Seed: Biology, the Sexes and the Course of History,* p. 128.
 
 [^28]: From Commencement Address the author delivered at SUNY Environmental Sciences and Forestry, Syracuse, New York, May 9, 2009.
+
+{% include citation-links.html %}

@@ -21,3 +21,5 @@ redirect_from:
 *   [Motion from the Right Relationship Monitoring Committee for the UUA Board of Trustees meeting January 2012 (⤓ PDF download)](/assets/pdfs/UUofP-Resolution-012911.pdf)
 *   [Why We Are Offering This Resolution at General Assembly 2012 (⤓ PDF download)](/assets/pdfs/uuaunresolution.pdf)
 *   [2012 Responsive Resolution (⤓ PDF download)](/assets/pdfs/uuaunresolution.pdf)
+
+{% include citation-links.html %}

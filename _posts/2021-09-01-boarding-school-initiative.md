@@ -12,3 +12,5 @@ tags:
 ## 2021 June 22 Federal Indian Boarding School Initiative
 
 [view the document as a PDF](/assets/pdfs/secint-memo-esb46-01914-federal-indian-boarding-school-truth-initiative-2021-06-22-final508-1.pdf)
+
+{% include citation-links.html %}

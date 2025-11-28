@@ -9,3 +9,4 @@ link: https://originalfreenations.com/conflicting-perspectives-regarding-the-hol
 author: steven-newcomb
 ---
 
+{% include citation-links.html %}

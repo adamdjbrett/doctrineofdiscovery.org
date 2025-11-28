@@ -51,3 +51,5 @@ Original Free Nations
 Shawna Bluestar Newcomb\
 For related courses, workshops, sessions, summits, and podcasts\
 <https://shawnabluestar.com>
+
+{% include citation-links.html %}

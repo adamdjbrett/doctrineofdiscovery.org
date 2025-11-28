@@ -54,3 +54,5 @@ At a national and international level, we should respond to the demand of Indige
 that the Pope of the Roman Catholic Church and the Queen of England and Archbishop of Canterbury for the Church of England disavow and rescind the claimed validity of the doctrine of discovery against all peoples, specifically as it is documented in the Inter Caetera Bull of 1493 and the 1496 Royal Charter, and all other doctrines that have been relied thereon for the dispossession of lands and the subjugation of non-christian peoples from their initial use to the present…  
 
 When we renounce the 1496 Royal Charter of the Church of England here at St. James, in the Diocese of Maine, within the Episcopal Church and among the entire Anglican communion, we can achieve some degree of reconciliation with Indigenous People. As we reconcile ourselves with the Indigenous People of the Western Hemisphere, we also do our part in helping to reconcile this broken world with God. Amen.
+
+{% include citation-links.html %}

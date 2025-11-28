@@ -17,3 +17,5 @@ tags:
 ## In 2016 the Community of Christ Repudiated the Doctrine of Discovery
 
 * [Renunciation of the Doctrine of Discovery (PDF)](/assets/pdfs/Community-of-Christ-Resolutions-WC2016.pdf)
+
+{% include citation-links.html %}

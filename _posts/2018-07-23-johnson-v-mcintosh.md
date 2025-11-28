@@ -322,3 +322,5 @@ Judgment affirmed, with costs."
 ```
 archived from the defunct website healingtheheartland.com
 ```
+
+{% include citation-links.html %}

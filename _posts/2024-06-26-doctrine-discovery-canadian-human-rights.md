@@ -17,3 +17,5 @@ link:
 <p>However, the ruling also said that Aboriginal title could be defied by the Crown (either the provincial or federal governments) if it could justify such action.</p>
 <p>The racist assumption of superiority and dominance embodied in the Doctrine of Discovery underpins many aspects of Canada&#39;s colonial history, including the <em>Indian Act</em>, the reserve system, the Indian residential school tragedy, and the Sixties Scoop.</p>
 </blockquote>
+
+{% include citation-links.html %}
