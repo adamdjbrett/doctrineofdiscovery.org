@@ -1,0 +1,20 @@
+---
+layout: null
+permalink: /sitemapindex.xml
+sitemap: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>{{ site.url }}{{ site.baseurl }}/sitemap.xml</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>{{ site.url }}{{ site.baseurl }}/pdf-archival-list.xml</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>{{ site.url }}{{ site.baseurl }}/citations-archival-list.xml</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </sitemap>
+</sitemapindex>

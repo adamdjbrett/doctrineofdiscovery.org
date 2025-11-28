@@ -4,4 +4,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://doctrineofdiscovery.org/sitemap.xml
+Sitemap: https://doctrineofdiscovery.org/sitemap.xml
+Sitemap: https://doctrineofdiscovery.org/pdf-archival-list.xml
+Sitemap: https://doctrineofdiscovery.org/citations-archival-list.xml
