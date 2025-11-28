@@ -4,25 +4,19 @@ permalink: /citations-archival-list.xml
 sitemap: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {% assign posts = site.posts %}
-<citations count="{{ posts | size | times: 2 }}">
 {% for post in posts %}
 	{% assign slug = post.url | split: '/' | last %}
-	{% assign ris_name = slug | append: '.ris' %}
-	{% assign ris_path = '/assets/citations/' | append: ris_name %}
-	<citation>
-		<name>{{ ris_name | xml_escape }}</name>
-		<path>{{ ris_path | xml_escape }}</path>
-		<url>{{ site.url | append: site.baseurl | append: ris_path | xml_escape }}</url>
-		<modified>{{ site.time | date_to_xmlschema }}</modified>
-	</citation>
-	{% assign csl_name = slug | append: '.csl.json' %}
-	{% assign csl_path = '/assets/citations/' | append: csl_name %}
-	<citation>
-		<name>{{ csl_name | xml_escape }}</name>
-		<path>{{ csl_path | xml_escape }}</path>
-		<url>{{ site.url | append: site.baseurl | append: csl_path | xml_escape }}</url>
-		<modified>{{ site.time | date_to_xmlschema }}</modified>
-	</citation>
+	{% assign ris_path = '/assets/citations/' | append: slug | append: '.ris' %}
+	<url>
+		<loc>{{ site.url | append: site.baseurl | append: ris_path | xml_escape }}</loc>
+		<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+	</url>
+	{% assign csl_path = '/assets/citations/' | append: slug | append: '.csl.json' %}
+	<url>
+		<loc>{{ site.url | append: site.baseurl | append: csl_path | xml_escape }}</loc>
+		<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+	</url>
 {% endfor %}
-</citations>
+</urlset>

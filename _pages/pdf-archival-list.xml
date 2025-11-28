@@ -4,16 +4,15 @@ permalink: /pdf-archival-list.xml
 sitemap: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<pdfs count="{% assign pdfs = site.static_files | where_exp: "f","f.extname == '.pdf'" | sort: "path" %}{{ pdfs.size }}">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% assign pdfs = site.static_files | where_exp: "f","f.extname == '.pdf'" | sort: "path" %}
 {% for f in pdfs %}
 	{% capture rel %}{{ f.path | replace: site.source, '' }}{% endcapture %}
 	{% unless rel %}{% assign rel = f.name %}{% endunless %}
 	{% unless rel contains '/' %}{% assign rel = '/' | append: rel %}{% endunless %}
-	<pdf>
-		<name>{{ f.name | xml_escape }}</name>
-		<path>{{ rel | xml_escape }}</path>
-		<url>{{ site.url | append: site.baseurl | append: rel | xml_escape }}</url>
-		<modified>{{ f.modified_time | date_to_xmlschema }}</modified>
-	</pdf>
+	<url>
+		<loc>{{ site.url | append: site.baseurl | append: rel | xml_escape }}</loc>
+		<lastmod>{{ f.modified_time | date_to_xmlschema }}</lastmod>
+	</url>
 {% endfor %}
-</pdfs>
+</urlset>
