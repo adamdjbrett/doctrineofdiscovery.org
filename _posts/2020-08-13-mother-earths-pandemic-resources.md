@@ -80,7 +80,7 @@ author: adam-dj-brett
 
 #### “The Doctrine of Domination,” Steve Newcomb
   - [Original Free Nations](http://originalfreenations.com/)
-  - [Indigenous Law Institute](http://ili.nativeweb.org/)
+  - [Indigenous Law Institute](https://indigenouslawinstitute.com/)
   - _Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery_
   - [_The Doctrine of Discovery: Unmasking the Domination Code_](https://vimeo.com/ondemand/dominationcode), directed by Sheldon Wolfchild (Dakota).
 
