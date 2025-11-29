@@ -1,0 +1,72 @@
+{%- comment -%}
+JSON-LD Person schema for the page's author.
+Resolves author via `site.authors` matching `page.author` (username).
+Includes name, url, image, description, sameAs social/profile links, and publisher org reference.
+{%- endcomment -%}
+{%- if page.author and site.authors -%}
+	{%- assign author_obj = site.authors | where: 'username', page.author | first -%}
+	{%- if author_obj -%}
+		{%- capture sameas_links -%}
+			{%- if author_obj.links -%}
+				{%- for l in author_obj.links -%}
+					{%- if l.url and l.url contains 'http' -%}{{ l.url }}|{%- endif -%}
+				{%- endfor -%}
+			{%- endif -%}
+			{%- if author_obj.uri and author_obj.uri contains 'http' -%}{{ author_obj.uri }}|{%- endif -%}
+			{%- if author_obj.email -%}mailto:{{ author_obj.email }}|{%- endif -%}
+			{%- if author_obj.twitter -%}https://twitter.com/{{ author_obj.twitter }}|{%- endif -%}
+			{%- if author_obj.facebook -%}https://www.facebook.com/{{ author_obj.facebook }}|{%- endif -%}
+			{%- if author_obj.linkedin -%}https://www.linkedin.com/in/{{ author_obj.linkedin }}|{%- endif -%}
+			{%- if author_obj.xing -%}https://www.xing.com/profile/{{ author_obj.xing }}|{%- endif -%}
+			{%- if author_obj.instagram -%}https://instagram.com/{{ author_obj.instagram }}|{%- endif -%}
+			{%- if author_obj.tumblr -%}https://{{ author_obj.tumblr }}.tumblr.com|{%- endif -%}
+			{%- if author_obj.bitbucket -%}https://bitbucket.org/{{ author_obj.bitbucket }}|{%- endif -%}
+			{%- if author_obj.github -%}https://github.com/{{ author_obj.github }}|{%- endif -%}
+			{%- if author_obj.gitlab -%}https://gitlab.com/{{ author_obj.gitlab }}|{%- endif -%}
+			{%- if author_obj.stackoverflow -%}https://stackoverflow.com/users/{{ author_obj.stackoverflow }}|{%- endif -%}
+			{%- if author_obj.lastfm -%}https://last.fm/user/{{ author_obj.lastfm }}|{%- endif -%}
+			{%- if author_obj.dribbble -%}https://dribbble.com/{{ author_obj.dribbble }}|{%- endif -%}
+			{%- if author_obj.pinterest -%}https://www.pinterest.com/{{ author_obj.pinterest }}|{%- endif -%}
+			{%- if author_obj.foursquare -%}https://foursquare.com/{{ author_obj.foursquare }}|{%- endif -%}
+			{%- if author_obj.steam -%}https://steamcommunity.com/id/{{ author_obj.steam }}|{%- endif -%}
+			{%- if author_obj.youtube -%}
+				{%- if author_obj.youtube contains '://' -%}{{ author_obj.youtube }}|{%- else -%}https://www.youtube.com/user/{{ author_obj.youtube }}|{%- endif -%}
+			{%- endif -%}
+			{%- if author_obj.soundcloud -%}https://soundcloud.com/{{ author_obj.soundcloud }}|{%- endif -%}
+			{%- if author_obj.weibo -%}https://www.weibo.com/{{ author_obj.weibo }}|{%- endif -%}
+			{%- if author_obj.flickr -%}https://www.flickr.com/{{ author_obj.flickr }}|{%- endif -%}
+			{%- if author_obj.codepen -%}https://codepen.io/{{ author_obj.codepen }}|{%- endif -%}
+			{%- if author_obj.vine -%}https://vine.co/u/{{ author_obj.vine }}|{%- endif -%}
+			{%- if author_obj.keybase -%}https://keybase.io/{{ author_obj.keybase }}|{%- endif -%}
+		{%- endcapture -%}
+		{%- assign sameas_array = sameas_links | split: '|' | uniq | compact -%}
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Person",
+			"@id": "{{ site.url }}{{ author_obj.url | default: author_obj.uri | default: '' }}#author",
+			"name": {{ author_obj.name | jsonify }},
+			"url": "{{ site.url }}{{ author_obj.url | default: author_obj.uri | default: '' }}",
+			{%- if author_obj.bio -%}
+			"description": {{ author_obj.bio | strip_html | strip_newlines | jsonify }},
+			{%- endif -%}
+			{%- if author_obj.avatar -%}
+			"image": "{{ site.url }}{{ author_obj.avatar | relative_url }}",
+			{%- endif -%}
+			{%- if author_obj.location -%}
+			"homeLocation": {
+				"@type": "Place",
+				"name": {{ author_obj.location | jsonify }}
+			},
+			{%- endif -%}
+			{%- if author_obj.email -%}
+			"email": {{ author_obj.email | jsonify }},
+			{%- endif -%}
+			{%- if sameas_array.size > 0 -%}
+			"sameAs": {{ sameas_array | jsonify }},
+			{%- endif -%}
+			"publisher": {"@type": "Organization", "@id": "{{ site.url }}/#organization"}
+		}
+		</script>
+	{%- endif -%}
+{%- endif -%}
