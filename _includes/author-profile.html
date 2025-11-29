@@ -1,7 +1,6 @@
-{% include head/author-profile.html %}
 {% for author in site.authors %}
 {% if author.username == page.author %}
-
+{% include author-profile-schema.html %}
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
 	{% if author.avatar %}
 	<div class="author__avatar">
