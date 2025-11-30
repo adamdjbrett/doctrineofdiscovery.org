@@ -1,7 +1,7 @@
 ---
 title: "Mapping the Dispossession of the Haudenosaunee: a chronology"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - maps

@@ -2,7 +2,7 @@
 title: "How Do Christians Stand in Solidarity with Wabanaki Nations?"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - Churches
   - Christianity

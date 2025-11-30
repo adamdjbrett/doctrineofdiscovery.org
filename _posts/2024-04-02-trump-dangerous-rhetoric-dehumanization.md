@@ -1,7 +1,7 @@
 ---
 title: "Trump’s Dangerous Rhetoric of Dehumanization"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Trump

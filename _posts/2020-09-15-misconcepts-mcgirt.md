@@ -3,7 +3,7 @@ title: "Misconceptions About McGirt v. Oklahoma"
 excerpt: "Federal Indian law displaces the historical ‘starting point’ — the original free existence of Native nations..."
 date: 2020-09-01 14:54:46
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - law

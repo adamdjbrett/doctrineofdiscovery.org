@@ -1,7 +1,7 @@
 ---
 title: "The theft of the commons"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

@@ -1,0 +1,19 @@
+{
+  "type": "article-journal",
+  "id": "rns-article-about-the-conference",
+  "title": "'RNS article about the conference'",
+  "author": [
+    {
+      "family": "Miller",
+      "given": "Emily McFarlan"
+    }
+  ],
+  "URL": "https://doctrineofdiscovery.org/rns-article-about-the-conference/",
+  "issued": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  }
+}

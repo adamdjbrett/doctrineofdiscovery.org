@@ -5,7 +5,7 @@ header:
   image: /assets/images/Sims_Resized-copy.jpg
   caption: "[Sims Hall, SU Photo & Imaging RS 8246](https://library.syracuse.edu/special-collections-research-center/university-archives/buildings/sims-hall/)"
 categories:
-  - Blog
+  - blog
 tags:
   - education
   - Onondaga

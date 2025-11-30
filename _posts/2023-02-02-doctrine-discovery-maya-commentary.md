@@ -6,7 +6,7 @@ header:
   caption: "A person reading the Bible. Photo by [Rod Long](https://unsplash.com/@rodlong?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/VHS_CmxFBGI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 date: 2023-02-02 07:54:46
 categories:
-  - Blog
+  - blog
 tags:
   - law
   - Christianity

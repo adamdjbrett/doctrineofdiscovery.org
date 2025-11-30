@@ -1,7 +1,7 @@
 ---
 title: "The Carleton Papers project"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

@@ -1,7 +1,7 @@
 ---
 title: "The Doctrine of Discovery: A 500-year-old colonial idea that still affects Canada’s treatment of Indigenous peoples"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

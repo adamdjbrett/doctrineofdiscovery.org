@@ -1,7 +1,7 @@
 ---
 title: "The Doctrine of Discovery's Disastrous Legacy by Antonia Malchik"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - article

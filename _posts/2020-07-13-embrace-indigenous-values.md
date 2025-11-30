@@ -5,7 +5,7 @@ header:
   image: /assets/images/Broken-Treaties-Brandon-Lazore-Web-credit.jpg
   caption: "Photo credit: Broken Treaties by **Brandon Lazore**"
 categories:
-  - Blog
+  - blog
 tags:
   - statues
   - racism

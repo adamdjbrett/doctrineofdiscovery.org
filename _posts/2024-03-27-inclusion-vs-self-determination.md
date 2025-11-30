@@ -1,7 +1,7 @@
 ---
 title: "Inclusion is not the same as Self-Determination — and may undermine it"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - law

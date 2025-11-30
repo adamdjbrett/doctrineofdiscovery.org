@@ -1,7 +1,7 @@
 ---
 title: "New Good Faith Media Podcast Highlights ‘Doctrine of Christian Discovery’"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - press-release

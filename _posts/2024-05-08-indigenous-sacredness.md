@@ -1,7 +1,7 @@
 ---
 title: "Indigenous Sacredness, Christendom and the Doctrine of Discovery"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - doctrine-of-discovery

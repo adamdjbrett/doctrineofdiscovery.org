@@ -1,7 +1,7 @@
 ---
 title: "From Land Theft To Land Back The OAS And The Onondaga Nation Land Rights Action "
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - UN

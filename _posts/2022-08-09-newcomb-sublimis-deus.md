@@ -2,7 +2,7 @@
 title: "On the Papal Bull, Sublimis Deus"
 date: 2022-08-09-01T14:54:46
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - doctrine-discovery

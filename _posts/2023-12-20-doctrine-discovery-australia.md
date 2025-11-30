@@ -2,7 +2,7 @@
 title: "Unraveling the International Law of Colonialism: Lessons From Australia and the United States"
 author: robert-miller
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Australia

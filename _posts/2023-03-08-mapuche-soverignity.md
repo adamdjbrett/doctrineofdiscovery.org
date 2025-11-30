@@ -1,7 +1,7 @@
 ---
 title: "Aucan Huilcaman: Chilean Constitutional Process and its Permanent Denial of the Mapuche Nation"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Chile

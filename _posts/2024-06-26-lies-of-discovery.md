@@ -1,7 +1,7 @@
 ---
 title: "Lies of Discovery"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

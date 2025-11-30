@@ -1,7 +1,7 @@
 ---
 title: "Video: Steve Newcomb (Shawnee/Lenape) and Peter d'Errico continue a decades-long conversation about Indigenous Peoples"
 categories:
-  - Blog
+  - blog
   - link
 tags:
   - link

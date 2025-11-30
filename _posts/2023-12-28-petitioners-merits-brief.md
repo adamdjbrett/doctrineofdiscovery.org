@@ -3,7 +3,7 @@ title: "Inter-American Commission On Human Rights Of The Organization Of America
 excerpt_separator: "<!--more-->"
 author: joseph-heath
 categories:
-  - Blog
+  - blog
 tags:
   - law
   - OAS

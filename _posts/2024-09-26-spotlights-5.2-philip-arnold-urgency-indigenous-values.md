@@ -1,7 +1,7 @@
 ---
 title: "Spotlights, 5.2, Philip Arnold and the Urgency of Indigenous Values"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - video

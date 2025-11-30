@@ -1,7 +1,7 @@
 ---
 title: "Political theology, discovery and the roots of the ‘great replacement’"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - theology

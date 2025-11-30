@@ -1,7 +1,7 @@
 ---
 title: "The International Law of Colonialism: Johnson v. M'Intosh and the Doctrine of Discovery Applied Worldwide"
 categories:
-  - Blog
+  - blog
   - law
 tags:
   - link

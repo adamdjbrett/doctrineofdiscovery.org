@@ -7,7 +7,7 @@ header:
   caption: "A protest banner that reads 'sacred text is not a land deed' from the 2019 protest of Christians United For Israel."
 date: 2023-03-13 07:54:46
 categories:
-  - Blog
+  - blog
 tags:
   - law
   - Christianity

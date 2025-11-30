@@ -4,7 +4,7 @@ header:
   image: /assets/images/peru_land_rights-750x432.jpg
   caption: "The indigenous Shipibo community of Santa Clara de Uchunya, in the Peruvian Amazon, is facing invasion of its ancestral lands by corporate oil palm plantations and land traffickers. 7,000 hectares of forest have been destroyed. Credit: Diego Pérez/Oxfam - Photo: 2024"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - law

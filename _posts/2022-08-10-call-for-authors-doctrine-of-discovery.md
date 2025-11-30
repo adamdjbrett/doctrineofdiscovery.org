@@ -3,7 +3,7 @@ title: "Call for Authors on the Doctrine of Discovery"
 date: 2022-08-10-01T14:54:46
 excerpt: "We are now accepting applications for partnership and collaboration with The Doctrine of Discovery Project."
 categories:
-  - Blog
+  - blog
 tags:
   - call-for-authors
   - doctrine-discovery

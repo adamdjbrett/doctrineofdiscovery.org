@@ -1,7 +1,7 @@
 ---
 title: "Property Law, Settler-Colonialism, and the Vatican"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

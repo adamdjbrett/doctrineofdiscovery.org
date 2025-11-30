@@ -2,7 +2,7 @@
 title: "What Fifteenth-Century Papal Bulls Can Teach Us About Indigenous Identity"
 date: 2020-12-13T14:54:46
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - doctrine-discovery

@@ -2,7 +2,7 @@
 title: "Did Pope Alexander VI Authorize England’s Colonization of North America?"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Canopy

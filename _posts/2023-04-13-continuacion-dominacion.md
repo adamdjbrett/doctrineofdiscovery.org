@@ -2,7 +2,7 @@
 title: "Continuación de la dominación de la Cristiandad: una respuesta a la declaración de repudio del Vaticano a la Doctrina del Descubrimiento - Español"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - law
   - religion

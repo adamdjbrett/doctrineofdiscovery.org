@@ -1,7 +1,7 @@
 ---
 title: "The religious underpinnings of one of America’s most sacred concepts, private property"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

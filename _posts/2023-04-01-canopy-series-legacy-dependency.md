@@ -1,7 +1,7 @@
 ---
 title: "The Legacy of the Right to Control Land and Dependency"
 categories:
-  - Blog
+  - blog
 tags:
   - Canopy
   - Johnson

@@ -2,7 +2,7 @@
 title: "The Contemporary Presence of Discovery’s Assertion in Canada"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Canopy

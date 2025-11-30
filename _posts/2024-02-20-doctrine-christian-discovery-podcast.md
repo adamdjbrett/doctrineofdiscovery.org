@@ -1,7 +1,7 @@
 ---
 title: "Listsen to the Doctrine of Christian Discovery Podcast Now"
 categories:
-  - Blog
+  - blog
   - podcasts
 tags:
   - link

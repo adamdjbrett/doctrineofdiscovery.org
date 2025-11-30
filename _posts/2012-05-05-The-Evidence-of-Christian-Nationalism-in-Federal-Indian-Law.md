@@ -1,7 +1,7 @@
 ---
 title: "The Evidence of Christian Nationalism in Federal Indian Law: The Doctrine of Discovery, Johnson v. McIntosh, and Plenary Power"
 categories:
-  - Blog
+  - blog
   - Resource
 tags:
   - link

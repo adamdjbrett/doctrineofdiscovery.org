@@ -1,7 +1,7 @@
 ---
 title: "Johnson v. M’Intosh, Wi Parata v. Bishop of Wellington, and the Legacy of the Doctrine of Discovery in Aotearoa-New Zealand"
 categories:
-  - Blog
+  - blog
 tags:
   - Canopy
   - Johnson

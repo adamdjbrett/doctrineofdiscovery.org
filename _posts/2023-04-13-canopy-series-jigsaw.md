@@ -1,7 +1,7 @@
 ---
 title: "Johnson v. M’Intosh and the Missing Cover of the Jigsaw Puzzle"
 categories:
-  - Blog
+  - blog
 tags:
   - Canopy
   - Johnson

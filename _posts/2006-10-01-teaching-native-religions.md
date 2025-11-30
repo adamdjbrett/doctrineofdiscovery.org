@@ -2,7 +2,7 @@
 title: "Teaching “Native American Religions” in Central New York"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - religion
   - teaching

@@ -1,0 +1,18 @@
+{
+  "type": "article-journal",
+  "id": "news",
+  "title": "All posts in the News category",
+  "author": [
+    {
+      "literal": "Indigenous Values Initiative"
+    }
+  ],
+  "URL": "https://doctrineofdiscovery.org/categories/news/",
+  "issued": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  }
+}

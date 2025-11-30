@@ -3,7 +3,7 @@ date: 2024-08-07T12:27:30-04:00
 last_modified_at: 2024-08-16T12:27:30-04:00
 title: "The Doctrine of Christian Discovery Podcast Zotero Library"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

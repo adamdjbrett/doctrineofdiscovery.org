@@ -1,7 +1,7 @@
 ---
 title: "'Unspoken Conspiracy' - Living within the Resonance of the Doctrine of Discovery"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - thesis

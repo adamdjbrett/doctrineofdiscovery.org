@@ -1,7 +1,7 @@
 ---
 title: "Canadian Museum for Human Rights on the Doctrine of Discovery"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Post Formats

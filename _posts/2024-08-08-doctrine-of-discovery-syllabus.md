@@ -3,7 +3,7 @@ date: 2024-08-08T12:27:30-04:00
 last_modified_at: 2024-08-16T13:27:30-04:00
 title: "REL 500/600: The Religious Origins of White Supremacy: Johnson v. M'Intosh and the Doctrine of Christian Discovery Syllabus"
 categories:
-  - Blog
+  - blog
 tags:
   - syllabus
   - doctrine-of-discovery

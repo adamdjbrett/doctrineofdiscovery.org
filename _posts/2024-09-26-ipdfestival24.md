@@ -1,7 +1,7 @@
 ---
 title: "Indigenous People’s Day Festival"
 categories:
-  - Blog
+  - blog
 tags:
   - link
 link: https://www.onondaganation.org/events/2024/indigenous-peoples-day-festival/

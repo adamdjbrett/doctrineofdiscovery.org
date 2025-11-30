@@ -1,7 +1,7 @@
 ---
 title: "The Urgency of Indigenous Values"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - book

@@ -1,7 +1,7 @@
 ---
 title: "Challenging the Vatican Papal Bulls of DominationNOT"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - video

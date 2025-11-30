@@ -2,7 +2,7 @@
 title: "DiCaprio and 'The Revenant:' Indigenous Wisdom and Human Survival"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - film
   - Indigenous

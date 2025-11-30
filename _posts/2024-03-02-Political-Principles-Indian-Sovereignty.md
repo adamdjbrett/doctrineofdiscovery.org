@@ -1,7 +1,7 @@
 ---
 title: "'Political Principles and Indian Sovereignty': Lee Hester's Philosophical Critique of US Anti-Indian Law"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - law

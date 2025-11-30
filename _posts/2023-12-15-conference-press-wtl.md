@@ -1,7 +1,7 @@
 ---
 title: "WTL Conversations [S3E15]: Robert P. Jones Conversation with Phil Arnold and Sandy Bigtree on the Mapping the Doctrine of Discovery Podcast"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - event

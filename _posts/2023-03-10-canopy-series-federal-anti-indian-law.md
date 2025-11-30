@@ -2,7 +2,7 @@
 title: "Federal Anti-Indian Law: The Legal Entrapment of Indigenous Peoples by Peter d’Errico"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Canopy

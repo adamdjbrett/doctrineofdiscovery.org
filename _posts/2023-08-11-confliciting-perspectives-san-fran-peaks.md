@@ -1,7 +1,7 @@
 ---
 title: "Conflicting Perspectives Regarding the Holy Mountain Called 'San Francisco Peaks,' and Other Sacred and Significant Places of Original Nations and Traditional Healers"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Post Formats

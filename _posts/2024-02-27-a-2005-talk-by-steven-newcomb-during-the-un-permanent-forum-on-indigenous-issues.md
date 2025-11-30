@@ -1,7 +1,7 @@
 ---
 title: "A 2005 Talk by Steven Newcomb During the UN Permanent Forum on Indigenous Issues"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - video

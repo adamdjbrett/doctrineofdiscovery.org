@@ -5,7 +5,7 @@ date: 2015-10-30T15:34:30-04:00
 last_modified_at: 2016-06-06T15:34:30-04:00
 canonical_url: https://www.theguardian.com/commentisfree/2015/oct/30/my-six-nation-haudenosaunee-passport-not-fantasy-document-indigenous-nations
 categories:
-  - Blog
+  - blog
 tags:
   - Haudenosaunee
   - Indigenous-Peoples

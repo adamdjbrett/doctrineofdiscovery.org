@@ -6,7 +6,7 @@ header:
   caption: "Art by Analena Provost"
 date: 2023-04-12 13:54:46
 categories:
-  - Blog
+  - blog
 tags:
   - Christianity
   - featured

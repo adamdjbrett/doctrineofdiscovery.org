@@ -1,7 +1,7 @@
 ---
 title: "Native Americans and the British in the 18th century"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

@@ -1,7 +1,7 @@
 ---
 title: "CRFP: Indigenous Peoples express hope and concern at Vatican’s repudiation of Doctrine of Discovery"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - news

@@ -4,7 +4,7 @@ date: 2021-05-27T14:54:46
 excerpt_separator: "<!--more-->"
 excerpt: "'What is the United States position with respect to its 1863 treaty with the Western Shoshone Indians?'"
 categories:
-  - Blog
+  - blog
 tags:
   - Law
   - Indigenous-Peoples

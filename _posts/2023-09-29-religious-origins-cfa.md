@@ -6,7 +6,7 @@ header:
   caption: "'We were planting corn and they were planting crosses. ~ Faithkeeper Oren Lyons.' Image from the Skä•noñh
 Great Law of Peace Center."
 categories:
-  - Blog
+  - blog
 tags:
   - event
   - Conference

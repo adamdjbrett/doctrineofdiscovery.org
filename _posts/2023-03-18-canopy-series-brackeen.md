@@ -3,7 +3,7 @@ title: "Haaland v. Brackeen
 and the Logic of Discovery"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Canopy

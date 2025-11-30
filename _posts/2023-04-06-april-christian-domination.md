@@ -1,7 +1,7 @@
 ---
 title: "Continuing Christian Domination: A Response To The Vatican’s Repudiation Of The Doctrine Of Discovery"
 categories:
-  - Blog
+  - blog
 tags:
   - law
   - religion

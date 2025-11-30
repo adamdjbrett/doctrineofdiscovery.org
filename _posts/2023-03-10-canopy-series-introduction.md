@@ -2,7 +2,7 @@
 title: "Introduction to 200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Canopy

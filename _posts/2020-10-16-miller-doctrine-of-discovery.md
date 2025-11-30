@@ -2,7 +2,7 @@
 title: "Indigenous Peoples, International Law, and Colonialism Lecture"
 date: 2020-10-16T14:54:46
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - video

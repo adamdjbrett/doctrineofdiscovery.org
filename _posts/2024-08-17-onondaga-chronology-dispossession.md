@@ -1,7 +1,7 @@
 ---
 title: "Focus on the Onondaga: A chronology of dispossession"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

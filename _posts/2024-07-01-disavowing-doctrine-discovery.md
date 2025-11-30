@@ -1,7 +1,7 @@
 ---
 title: "Disavowing the Doctrine of Discovery"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

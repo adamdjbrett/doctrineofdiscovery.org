@@ -1,7 +1,7 @@
 ---
 title: "Louisiana’s Ten Commandment Truthiness"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

@@ -1,0 +1,18 @@
+{
+  "type": "article-journal",
+  "id": "featured",
+  "title": "Featured Blog Posts",
+  "author": [
+    {
+      "literal": "Indigenous Values Initiative"
+    }
+  ],
+  "URL": "https://doctrineofdiscovery.org/tagged/featured/",
+  "issued": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 ---
 title: "Decolonization, Discovery, Sovereignty, and Neocolonialism"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Decolonization

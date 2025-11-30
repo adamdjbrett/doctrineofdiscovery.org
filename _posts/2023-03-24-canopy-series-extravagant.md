@@ -2,7 +2,7 @@
 title: "However, Extravagant The Pretensions Of Johnson V. M’Intosh by Betty Lyons and Adam DJ Brett"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Canopy

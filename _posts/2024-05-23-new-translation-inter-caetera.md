@@ -1,7 +1,7 @@
 ---
 title: "Annoucing a New Translation of Inter Caetera"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - translation

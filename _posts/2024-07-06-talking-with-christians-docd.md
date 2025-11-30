@@ -1,7 +1,7 @@
 ---
 title: "New Resources: Talking to Christians about the Doctrine of Discovery"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

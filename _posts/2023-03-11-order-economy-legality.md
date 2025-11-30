@@ -2,7 +2,7 @@
 title: "Order, Economy, and Legality: Johnson v. M’Intosh after Two Hundred Years"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Canopy

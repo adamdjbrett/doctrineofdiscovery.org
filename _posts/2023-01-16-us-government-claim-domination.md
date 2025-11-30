@@ -6,7 +6,7 @@ header:
   caption: "Portraits of Story and Scalia via Wikipedia"
 date: 2023-01-16 14:54:46
 categories:
-  - Blog
+  - blog
 tags:
   - Indigenous-Knowledges
   - law

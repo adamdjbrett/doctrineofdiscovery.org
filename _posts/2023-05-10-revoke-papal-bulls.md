@@ -1,7 +1,7 @@
 ---
 title: "“Revoke the Papal Bulls”: Our Response to the Vatican’s March 30 Statement on the Doctrine of Discovery"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - news

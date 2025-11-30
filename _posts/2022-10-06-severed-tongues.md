@@ -1,7 +1,7 @@
 ---
 title: "Tadodaho on language"
 categories:
-  - Blog
+  - blog
   - quote
 tags:
   - language

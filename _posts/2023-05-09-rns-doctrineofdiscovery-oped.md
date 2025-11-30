@@ -1,7 +1,7 @@
 ---
 title: "Undoing the Christian nationalism of the Doctrine of Discovery"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - oped

@@ -1,7 +1,7 @@
 ---
 title: "Dismantling ‘kind’ colonialism"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

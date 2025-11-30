@@ -1,7 +1,7 @@
 ---
 title: "SU hosts conference on white supremacy 200 years after Johnson v. McIntosh ruling"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - event

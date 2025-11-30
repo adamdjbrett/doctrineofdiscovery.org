@@ -1,7 +1,7 @@
 ---
 title: "When the doctrine of discovery became law: A review of Arguments over Genocide"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - genocide

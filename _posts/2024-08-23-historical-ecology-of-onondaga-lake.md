@@ -1,7 +1,7 @@
 ---
 title: "Historical Ecology of Onondaga Lake"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - colonialism

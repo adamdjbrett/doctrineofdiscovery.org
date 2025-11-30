@@ -4,7 +4,7 @@ date: 2020-10-22
 excerpt_separator: "<!--more-->"
 excerpt: "The Doctrine of Christian Discovery and Domination comprises a worldview and promotes the legal and moral authority justifying the invasion and conquest of non-Christian lands."
 categories:
-  - Blog
+  - blog
 tags:
   - Video
   - lecture

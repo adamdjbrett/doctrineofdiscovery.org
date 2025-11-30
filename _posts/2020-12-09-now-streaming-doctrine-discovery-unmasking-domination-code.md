@@ -5,7 +5,7 @@ header:
   image: /assets/images/doctrine-of-discovery-unmasking-domination-code.jpg
   caption: "Photo credit: Doctrine of Discovery: Unmasking the Domination Code, DVD Cover"
 categories:
-  - Blog
+  - blog
 tags:
   - video
   - film

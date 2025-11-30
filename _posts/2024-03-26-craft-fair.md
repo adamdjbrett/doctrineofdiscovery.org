@@ -1,7 +1,7 @@
 ---
 title: "Indigenous Craft Fair"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - UN

@@ -2,7 +2,7 @@
 title: "The Original Cancel Culture"
 date: 2021-01-05T14:54:46
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - mascots

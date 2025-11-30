@@ -9,7 +9,7 @@ header:
   og_image: /assets/images/Acknowledging-Doctrine-Christian-Domination-wordcloud.jpg
   caption: "A word cloud shaped like castle, emphasizing domination."
 categories:
- - Blog
+ - blog
  - Law
 tags:
  - Domination

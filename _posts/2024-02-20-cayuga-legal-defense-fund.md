@@ -1,7 +1,7 @@
 ---
 title: "Gayogohó:nǫ˺ (Cayuga) Legal Defense Fund Launches: Justice for an Indigenous People"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - legal

@@ -1,7 +1,7 @@
 ---
 title: "Tadodaho on peace and the natural world"
 categories:
-  - Blog
+  - blog
   - quote
 tags:
   - peace

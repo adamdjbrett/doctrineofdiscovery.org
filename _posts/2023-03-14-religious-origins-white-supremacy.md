@@ -9,7 +9,7 @@ Great Law of Peace Center."
 date: 2023-03-29 11:54:46
 last_modified_at: 2023-09-28 09:54:46
 categories:
-  - Blog
+  - blog
 tags:
   - event
   - Conference

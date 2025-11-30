@@ -1,7 +1,7 @@
 ---
 title: "Evangelical Zionism: From the River to the Sea Palestine by Tad Delay"
 categories:
-  - Blog
+  - blog
   - link
 tags:
   - link

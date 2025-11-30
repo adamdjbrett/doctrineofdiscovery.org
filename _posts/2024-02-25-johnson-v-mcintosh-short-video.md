@@ -2,7 +2,7 @@
 title: "Johnson v McIntosh & the Mental World of Domination
 A Brief Video by Steven Newcomb and William Laronal, Jr."
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - video

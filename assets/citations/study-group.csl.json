@@ -1,0 +1,19 @@
+{
+  "type": "article-journal",
+  "id": "study-group",
+  "title": "\"Study Group\"",
+  "author": [
+    {
+      "family": "Arnold",
+      "given": "Philip P."
+    }
+  ],
+  "URL": "https://doctrineofdiscovery.org/study-group/",
+  "issued": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  }
+}

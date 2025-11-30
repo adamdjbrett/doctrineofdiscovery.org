@@ -1,7 +1,7 @@
 ---
 title: "Insights and Reflections from Syracuse University's Conference on the Religious Origins of White Supremacy"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - event

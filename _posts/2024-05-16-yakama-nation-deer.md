@@ -1,7 +1,7 @@
 ---
 title: "State of Washington v. Wallahee overturned"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Doctrine-of-Discovery

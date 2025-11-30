@@ -1,7 +1,7 @@
 ---
 title: "Sandy Bigtree & Philip Arnold - The Religious Origins of White Supremacy"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - podcast

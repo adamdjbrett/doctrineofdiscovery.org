@@ -5,7 +5,7 @@ date: 2012-05-06T15:34:30-04:00
 last_modified_at: 2012-06-06T15:34:30-04:00
 canonical_url: https://www.huffpost.com/entry/indigenous-human-rights_b_1491528
 categories:
-  - Blog
+  - blog
 tags:
   - Haudenosaunee
   - Indigenous-Peoples

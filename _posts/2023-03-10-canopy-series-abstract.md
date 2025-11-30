@@ -2,7 +2,7 @@
 title: "200 Years of _Johnson v. M’Intosh: Law, Religion_, and Native American Lands"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Canopy

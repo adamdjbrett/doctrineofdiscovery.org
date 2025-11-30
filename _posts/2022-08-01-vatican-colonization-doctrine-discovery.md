@@ -2,7 +2,7 @@
 title: "How the Vatican encouraged the colonization of Indigenous lands – and enabled the Crown to keep them"
 date: 2020-08-01-01T15:55:46
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - doctrine-discovery

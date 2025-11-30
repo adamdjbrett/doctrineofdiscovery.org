@@ -1,7 +1,7 @@
 ---
 title: "Podcast🎙️ Stealing Land in the Name of God"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - land-theft

@@ -1,7 +1,7 @@
 ---
 title: "Nuclear Reactors are Not Green: A Red Paper"
 categories:
-  - Blog
+  - blog
   - redpaper
 auuthor: joseph-heath
 tags:

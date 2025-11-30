@@ -1,7 +1,7 @@
 ---
 title: "The Doctrine of Discovery by Moana Jackson"
 categories:
-  - Blog
+  - blog
 tags:
   - featured
   - land-theft

@@ -1,7 +1,7 @@
 ---
 title: "Domination Chronicles"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - video

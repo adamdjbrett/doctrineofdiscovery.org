@@ -2,7 +2,7 @@
 title: "World Water One"
 date: 2023-03-21 07:54:46
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - tonatierra

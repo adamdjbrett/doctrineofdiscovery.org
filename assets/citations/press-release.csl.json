@@ -1,0 +1,18 @@
+{
+  "type": "article-journal",
+  "id": "press-release",
+  "title": "\"press release\"",
+  "author": [
+    {
+      "literal": "Indigenous Values Initiative"
+    }
+  ],
+  "URL": "https://doctrineofdiscovery.org/s/press-release/",
+  "issued": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  }
+}

@@ -2,7 +2,7 @@
 title: "Johnson v. M’Intosh, Plenary Power, and Our Colonial Constitution"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - Canopy

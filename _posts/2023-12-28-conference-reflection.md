@@ -1,7 +1,7 @@
 ---
 title: "Attendee Reflection: Conference: The Religious Origins of White Supremacy: Johnson v. M’Intosh and the Doctrine of Christian Discovery"
 categories:
-  - Blog
+  - blog
 tags:
   - link
   - event

@@ -3,7 +3,7 @@ title: "Honor Dr. Martin Luther King, Jr. Act Now to Support Indigenous Schools"
 date: 2022-01-13T00:34:30-04:00
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - schools
   - Indigenous

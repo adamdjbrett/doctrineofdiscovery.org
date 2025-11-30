@@ -1,0 +1,18 @@
+{
+  "type": "article-journal",
+  "id": "s",
+  "title": "Example Title for s",
+  "author": [
+    {
+      "family": "Doe",
+      "given": "John"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  }
+}
