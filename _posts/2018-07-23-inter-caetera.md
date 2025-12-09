@@ -75,7 +75,10 @@ Translation differences between this new translation and Davenport’s occur mor
 ### PDF
 - [⤓ Download the new translation as a PDF ](/assets/pdfs/Inter_Caetera_Modrow&Smith.pdf)
 
-### Citation Files
+### Citation
+Alexander VI. 2022. "Inter Caetera." Translated by Sebastian Modrow and Melissa Smith. Indigenous Values Initiative. *Doctrine of Discovery Project*. <https://doctrineofdiscovery.org/inter-caetera/>.
+
+#### Citation Files
 * [Bibtex citation](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.bib)
 * [RIS](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.ris)
 * [XML](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.xml)
