@@ -1,19 +1,36 @@
 {
-  "type": "article-journal",
+  "type": "post-weblog",
   "id": "beginning-analysis-settler-colonialism",
-  "title": "\"Part 2: The beginning of an Analysis of Settler Colonialism Emerges at AMC 2022\"",
+  "title": "Part 2: The beginning of an Analysis of Settler Colonialism Emerges at AMC 2022",
+  "container-title": "Doctrine of Discovery",
+  "genre": "Blog post",
+  "publisher": "Doctrine of Discovery Project",
+  "language": "en",
   "author": [
     {
       "family": "Nahar",
       "given": "Sarah"
     }
   ],
-  "URL": "https://doctrineofdiscovery.org/blog/river/beginning-analysis-settler-colonialism/",
   "issued": {
     "date-parts": [
       [
-        2020
+        2023,
+        5,
+        9
       ]
     ]
-  }
+  },
+  "URL": "https://doctrineofdiscovery.org/blog/river/beginning-analysis-settler-colonialism/",
+  "abstract": "Indigenous women from around Africa arrived to traditionally Native land bases that were often in turmoil. If the Indigenous nations of the place were able to escape genocidal attempts by European-Americans, they were being violently forced to relocate and under immense pressure to give up their sovereignty. The vast majority of Black women arrived enslaved; a structure that sought to strip them of their specific nation, culture, and heritage and force them into a social position devoid of structural agency.",
+  "keyword": [
+    "blog",
+    "river",
+    "law",
+    "religion",
+    "Christianity",
+    "Environment",
+    "river-series",
+    "featured"
+  ]
 }

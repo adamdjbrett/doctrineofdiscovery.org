@@ -1,19 +1,36 @@
 {
-  "type": "article-journal",
+  "type": "post-weblog",
   "id": "settler-colonialism-analyized",
-  "title": "\"Part 3: Using the Doctrine of Discovery to Foreground an Analysis of Settler Colonialism\"",
+  "title": "Part 3: Using the Doctrine of Discovery to Foreground an Analysis of Settler Colonialism",
+  "container-title": "Doctrine of Discovery",
+  "genre": "Blog post",
+  "publisher": "Doctrine of Discovery Project",
+  "language": "en",
   "author": [
     {
       "family": "Nahar",
       "given": "Sarah"
     }
   ],
-  "URL": "https://doctrineofdiscovery.org/blog/river/settler-colonialism-analyized/",
   "issued": {
     "date-parts": [
       [
-        2020
+        2023,
+        5,
+        10
       ]
     ]
-  }
+  },
+  "URL": "https://doctrineofdiscovery.org/blog/river/settler-colonialism-analyized/",
+  "abstract": "The Doctrine of Discovery (DoD, sometimes called the Doctrine of Christian Domination) is considered a major root of settler colonialism globally. The DoD is a set of 15th-century Catholic Papal Bulls that condoned the invasion, capture, murder, kidnapping and enslavement of anyone non-Christian.",
+  "keyword": [
+    "blog",
+    "river",
+    "law",
+    "religion",
+    "Christianity",
+    "Environment",
+    "river-series",
+    "featured"
+  ]
 }

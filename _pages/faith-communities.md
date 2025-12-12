@@ -59,6 +59,7 @@ redirect_from:
     * Pax Christi
     * The Loretto Community
     * A joint statement by 13 Roman Catholic Organizations
+    * [Continuing Christian Domination: A Response To The Vatican’s Repudiation Of The Doctrine Of Discovery](https://www.aprilonline.org/continuing-christian-domination/)
 *   [Unitarian Universalist Association of Congregations](/unitarian-universalist-association-of-congregations/)
 *   [United Church of Christ](/united-church-of-christ/)
 *   [United Church of Canada](/united-church-of-canada-repudiates-the-doctrine-of-discovery/)

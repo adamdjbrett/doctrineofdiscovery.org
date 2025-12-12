@@ -1,19 +1,36 @@
 {
-  "type": "article-journal",
+  "type": "post-weblog",
   "id": "combahee-river",
-  "title": "\"Part 1: The Origins of the Combahee River Collective Statement\"",
+  "title": "Part 1: The Origins of the Combahee River Collective Statement",
+  "container-title": "Doctrine of Discovery",
+  "genre": "Blog post",
+  "publisher": "Doctrine of Discovery Project",
+  "language": "en",
   "author": [
     {
       "family": "Nahar",
       "given": "Sarah"
     }
   ],
-  "URL": "https://doctrineofdiscovery.org/blog/river/combahee-river/",
   "issued": {
     "date-parts": [
       [
-        2020
+        2023,
+        5,
+        8
       ]
     ]
-  }
+  },
+  "URL": "https://doctrineofdiscovery.org/blog/river/combahee-river/",
+  "abstract": "50 miles from Charleston, South Carolina, is the mouth of the Combahee River, named for the Indigenous people of the place. It was home to numerous plantations where Black people were forced into the institution of slavery. Just after the Revolutionary war battles fought in the area, this fecund place supplied vast amounts of water for some of the new country's largest rice plantations, producing immense wealth for European-Americans (who now understood themselves to be white); returning none to the Indigenous Peoples, lands, and trafficked African laborers (now categorized as Black people) there.",
+  "keyword": [
+    "blog",
+    "river",
+    "law",
+    "religion",
+    "Christianity",
+    "Environment",
+    "river-series",
+    "featured"
+  ]
 }

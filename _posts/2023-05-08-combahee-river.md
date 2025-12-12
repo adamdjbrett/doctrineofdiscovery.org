@@ -99,9 +99,8 @@ Their answers reflected issues on which they specialize, even as they make commo
 
 Destroying settler colonialism, or noting it as one of the interlocking systems of oppression did not happen in direct response to any question. The word decolonization was used only twice during the panel: once emphasizing the need to decolonize the spirit, and another time in reference to the mind. While critical thinking and spiritual agency are important, these uses do not refer to the return of land to indigenous people. Tuck and Wang, authors of *Decolonization is Not a Metaphor* have cautioned against using the word decolonization in North America when speaking about anything other than the distinct project of disordering the colonial world.[^16] When used as metaphor, it often functions as signaling "both an awareness of the significance of Indigenous and decolonizing theorizations" but to include them in another struggle. This can downplay the incommensurability of efforts for recognition and/or sovereignty with those of civil and/or human rights struggles. Following Arvin, Tuck, and Morrill, it is important to craft alliances that directly address differences."[^17]
 
-## Resources
-References
-----------
+## References
+
 
 -   AfroFeministFutures For the World We Want. *Allied Media Conference,* Allied Media Project, 2022. <https://www.youtube.com/watch?v=iYM0Jf4mWjE> 
 

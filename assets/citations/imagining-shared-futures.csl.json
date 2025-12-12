@@ -1,19 +1,36 @@
 {
-  "type": "article-journal",
+  "type": "post-weblog",
   "id": "imagining-shared-futures",
-  "title": "\"Part 4: Making Common Cause: Imagining Shared Futures\"",
+  "title": "Part 4: Making Common Cause: Imagining Shared Futures",
+  "container-title": "Doctrine of Discovery",
+  "genre": "Blog post",
+  "publisher": "Doctrine of Discovery Project",
+  "language": "en",
   "author": [
     {
       "family": "Nahar",
       "given": "Sarah"
     }
   ],
-  "URL": "https://doctrineofdiscovery.org/blog/river/imagining-shared-futures/",
   "issued": {
     "date-parts": [
       [
-        2020
+        2023,
+        5,
+        11
       ]
     ]
-  }
+  },
+  "URL": "https://doctrineofdiscovery.org/blog/river/imagining-shared-futures/",
+  "abstract": "Creating spaces like that of the AMC AfroFeministFutures panel will allow Black feminists to reflect on the legacy of Black feminism, practice articulating a settler colonial analysis, and braid visions together with Indigenous feminists.",
+  "keyword": [
+    "blog",
+    "river",
+    "law",
+    "religion",
+    "Christianity",
+    "Environment",
+    "river-series",
+    "featured"
+  ]
 }
