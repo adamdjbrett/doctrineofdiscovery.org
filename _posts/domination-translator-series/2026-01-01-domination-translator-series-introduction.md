@@ -87,6 +87,41 @@ As Van Alstyne puts it: "Parrot-like repetition of these abstractions and other 
 With the above context in mind, we can now begin to examine a number of U.S. court rulings and significant historical milestones in U.S. history, and in the history of U.S. anti-Indian law and policy.
 
 ---
+### Series Overview
+
+The 15-part series begins with an introduction and proceeds chronologically through key legal decisions:
+
+1. **[Introduction: The Domination Translator Series](/blog/domination/domination-translator-series-introduction/)** — An overview of the series and its methodology
+
+2. **[Fletcher v. Peck (1810)](/blog/domination/fletcher-v-peck/)** — The first Supreme Court case to reference the Doctrine of Discovery
+
+3. **[The Marshall Trilogy: Johnson v. McIntosh (1823)](/blog/domination/johnson-mcintosh/)** — Chief Justice John Marshall's foundational ruling establishing discovery doctrine as U.S. law
+
+4. **[The Marshall Trilogy: Cherokee Nation v. Georgia (1831)](/blog/domination/cherokee-nation-georgia/)** — Defining indigenous nations as "domestic dependent nations"
+
+5. **[The Marshall Trilogy: Worcester v. Georgia (1832)](/blog/domination/worcester-georgia/)** — Affirming tribal sovereignty while maintaining discovery doctrine supremacy
+
+6. **[The Monroe Doctrine (1823)](/blog/domination/the-monroe-doctrine/)** — Extending discovery principles to hemispheric policy
+
+7. **[Martin v. Waddell (1842)](/blog/domination/martin-waddell/)** — Applying discovery doctrine to property rights and tidelands
+
+8. **[President "Teddy" Roosevelt's Monroe Doctrine Corollary](/blog/domination/president-teddy-roosevelts-monroe-doctrine-corollary/)** — The expansion of imperial authority based on discovery principles
+
+9. **[Tee Hit Ton Indians v. United States (1955)](/blog/domination/tee-hit-ton-indians-united-states/)** — Denying aboriginal title under discovery doctrine
+
+10. **[White v. University of California (9th Circuit, 2014)](/blog/domination/white-university-of-california-9th-circuit/)** — Modern application of discovery doctrine in higher education policy
+
+11. **[The Haudenosaunee Cases: Cayuga Indian Nation v. Pataki (2005)](/blog/domination/cayuga-pataki/)** — Examining discovery doctrine in contemporary land claims
+
+12. **[The Haudenosaunee Cases: Oneida Indian Nation v. County of Oneida (2010)](/blog/domination/oneida-indian-nation-county-oneida/)** — Persistent barriers to indigenous sovereignty rooted in discovery doctrine
+
+13. **[The Haudenosaunee Cases: Onondaga Nation v. New York (2012)](/blog/domination/onondaga-new-york/)** — Environmental justice and the limits of discovery-based law
+
+14. **[McGirt v. Oklahoma (2020)](/blog/domination/mcgirt-oklahoma/)** — A landmark decision recognizing the Creek Nation's reservation despite discovery doctrine precedent
+
+15. **[U.S. v. King Mountain Tobacco Co., Inc. (9th Circuit, 2012)](/blog/domination/king-mountain/)** — Tribal sovereignty and the limits of federal authority
+
+---
 ## Series Navigation
 
 **Next:** [The Marshall Trilogy: Fletcher v. Peck (Part 2)](/blog/domination/fletcher-v-peck/)
