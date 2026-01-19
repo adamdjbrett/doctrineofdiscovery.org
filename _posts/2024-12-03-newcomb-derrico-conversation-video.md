@@ -30,4 +30,4 @@ Their discussion includes the following topics and more:
 -   How domination extends beyond human relations to the entire natural world
 </blockquote>
 
-{% include citation-links.html %}
+

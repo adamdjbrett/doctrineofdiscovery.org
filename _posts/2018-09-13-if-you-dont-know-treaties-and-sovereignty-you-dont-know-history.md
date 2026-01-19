@@ -15,4 +15,4 @@ tags:
 
   [Suzan Shown Harjo. for Indian Country Today](https://newsmaven.io/indiancountrytoday/opinion/if-you-don-t-know-treaties-and-sovereignty-you-don-t-know-history-ZNUigGCWbkGU0jxQIrIFSg/)
 
-{% include citation-links.html %}
+

@@ -74,4 +74,4 @@ Finally, we undertake the work convinced that even if the New Zealand Government
 For us, then, part of the journey beyond the doctrine is necessarily the rediscovering of how we once cared for ourselves in our own land. We are not naive enough to think that the colonising power will immediately accept the work that we do, or that the demands we make through constitutional change will be enough of a demand in itself for them to give of their power. However, we are hopeful that by re-beginning such a dialogue, we will truly rediscover who we once were and who we might once again be, and that in itself will be our rejection of the Doctrine of Discovery."
 </blockquote>
 
-{% include citation-links.html %}
+

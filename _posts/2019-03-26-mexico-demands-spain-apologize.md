@@ -17,4 +17,4 @@ tags:
 
 [Read More at the Guardian](https://www.theguardian.com/world/2019/mar/25/mexico-demands-spain-apology-colonialism-obrador?utm_term=Autofeed&CMP=fb_us&utm_medium=Social&utm_source=Facebook&fbclid=IwAR1tADVPGf15iVN8gRJQFEMv3npcfS1bYTUwUwpFLhvMYAjqz5VdLWbJZFs#Echobox=1553557292)
 
-{% include citation-links.html %}
+

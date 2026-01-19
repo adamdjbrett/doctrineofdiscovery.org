@@ -169,4 +169,4 @@ For more on the Black and Indigenous Feminist Futures Institute see <http://www.
 
 [^20]: Moreton-Robinson, Aileen. "Writing Off Treaties" Chapter 4 in *The white possessive: Property, power, and indigenous sovereignty*. U of Minnesota Press, 2015. (page 84)
 
-{% include citation-links.html %}
+

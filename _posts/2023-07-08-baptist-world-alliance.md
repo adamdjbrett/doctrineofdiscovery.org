@@ -26,4 +26,4 @@ toc_icon: "cog"
 
 [Read the Resolution (PDF)](/assets/pdfs/BWA-General-Council-Resolution-2023.1_IndigenousPeoples.pdf){: .btn .btn--primary .btn--x-large}
 
-{% include citation-links.html %}
+

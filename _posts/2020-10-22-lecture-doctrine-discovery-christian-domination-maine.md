@@ -26,4 +26,4 @@ Anyone interested in viewing **The Doctrine of Christian Discovery and Dominatio
 
 **Indigenous Peoples, and the State of Maine** held on 10/15 can do so two ways. You can access the link to the video and audio [here](https://maine.zoom.us/rec/share/jCxND0p3G1qCjM9mArRAEcAlEjQV_aep35_6GZcdkgzELLZO8il8OPXE9cDsNz3x.12ju0OPvs_K0EqQ6?startTime=1602779707000). It is also posted under the program on the Socialist and Marxist Studies Series [website](https://umaine.edu/socialistandmarxiststudiesseries/), now under "recent programs" and immediately below the **Doctrine of Christian Discovery and Domination, Colonizing Indigenous Peoples, and the State of Maine **title.
 
-{% include citation-links.html %}
+

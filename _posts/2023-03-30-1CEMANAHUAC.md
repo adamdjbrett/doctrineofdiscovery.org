@@ -178,4 +178,4 @@ TECHANTIT - VISION MAYA TONATIERRA
 
 [Download as a PDF](/assets/pdfs/1CEMANAHUAC.pdf)
 
-{% include citation-links.html %}
+

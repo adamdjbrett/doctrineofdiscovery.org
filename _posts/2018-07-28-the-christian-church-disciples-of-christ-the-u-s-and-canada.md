@@ -24,4 +24,4 @@ redirect_from:
 
 *   [Reflection on Christian Theology and Polity, the Christian Doctrine of Discovery, and the Indigenous Voice (⤓ PDF download)](/assets/pdfs/GA-1324-Reflection-on-Christian-Theology-Final.pdf)
 
-{% include citation-links.html %}
+

@@ -13,4 +13,4 @@ author: indigenous-values-initiative
 
 > “There was that domination pattern right from the beginning,” he [Newcomb] said. “The entire world order is still premised on this claim of domination.”
 
-{% include citation-links.html %}
+

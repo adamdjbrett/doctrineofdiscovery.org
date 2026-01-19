@@ -57,4 +57,4 @@ Our state motto, dirigo, means “I lead.” Let’s make St. James a leader in 
 
 K
 
-{% include citation-links.html %}
+

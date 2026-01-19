@@ -88,4 +88,4 @@ In addition to Lyons, the delegation to the Dec. 3 – 9 event included Tonya Go
 
 Major speakers scheduled to appear at the Parliament included His Holiness the Dalai Lama and President Jimmy Carter.
 
-{% include citation-links.html %}
+

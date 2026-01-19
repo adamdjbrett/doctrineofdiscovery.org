@@ -20,4 +20,4 @@ redirect_from:
 *   [Giving Substance to Words. AOR 2012 (⤓ PDF download)](/assets/pdfs/Giving-Substance-to-Words.-AOR-2012.pdf)
 *   [Trail of Repentance And Healing (⤓ PDF download)](/assets/pdfs/Trail-of-Repentance-and-Healing.pdf)
 
-{% include citation-links.html %}
+

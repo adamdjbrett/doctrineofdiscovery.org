@@ -63,4 +63,4 @@ IDN is the flagship agency of the [Non-profit International Press Syndicate](ht
 ### Publication Notice
 This article is originally published on In Depth News
 
-{% include citation-links.html %}
+

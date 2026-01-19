@@ -21,4 +21,4 @@ redirect_from:
   {% endif %}
 {% endfor %}
 
-{% include citation-links.html %}
+

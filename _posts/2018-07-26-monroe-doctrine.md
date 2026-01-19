@@ -5,6 +5,7 @@ excerpt: "Excerpts from President James Monroe's seventh annual message to Congr
 permalink: /monroe-doctrine/
 published: true
 date: 2018-07-26 11:26:44
+last_modified_at: 2026-01-19
 categories:
   - Law
 tags:
@@ -14,7 +15,15 @@ tags:
   - treaty
 redirect_from:
   - /8866/
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
+## Analysis by Steven T. Newcomb
+*   [The Monroe Doctrine (1823) - Domination Translator Series - Part 6](/blog/domination/the-monroe-doctrine/)
+*   [Martin v. Waddell (1842) - Domination Translator Series - Part 7](/blog/domination/martin-waddell/)
+*   [President "Teddy" Roosevelt's Monroe Doctrine Corollary - Domination Translator Series - Part 8](/blog/domination/president-teddy-roosevelts-monroe-doctrine-corollary/)
+
 ## Historic Documents
 ### The Monroe Doctrine
 
@@ -28,4 +37,4 @@ The late events in Spain and Portugal, shew that Europe is still unsettled. Of t
 - [Transcript of Monroe Doctrine (1823)](https://www.ourdocuments.gov/doc.php?flash=false&doc=23&page=transcript)
 - [Back to Law](https://doctrineofdiscovery.org/law/).
 
-{% include citation-links.html %}
+

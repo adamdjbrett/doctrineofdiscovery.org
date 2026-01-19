@@ -29,4 +29,4 @@ The Doctrine of Discovery, Unmasking The Domination Code by [38 plus 2 productio
 
 image description: DVD cover for _The Doctrine of Discovery, Unmasking The Domination Code_.
 
-{% include citation-links.html %}
+

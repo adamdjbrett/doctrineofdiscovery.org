@@ -21,4 +21,4 @@ The second issue of volume five of the *Journal of the Council for Research on 
 
 The responses to Special Rapporteur Ahmed Shaheed's report discuss not only the usefulness of the categories of religion and belief but also their limitations, which hinder much-needed discussions about Indigenous values and sovereignty. The articles address the historical injustices faced by Indigenous nations and communities in the name of religious freedom, the need for decolonial approaches to the study of religion, and the colonial tensions created by the categories of religious freedom and belief and their relationship to the Doctrine of Christian Discovery. The issue concludes with a reflection by the Special Rapporteur.
 
-{% include citation-links.html %}
+

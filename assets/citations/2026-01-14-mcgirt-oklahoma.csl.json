@@ -1,0 +1,52 @@
+{
+  "id": "mcgirt-v-oklahoma",
+  "title": "Domination Translator Series: McGirt v. Oklahoma",
+  "bibliography": [
+    {
+      "id": "mcgirt-v-oklahoma-case",
+      "type": "legal_case",
+      "title": "McGirt v. Oklahoma",
+      "container-title": "Supreme Court Reporter",
+      "volume": "140",
+      "page": "2452",
+      "issued": {"date-parts": [[2020]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/18-9526",
+      "court": "U.S.",
+      "reporter": "S. Ct."
+    },
+    {
+      "id": "us-v-kagama-case",
+      "type": "legal_case",
+      "title": "United States v. Kagama",
+      "container-title": "United States Reports",
+      "volume": "118",
+      "page": "375",
+      "issued": {"date-parts": [[1886]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/118/375",
+      "court": "U.S."
+    },
+    {
+      "id": "us-v-mazurie-case",
+      "type": "legal_case",
+      "title": "United States v. Mazurie",
+      "container-title": "United States Reports",
+      "volume": "419",
+      "page": "544",
+      "issued": {"date-parts": [[1975]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/419/544",
+      "court": "U.S."
+    },
+    {
+      "id": "johnson-v-mcintosh-case",
+      "type": "legal_case",
+      "title": "Johnson & Graham's Lessee v. McIntosh",
+      "container-title": "United States Reports",
+      "volume": "21",
+      "page": "543",
+      "issued": {"date-parts": [[1823]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/21/543",
+      "court": "U.S.",
+      "reporter": "8 Wheat."
+    }
+  ]
+}

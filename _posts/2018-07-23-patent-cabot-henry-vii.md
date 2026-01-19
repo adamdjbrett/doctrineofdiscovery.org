@@ -43,4 +43,4 @@ Photo of John Cabot Charter via [heritage.nf.ca](http://web.archive.org/web/2019
 
 - [Back to law](/law/)
 
-{% include citation-links.html %}
+

@@ -72,4 +72,4 @@ Si bien damos la bienvenida a este primer paso del Vaticano reconociendo la opre
 
 ¿Y Ustedes ? El tiempo es ahora.
 
-{% include citation-links.html %}
+

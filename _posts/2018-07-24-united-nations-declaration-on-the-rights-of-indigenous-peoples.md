@@ -327,4 +327,4 @@ via:
 [^3]: A/CONF.157/24 (Part I), chap. III.
 [^4]: Resolution 217 A (III).
 
-{% include citation-links.html %}
+

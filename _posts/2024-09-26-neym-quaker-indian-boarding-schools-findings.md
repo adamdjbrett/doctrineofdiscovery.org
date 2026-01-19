@@ -14,4 +14,4 @@ link: https://neym.org/quaker-indian-boarding-schools-research-group
 
 The New England Yearly Meeting of Friends (NEYM), Quaker embarked on a several year work to meet Secretary Haaland's request for religious bodies to look at their involvement in the Industrial Boarding Schools. Here is what they have found. Please note some of the material is disturbing.
 
-{% include citation-links.html %}
+

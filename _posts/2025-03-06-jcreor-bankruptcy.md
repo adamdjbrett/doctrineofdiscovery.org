@@ -33,4 +33,4 @@ Dana Lloyd, PhD, joined Villanova University as assistant professor of Global In
 
 Her recent public scholarship includes "[Native American Religious Freedom After Trump](https://berkleycenter.georgetown.edu/responses/native-american-religious-freedom-after-trump)," "[Rights of Indigenous Peoples and the Nonhuman Environment](https://canopyforum.org/2020/01/13/rights-of-indigenous-peoples-and-the-nonhuman-environment-by-dana-lloyd/)" and "[The Coloniality of Wilderness.](https://politicaltheology.com/the-coloniality-of-wilderness/)" She is the curator of a forthcoming symposium on Kathleen Sands' [America's Religious Wars](https://syndicate.network/symposia/theology/americas-religious-wars/).
 
-{% include citation-links.html %}
+

@@ -5,18 +5,26 @@ excerpt: "Every America schoolboy knows that the savage tribes of this continent
 permalink: /tee-hit-ton/
 published: true
 date: 2018-08-27 00:24:16
+last_modified_at: 2026-01-19
 categories:
   - Law
 tags:
   - law
   - US
   - US-Law
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
-Excerpt:
+## Analysis by Steven T. Newcomb
+*   [Tee Hit Ton Indians v. United States (1955) - Domination Translator Series - Part 9](/blog/domination/tee-hit-ton-indians-united-states/)
+
+
+## Key Excerpt:
 
 > “Every America schoolboy knows that the savage tribes of this continent were deprived of their ancestral ranges by force and that, even when the Indians ceded millions of acres by treaty in return for blankets, food and trinkets, it was not a sale but the conquerors’ will that deprived them of their land.”  ( [_Id._, at 289-290](https://www.law.cornell.edu/supremecourt/text/348/272).)
 
 * [Read the full The TEE-HIT-TON INDIANS, An Identifiable Group of Alaska Indians, Petitioner, v. The UNITED STATES Decision.](https://www.law.cornell.edu/supremecourt/text/348/272)
 * [Back to Law](/law/).
 
-{% include citation-links.html %}
+

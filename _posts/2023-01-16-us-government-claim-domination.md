@@ -192,4 +192,4 @@ Until someone has been taught how to unpack and decode specific patterns, it rem
 
 Steven Newcomb (Shawnee/Lenape) is co-founder and director of the Indigenous Law Institute, and author of [*Pagans in the Promised Land: Decoding the Doctrine of Discovery*](https://www.chicagoreviewpress.com/pagans-in-the-promised-land-products-9781555916428.php) (Chicago Review Press), and co-producer of the documentary movie "[*The Doctrine of Discovery: Unmasking the Domination Code*](https://vimeo.com/ondemand/dominationcode)," directed by Sheldon Wolfchild (Dakota).  Many thanks to my dear friend Peter d'Errico, professor emeritus UMass Amherst, and author of [*Federal Anti-Indian Law The Legal Entrapment of Indigenous Peoples*](https://www.abc-clio.com/products/a6462c/), Praeger, 2022. He provided sage editorial guidance for this article. I also want to thank the Indigenous Values Initiative for the opportunity to publish this essay.
 
-{% include citation-links.html %}
+

@@ -53,4 +53,4 @@ In Conclusion, we appeal to all people of conscience to join with us in support 
 6.  The immediate support and implementation of the United Nations Declaration on the Rights of Indigenous Peoples.
 7.  To call upon Pope Benedict XVI and the Vatican to publicly acknowledge and repudiate the papal decrees that legitimized the original activities that have evolved into the dehumanizing Doctrine of Christian Discovery and dominion in laws and policies.
 
-{% include citation-links.html %}
+

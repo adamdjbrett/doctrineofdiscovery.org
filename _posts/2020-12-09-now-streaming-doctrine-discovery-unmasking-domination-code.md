@@ -19,4 +19,4 @@ link: https://vimeo.com/ondemand/dominationcode
 ## Details
 The iconic film _The Doctrine of Discovery: Unmasking the Domination Code_ is now streaming on Vimeo. You can rent or purchase the film. The film is a collaborative effort between Dakota filmmaker and Director Sheldon Wolfchild and Co-Producer Steven Newcomb (Shawnee, Lenape). You can learn more at [Original Free Nations](http://originalfreenations.com/)
 
-{% include citation-links.html %}
+

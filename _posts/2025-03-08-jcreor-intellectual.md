@@ -26,4 +26,4 @@ Author Biography
 
 Lars Kirkhusmo Pharo (Magister Artium and Doctor Artium) is a historian of religions and ideas with special interests in the American continent. He is professor of religions and ethics at Nord University and Research Associate at The Raphael and Fletcher Lee Moses Mesoamerican Archive and Research Project (MMARP), under the direction of Professor Davíd Carrasco, currently residing at Harvard University.
 
-{% include citation-links.html %}
+

@@ -11,4 +11,4 @@ author: indigenous-values-initiative
 ---
 >To really understand the American landscape, you need to know about the Doctrine of Discovery. As a set of principles used to justify European colonization, it grew over hundreds of years to become a pillar of international law, and it set the stage for centuries of imperialism worldwide.
 
-{% include citation-links.html %}
+

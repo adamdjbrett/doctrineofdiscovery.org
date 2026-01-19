@@ -18,4 +18,4 @@ As we work together to attempt to save the Mother Earth from climate chaos, it i
 
 [For more see the attached Nuclear Reactors are Not Green Red Paper (46 page PDF)](https://aila.ngo/wp-content/uploads/2019/03/NukeRedPaper3-25-19.pdf "Nuclear Reactors PDF")
 
-{% include citation-links.html %}
+

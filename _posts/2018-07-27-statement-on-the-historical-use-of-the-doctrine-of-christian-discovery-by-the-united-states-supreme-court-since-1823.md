@@ -27,4 +27,4 @@ Statement on the Historical Use of the Doctrine of Christian Discovery by the Un
 
 Download the Statement on the Historical use of The Doctrine of Christian Discovery by Joe Heath [(⤓ PDF download).](/assets/pdfs/DoctrineOfDiscovery5-24-14.pdf)
 
-{% include citation-links.html %}
+

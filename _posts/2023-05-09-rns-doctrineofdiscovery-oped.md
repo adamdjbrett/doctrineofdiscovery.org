@@ -11,4 +11,4 @@ The repudiation, which came in a statement from a bureaucratic office, not Pope 
 
 The native Americans also felt the statement downplayed the active role the Catholic Church took in driving the colonization and destruction of Indigenous populations.
 
-{% include citation-links.html %}
+

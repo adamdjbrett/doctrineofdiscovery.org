@@ -49,4 +49,4 @@ Simply put, the contemporary presumption that Congress has the right to unilater
 
 ```Copyright, 2020```
 
-{% include citation-links.html %}
+

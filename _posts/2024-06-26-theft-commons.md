@@ -12,4 +12,4 @@ link: https://www.hcn.org/articles/the-theft-of-the-commons/
 > 
 > “Between 1725 and 1825” alone, commons scholar Peter Linebaugh wrote in Stop, Thief!: The Commons, Enclosures, and Resistance, “nearly four thousand enclosure acts appropriated more than six million acres of land, about a quarter of cultivated acreage, to the politically dominant landowners.” In The Book of Trespass, which details the injustices of private landownership in Britain, Nick Hayes noted that 150,000 people in 18 villages were evicted in a single instance.
 
-{% include citation-links.html %}
+

@@ -36,4 +36,4 @@ We are encouraged that people of faith in this country and around the world have
 
 This is not ancient history to Indians in this country or to Indigenous peoples around the world. It is a living insult to our rights as citizens of the world and must be renounced. We are on theEarth to heal the world. This wound must be healed.
 
-{% include citation-links.html %}
+

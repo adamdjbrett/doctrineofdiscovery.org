@@ -17,4 +17,4 @@ link: https://humanrights.ca/story/doctrine-discovery
 > 
 > The racist assumption of superiority and dominance embodied in the Doctrine of Discovery underpins many aspects of Canada's colonial history, including the Indian Act, the reserve system, the Indian residential school tragedy, and the Sixties Scoop.
 
-{% include citation-links.html %}
+

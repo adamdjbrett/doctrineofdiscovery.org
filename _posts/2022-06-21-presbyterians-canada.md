@@ -29,4 +29,4 @@ The Presbyterian Church in Canada [Justice Ministries](https://presbyterian.ca/j
 * [Call to Action 46ii of the Truth and Reconciliation Comission](https://presbyterian.ca/healing/trc-calls-to-action/)
 * [Honouring the Children: Reconciliation and Residential Schools Fund Established](https://presbyterian.ca/2021/07/02/honouring-the-children-fund/)
 
-{% include citation-links.html %}
+

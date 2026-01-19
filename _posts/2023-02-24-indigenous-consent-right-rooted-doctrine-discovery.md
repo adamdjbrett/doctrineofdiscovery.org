@@ -231,4 +231,4 @@ U.S. Laws, States, Etc. "An Act to Regulate Trade and Intercourse with the India
 
 [^22]: Morales 2019, 80
 
-{% include citation-links.html %}
+

@@ -20,4 +20,4 @@ author: peter-derrico
 
 Read more at the direct link
 
-{% include citation-links.html %}
+

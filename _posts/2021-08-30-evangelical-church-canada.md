@@ -19,4 +19,4 @@ tags:
 
 *  [A Resolution Encouraging Right Relationships with Indigenous Peoples (PDF)](/assets/pdfs/2011ELCICResolutiononRightRelationshipswithIndigenousPeoples.pdf)
 
-{% include citation-links.html %}
+

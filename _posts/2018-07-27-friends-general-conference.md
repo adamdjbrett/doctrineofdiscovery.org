@@ -33,4 +33,4 @@ redirect_from:
 *   [Quakers](/repudiations/faith-communities/quakers/)
 * [Canadian Friends Service Committee (Quakers)](/repudiations/faith-communities/canadian-quakers/)
 
-{% include citation-links.html %}
+

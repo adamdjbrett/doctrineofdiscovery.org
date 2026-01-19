@@ -1,0 +1,29 @@
+{
+  "id": "fletcher-v-peck",
+  "title": "Domination Translator Series: Fletcher v. Peck",
+  "bibliography": [
+    {
+      "id": "fletcher-v-peck-case",
+      "type": "legal_case",
+      "title": "Fletcher v. Peck",
+      "container-title": "United States Reports",
+      "volume": "10",
+      "page": "87",
+      "issued": {"date-parts": [[1810]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/10/87",
+      "court": "U.S.",
+      "reporter": "6 Cranch"
+    },
+    {
+      "id": "campbell-v-hall-case",
+      "type": "legal_case",
+      "title": "Campbell v. Hall",
+      "container-title": "Cowper's Reports",
+      "page": "204",
+      "issued": {"date-parts": [[1774]]},
+      "URL": "https://www.uniset.ca/other/cs3/98ER1045.html",
+      "court": "K.B. (England)",
+      "reporter": "Cowper"
+    }
+  ]
+}

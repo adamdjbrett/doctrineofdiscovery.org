@@ -43,4 +43,4 @@ Small Editions is a book and print design studio, a book bindery, an artists' bo
 ## Press Release
 [Press Release (PDF)](/assets/pdfs/IntheCourtoftheConqueror-book.pdf)
 
-{% include citation-links.html %}
+

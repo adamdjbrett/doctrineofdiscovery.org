@@ -1,0 +1,41 @@
+{
+  "id": "johnson-v-mcintosh",
+  "title": "Domination Translator Series: Johnson v. McIntosh",
+  "bibliography": [
+    {
+      "id": "johnson-v-mcintosh-case",
+      "type": "legal_case",
+      "title": "Johnson & Graham's Lessee v. McIntosh",
+      "container-title": "United States Reports",
+      "volume": "21",
+      "page": "543",
+      "issued": {"date-parts": [[1823]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/21/543",
+      "court": "U.S.",
+      "reporter": "8 Wheat."
+    },
+    {
+      "id": "fletcher-v-peck-case",
+      "type": "legal_case",
+      "title": "Fletcher v. Peck",
+      "container-title": "United States Reports",
+      "volume": "10",
+      "page": "87",
+      "issued": {"date-parts": [[1810]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/10/87",
+      "court": "U.S.",
+      "reporter": "6 Cranch"
+    },
+    {
+      "id": "campbell-v-hall-case",
+      "type": "legal_case",
+      "title": "Campbell v. Hall",
+      "container-title": "Cowper's Reports",
+      "page": "204",
+      "issued": {"date-parts": [[1774]]},
+      "URL": "https://www.uniset.ca/other/cs3/98ER1045.html",
+      "court": "K.B. (England)",
+      "reporter": "Cowper"
+    }
+  ]
+}

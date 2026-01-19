@@ -5,6 +5,7 @@ excerpt: "We understand Sherrill to hold that equitable doctrines, such as lache
 permalink: /cayuga-v-pataki/
 published: true
 date: 2018-08-27 11:35:51
+last_modified_at: 2026-01-19
 categories:
   - Law
 tags:
@@ -14,7 +15,10 @@ tags:
   - Cayuga-Nation
   - Pataki
 ---
-Excerpt:
+## Analysis by Steven T. Newcomb
+*   [The Haudenosaunee Cases: Cayuga Indian Nation v. Pataki (2nd Cir. June 28, 2005) - Domination Translator Series - Part 11](/blog/domination/cayuga-pataki/)
+
+## Key Excerpt: 
 
 >   “We understand [_Sherrill_](/sherrill-v-oneida-opinion-of-the-court/) to hold that equitable doctrines, such as laches, acquiescence, and impossibility, can in appropriate circumstances, be applied to Indian land claims, **even when such a claim is legally viable and with in the statute of limitations** …  
 
@@ -23,4 +27,4 @@ Excerpt:
 - [Download the Cayuga Indian Nation v. Pataki, 413 F. 3d 266, (2nd Cir. June 28, 2005) Decision. (⤓ Download as PDF)](/assets/pdfs/cayugaVpataki.pdf)
 - [Back to Law](https://doctrineofdiscovery.org/law/).
 
-{% include citation-links.html %}
+

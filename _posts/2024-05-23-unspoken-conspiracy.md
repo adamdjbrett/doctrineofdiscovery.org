@@ -11,4 +11,4 @@ link: http://urn.nb.no/URN:NBN:no-46317
 
 by May-Lisabeth Brew
 
-{% include citation-links.html %}
+

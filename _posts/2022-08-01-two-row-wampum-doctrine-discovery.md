@@ -13,4 +13,4 @@ author: indigenous-values-initiative
 
 >The concept and agreement of the Two Row "Wampum law" repudiated the Doctrine of Discovery, an agreement that gave Christian explorers the right to claim lands they discovered and convert the inhabitants to Christianity under the threat of war.
 
-{% include citation-links.html %}
+

@@ -14,4 +14,4 @@ link: https://peterderrico.substack.com/p/political-principles-and-indian-sovere
 > 
 > The question is becoming increasingly difficult to answer.
 
-{% include citation-links.html %}
+

@@ -37,4 +37,4 @@ redirect_from:
 
 -  National Humanities Center Resource Toolbox, "[Requiremento: Pronoucement to be read by Spanish Conquerors to Defeated Indians (⤓ pdf download)](https://nationalhumanitiescenter.org/pds/amerbegin/contact/text7/requirement.pdf)", in [American Beginnings the European Presence in North America 1492-1690](http://nationalhumanitiescenter.org/pds/amerbegin/).
 
-{% include citation-links.html %}
+

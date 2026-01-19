@@ -14,4 +14,4 @@ author: tina-ngata
 
 follow the link to the download
 
-{% include citation-links.html %}
+

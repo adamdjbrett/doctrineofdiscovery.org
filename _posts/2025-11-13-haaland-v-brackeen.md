@@ -14,4 +14,4 @@ link: https://peterderrico.substack.com/p/cutting-through-the-us-claim-of-a
 author: peter-derrico
 ---
 
-{% include citation-links.html %}
+

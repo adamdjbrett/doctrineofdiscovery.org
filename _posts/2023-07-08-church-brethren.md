@@ -40,4 +40,4 @@ The following text from Page 181, Lines 17-30 incorporates the amendments to the
 
 [learn more](https://www.brethren.org/news/2023/summary-of-actions-at-2023-annual-conference/){: .btn .btn--primary .btn--x-large}
 
-{% include citation-links.html %}
+

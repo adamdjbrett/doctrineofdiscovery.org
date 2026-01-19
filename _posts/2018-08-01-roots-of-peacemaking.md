@@ -37,4 +37,4 @@ This is an aerial view of Onondaga Lake embraced by the Everlasting Tree Wampum 
 *   Water Ceremony, Onondaga Lake
 *   Ceremony at Onondaga Lake, 2005 Including a visit from the Japanese
 
-{% include citation-links.html %}
+

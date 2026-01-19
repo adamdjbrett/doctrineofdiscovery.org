@@ -18,4 +18,4 @@ The craft fair is cash only.
 
 If you have questions, email aila@aila.ngo
 
-{% include citation-links.html %}
+

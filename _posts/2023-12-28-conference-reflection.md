@@ -13,4 +13,4 @@ link: https://hurstassociates.blogspot.com/2023/12/conference-religious-origins-
 > 
 > I'm looking forward to talking with some folks I know who attended the conference and sharing what we learned. I think the more I talk about it, the more it will become working knowledge and the more I may find ways of helping to counter the harm done by the Doctrine of Christian Domination.
 
-{% include citation-links.html %}
+

@@ -52,4 +52,4 @@ This conference will connect the dots between our current pandemic, environmenta
 * [The Good, The Bad & The Ugly In Mcgirt V. Oklahoma](/law/resources/event/doctrine-discovery-domination-mother-earth-pandemic/)
 * [Let‘s Change the Subject: Grounding Social Change in Indigenous History and Philosophy](/resources/social-change-indigenous-history/)
 
-{% include citation-links.html %}
+

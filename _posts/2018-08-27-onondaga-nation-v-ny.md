@@ -5,6 +5,7 @@ excerpt: "This appeal is decided on the basis of the equitable bar on recovery o
 permalink: /onondaga-nation-v-ny/
 published: true
 date: 2018-08-27 11:54:22
+last_modified_at: 2026-01-19
 categories:
   - Law
 tags:
@@ -15,7 +16,11 @@ tags:
   - Onondaga-Nation
 redirect_from: /500/  
 ---
-Excerpt:
+## Analysis by Steven T. Newcomb
+*   [The Haudenosaunee Cases: Onondaga Nation v. N.Y. (Argued Oct. 12, 2012, decided October 19, 2012) - Domination Translator Series - Part 13](/blog/domination/onondaga-new-york/)
+
+
+## Key Excerpt:
 
 >   “This appeal is decided on the basis of the equitable bar on recovery of ancestral lands in [_Sherrill_](/sherrill-v-oneida-opinion-of-the-court/), and this Court’s cases of [_Cayuga_](/cayuga-v-pataki/) and [_Oneida_](/oneida-indian-nation-v-county-of-oneida/). Three specific factors determine when ancestral land claims are foreclosed on equitable grounds:  (1) **the length of time** between an historic injustice and the present day;  (2) the **disruptive nature** of claims long delayed; and  (3) the degree to which these claims **upset the justifiable expectations of individuals far removed from the events** giving rise to the plaintiffs’ injury.”
 
@@ -23,4 +28,4 @@ Excerpt:
 - [PDF via CourtListner.com](https://www.courtlistener.com/opinion/810552/onondaga-nation-v-state-of-ny/)
 - [Back to Law](/law/).
 
-{% include citation-links.html %}
+

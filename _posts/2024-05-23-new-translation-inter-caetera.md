@@ -15,4 +15,4 @@ author: sebastian-modrow
 * [RIS](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.ris)
 * [XML](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.xml)
 
-{% include citation-links.html %}
+

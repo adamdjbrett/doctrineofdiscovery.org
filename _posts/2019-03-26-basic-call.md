@@ -19,4 +19,4 @@ tags:
 
 Copies in English and Spanish are available for sale from [Indigenous Values Initiative](https://indigenousvalues.org). Email [info@indigenousvalues.org](mailto:info@indigenousvalues.org)
 
-{% include citation-links.html %}
+

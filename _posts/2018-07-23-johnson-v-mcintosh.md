@@ -20,7 +20,12 @@ toc: true
 toc_label: "Overview"
 toc_icon: "cog" 
 ---
-# Key Excerpts:
+## Analysis by Steven T. Newcomb
+*   [The Marshall Trilogy: Johnson v. McIntosh, 21 U.S. (8 Wheat.) 543 (1823) - Domination Translator Series - Part 3](/blog/domination/johnson-mcintosh/)
+*   [The Marshall Trilogy: Cherokee Nation v. Georgia (1831) - Domination Translator Series - Part 4](/blog/domination/cherokee-nation-georgia/)
+*   [The Marshall Trilogy: Worcester v. Georgia (1832) - Domination Translator Series - Part 5](/blog/domination/worcester-georgia/)
+
+## Key Excerpts:
 
 > “The Indians were admitted to be the rightful occupants of the soil, with a legal as well as just claim to retain possession of it, and to use it according to their own discretion; but **their rights to complete sovereignty, as independent nations, were necessarily diminished**, and . . . **Discovery gave exclusive title to those who made it.**
 >
@@ -323,4 +328,4 @@ Judgment affirmed, with costs."
 archived from the defunct website healingtheheartland.com
 ```
 
-{% include citation-links.html %}
+

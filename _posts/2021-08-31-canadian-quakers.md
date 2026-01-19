@@ -22,4 +22,4 @@ tags:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed//1NrjoaFuXk4" frameborder="0" allowfullscreen></iframe>
 
-{% include citation-links.html %}
+

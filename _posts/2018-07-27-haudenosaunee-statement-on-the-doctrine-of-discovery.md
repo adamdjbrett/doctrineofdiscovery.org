@@ -54,4 +54,4 @@ _Da nay to (now I am finished)_.
 
 [⤓ Download the Statement as a PDF](/assets/pdfs/Haudenosaunee-stmt-on-Doctrine-of-Discovery-UNPFIP-2012.pdf)
 
-{% include citation-links.html %}
+

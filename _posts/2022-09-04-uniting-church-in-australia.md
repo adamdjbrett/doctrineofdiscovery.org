@@ -28,4 +28,4 @@ From [Page 16 of Minutes of the 14th Assembly](https://web.archive.org/web/20220
 * John T. Squires [Affirming the Sovereignty of First Peoples: undoing the Doctrine of Discovery](https://web.archive.org/web/20220904202144/https://johntsquires.com/2018/08/13/affirming-the-sovereignty-of-first-peoples-undoing-the-doctrine-of-discovery/), Blog, August 13, 2018.
 * John T. Squires [On Covenant, Reconciliation, and Sovereignty](https://web.archive.org/web/20220904202138/https://johntsquires.com/2018/10/13/on-covenant-reconciliation-and-sovereignty/), Blog, October 13, 2018.
 
-{% include citation-links.html %}
+

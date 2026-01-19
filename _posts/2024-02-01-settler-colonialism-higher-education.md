@@ -184,4 +184,4 @@ In this paper, I discussed several historical moments in which Syracuse Universi
 
 [^2]: Present-day Syracuse University houses the School of Education in a building called "Huntington Hall," named after Bishop Fredrick D. Huntington, a man who endorsed Christian conversion among the Onondaga people and whose participation in a local committee endorsed fraudulent treaty-making with the specific aim to divide the lands of the Onondaga Nation.
 
-{% include citation-links.html %}
+

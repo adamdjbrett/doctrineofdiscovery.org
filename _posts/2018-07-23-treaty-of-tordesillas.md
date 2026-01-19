@@ -66,4 +66,4 @@ Davenport, Frances Gardiner
 European Treaties Bearing on the History of the United States to 1648
 Washington, DC : The Carnegie Institution of Washington, 1917
 
-{% include citation-links.html %}
+

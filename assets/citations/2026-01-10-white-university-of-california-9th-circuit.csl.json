@@ -1,0 +1,41 @@
+{
+  "id": "white-v-uc",
+  "title": "Domination Translator Series: White v. University of California",
+  "bibliography": [
+    {
+      "id": "white-v-uc-case",
+      "type": "legal_case",
+      "title": "White v. University of California",
+      "container-title": "Federal Reporter, Second Series",
+      "volume": "765",
+      "page": "1432",
+      "issued": {"date-parts": [[1985]]},
+      "URL": "https://www.justia.com/cases/federal/f2d/765/1432/",
+      "court": "9th Cir.",
+      "reporter": "F.2d"
+    },
+    {
+      "id": "tee-hit-ton-case",
+      "type": "legal_case",
+      "title": "Tee-Hit-Ton Indians v. United States",
+      "container-title": "United States Reports",
+      "volume": "348",
+      "page": "272",
+      "issued": {"date-parts": [[1955]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/348/272",
+      "court": "U.S."
+    },
+    {
+      "id": "johnson-v-mcintosh-case",
+      "type": "legal_case",
+      "title": "Johnson & Graham's Lessee v. McIntosh",
+      "container-title": "United States Reports",
+      "volume": "21",
+      "page": "543",
+      "issued": {"date-parts": [[1823]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/21/543",
+      "court": "U.S.",
+      "reporter": "8 Wheat."
+    }
+  ]
+}

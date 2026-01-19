@@ -60,4 +60,4 @@ So there, anyone raises Sublimis Deus to you, smack em with that.
 
 `original published on Facebook.`
 
-{% include citation-links.html %}
+

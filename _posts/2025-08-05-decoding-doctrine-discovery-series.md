@@ -35,4 +35,4 @@ The Wakaga Economic Development Group's *Decoding the Doctrine of Christian Disc
 Join us on this journey to understand---and dismantle---the Doctrine of Discovery.
 👉 [Read the series here](https://wakagagroup.com/index.php/news/tig/decoding-the-doctrine-of-christian-discovery-a-wakaga-sovereignty-series)
 
-{% include citation-links.html %}
+

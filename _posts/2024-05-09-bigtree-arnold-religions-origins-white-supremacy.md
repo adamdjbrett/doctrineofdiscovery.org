@@ -43,4 +43,4 @@ Follow Janice and the Conference on Religious Trauma on Social Media:
 *Podcast by Porthos Media, Copyright &#169; 2024
 [www.porthosmedia.net](https://www.porthosmedia.net)*
 
-{% include citation-links.html %}
+

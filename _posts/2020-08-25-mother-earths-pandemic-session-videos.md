@@ -75,4 +75,4 @@ author: adam-dj-brett
 * [Mother Earth‘s Pandemic Resources](/law/resources/event/mother-earths-pandemic-resources/)
 * [⤓ Download the Study Guide as a PDF](/assets/pdfs/Study-Guide-Mother-Earths-Pandemic.pdf)
 
-{% include citation-links.html %}
+

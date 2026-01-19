@@ -67,4 +67,4 @@ The resolution has “a substantial practical value,” Chaffee said, because it
 
 Hamilton was honored to be able to participate. In an e-mail update to her colleagues during the convention, she wrote, “My testimony rebutted the comment I have often heard about this issue, ‘What, are we trying to rewrite history?’ I said that to stand in any of the colonial churches of New England was a reminder that those churches stood on a history of the Doctrine of Discovery and genocide, thus there needed to be recognition of that both by the Episcopal Church and its colonial forbears in the Church of England.”
 
-{% include citation-links.html %}
+

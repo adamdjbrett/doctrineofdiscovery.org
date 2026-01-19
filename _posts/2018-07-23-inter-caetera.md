@@ -83,4 +83,4 @@ Alexander VI. 2022. "Inter Caetera." Translated by Sebastian Modrow and Melissa 
 * [RIS](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.ris)
 * [XML](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.xml)
 
-{% include citation-links.html %}
+

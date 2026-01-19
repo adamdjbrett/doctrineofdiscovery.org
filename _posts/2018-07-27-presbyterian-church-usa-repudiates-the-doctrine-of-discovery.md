@@ -28,4 +28,4 @@ redirect_from:
 
 via: [Presbyterian Mission](https://www.presbyterianmission.org/)
 
-{% include citation-links.html %}
+

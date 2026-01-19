@@ -101,4 +101,4 @@ When thinking about the Doctrine of Christian Discovery, Manifest Destiny, and r
 
 * Story, Joseph. *Commentaries on the Constitution of the United States: With a Preliminary Review of the Constitutional History of the Colonies and States Before the Adoption of the Constitution.* Little, Brown, and Company, 1891, 2 vols.
 
-{% include citation-links.html %}
+

@@ -17,4 +17,4 @@ This foundational decolonization webinar addresses the Doctrine of Discovery, th
 
 Organized by the NLG Indigenous Peoples’ Rights Committee and the NLG Environmental Human Rights Committee
 
-{% include citation-links.html %}
+

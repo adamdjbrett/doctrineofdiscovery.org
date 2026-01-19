@@ -13,4 +13,4 @@ author: adam-dj-brett
 
 [Louisiana’s Ten Commandment Truthiness - Good Faith Media](https://goodfaithmedia.org/louisianas-ten-commandment-truthiness/).
 
-{% include citation-links.html %}
+

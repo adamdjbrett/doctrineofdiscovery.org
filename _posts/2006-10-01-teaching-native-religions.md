@@ -29,4 +29,4 @@ The result of teaching "Native American Religions" in Syracuse has been that I h
 
 Teaching "Native American Religions" at Syracuse University has changed me as a scholar and a teacher. It is a contentious place to teach but, as I had originally thought, this indicates its importance. After taking my classes, students generally understand and appreciate these things more.
 
-{% include citation-links.html %}
+

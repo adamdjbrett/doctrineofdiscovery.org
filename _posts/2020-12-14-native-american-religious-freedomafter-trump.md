@@ -11,4 +11,4 @@ link: https://berkleycenter.georgetown.edu/responses/native-american-religious-f
 ---
 > We should note that from the perspective of Native Americans, religious freedom has never been a good tool.
 
-{% include citation-links.html %}
+

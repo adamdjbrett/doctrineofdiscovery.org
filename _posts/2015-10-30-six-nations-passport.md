@@ -47,4 +47,4 @@ We do not have the option of simply accepting American or Canadian passports. We
 
 That is not negotiable.
 
-{% include citation-links.html %}
+

@@ -37,4 +37,4 @@ In 2014, before the Skä·noñh—Great Law of Peace Center had officially ope
 *  If you want to contribute a scholarship for others to attend the conference you can donate to the conference](https://indigenousvalues.org/give/).
 *  [Next Steps](https://indigenousvalues.org/taking-on-the-doctrine-of-discovery-what-are-our-next-steps/)
 
-{% include citation-links.html %}
+

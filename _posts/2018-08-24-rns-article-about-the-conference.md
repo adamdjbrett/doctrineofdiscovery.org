@@ -16,4 +16,4 @@ tags:
 
 [Read more @ Religion News Service](https://religionnews.com/2018/08/22/denominations-repent-for-native-american-land-grabs/)
 
-{% include citation-links.html %}
+

@@ -134,4 +134,4 @@ This brings up the thorny problem of what to do with the Bible, which contains t
 
 The Bible must somehow be made safer as a playbook for Christian behavior toward non-Christians. The recent rise of Christian nationalism makes this need urgent.
 
-{% include citation-links.html %}
+

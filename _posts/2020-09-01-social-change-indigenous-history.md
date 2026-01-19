@@ -22,4 +22,4 @@ This article begins by raising a problem: when social change and justice issues 
 ## Download
 [⤓ Download Let's Change the Subject as a PDF ](/assets/pdfs/Lets-Change-the-Subject.pdf)
 
-{% include citation-links.html %}
+

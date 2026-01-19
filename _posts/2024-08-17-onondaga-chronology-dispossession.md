@@ -14,4 +14,4 @@ author: darle-wright-balfoort
 > 
 > In order to tell this story, I have drawn from scholarly books and articles, government documents and websites, news articles, conference proceedings, and the Onondaga Nation's website. Visual sources and maps include the Library of Congress, the New York State Archives, and the Smithsonian Museum of the American Indian. However, it is also intended to be accessible to a non-academic audience, rather than a purely scholarly one.
 
-{% include citation-links.html %}
+

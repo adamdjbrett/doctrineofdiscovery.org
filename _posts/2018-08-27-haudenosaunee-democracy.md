@@ -22,4 +22,4 @@ Excerpt:
 
 [Read More in the Lakota Times (Subscription)](https://www.lakotacountrytimes.com/articles/haudenosaunee-host-doctrine-of-discovery-gathering/)
 
-{% include citation-links.html %}
+

@@ -15,4 +15,4 @@ link: https://blog.nationalarchives.gov.uk/carleton-papers-project/
 > 
 > Comprising 30,000 manuscript pages, the collection was rebound into the present volumes by the New York Public Library between 1934 and 1935.  Arranged in chronological order, each volume contains a run of papers representing the dispatches of the successive commanders-in-chief; the collection also includes correspondence with the Continental Congress in Philadelphia.  Many of these letters concern the American 'Patriot' forces, and are often sent by George Washington himself (see [PRO 30/55/66/91 ](http://discovery.nationalarchives.gov.uk/details/r/C16478520)which relates to news of a general peace in April 1783, for example).
 
-{% include citation-links.html %}
+

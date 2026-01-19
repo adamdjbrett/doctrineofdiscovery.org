@@ -14,4 +14,4 @@ link: https://fore.yale.edu/sites/default/files/NER.N9_Text_and-Covers.Final_.We
 author: philip-arnold
 ---
 
-{% include citation-links.html %}
+

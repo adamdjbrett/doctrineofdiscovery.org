@@ -11,4 +11,4 @@ author: philip-arnold
 ---
 Philip P. Arnold, *The Urgency of Indigenous Values,* (Syracuse: Syracuse University Press, 2023), ISBN: 9780815638087.
 
-{% include citation-links.html %}
+

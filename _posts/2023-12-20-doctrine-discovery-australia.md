@@ -14,4 +14,4 @@ In the 1823 decision of *Johnson v. M'Intosh*, Chief Justice John Marshall form
 
 Robert J. Miller & Harry Hobbs, *Unraveling the International Law of Colonialism: Lessons From Australia and the United States*, 28 Mich. J. Race & L. 271 (2023). Available at: https://repository.law.umich.edu/mjrl/vol28/iss2/3
 
-{% include citation-links.html %}
+

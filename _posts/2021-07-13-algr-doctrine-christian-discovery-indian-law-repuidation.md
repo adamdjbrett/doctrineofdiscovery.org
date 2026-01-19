@@ -22,4 +22,4 @@ Excerpt:
 - [Download as a PDF ⤓](/assets/pdfs/23984-the-doctrine-of-christian-discovery-its-fundamental-importance-in-unitedstates-indian-law-and-the-need-forits-repudiation-and-removal.pdf)
 - [ALGR](https://www.albanygovernmentlawreview.org/article/23984-the-doctrine-of-christian-discovery-its-fundamental-importance-in-unitedstates-indian-law-and-the-need-forits-repudiation-and-removal)
 
-{% include citation-links.html %}
+

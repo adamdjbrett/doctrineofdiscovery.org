@@ -293,4 +293,4 @@ Ya es hora de que se sepa que detrás de la opresión de los Yanomami y de la ap
 
 * Walker, R.S., Kesler, D.C., & Hill, K.R. (2016). Are Isolated Indigenous Populations Headed toward Extinction? PLoS ONE, 11.
 
-{% include citation-links.html %}
+

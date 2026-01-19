@@ -1,0 +1,40 @@
+{
+  "id": "cayuga-v-pataki",
+  "title": "Domination Translator Series: Cayuga Indian Nation v. Pataki",
+  "bibliography": [
+    {
+      "id": "cayuga-v-pataki-case",
+      "type": "legal_case",
+      "title": "Cayuga Indian Nation v. Pataki",
+      "container-title": "Federal Reporter, Third Series",
+      "volume": "413",
+      "page": "266",
+      "issued": {"date-parts": [[2003]]},
+      "URL": "https://www.justia.com/cases/federal/f3d/413/266/",
+      "court": "2d Cir.",
+      "reporter": "F.3d"
+    },
+    {
+      "id": "city-sherrill-case",
+      "type": "legal_case",
+      "title": "City of Sherrill v. Oneida Indian Nation",
+      "container-title": "United States Reports",
+      "volume": "544",
+      "page": "197",
+      "issued": {"date-parts": [[2005]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/544/197",
+      "court": "U.S."
+    },
+    {
+      "id": "oneida-v-county-case",
+      "type": "legal_case",
+      "title": "Oneida Indian Nation v. County of Oneida",
+      "container-title": "United States Reports",
+      "volume": "414",
+      "page": "661",
+      "issued": {"date-parts": [[1974]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/414/661",
+      "court": "U.S."
+    }
+  ]
+}

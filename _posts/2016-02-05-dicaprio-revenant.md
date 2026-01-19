@@ -24,4 +24,4 @@ Today, the Doctrine of Discovery remains a fundamental feature of U.S. property 
 
 The ancient Indigenous knowledge of living in healthy relationships with the natural world is vitally needed in the world today. The grief of a continuously colonizing worldview that is wholly dependent on an extractive economy, stands in the way of immigrant-settler people ever hearing this urgent message. The Revenant reminds us of the violent foundational past that set us on a course of destruction. Besides the obvious regret of missed opportunities, is there time to change course--time to heal?
 
-{% include citation-links.html %}
+

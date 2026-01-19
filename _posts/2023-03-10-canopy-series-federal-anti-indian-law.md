@@ -22,4 +22,4 @@ sidebar:
 >
 > As the legal historian Paul Finkelman explained, "Marshall's years on the court . . . coincided with a relentless push to remove Indians from the eastern part of the United States. Thomas Jefferson developed the idea of Indian removal. Under James Madison and James Monroe, the nation's policy of war and removal devastated the southeastern Indians. President Andrew Jackson continued these policies. Marshall's decisions in *Johnson and Graham's Lessee v. M'Intosh*, . . . *Cherokee Nation v. Georgia*, . . . and *Worcester v. Georgia *. . . provided the legal basis for taking all land from Indians."
 
-{% include citation-links.html %}
+

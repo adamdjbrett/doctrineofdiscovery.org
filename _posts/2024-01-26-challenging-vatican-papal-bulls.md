@@ -14,4 +14,4 @@ author: steven-newcomb
 
 <p><a href="https://vimeo.com/906571533">Challenging the Vatican Papal Bulls of Domination</a> from <a href="https://vimeo.com/originalfreenations">Original Free Nations Advocates</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-{% include citation-links.html %}
+

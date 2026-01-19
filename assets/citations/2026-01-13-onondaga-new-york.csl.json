@@ -1,0 +1,52 @@
+{
+  "id": "onondaga-v-ny",
+  "title": "Domination Translator Series: Onondaga Nation v. New York",
+  "bibliography": [
+    {
+      "id": "onondaga-v-ny-case",
+      "type": "legal_case",
+      "title": "Onondaga Nation v. New York",
+      "container-title": "Federal Reporter, Third Series",
+      "volume": "500",
+      "page": "51",
+      "issued": {"date-parts": [[2007]]},
+      "URL": "https://www.justia.com/cases/federal/f3d/500/51/",
+      "court": "2d Cir.",
+      "reporter": "F.3d"
+    },
+    {
+      "id": "city-sherrill-case",
+      "type": "legal_case",
+      "title": "City of Sherrill v. Oneida Indian Nation",
+      "container-title": "United States Reports",
+      "volume": "544",
+      "page": "197",
+      "issued": {"date-parts": [[2005]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/544/197",
+      "court": "U.S."
+    },
+    {
+      "id": "cayuga-v-pataki-case",
+      "type": "legal_case",
+      "title": "Cayuga Indian Nation v. Pataki",
+      "container-title": "Federal Reporter, Third Series",
+      "volume": "413",
+      "page": "266",
+      "issued": {"date-parts": [[2003]]},
+      "URL": "https://www.justia.com/cases/federal/f3d/413/266/",
+      "court": "2d Cir.",
+      "reporter": "F.3d"
+    },
+    {
+      "id": "us-v-kagama-case",
+      "type": "legal_case",
+      "title": "United States v. Kagama",
+      "container-title": "United States Reports",
+      "volume": "118",
+      "page": "375",
+      "issued": {"date-parts": [[1886]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/118/375",
+      "court": "U.S."
+    }
+  ]
+}

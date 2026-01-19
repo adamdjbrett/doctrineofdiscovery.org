@@ -15,4 +15,4 @@ author: peter-derrico
 
 Some [Misconceptions About McGirt v. Oklahoma by Peter d’Errico](https://blogs.umass.edu/derrico/2020/09/14/misconceptions-about-mcgirt-v-oklahoma/).
 
-{% include citation-links.html %}
+

@@ -34,4 +34,4 @@ link: https://dailymontanan.com/2024/06/29/the-religious-underpinnings-of-one-of
 </div>
 </blockquote>
 
-{% include citation-links.html %}
+

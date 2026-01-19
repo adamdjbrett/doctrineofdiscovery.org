@@ -51,4 +51,4 @@ This is the pathology of the hierarchical dominating mentality that moves all se
 "Their god was on their side."  Where have we heard that lately?  Enough of this nonsense!
 </blockquote>
 
-{% include citation-links.html %}
+

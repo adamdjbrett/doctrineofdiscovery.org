@@ -23,4 +23,4 @@ In this conversation, Amanda Henderson and Steven Newcomb dive deeper into how t
 - [Audible](https://www.audible.com/podcast/Complexified/B0B85CVXC7)
 - [Spotify](https://open.spotify.com/show/7cUvWXH6LnaPllygbiJur2?si=1641dd3b4de6435e)
 
-{% include citation-links.html %}
+

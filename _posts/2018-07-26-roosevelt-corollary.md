@@ -5,6 +5,7 @@ excerpt: "Roosevelt asserted that European nations should not intervene in count
 permalink: /roosevelt-corollary/
 published: true
 date: 2018-07-26 11:24:53
+last_modified_at: 2026-01-19
 categories:
   - Law
 tags:
@@ -14,7 +15,15 @@ tags:
   - Roosevelt
 redirect_from:
   - /8864/
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
+## Analysis by Steven T. Newcomb
+*   [The Monroe Doctrine (1823) - Domination Translator Series - Part 6](/blog/domination/the-monroe-doctrine/)
+*   [Martin v. Waddell (1842) - Domination Translator Series - Part 7](/blog/domination/martin-waddell/)
+*   [President "Teddy" Roosevelt's Monroe Doctrine Corollary - Domination Translator Series - Part 8](/blog/domination/president-teddy-roosevelts-monroe-doctrine-corollary/)
+
 ## The Monroe Doctrine and the Roosevelt Corollary
 The Monroe Doctrine, put forth in 1823 by President James Monroe, called for an end to European intervention in the American continents (both north and south). This applied only to independent governments in the Americas however, not to areas that were colonies at that time.
 
@@ -27,4 +36,4 @@ In what came to be known as the Roosevelt Corollary to the Monroe Doctrine, Roos
 - [Transcript of Theodore Roosevelt's Corollary to the Monroe Doctrine (1905)](https://www.ourdocuments.gov/doc.php?flash=false&doc=56&page=transcript)
 - [Back to Law](https://doctrineofdiscovery.org/law/).
 
-{% include citation-links.html %}
+

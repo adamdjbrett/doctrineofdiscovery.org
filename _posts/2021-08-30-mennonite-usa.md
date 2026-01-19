@@ -35,4 +35,4 @@ tags:
 
 via **Mennonite Church:**["Doctrine of Discovery Resource Page."](http://mennoniteusa.org/what-we-do/undoing-racism/doctrine-of-discovery/)
 
-{% include citation-links.html %}
+

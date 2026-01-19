@@ -24,4 +24,4 @@ redirect_from:
 
 [Christian Reformed Church Doctrine of Discovery Task Force Document (PDF)](https://www.crcna.org/sites/default/files/doctrine_of_discovery.pdf)
 
-{% include citation-links.html %}
+

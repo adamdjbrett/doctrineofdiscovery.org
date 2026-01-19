@@ -36,4 +36,4 @@ Prof. Philip P. Arnold ([Religion, Syracuse University](https://artsandsciences.
 
 [Apply Now](https://indigenousvalues.org/call-for-authors-on-the-doctrine-of-discovery/){: .btn .btn--primary .btn--x-large}
 
-{% include citation-links.html %}
+

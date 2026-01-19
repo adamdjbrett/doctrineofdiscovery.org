@@ -15,4 +15,4 @@ excerpt: "Archbishop Cordileone said his ceremony was intended to drive out evil
 >
 > This death toll is the context for the toppling of the statue of Serra who entered the Kumeyaay Nation territory when he first arrived in 1769\. From a Native viewpoint, that statue stood as a monument to the heinous tradition of the Spanish Catholic mission system which resulted in so much death and destruction.
 
-{% include citation-links.html %}
+

@@ -16,4 +16,4 @@ Thank you so much to everyone who contributed to our podcast, blog, and conferen
 [View and Download Syllabus](/assets/pdfs/2024-Doctrine-of-Discovery-Syllabus.pdf){: .btn .btn--danger}
 [View on HCommons](https://hcommons.org/deposits/item/hc:68679/){: .btn .btn--success}
 
-{% include citation-links.html %}
+

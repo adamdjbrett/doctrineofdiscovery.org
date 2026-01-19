@@ -21,4 +21,4 @@ tags:
 [Learn more about the Biblical basis for Federal "Indian" Law Policy](http://originalfreenations.com/the-biblical-basis-of-federal-indian-law-policy/)
 From Steve Newcomb.
 
-{% include citation-links.html %}
+

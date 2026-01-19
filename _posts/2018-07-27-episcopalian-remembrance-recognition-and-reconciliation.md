@@ -55,4 +55,4 @@ that the Pope of the Roman Catholic Church and the Queen of England and Archbish
 
 When we renounce the 1496 Royal Charter of the Church of England here at St. James, in the Diocese of Maine, within the Episcopal Church and among the entire Anglican communion, we can achieve some degree of reconciliation with Indigenous People. As we reconcile ourselves with the Indigenous People of the Western Hemisphere, we also do our part in helping to reconcile this broken world with God. Amen.
 
-{% include citation-links.html %}
+

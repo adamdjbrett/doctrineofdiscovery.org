@@ -71,4 +71,4 @@ Seeing these connections provides an often-missing aspect of the discourse in th
 
 The ideology of domination, of white/European supremacy, of divine right to indigenous land, and of empty land are not remnants of past theology. They are widely held amongst US Christians. Christian Zionism is but one colonial aspect of American Christianity. Christian Zionists tend to also be Christian Nationalists. In other words, those who hold a dehumanizing view of Palestinians also hold a dehumanizing view of Indigenous Peoples in the US. The fight against them connects the Palestinian and Turtle Island struggles for sovereignty.
 
-{% include citation-links.html %}
+

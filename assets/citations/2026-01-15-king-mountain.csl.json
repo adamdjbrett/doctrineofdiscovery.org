@@ -1,0 +1,51 @@
+{
+  "id": "king-mountain",
+  "title": "Domination Translator Series: King Mountain and Beyond",
+  "bibliography": [
+    {
+      "id": "king-mountain-case",
+      "type": "legal_case",
+      "title": "King Mountain Tobacco Co., Inc. v. United States",
+      "container-title": "Federal Reporter, Third Series",
+      "volume": "284",
+      "page": "1148",
+      "issued": {"date-parts": [[2002]]},
+      "URL": "https://www.justia.com/cases/federal/f3d/284/1148/",
+      "court": "9th Cir.",
+      "reporter": "F.3d"
+    },
+    {
+      "id": "bryan-v-itasca-case",
+      "type": "legal_case",
+      "title": "Bryan v. Itasca County",
+      "container-title": "United States Reports",
+      "volume": "426",
+      "page": "373",
+      "issued": {"date-parts": [[1976]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/426/373",
+      "court": "U.S."
+    },
+    {
+      "id": "us-v-kagama-case",
+      "type": "legal_case",
+      "title": "United States v. Kagama",
+      "container-title": "United States Reports",
+      "volume": "118",
+      "page": "375",
+      "issued": {"date-parts": [[1886]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/118/375",
+      "court": "U.S."
+    },
+    {
+      "id": "mcclanahan-case",
+      "type": "legal_case",
+      "title": "McClanahan v. Arizona State Tax Commission",
+      "container-title": "United States Reports",
+      "volume": "411",
+      "page": "164",
+      "issued": {"date-parts": [[1973]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/411/164",
+      "court": "U.S."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "oneida-v-county-oneida",
+  "title": "Domination Translator Series: Oneida Indian Nation v. County of Oneida",
+  "bibliography": [
+    {
+      "id": "oneida-v-county-2010-case",
+      "type": "legal_case",
+      "title": "Oneida Indian Nation v. County of Oneida",
+      "container-title": "Federal Reporter, Third Series",
+      "volume": "617",
+      "page": "114",
+      "issued": {"date-parts": [[2010]]},
+      "URL": "https://www.justia.com/cases/federal/f3d/617/114/",
+      "court": "2d Cir.",
+      "reporter": "F.3d"
+    },
+    {
+      "id": "city-sherrill-case",
+      "type": "legal_case",
+      "title": "City of Sherrill v. Oneida Indian Nation",
+      "container-title": "United States Reports",
+      "volume": "544",
+      "page": "197",
+      "issued": {"date-parts": [[2005]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/544/197",
+      "court": "U.S."
+    },
+    {
+      "id": "cayuga-v-pataki-case",
+      "type": "legal_case",
+      "title": "Cayuga Indian Nation v. Pataki",
+      "container-title": "Federal Reporter, Third Series",
+      "volume": "413",
+      "page": "266",
+      "issued": {"date-parts": [[2003]]},
+      "URL": "https://www.justia.com/cases/federal/f3d/413/266/",
+      "court": "2d Cir.",
+      "reporter": "F.3d"
+    },
+    {
+      "id": "johnson-v-mcintosh-case",
+      "type": "legal_case",
+      "title": "Johnson & Graham's Lessee v. McIntosh",
+      "container-title": "United States Reports",
+      "volume": "21",
+      "page": "543",
+      "issued": {"date-parts": [[1823]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/21/543",
+      "court": "U.S.",
+      "reporter": "8 Wheat."
+    }
+  ]
+}

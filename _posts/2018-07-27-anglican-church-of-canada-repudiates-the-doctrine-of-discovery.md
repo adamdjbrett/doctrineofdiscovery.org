@@ -20,4 +20,4 @@ redirect_from:
 * [Anglican Church of Canada's Statement on "Indian Residential Schools"](https://www.anglican.ca/tr/histories/)
 * [Download the Anglican Church of Canada's statement (⤓ PDF)](/assets/pdfs/A086-R1-ACIP-Repudiate-the-Doctrine-of-Discovery.pdf "PDF")
 
-{% include citation-links.html %}
+

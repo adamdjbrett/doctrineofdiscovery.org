@@ -30,4 +30,4 @@ Dr. Shaheed is Professor of International Human Rights Law in the School of Law 
 
 Jennifer Tridgell is an Australian public international lawyer, with particular expertise in human rights, international dispute settlement and diplomacy. She works as an Independent Consultant and a PhD Candidate at the University of Cambridge as a prestigious Ramsay World Postgraduate Scholar. Previously, Jennifer served as Senior Legal Advisor to the UN Special Rapporteur on Freedom of Religion or Belief (External Office), Dr Ahmed Shaheed, where she advised on activities that increased impact and visibility of his global mandate and led on research and development of his official reports, including on Indigenous Peoples. Jennifer is well-versed in human rights and other international law issues across different jurisdictions, having worked for leading international firms, international and domestic judges, National Human Rights Institutions and several human rights organisations across the Asia-Pacific region, including those furthering rights of Indigenous Peoples.
 
-{% include citation-links.html %}
+

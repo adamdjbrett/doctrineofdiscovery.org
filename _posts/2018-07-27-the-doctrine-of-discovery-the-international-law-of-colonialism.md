@@ -63,4 +63,4 @@ For a comparative law analysis of the use of the Doctrine of Discovery in differ
 
 [The International Law of Colonialism a Comparative Analysis by Robert J. Miller (⤓ 76 page PDF download)](https://doctrineofdiscovery.org/assets/pdfs/lcb154art1millerpdf.pdf) via: [law.clark.edu.](https://law.lclark.edu/)
 
-{% include citation-links.html %}
+

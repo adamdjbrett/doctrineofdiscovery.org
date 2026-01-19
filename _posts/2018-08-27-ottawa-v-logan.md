@@ -1,7 +1,7 @@
 ---
 title: "Ottawa v. Logan"
 author: indigenous-values-initiative
-excerpt: "the Indian tribes who have a right to those lands are quietly to enjoy them, hunting, planting and dwelling thereon so long as they please, without any molestation from the United States..."
+excerpt: "the Indian tribes who have a right to those lands are quietly to enjoy them, hunting, planting and dwelling thereon so long as they please, without any molestation from the United States"
 permalink: /ottawa-v-logan/
 published: true
 date: 2018-08-27 11:43:56
@@ -12,6 +12,9 @@ tags:
   - US
   - US-Law
   - Treaty
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
 Excerpt:
 
@@ -105,4 +108,4 @@ NORRIS, J., delivered the opinion of the court, in which KENNEDY, J., joined. â€
 Via:Â [OTTAWA TRIBE OF OKLAHOMA v. LOGAN at FindLaw.com](https://caselaw.findlaw.com/us-6th-circuit/1008282.html)  
 - [Back to Law](/law/).
 
-{% include citation-links.html %}
+

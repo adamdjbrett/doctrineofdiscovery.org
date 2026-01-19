@@ -57,4 +57,4 @@ tags:
 
 - [Back to Law](/law/)
 
-{% include citation-links.html %}
+

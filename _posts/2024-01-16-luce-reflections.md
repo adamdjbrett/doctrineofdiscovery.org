@@ -13,4 +13,4 @@ link: https://www.hluce.org/news/articles/insights-and-reflections-from-syracuse
 >
 > While listening to and learning about Indigenous communities is essential, so is acting alongside the leadership of community leaders willing to teach and have these conversations.
 
-{% include citation-links.html %}
+

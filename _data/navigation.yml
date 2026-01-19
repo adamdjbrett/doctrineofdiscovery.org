@@ -53,6 +53,8 @@ next-steps:
   - title: "Featured"
     url: /featured/
     children:
+      - title: "Domination Translator Series"
+        url: /blog/domination/domination-translator-series-introduction/
       - title: "City of Sherrill v. Oneida Indian Nation of New York"
         url: /sherrill-v-oneida-opinion-of-the-court/
       - title: "Sublimis Deus: A Brief Overview"
@@ -105,6 +107,8 @@ next-steps:
   - title: "Law"
     url: /law/
     children:
+      - title: "Domination Translator Series"
+        url: /blog/domination/domination-translator-series-introduction/
       - title: "Fletcher v. Peck"  
         url: /fletcher-v-peck-10-us-87-1810/
       - title: "Johnson v. M'Intosh"

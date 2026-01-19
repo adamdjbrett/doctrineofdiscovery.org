@@ -22,4 +22,4 @@ The Doctrine of Discovery has had profoundly negative impacts on Indigenous Peop
 
 To join the Doctrine of Discovery Working Group listserv Dr. Philip P. Arnold at info@indigenousvalues.org
 
-{% include citation-links.html %}
+

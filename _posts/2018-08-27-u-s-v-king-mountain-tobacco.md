@@ -5,6 +5,7 @@ excerpt: "Tobacco company, owned by a Yakima Nation citizen, makes cigarettes us
 permalink: /u-s-v-king-mountain-tobacco/
 published: true
 date: 2023-01-30 12:16:23
+last_modified_at: 2026-01-19
 categories:
   - Law
 tags:
@@ -13,8 +14,16 @@ tags:
   - Indigenous-Peoples
   - Haudenosaunee-Confederacy
   - Onondaga-Nation
+toc: true
+toc_label: "Overview"
+toc_icon: "cog" 
 ---
-Excerpts and Comments from Joseph J. Heath: 
+## Anaalysis by Steven T. Newcomb
+ *   [_U.S. v. King Mountain Tobacco Co., Inc._ (9th Cir. Court, August 13, 2012) - Domination Translator Series - By Steven T. Newcomb](/blog/domination/king-mountain/)
+
+***
+
+## Excerpts and Comments from Joseph J. Heath (below) 
 
 ## FACTS: 
 
@@ -38,4 +47,4 @@ Tobacco company, owned by a Yakima Nation citizen, makes cigarettes using 54 % t
 
 [^1]: Here the Circuit is discussing the General Allotment Act of 1887, 24 Stat. 388.
 
-{% include citation-links.html %}
+

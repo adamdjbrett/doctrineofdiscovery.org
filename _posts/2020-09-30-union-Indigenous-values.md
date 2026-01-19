@@ -15,4 +15,4 @@ author: philip-arnold
 
 [Forming a “More Perfect Union” Through Indigenous Values](https://orionmagazine.org/2020/09/forming-a-more-perfect-union-through-indigenous-values/) by Sandra Bigtree and Philip P. Arnold:
 
-{% include citation-links.html %}
+

@@ -176,4 +176,4 @@ Destroying settler colonialism, or noting it as one of the interlocking systems 
 
 [^17]: Arvin, Maile, Eve Tuck, and Angie Morrill. "Decolonizing feminism: Challenging connections between settler colonialism and heteropatriarchy." *Feminist formations* (2013): 8-34.
 
-{% include citation-links.html %}
+

@@ -150,4 +150,4 @@ Ultimately, if we truly understood the stakes, we would endeavor to make the fig
 
 [^7]: "[M]en who have again mounted the saddle of savagery" (Steere, 1898, p. 407),
 
-{% include citation-links.html %}
+

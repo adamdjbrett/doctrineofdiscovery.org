@@ -24,4 +24,4 @@ author: indigenous-values-initiative
 > 
 > The work of CrossCurrents and its parent organization The Association for Public Religion and Intellectual Life (APRIL) has highlighted issues of inter-cultural contact between different religious communities that has dominated the field of religious studies for the last 50 years or more.2 Along these lines, our work extends that of historian of religion Charles Long, for example, who examined religion's role in settler-colonialism and the oppression of Indigenous Peoples. In Native American and Indigenous Studies (NAIS) this reached a peak around the 500th anniversary of Columbus' "discovery" of the New World. In more recent decades, multiple academics and activists have been focused on the DoCD.
 
-{% include citation-links.html %}
+

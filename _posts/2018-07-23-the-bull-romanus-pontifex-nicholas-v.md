@@ -34,4 +34,4 @@ And we decree that whosoever shall infringe these orders \[shall incur the follo
 
 via: [papalencyclicals.net](http://www.papalencyclicals.net/nichol05/romanus-pontifex.htm)
 
-{% include citation-links.html %}
+

@@ -12,4 +12,4 @@ author: steven-newcomb
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/906827808?h=c65722002a" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-{% include citation-links.html %}
+

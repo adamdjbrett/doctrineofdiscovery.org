@@ -62,4 +62,4 @@ But as preferable as Stevens' outcome is to Ginsburg, it, too, affirms the doctr
 * [City of Sherrill v. Oneida Indian Nation of New York 544 U.S. 197 (⤓ PDF Download)](/assets/pdfs/sherrill-v-oneida-opinion-of-the-court.pdf)
 * [City of Sherrill v. Oneida Indian Nation of New York 544 U.S. 197 via Cornell Legal Information Institute](https://www.law.cornell.edu/supct/html/03-855.ZO.html)
 
-{% include citation-links.html %}
+

@@ -192,4 +192,4 @@ Although the word "discovery" is disappearing from the official vocabulary, heri
 
 [^15]: <https://www.gob.mx/siap/articulos/dia-de-la-raza-y-el-nuevo-mundo?idiom=es>
 
-{% include citation-links.html %}
+

@@ -15,4 +15,4 @@ author: philip-arnold
 
 I'm grateful to my friend and colleague John Grim and the Yale Forum on Religion and Ecology for the podcast on Spotlights about my book The Urgency of Indigenous Values. Our conversation was deeply engaging around issues of environmental ethics and the devastating legacy of the Doctrine of Discovery. I hope you will enjoy listening as much as we had talking.
 
-{% include citation-links.html %}
+

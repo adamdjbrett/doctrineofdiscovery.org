@@ -33,4 +33,4 @@ tags:
 
 *   [Film](https://www.youtube.com/watch?v=SVgw_rD1YBM)
 
-{% include citation-links.html %}
+

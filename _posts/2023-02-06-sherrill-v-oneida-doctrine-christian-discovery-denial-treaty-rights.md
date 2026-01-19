@@ -127,4 +127,4 @@ Onondaga Nation General Counsel
 
 [^5]: [_Onondaga Nation v. New York_](https://casetext.com/case/nation-v-state), 500 F. App’x 87, 90 (2nd Cir. 2012).
 
-{% include citation-links.html %}
+

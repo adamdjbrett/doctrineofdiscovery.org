@@ -22,4 +22,4 @@ redirect_from:
 *   [Why We Are Offering This Resolution at General Assembly 2012 (⤓ PDF download)](/assets/pdfs/uuaunresolution.pdf)
 *   [2012 Responsive Resolution (⤓ PDF download)](/assets/pdfs/uuaunresolution.pdf)
 
-{% include citation-links.html %}
+

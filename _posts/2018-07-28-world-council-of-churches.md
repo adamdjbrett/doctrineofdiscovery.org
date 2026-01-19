@@ -18,4 +18,4 @@ redirect_from:
 ---
 *   [World Council of Churches Statement on the Doctrine of Discovery and its enduring impact on Indigenous Peoples (⤓ PDF download)](/assets/pdfs/wcc-document-021712.pdf)
 
-{% include citation-links.html %}
+

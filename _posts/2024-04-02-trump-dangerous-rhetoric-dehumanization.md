@@ -14,4 +14,4 @@ author: adam-dj-brett
 > 
 > The [Doctrine of Discovery](https://doctrineofdiscovery.org/), a set of 15th-century papal bulls, provides the theological and legal framework for Christian domination. It communicates that "explorers" who "discover" lands not occupied by Christians can view them as "*terra nullis*"--a territory without a master--and claim them for their sovereign.
 
-{% include citation-links.html %}
+

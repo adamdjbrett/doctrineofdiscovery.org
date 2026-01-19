@@ -1,0 +1,30 @@
+{
+  "id": "martin-v-waddell",
+  "title": "Domination Translator Series: Martin v. Waddell",
+  "bibliography": [
+    {
+      "id": "martin-v-waddell-case",
+      "type": "legal_case",
+      "title": "Martin v. Waddell",
+      "container-title": "United States Reports",
+      "volume": "41",
+      "page": "367",
+      "issued": {"date-parts": [[1842]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/41/367",
+      "court": "U.S.",
+      "reporter": "16 Pet."
+    },
+    {
+      "id": "johnson-v-mcintosh-case",
+      "type": "legal_case",
+      "title": "Johnson & Graham's Lessee v. McIntosh",
+      "container-title": "United States Reports",
+      "volume": "21",
+      "page": "543",
+      "issued": {"date-parts": [[1823]]},
+      "URL": "https://www.law.cornell.edu/supremecourt/text/21/543",
+      "court": "U.S.",
+      "reporter": "8 Wheat."
+    }
+  ]
+}

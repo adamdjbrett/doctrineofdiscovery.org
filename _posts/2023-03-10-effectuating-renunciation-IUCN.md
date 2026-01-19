@@ -113,4 +113,4 @@ The IUCN's passage of Resolution 119 is not the end of a decades-long attempt to
 
 [^22]: *See* National Centre for Truth and Reconciliation, *Truth and Reconciliation Commission of Canada*, https://nctr.ca/about/history-of-the-trc/truth-and-reconciliation-commission-of-canada/ (last visited Jan. 29, 2023).
 
-{% include citation-links.html %}
+

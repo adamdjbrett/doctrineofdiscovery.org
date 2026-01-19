@@ -50,4 +50,4 @@ We don't have to look very far for examples of Indian scapegoating and vilificat
 
 The Rhodes Scholar, NY Knicks basketball star, and former US Senator Bill Bradley offers an insightful approach about how we should address our nation's relationship with Indigenous People in his memoir Time Present, Time Past, saying "I know that an American living now is not responsible for wrongs committed more than one hundred years ago, but the nation itself is responsible. When governments commit crimes, they must make amends to those who are the victims of crimes. If they fail to do so, they live with guilt. Confronting the dark pages of our history is essential to getting beyond them. Americans cannot naively espouse ideals that our own historic actions refute. Failure to come to terms with having broken treaties and destroyed hundreds of thousands of people undermines our moral authority. How liberating it would be to escape the hypocrisy and become a society that lives by its professed ideals." Amen.
 
-{% include citation-links.html %}
+

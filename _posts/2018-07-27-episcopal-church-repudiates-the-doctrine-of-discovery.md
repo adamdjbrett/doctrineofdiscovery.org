@@ -38,4 +38,4 @@ Resolved, **That the 76th General Convention direct the Office of Government Re
 
 via: [The Episcopal Archives](https://episcopalarchives.org/cgi-bin/acts/acts_resolution-complete.pl?resolution=2009-d035)
 
-{% include citation-links.html %}
+

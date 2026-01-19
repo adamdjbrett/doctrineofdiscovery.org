@@ -163,4 +163,4 @@ Bibliography
 
 [^27]: Alfred, 2009.
 
-{% include citation-links.html %}
+

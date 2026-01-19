@@ -43,4 +43,4 @@ After the one hour screening, there will be a two-hour panel with Sheldon Wolfch
 "Event Flyer Photo credit: REDTHOUGHT and Original Free Nations!"
 ```
 
-{% include citation-links.html %}
+

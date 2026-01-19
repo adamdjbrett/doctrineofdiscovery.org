@@ -58,4 +58,4 @@ Listen to the podcast on [Megaphone](https://goodfaithmedia.org/doctrine-of-chr
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4VnMhbq2UJbu3fdehsQ66I?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-{% include citation-links.html %}
+

@@ -26,4 +26,4 @@ In 1493 Alexander VI issued the bull [Inter Caetera](/inter-caetera/) stating 
 - [Dum Diversas (Latin Original)](https://books.google.com/books?id=6NDmAAAAMAAJ&dq=%22Bullarium%20patronatus%20Portugalliae%20Regum%22&pg=PA22#v=onepage&q&f=false).
 - [Papal Bulls](/papal-bulls/)
 
-{% include citation-links.html %}
+

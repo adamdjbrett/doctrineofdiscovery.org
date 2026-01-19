@@ -36,4 +36,4 @@ redirect_from:
 *   [Religious Groups Ask Pope Francis to Stand with Indigenous People \- Loretto Community](https://web.archive.org/web/20150124154455/https://www.lorettocommunity.org/religious-groups-ask-pope-francis-to-stand-with-indigenous-people/) and [(⤓ PDF Download)](/assets/pdfs/religious-groups-ask-pope-francis-to-stand-with-indigenous-people.pdf)
 *   [LCWR Doctrine of Discovery Repudiation](https://lcwr.org/social-justice/doctrine-discovery)
 
-{% include citation-links.html %}
+
