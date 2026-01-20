@@ -154,6 +154,6 @@ Above, Marshall refers to the "planting" of "colonies" in America. What type of 
 * * *
 ## Footnotes
 
-[^1]: Roger Jones, *Physics As Metaphor* (University of Minnesota Press, 1982), ??
+[^1]: Roger Jones, *Physics As Metaphor* (University of Minnesota Press, 1982), 4.
 
 
