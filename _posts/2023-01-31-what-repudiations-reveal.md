@@ -104,7 +104,7 @@ A related notion in the New Testament and elsewhere is the [Golden Rule](https:/
 
 ## If Not the Gospel, what is the Doctrine at Odds With?  
 
-**Far from being at odds with the Gospel, then, the Doctrine is based on identifiable parts of it. It is, however, at odds with innate human rights, as the statements of repudiation recognize. What these statements do not do is connect the dots that the Bible led ordinary Christians to violate those innate human rights and still does so today.
+Far from being at odds with the Gospel, then, the Doctrine is based on identifiable parts of it. It is, however, at odds with innate human rights, as the statements of repudiation recognize. What these statements do not do is connect the dots that the Bible led ordinary Christians to violate those innate human rights and still does so today.
 
 Most obvious to our subject is the right to religious freedom. In contrast to the religious intolerance of the Christians, Christians were met with religious tolerance (p. 19, [_Errand to the World_](https://www.amazon.com/Errand-World-American-Protestant-Paperback/dp/B010EVEY06?asin=0226363104&revisionId=&format=4&depth=1)).
 
