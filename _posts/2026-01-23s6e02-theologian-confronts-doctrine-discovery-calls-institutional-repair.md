@@ -1,6 +1,6 @@
 ---
 title: "S6E02: A Theologian Confronts the Doctrine of Discovery and Calls for Institutional Repair"
-description: "Jeannine Hill Fletcher links racial justice, white Christian power, and tactics that severed Indigenous matrilineal ties to dispossess land now."
+description: "Jeannine Hill Fletcher exposes white Christian power and the tactics that cut Indigenous matrilineal ties to steal land"
 categories:
   - blog
   - link
