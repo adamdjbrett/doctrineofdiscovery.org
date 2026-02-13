@@ -28,7 +28,7 @@ sidebar:
 toc: true
 toc_label: "Overview"
 toc_icon: "cog" 
-redirect_from: /blog/domination/marshall-trilogy/johnson-mcintosh/
+redirect_from: /blog/domination/johnson-mcintosh/
 ---
 ## The Marshall Trilogy
 ### *Johnson & Graham's Lessee* v. *McIntosh*, 21 U.S. (8 Wheat.) 543 (1823)
@@ -160,5 +160,4 @@ The history of America from its discovery to the present day proves, we think, t
 ## Footnotes
 
 [^1]: Benjamin Munn Ziegler, *The International Law of John Marshall*, 1939, 44
-
 
