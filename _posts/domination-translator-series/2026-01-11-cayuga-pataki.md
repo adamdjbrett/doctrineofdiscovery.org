@@ -28,6 +28,7 @@ sidebar:
 toc: true
 toc_label: "Overview"
 toc_icon: "cog" 
+redirect_from: /blog/domination/cayuga-pataki/
 ---
 ## The Haudenosaunee Cases
 

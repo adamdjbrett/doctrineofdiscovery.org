@@ -28,6 +28,7 @@ sidebar:
 toc: true
 toc_label: "Overview"
 toc_icon: "cog" 
+redirect_from: /blog/domination/worcester-georgia/
 ---
 ## The Marshall Triology
 ### *Worcester v. Georgia*

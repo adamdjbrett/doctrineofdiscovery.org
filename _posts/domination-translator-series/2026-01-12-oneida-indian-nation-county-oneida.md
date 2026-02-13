@@ -28,6 +28,7 @@ sidebar:
 toc: true
 toc_label: "Overview"
 toc_icon: "cog" 
+redirect_from: /blog/domination/oneida-indian-nation-county-oneida/
 ---
 Litigation in this case began in 1974, and during the three and a half decades afterwards, the judicial system of the dominating U.S. society developed a framework, *based on its underlying claim of a right of domination*, that it could use to defend itself against such claims.
 <!--more-->
