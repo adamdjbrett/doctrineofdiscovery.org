@@ -28,6 +28,7 @@ sidebar:
 toc: true
 toc_label: "Overview"
 toc_icon: "cog" 
+redirect_from: /blog/domination/marshall-trilogy/johnson-mcintosh/
 ---
 ## The Marshall Trilogy
 ### *Johnson & Graham's Lessee* v. *McIntosh*, 21 U.S. (8 Wheat.) 543 (1823)
