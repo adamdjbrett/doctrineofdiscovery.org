@@ -28,6 +28,7 @@ sidebar:
 toc: true
 toc_label: "Overview"
 toc_icon: "cog" 
+redirect_from: /blog/domination/onondaga-new-york/
 ---
 Let us set the context for this case regarding the Onondaga Nation versus New York State. When ships from Western Christendom arrived to the shores of North America centuries ago, the people of the Onondaga Nation (hereinafter "the Nation") were living entirely free and independent on their own lands. The Onondaga people were, in other words, living free and independent of the Christian European claim of a right of domination.
 
