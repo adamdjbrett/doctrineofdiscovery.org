@@ -1,7 +1,9 @@
 ---
 title: "JCRT Publishes First of Two Special Issues from the 2023 Mapping the Doctrine of Discovery Conference"
 description: "JCRT publishes the first of two special issues from the 2023 Mapping the Doctrine of Discovery Conference, with scholarship on history, law, and justice."
-image: /assets/images/24.2-cover-connie-castro.webp
+header:
+  image: /assets/images/24.2-cover-connie-castro.webp
+caption: "They Were Planting Corn, We Were Planting Crosses. Artwork credit: Connie Castro"
 categories:
   - blog
 tags:
@@ -25,7 +27,7 @@ Issue link: <https://jcrt.org/archives/24.2/>
 ### [Table of Contents for JCRT 24.2, Winter 2026](https://jcrt.org/archives/24.2/)
 - [A Preface to Challenging the Justifications of Domination Through Religion: “We Were Planting Corn, and They Were Planting Crosses”](https://jcrt.org/archives/24.2/preface/) — Philip P. Arnold, Sandra Bigtree, and Adam DJ Brett
 - [Introduction](https://jcrt.org/archives/24.2/introduction/) — Philip P. Arnold, Sandra Bigtree, and Adam DJ Brett
-- [Christian Control of Women and Mother Earth: The Doctrine of Discovery and the Doctrine of Male Domination](https://jcrt.org/archives/24.2/wagner/]— Sally Roesch Wagner
+- [Christian Control of Women and Mother Earth: The Doctrine of Discovery and the Doctrine of Male Domination](https://jcrt.org/archives/24.2/wagner/)— Sally Roesch Wagner
 - [Charting the Doctrine in the Colonial Archive: Papal Bulls and the Translation of the “Discovery” Purpose](https://jcrt.org/archives/24.2/modrow/) — Sebastian Modrow
 - [Using the Doctrine of Discovery to Increase Shared Language and Conceptual Frameworks Between Black and Indigenous Feminist Organizing](https://jcrt.org/archives/24.2/nahar/) — Sarah Nahar
 - [The Medieval Origins of Religious White Supremacy: English Imperialism, Crusade Defeats, and the Doctrine of Discovery](https://jcrt.org/archives/24.2/callan/) — Maeve Callan
@@ -34,7 +36,7 @@ Issue link: <https://jcrt.org/archives/24.2/>
 - [Deconstructing the Erie Canal: Three Lessons for its Next Century](https://jcrt.org/archives/24.2/barry/) — Renée Barry
 - [Silencing the Doctrine of Discovery – The Brazilian Process: Accidental Discoveries, Secret Manuscripts, Imaginary Lines and Myths](https://jcrt.org/archives/24.2/alencar/) — Telma Alencar
 - [Baltic Religion: The Sacred Things](https://jcrt.org/archives/24.2/trinkauskaite/) — Eglutė Trinkauskaitė and Ellen B. Cutler
-- [Other Forms of Dwelling: A Dalit – Feminist Perspective(https://jcrt.org/archives/24.2/lakshmi/)] — Shrutika Lakshmi
+- [Other Forms of Dwelling: A Dalit – Feminist Perspective](https://jcrt.org/archives/24.2/lakshmi/) — Shrutika Lakshmi
 - [Hindu Political Theology: Beyond Hindutva’s Political Monotheism](https://jcrt.org/archives/24.2/somayajula/) — Pranay Somayajula
 - [Expecting Excellence in Education: When Content Conditions Class Consciousness](https://jcrt.org/archives/24.2/chaness/) — Michael E. Chaness
 - [Flesh of Words: Confrontation, Navigation, and Integrity in the English Classroom](https://jcrt.org/archives/24.2/hurtado/) — Roberta Hurtado
@@ -46,4 +48,4 @@ Issue link: <https://jcrt.org/archives/24.2/>
 
 The forthcoming companion issue will turn from religion to law. It will feature essays by Adam DJ Brett and Betty Hill (Lyons), Peter d’Errico, Joseph J. Heath, Steven J. Schwartzberg, Phillip Rodgers-Falk, Robert J. Miller, Steven Newcomb, and Jode Goudy, along with a conclusion by Philip P. Arnold, Sandra Bigtree, and Adam DJ Brett, and a postscript by Adam DJ Brett, Betty Hill (Lyons), and Nethanial Belmont.
 
-We offer deep thanks to Connie Castro-Sales for the cover art, to Carl Raschke and Victor Taylor of *JCRT* for their flexibility and partnership in bringing these volumes to publication, and to all sponsors and presenters whose work made these issues possible.
+We offer deep thanks to Connie Castro for the cover art, to Carl Raschke and Victor Taylor of [*JCRT*](https://jcrt.org) for their flexibility and partnership in bringing these volumes to publication, and to all sponsors and presenters whose work made these issues possible.
