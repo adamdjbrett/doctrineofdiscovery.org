@@ -49,3 +49,5 @@ Issue link: <https://jcrt.org/archives/24.2/>
 The forthcoming companion issue will turn from religion to law. It will feature essays by Adam DJ Brett and Betty Hill (Lyons), Peter d’Errico, Joseph J. Heath, Steven J. Schwartzberg, Phillip Rodgers-Falk, Robert J. Miller, Steven Newcomb, and Jode Goudy, along with a conclusion by Philip P. Arnold, Sandra Bigtree, and Adam DJ Brett, and a postscript by Adam DJ Brett, Betty Hill (Lyons), and Nethanial Belmont.
 
 We offer deep thanks to Connie Castro for the cover art, to Carl Raschke and Victor Taylor of [*JCRT*](https://jcrt.org) for their flexibility and partnership in bringing these volumes to publication, and to all sponsors and presenters whose work made these issues possible.
+
+[live press release](https://www.openpr.com/news/4416494/challenging-the-justifications-of-domination-through)
