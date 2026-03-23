@@ -45,7 +45,7 @@ Repudiation relates to the moral rejection and renunciation of a concept. Within
 Rescindment refers to the revoking and repealing of a law or policy. Within the context of the Doctrine of Discovery, rescindment is most often what is called upon by the Vatican to do, as the papal bulls (laws) which form the basis of the Doctrine of Discovery, were issued by the Vatican.
 
 <figure>
-    <a href="/assets/images/sublimis-deus-image001.png"><img src="/assets/images/sublimis-deus-image001.png"></a>
+    <a href="/assets/images/sublimis-deus-image001.png"><img src="/assets/images/sublimis-deus-image001.png" alt="Excerpt image from Sublimis Deus historical document"></a>
     <figcaption>a Rescind the Doctrine of Discovery banner hanging before the Pope<br />
     <a href="https://cathnews.co.nz/wp-content/uploads/2022/08/r0_0_800_600_w800_h600_fmax.jpg" target="_blank">(image source)</a></figcaption>
 </figure>
@@ -130,5 +130,4 @@ If, as they argue, the papal bulls no longer hold relevance in contemporary poli
 One would assume this would be an easy win for them to present themselves as supporters of Indigenous rights, and Indigenous Peoples have repeated stated that this matters a great deal to us. It is a very basic question that colonial states and the Vatican must sit with &mdash; if it matters nought, then why does revoking it continue to stoke contemporary colonial anxiety?
 
 In consideration of this history, there can be no doubt as to the fact that *Sublimis Deus* does not equate to the rescinding of the Doctrine of Discovery, that the duty still rests with the Vatican to formally, and ceremonially rescind the entire body of papal bulls that are collectively known as the Doctrine of Discovery, and that member state governments must still formally repudiate and renounce the Doctrine of Discovery as racist, scientifically false, legally invalid, morally condemnable and socially unjust.
-
 

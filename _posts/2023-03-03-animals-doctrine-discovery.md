@@ -56,7 +56,7 @@ What sort of animals did the Spanish and Portuguese bring to these "lands withou
 > **_Colonus:_** _Latin for farmer, cultivator, tiller, inhabitant. Root of the words colonization, colonial, and colonist._
 
 <figure>
-    <a href="/assets/images/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.jpg"><img src="/assets/images/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.jpg"></a>
+    <a href="/assets/images/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.jpg"><img src="/assets/images/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.jpg" alt="Vintage illustration of Andaman pig"></a>
     <figcaption>An illustration of the Andaman Pig. This illustration was extracted from the vintage book :&nbsp;<a href="https://freevintageillustrations.com/vintage-book-illustrations/zoological-sketches">Zoological sketches</a><br />Illustrations by :&nbsp;<a title="View all illustrations by: Wolf, Joseph" href="https://freevintageillustrations.com/illustrator/wolf-joseph">Wolf, Joseph</a>.
 </figcaption>
 </figure>
@@ -82,7 +82,7 @@ Some of the species that Indigenous cultures feel the closest kinship with and h
 
 ## Beaver
 <figure>
-    <a href="/assets/images/Antique-animal-illustration-of-Beaver-in-the-Public-Domain.webp"><img src="/assets/images/Antique-animal-illustration-of-Beaver-in-the-Public-Domain.webp"></a>
+    <a href="/assets/images/Antique-animal-illustration-of-Beaver-in-the-Public-Domain.webp"><img src="/assets/images/Antique-animal-illustration-of-Beaver-in-the-Public-Domain.webp" alt="Antique illustration of beaver"></a>
     <figcaption>
     Antique Animal Illustration Of Beaver In The Public Domain. This illustration was extracted from the vintage book :&nbsp;<a href="https://freevintageillustrations.com/vintage-book-illustrations/types-du-regne-animal-buffon-en-estampes">Types du règne animal. Buffon en estampes</a>. Illustrations by :&nbsp;<a title="View all illustrations by: Traviés, Edouard" href="https://freevintageillustrations.com/illustrator/travies-edouard">Traviés, Edouard</a>  
 </figcaption>
@@ -96,7 +96,7 @@ Today, the beaver is making a comeback. As a keystone species beaver create fres
   
 ## Sturgeon
 <figure>
-    <a href="/assets/images/Common-Sturgeon-Fish-Vintage-Illustration.png"><img src="/assets/images/Common-Sturgeon-Fish-Vintage-Illustration.png"></a>
+    <a href="/assets/images/Common-Sturgeon-Fish-Vintage-Illustration.png"><img src="/assets/images/Common-Sturgeon-Fish-Vintage-Illustration.png" alt="Vintage illustration of common sturgeon fish"></a>
     <figcaption>This illustration was extracted from the vintage book:&nbsp;<a href="https://freevintageillustrations.com/vintage-book-illustrations/a-history-of-the-fishes-of-the-british-islands">A history of the fishes of the British islands.&nbsp;</a>Illustrations by:&nbsp;<a title="View all illustrations by: Couch, Jonathan" href="https://freevintageillustrations.com/illustrator/couch-jonathan">Couch, Jonathan</a>.  
 </figcaption>
 </figure>
@@ -107,7 +107,7 @@ From early colonial history to today, the sacred ties between sturgeon and Nativ
 
 ## California Condor
 <figure>
-    <a href="/assets/images/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg"><img src="/assets/images/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg"></a>
+    <a href="/assets/images/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg"><img src="/assets/images/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg" alt="Bison in grassland"></a>
     <figcaption>A condor flying over the water. Photo by <a href="https://unsplash.com/@jeisen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeffrey Eisen</a> on <a href="https://unsplash.com/photos/N6Iw5TB2FL8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </figcaption>
 </figure>
@@ -121,7 +121,7 @@ Settlers in search of gold first rushed into Yurok territory around 1849. Loggin
 
 ## Buffalo
 <figure>
-    <a href="/assets/images/bison.webp"><img src="/assets/images/bison.webp"></a>
+    <a href="/assets/images/bison.webp"><img src="/assets/images/bison.webp" alt="Bison portrait"></a>
   <figcaption> 
     American Bison (Bos Americanus) from the viviparous quadrupeds of North America (1845) illustrated by John Woodhouse via <a href="https://www.rawpixel.com/image/321915/free-illustration-image-bison-audubon-animals" target="blank">NYPL</a>.
     </figcaption>
@@ -154,5 +154,4 @@ Healing these broken bonds requires the will of strong hearts. Such ways are not
 ### Biography
 
 *Tracy Basile is writing a book about the lives of animals in American history. Her articles have been published in The Village Voice, Orion Afield, ASPCA Animal Watch, and more. She teaches writing at Saint Thomas Aquinas College and lives in Lenapehoking in the Hudson Valley of New York.*
-
 

@@ -30,7 +30,7 @@ toc_icon: "cog"
 * * * 
 
 <figure>
-	<a href="https://www.gilderlehrman.org/history-resources/spotlight-primary-source/doctrine-discovery-1493"><img src="/assets/images/GLC04093_0.jpg"></a>
+	<a href="https://www.gilderlehrman.org/history-resources/spotlight-primary-source/doctrine-discovery-1493"><img src="/assets/images/GLC04093_0.jpg" alt="Inter Caetera primary source image"></a>
 	<figcaption><a href="https://www.gilderlehrman.org/history-resources/spotlight-primary-source/doctrine-discovery-1493" title="Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection">Pope Alexander VI's Demarcation Bull, May 4, 1493. Via Gilder Lehrman Collection</a>.</figcaption>
 </figure>
 
@@ -82,5 +82,4 @@ Alexander VI. 2022. "Inter Caetera." Translated by Sebastian Modrow and Melissa 
 * [Bibtex citation](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.bib)
 * [RIS](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.ris)
 * [XML](/assets/pdfs/citation-formats/modrow-smith-inter-caetera-scholar.xml)
-
 

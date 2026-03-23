@@ -53,7 +53,7 @@ The project's key collaborators include [Syracuse University](https://syracuse.e
 
 <figure>
     <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png">
-        <img src="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png"></a>
+        <img src="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png" alt="Religious Origins of White Supremacy conference flyer"></a>
     <figcaption>Event flyer. <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png" target="_blank" rel="noopener">⤓ Download Image</a>, <a href="/assets/pdfs/CFP-Religious-Origins-Conference-Flyer-8.5x11-rev2.pdf" target="_blank" rel="noopener">⤓ Download PDF</a>.
 </figcaption>
 </figure>

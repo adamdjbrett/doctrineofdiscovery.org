@@ -1,4 +1,7 @@
 <!-- start custom head snippets -->
+{% if page.robots_meta %}
+<meta name="robots" content="{{ page.robots_meta | escape }}">
+{% endif %}
 <!-- Google Analytics -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-96037973-2"></script>
