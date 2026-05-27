@@ -7,6 +7,8 @@ links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://sallyroeschwagner.com/"
+  - label: "JCRT"
+    icon: "fas fa-fw fa-book-open"
+    url: "https://jcrt.org/authors/sally-roesch-wagner/"
 ---
-
 

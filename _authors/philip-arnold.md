@@ -22,6 +22,9 @@ links:
   - label: "YouTube"
     icon: "fab fa-fw fa-youtube-square"
     url: "https://youtube.com/c/IndigenousValuesInitiative"
+  - label: "JCRT"
+    icon: "fas fa-fw fa-book-open"
+    url: "https://jcrt.org/authors/philip-p-arnold/"
 redirect_from:
   - /authors/pparnold/
 ---

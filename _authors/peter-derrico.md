@@ -15,4 +15,7 @@ links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://blogs.umass.edu/derrico/"
+  - label: "JCRT"
+    icon: "fas fa-fw fa-book-open"
+    url: "https://jcrt.org/authors/peter-d-errico/"
 ---

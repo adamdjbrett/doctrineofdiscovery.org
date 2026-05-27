@@ -7,4 +7,7 @@ links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://www.mica.edu/undergraduate-majors-minors/humanistic-studies-major/eglute-trinkauskaite/"
+  - label: "JCRT"
+    icon: "fas fa-fw fa-book-open"
+    url: "https://jcrt.org/authors/eglute-trinkauskaite/"
 ---

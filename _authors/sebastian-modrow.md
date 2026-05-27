@@ -16,4 +16,7 @@ links:
   - label: "Google Scholar"
     icon: "fas fa-fw fa-bookmark"
     url: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=gs-DU8wAAAAJ"
+  - label: "JCRT"
+    icon: "fas fa-fw fa-book-open"
+    url: "https://jcrt.org/authors/sebastian-modrow/"
 ---

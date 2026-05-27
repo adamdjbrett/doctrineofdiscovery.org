@@ -10,6 +10,9 @@ links:
   - label: "SSRN"
     icon: "fas fa-fw fa-gavel"
     url: "http://ssrn.com/author=354803"
+  - label: "JCRT"
+    icon: "fas fa-fw fa-book-open"
+    url: "https://jcrt.org/authors/robert-j-miller/"
 redirect_from:
   - /authors/rjmiller/
 ---

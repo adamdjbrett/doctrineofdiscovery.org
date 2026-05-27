@@ -6,4 +6,7 @@ links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:phillip.rodgersfalk@mq.edu.au"
+  - label: "JCRT"
+    icon: "fas fa-fw fa-book-open"
+    url: "https://jcrt.org/authors/phillip-rodgers-falk/"
 ---

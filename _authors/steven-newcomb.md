@@ -31,6 +31,9 @@ links:
   - label: "Vimeo"
     icon: "fab fa-fw fa-vimeo"
     url: "https://vimeo.com/ondemand/dominationcode"
+  - label: "JCRT"
+    icon: "fas fa-fw fa-book-open"
+    url: "https://jcrt.org/authors/steven-t-newcomb/"
 redirect_from:
   - /authors/newcomb/
 ---

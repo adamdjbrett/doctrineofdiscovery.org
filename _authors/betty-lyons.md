@@ -16,6 +16,9 @@ links:
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     url: "https://twitter.com/ailanyc"
+  - label: "JCRT"
+    icon: "fas fa-fw fa-book-open"
+    url: "https://jcrt.org/authors/betty-hill-lyons/"
 redirect_from:
   - /authors/blyons
 ---

@@ -19,6 +19,8 @@ links:
   - label: "Envirostory"
     icon: "fas fa-fw fa-link"
     url: "https://envirostorycny.com/" 
+  - label: "JCRT"
+    icon: "fas fa-fw fa-book-open"
+    url: "https://jcrt.org/authors/sarah-nahar/"
 ---
-
 

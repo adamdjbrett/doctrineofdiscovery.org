@@ -22,6 +22,9 @@ links:
   - label: "ORCID"
     icon: "fab fa-fw fa-orcid"
     url: https://orcid.org/0009-0004-6725-8425  
+  - label: "JCRT"
+    icon: "fas fa-fw fa-book-open"
+    url: "https://jcrt.org/authors/adam-dj-brett/"
 redirect_from:
   - /authors/adamdjbrett/
 ---
