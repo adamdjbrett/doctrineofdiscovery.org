@@ -13,6 +13,7 @@ tags:
   - jcreor
   - featured
 link: https://creor-ejournal.library.mcgill.ca/article/view/115
+canonical_url: https://outcome.doctrineofdiscovery.org/jcreor/essay2/remarks/
 author: betty-lyons
 ---
 Abstract

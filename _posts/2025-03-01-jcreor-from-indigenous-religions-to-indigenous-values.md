@@ -13,6 +13,7 @@ tags:
   - jcreor
   - featured
 link: https://creor-ejournal.library.mcgill.ca/article/view/107
+canonical_url: https://outcome.doctrineofdiscovery.org/jcreor/essay1/editorial/
 ---
 Abstract
 --------

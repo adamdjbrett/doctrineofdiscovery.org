@@ -9,6 +9,7 @@ tags:
   - Johnson
   - featured
 link: https://canopyforum.org/2023/03/14/the-contemporary-presence-of-discoverys-assertion-in-canada/
+canonical_url: https://outcome.doctrineofdiscovery.org/canopy/essay2/content-temporary/
 date: 2023-03-11 01:54:46
 author: mark-tremblay
 sidebar:

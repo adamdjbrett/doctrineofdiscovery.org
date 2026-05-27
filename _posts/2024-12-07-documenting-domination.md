@@ -15,6 +15,7 @@ tags:
   - special-issue
   - featured
 link: https://www.mdpi.com/2077-1444/15/12/1493
+canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/documenting/
 author: adam-dj-brett
 ---
 ## Abstract

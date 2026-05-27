@@ -9,6 +9,7 @@ tags:
   - Johnson
   - featured
 link: https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh/ 
+canonical_url: https://outcome.doctrineofdiscovery.org/canopy/essay2/extravagant/
 date: 2023-03-24 01:54:46
 author: aila
 sidebar:

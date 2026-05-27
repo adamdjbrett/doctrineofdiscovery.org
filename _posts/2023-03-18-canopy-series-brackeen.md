@@ -10,8 +10,9 @@ tags:
   - Johnson
   - featured
 link: https://canopyforum.org/2023/03/18/haaland-v-brackeen-and-the-logic-of-discovery/
+canonical_url: https://outcome.doctrineofdiscovery.org/canopy/essay2/halland-v-braken/
 date: 2023-03-18 01:54:46
-author: danallyod
+author: dana-lloyd
 sidebar:
   - title: "Next Steps"
     image: /assets/images/colonial-contact.jpg

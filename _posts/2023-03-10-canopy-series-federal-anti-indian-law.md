@@ -9,6 +9,7 @@ tags:
   - Johnson
   - featured
 link: https://canopyforum.org/2023/03/07/federal-anti-indian-law-the-legal-entrapment-of-indigenous-peoples/
+canonical_url: https://outcome.doctrineofdiscovery.org/canopy/essay2/federal/
 date: 2023-03-10 13:54:46
 author: peter-derrico
 sidebar:

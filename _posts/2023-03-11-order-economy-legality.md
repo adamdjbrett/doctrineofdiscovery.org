@@ -9,6 +9,7 @@ tags:
   - Johnson
   - featured
 link: https://canopyforum.org/2023/03/11/order-economy-and-legality-johnson-v-mintosh-after-two-hundred-years/
+canonical_url: https://outcome.doctrineofdiscovery.org/canopy/essay2/order-economy-legality/
 date: 2023-03-11 11:54:46
 author: andrew-little
 sidebar:

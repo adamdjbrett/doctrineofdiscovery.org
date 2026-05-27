@@ -9,6 +9,7 @@ tags:
   - Johnson
   - featured
 link: https://canopyforum.org/2023/03/29/johnson-v-mintosh-plenary-power-and-our-colonial-constitution/
+canonical_url: https://outcome.doctrineofdiscovery.org/canopy/essay2/plenary-power/
 date: 2023-03-29 01:54:46
 author: alexandra-fay
 sidebar:

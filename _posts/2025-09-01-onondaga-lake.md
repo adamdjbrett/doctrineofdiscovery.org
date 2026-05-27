@@ -11,6 +11,7 @@ tags:
   - environment
   - featured
 link: https://commons.lib.jmu.edu/ijr/vol9/iss1/2/
+canonical_url: https://outcome.doctrineofdiscovery.org/ijr/essay2/healing-the-sacred/
 author: betty-lyons
 ---
 ## Abstract 

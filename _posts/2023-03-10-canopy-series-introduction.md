@@ -9,6 +9,7 @@ tags:
   - Johnson
   - featured
 link: https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/
+canonical_url: https://outcome.doctrineofdiscovery.org/canopy/essay1/intro/
 date: 2023-03-10 11:54:46
 author: indigenous-values-initiative
 sidebar:
