@@ -19,7 +19,7 @@ toc: true
 toc_label: "Overview"
 toc_icon: "cog"     
 ---
-## A Brief overview
+## A Brief Overview
 
 Every few years, when the Doctrine of Discovery gets traction, someone raises the old chestnut of Sublimis Deus as apparent proof that the Catholic church *did already* rescind the Doctrine and therefore it's not necessary. I should probably do a blog post that I can just repost.
 

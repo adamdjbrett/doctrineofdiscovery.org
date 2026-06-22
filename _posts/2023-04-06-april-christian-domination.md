@@ -9,6 +9,8 @@ tags:
   - Catholic
   - Vatican
   - featured
+  - joint-statement-responses
+  - responses
 link: https://www.aprilonline.org/continuing-christian-domination/
 suggestedcitiation: false
 ---

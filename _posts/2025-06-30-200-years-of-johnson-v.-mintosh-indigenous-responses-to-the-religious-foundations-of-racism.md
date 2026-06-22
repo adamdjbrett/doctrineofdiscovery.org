@@ -12,6 +12,7 @@ tags:
   - environment
   - nokings
   - featured
+  - responses
 link: https://muse.jhu.edu/issue/55074
 author: indigenous-values-initiative
 ---

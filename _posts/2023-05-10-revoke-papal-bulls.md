@@ -7,6 +7,8 @@ tags:
   - news
   - papal-bulls
   - featured
+  - responses
+  - joint-statement-responses
 author: steven-newcomb
 link: https://originalfreenations.com/revoke-the-papal-bulls-our-response-to-the-vaticans-march-30-statement-on-the-doctrine-of-discovery/
 ---

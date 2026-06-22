@@ -13,6 +13,7 @@ tags:
   - vatican-city
   - francis
   - pope
+  - joint-statement-responses
 canonical_url: https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/challenges/
 link: https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/challenges/
 permalink: /blog/link/outcome/crosscurrents/essay2/challenges/
