@@ -32,3 +32,4 @@ redirect_from:
     *   [The Requerimiento, 1513](https://doctrineofdiscovery.org/requerimiento/)
 * [Sublimis Deus (Sublimis Dei) A Brief Overview](/papal-bulls/sublimis-deus/)
   * [Sublimis Deus, Pastorale Officium and Non IndecensVidetur – A Historical Dive Into the Vatican’s Failure to Rescind the Doctrine of Discovery](/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/)
+* [Joint Statement of the Dicasteries for Culture and Education and for Promoting Integral Human Development on the “Doctrine of Discovery”, 30.03.2023](https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2023/03/30/0238/00515.html)
