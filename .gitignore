@@ -14,5 +14,6 @@ Gemfile.lock
 vendor/
 *.gem
 *.rb
+!_plugins/standard_site.rb
 
 # End of https://www.toptal.com/developers/gitignore/api/jekyll

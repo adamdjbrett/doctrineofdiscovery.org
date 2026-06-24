@@ -212,6 +212,15 @@ github: true
 # Flags to enable/disable "donate box" alerts on lessons
 donation_alerts: true
 
+# Standard.site metadata endpoints
+standard_site:
+  enabled: true
+  name: "Doctrine of Discovery Project"
+  url: "https://doctrineofdiscovery.org"
+  description: "The Doctrine of Discovery Project advances public education, research, and advocacy to challenge domination, dispossession, and the legacy of Christian Discovery in law, religion, and society."
+  did: ""
+  publication_at_uri: ""
+
 # Keep citation files when building
 keep_files:
   - assets/citations

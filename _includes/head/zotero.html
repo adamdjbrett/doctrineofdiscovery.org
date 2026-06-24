@@ -1,0 +1,46 @@
+{% assign zotero_core_page_urls = "|/about/|/law/|/papal-bulls/|/faith-communities/|/bibliography/|/online-resources/|/united-nations/|/pdf-archive/|/featured/|/canopy/|" %}
+{% assign zotero_page_marker = "|" | append: page.url | append: "|" %}
+{% assign zotero_is_post = false %}
+{% assign zotero_is_core_page = false %}
+{% if page.collection == "posts" %}
+  {% assign zotero_is_post = true %}
+{% endif %}
+{% if zotero_core_page_urls contains zotero_page_marker %}
+  {% assign zotero_is_core_page = true %}
+{% endif %}
+{% if page.published == false or page.sitemap == false %}
+  {% assign zotero_enabled = false %}
+{% elsif zotero_is_post or zotero_is_core_page %}
+  {% assign zotero_enabled = true %}
+{% else %}
+  {% assign zotero_enabled = false %}
+{% endif %}
+{% if zotero_enabled %}
+{% assign zotero_author_name = site.author.name | default: "Doctrine of Discovery Project" %}
+{% if page.author %}
+  {% assign zotero_author_name = page.author %}
+  {% for author_doc in site.authors %}
+    {% if author_doc.username == page.author %}
+      {% assign zotero_author_name = author_doc.name %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+{% assign zotero_description = page.description | default: page.excerpt | default: site.description | markdownify | strip_html | strip_newlines | normalize_whitespace %}
+{% assign zotero_date = page.date | default: page.last_modified_at %}
+<meta property="zotero:itemType" content="{% if zotero_is_post %}blogPost{% else %}webPage{% endif %}">
+<meta property="dc:title" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+<meta property="dc:creator" content="{{ zotero_author_name | strip | escape_once }}">
+{% if zotero_date %}<meta property="dc:date" content="{{ zotero_date | date: '%Y-%m-%d' }}">{% endif %}
+<meta property="dc:language" content="{{ site.locale | slice: 0,2 | default: 'en' }}">
+<meta property="dc:identifier" content="{{ page.url | absolute_url }}">
+{% if zotero_description %}<meta property="dc:description" content="{{ zotero_description | truncate: 300 | escape_once }}">{% endif %}
+<meta name="citation_author" content="{{ zotero_author_name | strip | escape_once }}">
+{% if zotero_date %}<meta name="citation_publication_date" content="{{ zotero_date | date: '%Y-%m-%d' }}">{% endif %}
+<meta name="citation_public_url" content="{{ page.url | absolute_url }}">
+<meta name="citation_language" content="{{ site.locale | slice: 0,2 | default: 'en' }}">
+{% if page.doi %}<meta name="citation_doi" content="{{ page.doi | escape_once }}">{% endif %}
+{% if zotero_is_post %}
+<meta name="prism.genre" content="blogentry">
+<meta name="prism.publicationName" content="Doctrine of Discovery Project">
+{% endif %}
+{% endif %}
