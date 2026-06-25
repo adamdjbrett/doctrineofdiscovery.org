@@ -1,5 +1,5 @@
 ---
-title: "Joint Statement to the P0ntifical Council for Justice and Peace"
+title: "Joint Statement to the Pontifical Council for Justice and Peace"
 description: "Nine Years Ago Today, on May 4th, 2016, We Met Pope Francis at St. Peter's Square, and Archbishop Silvano Tomasi at the Pontifical Council For Justice and Peace"
 categories:
   - blog
