@@ -15,5 +15,6 @@ vendor/
 *.gem
 *.rb
 !_plugins/standard_site.rb
+!_plugins/post_metadata_json.rb
 
 # End of https://www.toptal.com/developers/gitignore/api/jekyll

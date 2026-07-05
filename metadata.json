@@ -1,0 +1,24 @@
+---
+permalink: /metadata.json
+layout: null
+sitemap: false
+---
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "{{ site.url }}/#website",
+  "name": {{ site.title | jsonify }},
+  "description": {{ site.description | strip_newlines | normalize_whitespace | jsonify }},
+  "url": {{ site.url | jsonify }},
+  "inLanguage": {{ site.locale | slice: 0, 2 | default: "en" | jsonify }},
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://indigenousvalues.org/#organization",
+    "name": "Indigenous Values Initiative",
+    "url": "https://indigenousvalues.org/"
+  },
+  "sameAs": [
+    "https://podcast.doctrineofdiscovery.org/",
+    "https://aila.ngo/"
+  ]
+}

@@ -3,6 +3,14 @@
 <meta name="robots" content="{{ page.robots_meta | escape }}">
 {% endif %}
 {% include head/zotero.html %}
+{% if page.collection == "posts" %}
+<link rel="cite-as" href="{{ page.canonical_url | default: page.url | absolute_url }}">
+<link rel="type" href="https://schema.org/BlogPosting">
+<link rel="author" href="{{ '/about/' | absolute_url }}">
+<link rel="describedby" type="application/ld+json" profile="https://schema.org/" href="{{ page.url | append: 'metadata.json' | relative_url }}">
+{% else %}
+<link rel="describedby" type="application/ld+json" profile="https://schema.org/" href="{{ '/metadata.json' | relative_url }}">
+{% endif %}
 {% if site.standard_site.enabled %}
 <link rel="alternate" type="application/json" title="Doctrine of Discovery Project Standard.site Publication" href="{{ '/standard.site/publication.json' | relative_url }}">
 <link rel="alternate" type="application/json" title="Doctrine of Discovery Project Standard.site Documents" href="{{ '/standard.site/documents.json' | relative_url }}">
