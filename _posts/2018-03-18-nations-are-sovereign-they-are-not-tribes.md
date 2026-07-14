@@ -1,9 +1,11 @@
 ---
 title: "Nations Are Sovereign: They Are Not 'Tribes'"
+description: "Joseph Heath, General Counsel for the Onondaga Nation, explains why the Haudenosaunee reject the colonial term ‘tribe’ and insist on recognition as sovereign, independent Nations under international law."
 author: joseph-heath
 excerpt: "Interestingly, despite over two centuries of difficulties in this area, in this historic agreement the state accepted the Haudenosaunee as Nations and used that label, rather than tribes."
 published: true
 date: 2018-03-18T09:12:22
+canonical_url: https://doctrineofdiscovery.org/assets/pdfs/NATION-NOT-TRIBE3-6-18.pdf
 categories:
  - Law
  - Indigenous-Peoples
@@ -16,7 +18,11 @@ tags:
  - Indigenous-Peoples
  - United-Nations
  - Onondaga-Nation
+ - sovereignty
+ - treaties
  - redpaper
+redirect_from:
+ - /law/indigenous-peoples/united-nations/education/resources/nations-are-soverign-they-are-not-tribes/
 ---
 [(⤓ PDF download).](/assets/pdfs/NATION-NOT-TRIBE3-6-18.pdf)
 * * * 
