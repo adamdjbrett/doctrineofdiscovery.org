@@ -3,6 +3,7 @@
 <meta name="robots" content="{{ page.robots_meta | escape }}">
 {% endif %}
 {% include head/zotero.html %}
+{% include author-profile-schema.html %}
 {% if page.collection == "posts" %}
 <link rel="cite-as" href="{{ page.canonical_url | default: page.url | absolute_url }}">
 <link rel="type" href="https://schema.org/BlogPosting">
