@@ -29,7 +29,7 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: default
 search: true
 teaser: "/assets/images/Mission-Interior-from-Lookout.jpg"
-logo: /assets/images/doctrineofdiscovery_logo_new-88x88.png
+logo: /assets/images/doctrine-of-discovery-project-logo.svg
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 
