@@ -248,5 +248,3 @@ jekyll-minifier:
   preserve_line_breaks: false       # Default: false
   simple_boolean_attributes: false  # Default: false
   compress_js_templates: false      # Default: false
-  preserve_patterns:                # Default: (empty)
-  uglifier_args:                    # Default: (empty)

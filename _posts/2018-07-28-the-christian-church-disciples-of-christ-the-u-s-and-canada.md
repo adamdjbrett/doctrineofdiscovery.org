@@ -1,6 +1,6 @@
 ---
 title: 'The Christian Church (Disciples of Christ, the U.S and Canada) Repudiates the Doctrine of Discovery'
-author: ccdoc
+author: christian-church-disciples-of-christ
 excerpt: "That the General Assembly of the Christian Church (Disciples of Christ) in the United States and Canada, meeting, July 13-17, 2013, in Orlando, Florida, accept 'Reflection on Christian Theology and Polity, the Christian Doctrine of Discovery, and the Indigenous Voice'."
 permalink: /the-christian-church-disciples-of-christ-the-u-s-and-canada/
 published: true

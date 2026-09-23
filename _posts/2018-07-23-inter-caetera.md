@@ -2,6 +2,9 @@
 title: "Inter Caetera"
 author: indigenous-values-initiative
 translator: Sebastian Modrow and Melissa Smith
+scholar: true
+authors: [Sebastian Modrow, Melissa Smith]
+pdf: /assets/pdfs/Inter_Caetera_Modrow&Smith.pdf
 excerpt: "The Papal Bull _Inter Caetera_ of May 4, 1493"
 permalink: /inter-caetera/
 published: true

@@ -1,6 +1,6 @@
 ---
 title: "The Church of the Brethern has repuidated the Doctrine of Discovery"
-author: church-brethern
+author: church-brethren
 excerpt: "The Church of the Brethern has repuidated the Doctrine of Discovery"
 published: true
 date: 2023-07-08
