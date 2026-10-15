@@ -11,9 +11,54 @@ We begin by acknowledging with respect the Onondaga Nation, Central Fire of the 
 I have become frustrated with how slow and limited in accessibility WordPress is so I decided to start moving sites I administer over to [Jekyll](http://jekyllrb.com) because as static site generator it is faster, more reliable and I have more control over making it accessible.
 
 ## Getting Started
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/LICENSE)
-[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
-[![Ruby gem](https://img.shields.io/gem/v/jekyll-theme-basically-basic.svg)](https://rubygems.org/gems/jekyll-theme-basically-basic)
+
+The site and its Jekyll theme live in this repository. No theme gem, remote
+theme, submodule, or adjacent theme checkout is needed.
+
+Use Ruby **3.3.6** (see `.ruby-version`), Bundler **2.5.16** (see
+`Gemfile.lock`), and Node **24**. With those runtimes on your `PATH`:
+
+```sh
+bundle config set --local path vendor/bundle
+bundle install
+npm ci
+JEKYLL_ENV=production npm run build
+```
+
+The build compiles the committed JavaScript sources and writes the complete
+site to `_site/`. For local preview, run `bundle exec jekyll serve` after the
+first build. After editing JavaScript, run `npm run build:js` or
+`npm run watch:js`.
+
+Netlify reads `netlify.toml`, runs `npm run build`, and publishes `_site/`.
+Production builds disable incremental rendering so metadata and archives are
+rebuilt completely. Existing `_redirects`, CMS files under `admin/`, and the
+Formspree contact form are retained. Netlify account settings, credentials,
+and any dashboard integrations remain managed in Netlify.
+
+The theme files were imported from Minimal Mistakes **4.27.3**, tag commit
+`0064dabea814bd3a2e203320a141c037fdcf67ea`, matching the previously locked
+theme gem. Existing site layouts, includes, data, and Sass overrides were
+preserved. Upstream files live directly in `_layouts/`, `_includes/`,
+`_data/`, `_sass/`, and `assets/`; upstream documentation, demos, and build
+workflows were not imported. See `LICENSE.minimal-mistakes` for attribution.
+Future theme updates must be reviewed and merged into these local files.
+
+All four site plugins are versioned under `_plugins/`: citation generation,
+SEO descriptions, per-post JSON metadata, and Standard.site metadata.
+Citation files are generated into `_site/assets/citations/`; build-time
+metadata does not require browser JavaScript. JSON minification is disabled
+because the existing minifier fails on Standard.site document text; JSON
+generation itself is unchanged.
+
+To check a completed production build:
+
+```sh
+python3 scripts/verify_build.py _site
+```
+
+See `docs/goal-1-validation.md` for migration checks and known limitations.
+
 [![Tip @mmmistakes via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/mmistakes).
 
 I decided to go with @mmistakes theme [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes) because in [Lighthouse](https://developers.google.com/web/tools/lighthouse/). The theme has straight 💯's. If you are reading this stop by and check out the theme and/or support @mmistakes on PayPal.

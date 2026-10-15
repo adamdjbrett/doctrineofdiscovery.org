@@ -25,7 +25,7 @@ url: "https://doctrineofdiscovery.org" # the base hostname & protocol for your s
 twitter_username: indigenousVI
 #github_username: username
 # Theme
-theme: minimal-mistakes-jekyll
+# Theme source is maintained in this repository (see README.md).
 minimal_mistakes_skin: default
 search: true
 teaser: "/assets/images/Mission-Interior-from-Lookout.jpg"
@@ -46,7 +46,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "<!--more-->"
-incremental: true #set incremental to true to speed things up. if changes arent showing set to false
+incremental: false # Rebuild metadata and archives completely for deployment.
 
 # Markdown Processing
 kramdown:
@@ -83,6 +83,8 @@ atom_feed:
 
 include:
   - _pages
+  - _redirects
+  - assets/js/_main.js
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -90,14 +92,10 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - netlify.toml
+  - scripts
+  - docs
 
 # Plugins (previously gems:)
 plugins:
@@ -227,6 +225,8 @@ keep_files:
 
 
 jekyll-minifier:
+  uglifier_args:
+    harmony: true                   # Theme JavaScript includes ES6 syntax.
   preserve_php: true                # Default: false
   remove_spaces_inside_tags: true   # Default: true
   remove_multi_spaces: true         # Default: true
@@ -235,7 +235,8 @@ jekyll-minifier:
   remove_quotes: false              # Default: false
   compress_css: true                # Default: true
   compress_javascript: true         # Default: true
-  compress_json: true               # Default: true
+  # json-minify fails on existing Standard.site document text; preserve valid JSON.
+  compress_json: false
   simple_doctype: false             # Default: false
   remove_script_attributes: false   # Default: false
   remove_style_attributes: false    # Default: false

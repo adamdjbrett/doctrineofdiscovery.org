@@ -10,11 +10,10 @@ _site/
 .bundle/
 .icloud
 .DS_Store
-Gemfile.lock
-vendor/
+/vendor/
+node_modules/
 *.gem
 *.rb
-!_plugins/standard_site.rb
-!_plugins/post_metadata_json.rb
+!_plugins/*.rb
 
 # End of https://www.toptal.com/developers/gitignore/api/jekyll

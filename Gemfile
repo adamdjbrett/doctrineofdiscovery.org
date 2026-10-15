@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 gem "webrick"
-gem "minimal-mistakes-jekyll"
+gem "jekyll", "~> 4.3.3"
 
 #gem "github-pages", group: :jekyll_plugins
 gem 'liquid-c', '~> 4.0'
