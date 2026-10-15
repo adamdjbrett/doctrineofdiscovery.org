@@ -23,8 +23,10 @@ class Page(HTMLParser):
         attrs = dict(attrs)
         if tag == "script" and attrs.get("type") == "application/ld+json":
             self.script = ""
-        url = attrs.get("src") or attrs.get("href")
-        if url:
+        for key in ["src", "href", "data-search", "data-gallery", "data-pagefind"]:
+            url = attrs.get(key)
+            if not url:
+                continue
             path = unquote(urlsplit(url).path)
             if not urlsplit(url).netloc:
                 if path.startswith(("/assets/css/", "/assets/js/", "/assets/built/")):
@@ -68,6 +70,9 @@ def verify(root):
     for name in ["pagefind.js", "pagefind-entry.json"]:
         assert (bundles[0] / name).is_file(), f"Missing Pagefind output: {name}"
     assert list(bundles[0].glob("index/*.pf_index")), "Missing Pagefind index chunks"
+    entry = json.loads((bundles[0] / "pagefind-entry.json").read_text())
+    assert sum(language["page_count"] for language in entry["languages"].values()) > 0, "Empty Pagefind index"
+    assert not list(bundles[0].glob("pagefind-*.js")), "Unused Pagefind UI/worker bundle published"
 
     pages = list(root.rglob("*.html"))
     descriptions = 0

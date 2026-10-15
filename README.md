@@ -93,7 +93,7 @@ Icons use the local Font Awesome 6.7.2 SVG subset in
 Add a symbol there before using a new icon; the build reports missing symbols.
 There is no remote icon font stylesheet. Analytics queues its configuration
 immediately, then downloads after the page's load event when the browser is
-idle (with a two-second idle timeout). Search remains Lunr until Goal 5.
+idle (with a two-second idle timeout).
 
 The two custom HTTP response headers are `X-Content-Type-Options: nosniff`
 and the immutable cache rule for hashed assets. The redundant explicit modern
@@ -104,8 +104,27 @@ Netlify supplies its own transport/CDN headers. See
 Edit **`assets/css/main.css`** directly. It retains the established Minimal
 Mistakes styles as readable CSS; there is no Sass compilation. Navigation uses
 the original theme markup with vanilla JavaScript, sticky positioning uses CSS, and image
-viewing uses a small native-dialog script. Search uses a vanilla JavaScript
-Lunr implementation on `/search/` and in the theme search overlay; Pagefind is a separate later goal.
+viewing uses a native-dialog module loaded on the first image click. TOC
+behavior loads only on pages with a TOC. Heading permalinks are generated at
+build time, and embedded video sizing uses CSS instead of browser JavaScript.
+
+Search uses **Pagefind 1.5.2**, pinned as a build dependency, on `/search/`
+and in the existing theme overlay. A small controller loads on search focus;
+the engine, WASM, and relevant index chunks load only when a query runs.
+Results retain theme classes and load ten at a time with a “Show more results”
+button. Direct links such as `/search/?q=sovereignty` work. Pagefind's prebuilt
+UI, CSS, highlight helper, and optional worker bundle are not published.
+
+`lib/search.js` creates the full-text index during production and development
+builds. It indexes public posts, author biographies, and visible source HTML
+pages, excluding redirects, drafts, `noindex`, `sitemap: false`, the search
+page, and generated pagination clones. All content shares the site's English
+search index, as with the previous search engine. The entire search bundle
+has a content-hashed directory under `/assets/built/`, so the existing immutable
+cache rule applies without another HTTP header. Results explicitly use the
+site root as their base URL. Keep npm's optional dependencies enabled so the
+appropriate native Pagefind binary installs on macOS or Netlify's Linux host.
+See [Goal 5 validation](docs/goal-5-validation.md) for measurements and checks.
 
 Citation generation, SEO descriptions, per-post metadata, and Standard.site
 endpoints run at build time in `lib/metadata.js` and `lib/content.js`. Existing
@@ -203,7 +222,7 @@ Please read [humans.txt](humans.txt) for the contributors.
 - [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
 - [Gumshoe](https://github.com/cferdinandi/gumshoe)
 - [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/)
-- [Lunr](http://lunrjs.com)
+- [Pagefind](https://pagefind.app/)
 
 ## License
 

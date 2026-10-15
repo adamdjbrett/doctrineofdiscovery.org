@@ -70,6 +70,11 @@ test('site uses Git modifications, precomputed author lists, and unique output p
   assert.ok(!related.includes(`href="${first.url}"`), 'Related posts must not link to the current post');
   for(const author of site.authors) assert.deepEqual(site.author_posts[author.username].map(p=>p.url),site.posts.filter(p=>Array.isArray(p.author)?p.author.includes(author.username):p.author===author.username).map(p=>p.url));
   for(const post of site.posts) {
+    if(!post.redirect_to) {
+      const scripts=[...post.html.matchAll(/<script\b[^>]*\bsrc="([^"]+)"/g)].map(match=>match[1]);
+      assert.equal(scripts.some(url=>/\/toc(?:\.[a-f0-9]+)?\.js$/.test(url)),Boolean(post.toc));
+      assert.ok(!scripts.some(url=>/\/(?:search|gallery)(?:\.[a-f0-9]+)?\.js$/.test(url)),'Optional modules must load only on interaction');
+    }
     const {data}=frontMatter(fs.readFileSync(post.path,'utf8'));
     if(data.last_modified_at) assert.equal(post.last_modified_at,isoDate(data.last_modified_at));
   }
@@ -82,6 +87,20 @@ test('citation and metadata generation preserve publication dates and document c
   const metadata=postMetadata(site,post);assert.equal(metadata.datePublished.slice(0,10),'2022-06-13');
   assert.deepEqual(metadata.author.map(author=>author.name),['Sebastian Modrow','Melissa Smith']);
   const records=standardRecords(site);assert.equal(records.manifest.documentCount,site.posts.length+10);
+});
+
+test('author pages show their own complete profile in the sidebar', async () => {
+  const {site}=await getSite();
+  for(const author of site.authors) {
+    const sidebar=author.html.split('<div class="archive h-card">')[0].split('class="sidebar sticky">')[1];
+    assert.ok(sidebar,author.username);
+    assert.ok(sidebar.includes(`>${author.name}</a>`),author.username);
+    if(author.avatar) assert.match(sidebar,/class="u-photo"/);
+    if(author.bio) assert.ok(sidebar.includes('class="author__bio p-note"'),author.username);
+    for(const link of author.links || []) {
+      if(link.label && link.url) assert.ok(sidebar.includes(`href="${link.url}"`),`${author.username}: ${link.label}`);
+    }
+  }
 });
 
 test('source exports fall back when Git history is unavailable', () => {

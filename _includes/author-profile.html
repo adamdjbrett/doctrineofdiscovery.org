@@ -1,5 +1,7 @@
+{% assign profile_username = page.author %}
+{% if page.collection == 'authors' %}{% assign profile_username = page.username %}{% endif %}
 {% for author in site.authors %}
-{% if author.username == page.author %}
+{% if author.username == profile_username %}
 <div itemscope itemtype="https://schema.org/{{ author.schema_type | default: 'Person' }}" class="h-card">
 	{% if author.avatar %}
 	<div class="author__avatar">

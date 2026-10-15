@@ -11,7 +11,7 @@ async function search() {
   if (!query) {status.textContent='';return;}
   status.textContent='Searching…';
   try {
-    const pagefind=await (library ||= import(form.dataset.pagefind).catch(error=>{library=undefined;throw error;}));
+    const pagefind=await (library ||= import(form.dataset.pagefind).then(async pagefind=>{await pagefind.options({baseUrl:'/',noWorker:true,metaCacheTag:form.dataset.pagefind});return pagefind;}).catch(error=>{library=undefined;throw error;}));
     const {results:matches}=await pagefind.search(query);
     if(current!==revision)return;
     status.textContent=`${matches.length} result${matches.length===1?'':'s'} found`;
@@ -49,5 +49,5 @@ async function search() {
 }
 input.addEventListener('input',()=>{revision++;clearTimeout(timer);timer=setTimeout(search,150);});
 form.addEventListener('submit',event=>{event.preventDefault();clearTimeout(timer);search();});
-input.value=new URLSearchParams(location.search).get('q') || input.value;
+input.value=input.value || new URLSearchParams(location.search).get('q') || '';
 if(input.value)search();

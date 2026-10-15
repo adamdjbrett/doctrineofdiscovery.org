@@ -33,8 +33,6 @@ if (nav) {
   hidden.addEventListener('click', closeMenu);
   document.addEventListener('keydown', event => { if (event.key === 'Escape') closeMenu(); });
   window.addEventListener('resize', fitNavigation);
-  nav.querySelector('img')?.addEventListener('load', fitNavigation);
-  document.fonts.ready.then(fitNavigation);
   fitNavigation();
 }
 const follow = document.querySelector('.author__urls-wrapper button');

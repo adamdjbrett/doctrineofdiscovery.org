@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-15",
+  "environment": "Local production output with gzip and configured immutable caching; Netlify not deployed.",
+  "pagefindVersion": "1.5.2",
+  "searchRecords": 614,
+  "initialApplicationJavaScript": {
+    "beforeRaw": 11226,
+    "afterRaw": 3807,
+    "rawReductionPercent": 66.1,
+    "beforeGzip": 3938,
+    "afterGzip": 1315
+  },
+  "tests": 31,
+  "productionBuildSeconds": 3.97,
+  "devContentRebuildSeconds": 3.44,
+  "runs": [
+    {
+      "report": "/private/tmp/dod-goal5/home-final-mobile.report.json",
+      "url": "http://localhost:8080/",
+      "version": "13.5.0",
+      "fetchTime": "2026-10-15T22:14:16.642Z",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": "0.8\u00a0s",
+        "largest-contentful-paint": "1.6\u00a0s",
+        "total-blocking-time": "30\u00a0ms",
+        "speed-index": "0.8\u00a0s",
+        "cumulative-layout-shift": "0"
+      }
+    },
+    {
+      "report": "/private/tmp/dod-goal5/search-final.json",
+      "url": "http://localhost:8080/search/?q=Declaration%20Independence",
+      "version": "13.5.0",
+      "fetchTime": "2026-10-15T22:14:28.102Z",
+      "scores": {
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {}
+    }
+  ]
+}
