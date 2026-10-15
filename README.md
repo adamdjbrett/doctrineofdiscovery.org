@@ -75,6 +75,32 @@ attribute syntax, is handled in `lib/templates.js`.
 Definition lists use native HTML; the three existing quotation blocks retain
 their rendered markup without a definition-list plugin.
 
+Production CSS is compacted without changing the editable source. Shared
+CSS/JS, local icons, and images use content-hashed URLs under `/assets/built/`.
+Only that directory receives a one-year immutable cache header; changing file
+contents changes its URL. Local CSS/JS preview still serves the editable files
+directly. Local raster images receive intrinsic dimensions when both dimensions
+are missing. Related-post images and later feature images load lazily.
+
+Selected high-traffic images have WebP copies in `assets/images/optimized/`;
+`lib/assets.js` maps their original URLs to those copies. When replacing one
+of these source images, regenerate its optimized copy too. Originals remain
+available for historical links. Image conversion is done before committing,
+so Netlify needs no image-processing dependency.
+
+Icons use the local Font Awesome 6.7.2 SVG subset in
+`assets/icons/fontawesome.svg`, with attribution in the adjacent license.
+Add a symbol there before using a new icon; the build reports missing symbols.
+There is no remote icon font stylesheet. Analytics queues its configuration
+immediately, then downloads after the page's load event when the browser is
+idle (with a two-second idle timeout). Search remains Lunr until Goal 5.
+
+The two custom HTTP response headers are `X-Content-Type-Options: nosniff`
+and the immutable cache rule for hashed assets. The redundant explicit modern
+browser referrer-policy default and zero-age asset-cache override were removed.
+Netlify supplies its own transport/CDN headers. See
+[Goal 4 validation](docs/goal-4-validation.md) for Lighthouse measurements.
+
 Edit **`assets/css/main.css`** directly. It retains the established Minimal
 Mistakes styles as readable CSS; there is no Sass compilation. Navigation uses
 the original theme markup with vanilla JavaScript, sticky positioning uses CSS, and image

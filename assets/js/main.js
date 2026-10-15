@@ -56,7 +56,7 @@ document.addEventListener('keydown', event => { if (event.key === 'Escape' && se
 for (const heading of document.querySelectorAll('.page__content h1[id], .page__content h2[id], .page__content h3[id], .page__content h4[id], .page__content h5[id], .page__content h6[id]')) {
   const anchor = document.createElement('a');
   anchor.className='header-link'; anchor.href='#'+heading.id; anchor.title='Permalink';
-  anchor.innerHTML='<span class="sr-only">Permalink</span><i class="fas fa-link" aria-hidden="true"></i>';
+  anchor.innerHTML=`<span class="sr-only">Permalink</span><svg class="site-icon" aria-hidden="true" focusable="false"><use href="${document.querySelector('script[data-icons]').dataset.icons}#solid-link"></use></svg>`;
   heading.append(anchor);
 }
 // Native dialog retains the theme's Magnific Popup appearance and keyboard support.

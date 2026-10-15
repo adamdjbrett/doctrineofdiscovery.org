@@ -23,11 +23,11 @@ class Page(HTMLParser):
         attrs = dict(attrs)
         if tag == "script" and attrs.get("type") == "application/ld+json":
             self.script = ""
-        url = attrs.get("src") if tag == "script" else attrs.get("href")
+        url = attrs.get("src") or attrs.get("href")
         if url:
             path = unquote(urlsplit(url).path)
             if not urlsplit(url).netloc:
-                if path.startswith(("/assets/css/", "/assets/js/")):
+                if path.startswith(("/assets/css/", "/assets/js/", "/assets/built/")):
                     self.assets.append(path)
                 if path.startswith("/assets/citations/") or path.endswith(("/citation.ris", "/citation.csl.json", ".citation.ris", ".citation.csl.json")):
                     self.citations.append(path)

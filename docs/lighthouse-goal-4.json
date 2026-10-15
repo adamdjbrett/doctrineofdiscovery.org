@@ -1,0 +1,462 @@
+{
+  "date": "2026-10-15",
+  "environment": "Local production output with gzip and configured immutable asset caching; not a Netlify deployment.",
+  "baseline": {
+    "report": "/Users/abrett76/Downloads/localhost_8080-20261015T162949.json",
+    "url": "http://localhost:8080/",
+    "lighthouseVersion": "13.4.1",
+    "fetchTime": "2026-10-15T21:29:49.455Z",
+    "formFactor": "mobile",
+    "scores": {
+      "performance": 71,
+      "accessibility": 88,
+      "best-practices": 100,
+      "seo": 92
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 3042.4347999999995,
+        "unit": "millisecond",
+        "display": "3.0\u00a0s"
+      },
+      "largest-contentful-paint": {
+        "value": 6938.378249999999,
+        "unit": "millisecond",
+        "display": "6.9\u00a0s"
+      },
+      "total-blocking-time": {
+        "value": 27,
+        "unit": "millisecond",
+        "display": "30\u00a0ms"
+      },
+      "speed-index": {
+        "value": 3042.4347999999995,
+        "unit": "millisecond",
+        "display": "3.0\u00a0s"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.0179056263647356,
+        "unit": "unitless",
+        "display": "0.018"
+      }
+    },
+    "remainingDiagnostics": [
+      {
+        "id": "unsized-images",
+        "title": "Image elements do not have explicit `width` and `height`",
+        "display": null,
+        "estimatedSavingsMs": null
+      },
+      {
+        "id": "color-contrast",
+        "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+        "display": null,
+        "estimatedSavingsMs": null
+      },
+      {
+        "id": "link-name",
+        "title": "Links do not have a discernible name",
+        "display": null,
+        "estimatedSavingsMs": null
+      },
+      {
+        "id": "target-size",
+        "title": "Touch targets do not have sufficient size or spacing.",
+        "display": null,
+        "estimatedSavingsMs": null
+      },
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "display": "Est savings of 12\u00a0KiB",
+        "estimatedSavingsMs": 0
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "display": "Est savings of 85\u00a0KiB",
+        "estimatedSavingsMs": 600
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "display": "Est savings of 139\u00a0KiB",
+        "estimatedSavingsMs": 750
+      },
+      {
+        "id": "link-text",
+        "title": "Links do not have descriptive text",
+        "display": "3 links found",
+        "estimatedSavingsMs": null
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "display": "Est savings of 406\u00a0KiB",
+        "estimatedSavingsMs": null
+      },
+      {
+        "id": "document-latency-insight",
+        "title": "Document request latency",
+        "display": "Est savings of 25\u00a0KiB",
+        "estimatedSavingsMs": null
+      },
+      {
+        "id": "font-display-insight",
+        "title": "Font display",
+        "display": "Est savings of 130\u00a0ms",
+        "estimatedSavingsMs": null
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "display": "Est savings of 166\u00a0KiB",
+        "estimatedSavingsMs": null
+      },
+      {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "display": null,
+        "estimatedSavingsMs": null
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "display": null,
+        "estimatedSavingsMs": null
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "display": "Est savings of 150\u00a0ms",
+        "estimatedSavingsMs": null
+      }
+    ]
+  },
+  "runs": [
+    {
+      "report": "/private/tmp/dod-goal4/home-no-animation.report.json",
+      "url": "http://localhost:8080/",
+      "lighthouseVersion": "13.5.0",
+      "fetchTime": "2026-10-15T21:42:49.037Z",
+      "formFactor": "mobile",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": {
+          "value": 934.6773000000001,
+          "unit": "millisecond",
+          "display": "0.9\u00a0s"
+        },
+        "largest-contentful-paint": {
+          "value": 1579.6772999999998,
+          "unit": "millisecond",
+          "display": "1.6\u00a0s"
+        },
+        "total-blocking-time": {
+          "value": 18,
+          "unit": "millisecond",
+          "display": "20\u00a0ms"
+        },
+        "speed-index": {
+          "value": 934.6773000000001,
+          "unit": "millisecond",
+          "display": "0.9\u00a0s"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "unit": "unitless",
+          "display": "0"
+        }
+      },
+      "remainingDiagnostics": [
+        {
+          "id": "unused-css-rules",
+          "title": "Reduce unused CSS",
+          "display": "Est savings of 10\u00a0KiB",
+          "estimatedSavingsMs": 0
+        },
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "display": "Est savings of 138\u00a0KiB",
+          "estimatedSavingsMs": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "display": null,
+          "estimatedSavingsMs": null
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests",
+          "display": "Est savings of 150\u00a0ms",
+          "estimatedSavingsMs": null
+        }
+      ]
+    },
+    {
+      "report": "/private/tmp/dod-goal4/home-repeat-mobile.json",
+      "url": "http://localhost:8080/",
+      "lighthouseVersion": "13.5.0",
+      "fetchTime": "2026-10-15T21:44:22.267Z",
+      "formFactor": "mobile",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": {
+          "value": 935.5385000000001,
+          "unit": "millisecond",
+          "display": "0.9\u00a0s"
+        },
+        "largest-contentful-paint": {
+          "value": 1654.5385,
+          "unit": "millisecond",
+          "display": "1.7\u00a0s"
+        },
+        "total-blocking-time": {
+          "value": 18,
+          "unit": "millisecond",
+          "display": "20\u00a0ms"
+        },
+        "speed-index": {
+          "value": 935.5385000000001,
+          "unit": "millisecond",
+          "display": "0.9\u00a0s"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "unit": "unitless",
+          "display": "0"
+        }
+      },
+      "remainingDiagnostics": [
+        {
+          "id": "unused-css-rules",
+          "title": "Reduce unused CSS",
+          "display": "Est savings of 10\u00a0KiB",
+          "estimatedSavingsMs": 150
+        },
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "display": "Est savings of 138\u00a0KiB",
+          "estimatedSavingsMs": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "display": null,
+          "estimatedSavingsMs": null
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests",
+          "display": "Est savings of 150\u00a0ms",
+          "estimatedSavingsMs": null
+        }
+      ]
+    },
+    {
+      "report": "/private/tmp/dod-goal4/home-desktop.report.json",
+      "url": "http://localhost:8080/",
+      "lighthouseVersion": "13.5.0",
+      "fetchTime": "2026-10-15T21:44:33.621Z",
+      "formFactor": "desktop",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": {
+          "value": 205.1325,
+          "unit": "millisecond",
+          "display": "0.2\u00a0s"
+        },
+        "largest-contentful-paint": {
+          "value": 407.69875,
+          "unit": "millisecond",
+          "display": "0.4\u00a0s"
+        },
+        "total-blocking-time": {
+          "value": 0,
+          "unit": "millisecond",
+          "display": "0\u00a0ms"
+        },
+        "speed-index": {
+          "value": 228.07689998686732,
+          "unit": "millisecond",
+          "display": "0.2\u00a0s"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "unit": "unitless",
+          "display": "0"
+        }
+      },
+      "remainingDiagnostics": [
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "display": "Est savings of 137\u00a0KiB",
+          "estimatedSavingsMs": 0
+        },
+        {
+          "id": "image-delivery-insight",
+          "title": "Improve image delivery",
+          "display": "Est savings of 25\u00a0KiB",
+          "estimatedSavingsMs": null
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "display": null,
+          "estimatedSavingsMs": null
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests",
+          "display": null,
+          "estimatedSavingsMs": null
+        }
+      ]
+    },
+    {
+      "report": "/private/tmp/dod-goal4/article-no-animation.report.json",
+      "url": "http://localhost:8080/blog/declaration-independence-robert-j-miller/",
+      "lighthouseVersion": "13.5.0",
+      "fetchTime": "2026-10-15T21:43:00.367Z",
+      "formFactor": "mobile",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": {
+          "value": 753.8322000000001,
+          "unit": "millisecond",
+          "display": "0.8\u00a0s"
+        },
+        "largest-contentful-paint": {
+          "value": 1205.7483000000002,
+          "unit": "millisecond",
+          "display": "1.2\u00a0s"
+        },
+        "total-blocking-time": {
+          "value": 37.5,
+          "unit": "millisecond",
+          "display": "40\u00a0ms"
+        },
+        "speed-index": {
+          "value": 753.8322000000001,
+          "unit": "millisecond",
+          "display": "0.8\u00a0s"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "unit": "unitless",
+          "display": "0"
+        }
+      },
+      "remainingDiagnostics": [
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "display": "Est savings of 138\u00a0KiB",
+          "estimatedSavingsMs": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "display": null,
+          "estimatedSavingsMs": null
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests",
+          "display": "Est savings of 130\u00a0ms",
+          "estimatedSavingsMs": null
+        }
+      ]
+    },
+    {
+      "report": "/private/tmp/dod-goal4/author-no-animation.json",
+      "url": "http://localhost:8080/authors/robert-miller",
+      "lighthouseVersion": "13.5.0",
+      "fetchTime": "2026-10-15T21:43:11.688Z",
+      "formFactor": "mobile",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": {
+          "value": 753.8133,
+          "unit": "millisecond",
+          "display": "0.8\u00a0s"
+        },
+        "largest-contentful-paint": {
+          "value": 1205.7199500000002,
+          "unit": "millisecond",
+          "display": "1.2\u00a0s"
+        },
+        "total-blocking-time": {
+          "value": 45,
+          "unit": "millisecond",
+          "display": "50\u00a0ms"
+        },
+        "speed-index": {
+          "value": 753.8133,
+          "unit": "millisecond",
+          "display": "0.8\u00a0s"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "unit": "unitless",
+          "display": "0"
+        }
+      },
+      "remainingDiagnostics": [
+        {
+          "id": "unused-css-rules",
+          "title": "Reduce unused CSS",
+          "display": "Est savings of 11\u00a0KiB",
+          "estimatedSavingsMs": 0
+        },
+        {
+          "id": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "display": "Est savings of 138\u00a0KiB",
+          "estimatedSavingsMs": 0
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "display": null,
+          "estimatedSavingsMs": null
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests",
+          "display": "Est savings of 140\u00a0ms",
+          "estimatedSavingsMs": null
+        }
+      ]
+    }
+  ]
+}

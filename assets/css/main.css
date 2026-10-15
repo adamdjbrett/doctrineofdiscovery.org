@@ -1416,10 +1416,6 @@ tr,td,th {
 .masthead {
   position:relative;
   border-bottom:1px solid #f2f3f3;
-  -webkit-animation:intro .3s both;
-  animation:intro .3s both;
-  -webkit-animation-delay:.15s;
-  animation-delay:.15s;
   z-index:20
 }
 .masthead__inner-wrap {
@@ -1507,10 +1503,6 @@ tr,td,th {
   padding-left:1em;
   padding-right:1em;
   font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
-  -webkit-animation:intro .3s both;
-  animation:intro .3s both;
-  -webkit-animation-delay:.3s;
-  animation-delay:.3s
 }
 .breadcrumbs::after {
   clear:both;
@@ -1667,6 +1659,7 @@ tr,td,th {
   color:#53595e
 }
 .greedy-nav a.site-logo {
+  flex-shrink:0;
   margin-left:0;
   margin-right:.5rem
 }
@@ -1996,10 +1989,6 @@ tr,td,th {
   width:100%;
   margin-top:3em;
   color:#646769;
-  -webkit-animation:intro .3s both;
-  animation:intro .3s both;
-  -webkit-animation-delay:.45s;
-  animation-delay:.45s;
   background-color:#f2f3f3
 }
 .page__footer::after {
@@ -2098,10 +2087,6 @@ tr,td,th {
   margin-right:auto;
   padding-left:1em;
   padding-right:1em;
-  -webkit-animation:intro .3s both;
-  animation:intro .3s both;
-  -webkit-animation-delay:.15s;
-  animation-delay:.15s
 }
 @media(min-width:80em) {
   .search-content__inner-wrap {
@@ -2810,11 +2795,7 @@ a.reversefootnote:hover {
   margin-right:auto;
   padding-left:1em;
   padding-right:1em;
-  -webkit-animation:intro .3s both;
-  animation:intro .3s both;
   max-width:100%;
-  -webkit-animation-delay:.15s;
-  animation-delay:.15s
 }
 #main::after {
   clear:both;
@@ -2936,10 +2917,6 @@ body {
   position:relative;
   margin-bottom:2em;
   clear:both;
-  -webkit-animation:intro .3s both;
-  animation:intro .3s both;
-  -webkit-animation-delay:.25s;
-  animation-delay:.25s
 }
 .page__hero::after {
   clear:both;
@@ -2954,10 +2931,6 @@ body {
   background-size:cover;
   background-repeat:no-repeat;
   background-position:center;
-  -webkit-animation:intro .3s both;
-  animation:intro .3s both;
-  -webkit-animation-delay:.25s;
-  animation-delay:.25s
 }
 .page__hero--overlay::after {
   clear:both;

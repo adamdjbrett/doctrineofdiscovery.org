@@ -11,7 +11,7 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <img src="{{ f.image_path | asset_url }}" width="{{ f.image_width | default: 500 }}" height="{{ f.image_height | default: 300 }}" decoding="async" {% unless forloop.first %}loading="lazy"{% endunless %}
+            <img src="{{ f.image_path | asset_url }}" {% if f.image_width and f.image_height %}width="{{ f.image_width }}" height="{{ f.image_height }}"{% endif %} decoding="async" {% unless forloop.first %}loading="lazy"{% endunless %}
                  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
