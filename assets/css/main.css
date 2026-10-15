@@ -1450,8 +1450,8 @@ tr,td,th {
   text-decoration:none
 }
 .site-logo img {
-  width:2rem;
-  height:2rem
+  width:88px;
+  height:88px
 }
 .site-title {
   display:-webkit-box;
@@ -3707,8 +3707,12 @@ body {
     opacity:1
   }
   .sidebar.sticky {
+    top:1em;
     overflow-y:auto;
-    max-height:calc(100vh - 2em - 2em)
+    max-height:calc(100vh - 2em)
+  }
+  .sidebar.sticky>:first-child {
+    margin-top:0
   }
   
 }

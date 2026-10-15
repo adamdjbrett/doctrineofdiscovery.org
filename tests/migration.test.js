@@ -57,6 +57,8 @@ test('SEO descriptions preserve explicit text and generate bounded descriptions'
 test('site uses Git modifications, precomputed author lists, and unique output paths', async () => {
   const {site,documents}=await getSite();
   assert.equal(site.timezone,'America/New_York');
+  const version=JSON.parse(fs.readFileSync('node_modules/@11ty/eleventy/package.json','utf8')).version;
+  assert.ok(documents.find(d=>d.url==='/').html.includes(`<meta name="generator" content="Eleventy v${version}">`));
   const expectedGit=execFileSync('git',['log','-1','--format=%cI','--','index.html'],{encoding:'utf8'}).trim();
   assert.equal(isoDate(documents.find(d=>d.path==='index.html').last_modified_at),isoDate(expectedGit));
   assert.deepEqual([...site.posts].sort(sortByModified).map(d=>d.url),site.posts.map(d=>d.url));
