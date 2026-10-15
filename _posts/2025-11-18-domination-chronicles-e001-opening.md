@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e001-opening/
 canonical_url: https://dominationchronicles.com/episodes/e001-opening/
 author: adam-dj-brett
+date: 2025-11-18
 ---
 In the first full episode of [*Domination Chronicles*](/blog/domination-chronicles/), Steven Newcomb and Peter d'Errico open a conversation shaped by decades of study, friendship, and shared attention to the legal structure of domination. Their starting point is the 1823 decision in [*Johnson v. McIntosh*](/johnson-v-mcintosh/), where the United States Supreme Court absorbed Christian discovery into property law and federal Indian law.
 

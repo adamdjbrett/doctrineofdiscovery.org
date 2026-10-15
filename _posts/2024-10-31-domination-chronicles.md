@@ -10,6 +10,7 @@ tags:
   - podcast
 link: https://stevennewcomb.substack.com/
 author: steven-newcomb
+date: 2024-10-31
 ---
 > Greetings Friends and Relatives,
 > 

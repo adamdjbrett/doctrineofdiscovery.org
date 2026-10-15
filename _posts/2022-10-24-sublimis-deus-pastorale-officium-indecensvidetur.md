@@ -60,7 +60,7 @@ Understanding the intent and application of *Sublimis Deus* calls us to take a d
 ## The Characters:
 
 
-{% include gallery caption="Meet the Characters" %}
+{% include 'gallery', include_caption: "Meet the Characters" %}
 
 
 ## The Documents:

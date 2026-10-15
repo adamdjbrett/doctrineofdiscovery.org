@@ -9,4 +9,5 @@ links:
   - label: "JCRT"
     icon: "fas fa-fw fa-book-open"
     url: "https://jcrt.org/authors/phillip-rodgers-falk/"
+date: 2024-11-21T18:03:56.000-05:00
 ---

@@ -3,7 +3,5 @@
   publish = "_site"
 
 [build.environment]
-  RUBY_VERSION = "3.3.6"
   NODE_VERSION = "24"
-  JEKYLL_ENV = "production"
-  BUNDLE_FROZEN = "true"
+  ELEVENTY_ENV = "production"

@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/beginning
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/beginning-analysis-settler-colonialism/
 permalink: /blog/link/outcome/featured/essay2/beginning-analysis-settler-colonialism/
 author: adam-dj-brett
+date: 2024-11-19
 ---
 
 "Part 2: The beginning of an Analysis of Settler Colonialism Emerges at AMC 2022," an Outcome archive entry by Sarah Nahar. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

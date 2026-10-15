@@ -12,6 +12,7 @@ tags:
   - featured
 link: https://jcrt.org/archives/23.2/Arnold.pdf
 author: philip-arnold
+date: 2025-08-31
 ---
 <blockquote>
 In short, neither this book nor the Skä·noñh—Great Law of Peace Center would have been possible without the groundbreaking work of Charles Long and the History of Religions. My wife Sandy Bigtree and I were introduced to Professor Long in the early 1980s in Boulder, Colorado where I was working for Davíd Carrasco in the Mesoamerican Archive and Research Project. I was very young and enthusiastic, but

@@ -9,4 +9,5 @@ links:
   - label: "JCRT"
     icon: "fas fa-fw fa-book-open"
     url: "https://jcrt.org/authors/telma-alencar/"
+date: 2023-03-23T00:02:39.000-04:00
 ---

@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e002-say-something/
 canonical_url: https://dominationchronicles.com/episodes/e002-say-something/
 author: adam-dj-brett
+date: 2025-11-19
 ---
 Halverson v. Burgum appears in Domination Chronicles as a contemporary example of how older legal claims continue to operate in present-day court decisions. The case involved Jack Halverson, a citizen of the Crow Nation, and his attempt to bring a claim involving the Bureau of Indian Affairs. The Ninth Circuit dismissed the case on sovereign immunity grounds.
 

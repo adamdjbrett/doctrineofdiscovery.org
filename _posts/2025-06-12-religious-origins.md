@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/reli
 link: https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/religious-origins/
 permalink: /blog/link/outcome/crosscurrents/essay2/religious-origins/
 author: adam-dj-brett
+date: 2025-06-12
 ---
 
 "The Religious Origins of White Supremacy and The Doctrine of Christian Discovery," an Outcome archive entry by Philip P. Arnold, Sandra Bigtree, Adam DJ Brett. The entry belongs to the crosscurrents collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

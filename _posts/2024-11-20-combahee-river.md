@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/combahee-
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/combahee-river/
 permalink: /blog/link/outcome/featured/essay2/combahee-river/
 author: adam-dj-brett
+date: 2024-11-20
 ---
 
 "Part 1: The Origins of the Combahee River Collective Statement," an Outcome archive entry by Sarah Nahar. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

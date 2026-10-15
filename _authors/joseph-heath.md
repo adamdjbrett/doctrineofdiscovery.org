@@ -8,4 +8,5 @@ links:
     url: "https://jcrt.org/authors/joseph-j-heath/"
 redirect_from:
     - /authors/heath/
+date: 2023-02-13T10:57:43.000-05:00
 ---

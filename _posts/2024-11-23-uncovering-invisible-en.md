@@ -16,6 +16,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/uncoverin
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/uncovering-invisible-en/
 permalink: /blog/link/outcome/featured/essay2/uncovering-invisible-en/
 author: adam-dj-brett
+date: 2024-11-23
 ---
 
 "Uncovering the Invisible: The Doctrine of Discovery, its Impact on the Brazilian Indigenous Peoples,," an Outcome archive entry by Telma Alencar. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

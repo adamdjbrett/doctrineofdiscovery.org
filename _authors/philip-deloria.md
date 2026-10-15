@@ -10,4 +10,5 @@ links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://history.fas.harvard.edu/people/philip-deloria"
+date: 2024-09-10T17:56:58.000-04:00
 ---

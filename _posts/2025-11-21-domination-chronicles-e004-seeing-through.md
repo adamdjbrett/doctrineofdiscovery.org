@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e004-seeing-through/
 canonical_url: https://dominationchronicles.com/episodes/e004-seeing-through/
 author: adam-dj-brett
+date: 2025-11-21
 ---
 In this episode, Newcomb and d'Errico examine a Washington Supreme Court concurrence in [*Flying T Ranch v. Stillaguamish Tribe*](/blog/link/flying-t-ranch-v-stillaguamish-tribe/). The opinion criticizes racist language in foundational federal Indian law cases, but the hosts ask whether removing offensive words is enough when the underlying legal architecture remains intact.
 

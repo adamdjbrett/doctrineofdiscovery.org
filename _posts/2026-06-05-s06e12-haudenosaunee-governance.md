@@ -13,6 +13,7 @@ tags:
 link: https://podcast.doctrineofdiscovery.org/season6/episode-12/
 canonical_url: https://podcast.doctrineofdiscovery.org/season6/episode-12/
 author: adam-dj-brett
+date: 2026-06-05
 ---
 
 In this episode of the Mapping the Doctrine of Discovery podcast, Tom Porter discusses how colonization and the Revolutionary War reshaped Mohawk and Haudenosaunee leadership, identity, and survival. The conversation works through decolonization on the ground: restoring trust, practicing restraint, retrieving original instructions without shaming people, and making room for condolence and direct apologies.

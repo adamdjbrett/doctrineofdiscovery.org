@@ -126,6 +126,6 @@ redirect_from:
 *   [Conference Flyer - ⤓ download pdf](/assets/pdfs/dofd-conference-flyer.pdf)
 
 #### Conference Photos
-{% include gallery caption="This is the 2014 Photo Gallery." %}
+{% include 'gallery', include_caption: "This is the 2014 Photo Gallery." %}
 
 

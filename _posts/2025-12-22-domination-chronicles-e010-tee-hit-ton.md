@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e010-tee-hit-ton/
 canonical_url: https://dominationchronicles.com/episodes/e010-tee-hit-ton/
 author: adam-dj-brett
+date: 2025-12-22
 ---
 In this episode, Newcomb and d'Errico revisit [*Tee-Hit-Ton Indians v. United States*](/blog/link/outcome/featured/domination-translator/domination-translator-09/tee-hit-ton/), the 1955 Supreme Court decision that denied compensation for timber taken from Tlingit lands. The case is one of the clearest modern examples of Christian discovery functioning as U.S. property law.
 

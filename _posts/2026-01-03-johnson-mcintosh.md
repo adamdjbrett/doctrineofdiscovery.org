@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/domination-trans
 link: https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-03/johnson-mcintosh/
 permalink: /blog/link/outcome/featured/domination-translator/domination-translator-03/johnson-mcintosh/
 author: adam-dj-brett
+date: 2026-01-03
 ---
 
 "The Marshall Trilogy: Johnson v. McIntosh, 21 U.S. (8 Wheat.) 543 (1823) Domination Translator," an Outcome archive entry by Steven T. Newcomb. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

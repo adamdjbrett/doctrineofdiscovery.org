@@ -13,6 +13,7 @@ tags:
   - race
   - special-issue
 link: https://www.mdpi.com/journal/religions/special_issues/TER981G9Q3
+date: 2024-12-03
 ---
 Essays from the Open Access Journal *Religions* Specail Issue on Race, Religion, and Nationalism in the 21st Century are now being published.
 

@@ -1,34 +1,33 @@
 {
-  "name": "minimal-mistakes",
-  "version": "4.19.1",
-  "description": "Minimal Mistakes 2 column Jekyll theme.",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
-  },
-  "keywords": [
-    "jekyll",
-    "theme",
-    "minimal"
-  ],
-  "author": "Michael Rose",
+  "name": "doctrineofdiscovery.org",
+  "private": true,
+  "type": "module",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "build": "eleventy --quiet",
+    "dev": "eleventy --serve --port=8080 --quiet",
+    "start": "npm run dev",
+    "test": "node --test",
+    "verify": "python3 scripts/verify_build.py _site"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
-  "engines": {
-    "node": ">= 0.10.0"
+  "overrides": {
+    "chokidar@^3.0.0": {
+      ".": "npm:@11ty/chokidar-with-glob-support@^1.1.0",
+      "chokidar": "^4.0.3"
+    },
+    "gray-matter": {
+      "js-yaml": "$js-yaml"
+    }
   },
   "devDependencies": {
-    "npm-run-all": "^4.1.5",
-    "onchange": "^6.1.0",
-    "uglify-js": "^3.8.0"
-  },
-  "scripts": {
-    "build": "npm run build:js && bundle exec jekyll build",
-    "uglify": "uglifyjs _includes/copyright.js assets/js/vendor/jquery/jquery-3.6.0.js assets/js/plugins/*.js assets/js/_main.js -c --comments /@mmistakes/ --source-map -m -o assets/js/main.min.js",
-    "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -e \"assets/js/main.min.js.map\" -- npm run build:js",
-    "build:js": "npm run uglify"
+    "@11ty/eleventy": "^3.1.6",
+    "js-yaml": "^4.1.0",
+    "liquidjs": "^10.21.0",
+    "luxon": "^3.7.2",
+    "markdown-it": "^14.1.0",
+    "markdown-it-attrs": "^4.3.1",
+    "markdown-it-deflist": "^3.0.0",
+    "markdown-it-footnote": "^4.0.0"
   }
 }

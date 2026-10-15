@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/imagining
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/imagining-shared-futures/
 permalink: /blog/link/outcome/featured/essay2/imagining-shared-futures/
 author: adam-dj-brett
+date: 2024-11-17
 ---
 
 "Part 4: Making Common Cause: Imagining Shared Futures," an Outcome archive entry by Sarah Nahar. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

@@ -15,6 +15,7 @@ tags:
   - papal-bull
 canonical_url: https://stevennewcomb.substack.com/p/joint-statement-to-the-p0ntifical
 author: steven-newcomb
+date: 2025-05-24
 ---
 #### From the Long March to Rome Gathering
 

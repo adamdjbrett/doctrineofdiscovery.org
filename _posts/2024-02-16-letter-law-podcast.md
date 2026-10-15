@@ -10,6 +10,7 @@ tags:
 link: https://religionlab.virginia.edu/podcast/the-letter-of-the-law/
 author: philip-arnold
 suggestedcitiation: false
+date: 2024-02-16
 ---
 <iframe src="https://player.blubrry.com/id/128461336?cache=1705358708#darkOrLight-Light&amp;shownotes-ffffff&amp;download-ffffff&amp;subscribe-ffffff&amp;share-ffffff&amp;shownotesBackground-dd9933&amp;downloadBackground-dd9933&amp;subscribeBackground-dd9933&amp;shareBackground-dd9933" title="Blubrry Podcast Player" scrolling="no" width="100%" height="150px" frameborder="0" data-ruffle-polyfilled="">
 </iframe>

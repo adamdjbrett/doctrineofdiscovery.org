@@ -7,6 +7,7 @@ permalink: /pdf-archive/
 suggestedcitiation: false
 redirect_from:
   - /pdf/
+date: 2019-06-28T17:23:51.000-04:00
 ---
 ## PDF Archive
 

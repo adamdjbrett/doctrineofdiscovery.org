@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e005-future-of-indians/
 canonical_url: https://dominationchronicles.com/episodes/e005-future-of-indians/
 author: adam-dj-brett
+date: 2025-11-22
 ---
 This episode begins with a striking juxtaposition: a 1975 article by Vine Deloria Jr. and a contemporary law review article that raises questions about eminent domain and Native futures. Newcomb and d'Errico use that convergence to ask what happens when originally free peoples are pressed to imagine their futures through the very domination system that attacks their existence.
 

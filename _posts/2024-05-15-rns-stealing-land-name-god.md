@@ -12,6 +12,7 @@ author: steven-newcomb
 toc: true
 toc_label: "Overview"
 toc_icon: "cog"
+date: 2024-05-15
 ---
 
 ## **What's a 15th-century statement from a pope have to do with U.S. land policy today?**

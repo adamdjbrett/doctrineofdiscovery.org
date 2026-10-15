@@ -10,131 +10,82 @@ We begin by acknowledging with respect the Onondaga Nation, Central Fire of the 
 ## Preface
 I have become frustrated with how slow and limited in accessibility WordPress is so I decided to start moving sites I administer over to [Jekyll](http://jekyllrb.com) because as static site generator it is faster, more reliable and I have more control over making it accessible.
 
-## Getting Started
+## Build and preview
 
-The site and its Jekyll theme live in this repository. No theme gem, remote
-theme, submodule, or adjacent theme checkout is needed.
-
-Use Ruby **3.3.6** (see `.ruby-version`), Bundler **2.5.16** (see
-`Gemfile.lock`), and Node **24**. With those runtimes on your `PATH`:
+The site runs on **Eleventy 3** and **Node 24**. It deploys to Netlify using
+`netlify.toml`; no Ruby, Jekyll, Sass, theme package, or jQuery is required.
 
 ```sh
-bundle config set --local path vendor/bundle
-bundle install
 npm ci
-JEKYLL_ENV=production npm run build
+npm run build
+npm test
+npm run verify
+npm run dev
 ```
 
-The build compiles the committed JavaScript sources and writes the complete
-site to `_site/`. For local preview, run `bundle exec jekyll serve` after the
-first build. After editing JavaScript, run `npm run build:js` or
-`npm run watch:js`.
+`npm run dev` serves a rebuilding preview at `http://localhost:8080`.
+`npm start` runs the same command, with per-file logs suppressed. During preview,
+static assets are served directly, and CSS/JS edits reload without rebuilding pages.
+Content edits rebuild shared archives, search data, citations, and SEO metadata.
+Run `npm run build` to create the complete deployable `_site/` directory. The build
+cleans that output directory before generating pages and metadata. Netlify
+installs the locked npm dependencies, runs `npm run build`, and publishes
+`_site/`. Redirects and HTTP headers are maintained in `_redirects` and
+`_headers`. CMS access under `/admin/` and the Formspree contact form remain.
 
-Netlify reads `netlify.toml`, runs `npm run build`, and publishes `_site/`.
-Production builds disable incremental rendering so metadata and archives are
-rebuilt completely. Existing `_redirects`, CMS files under `admin/`, and the
-Formspree contact form are retained. Netlify account settings, credentials,
-and any dashboard integrations remain managed in Netlify.
+The dependency overrides in `package.json` retain Eleventy's glob-based file
+watching through its Chokidar 4 adapter and reuse YAML 4 in gray-matter. They
+remove the legacy vulnerable dependency chains and the optional `fsevents`
+install script. Keep them until Eleventy updates those dependency ranges;
+`npm ci`, `npm audit`, and `npm test` validate the locked setup. Funding notices
+are informational.
 
-The theme files were imported from Minimal Mistakes **4.27.3**, tag commit
-`0064dabea814bd3a2e203320a141c037fdcf67ea`, matching the previously locked
-theme gem. Existing site layouts, includes, data, and Sass overrides were
-preserved. Upstream files live directly in `_layouts/`, `_includes/`,
-`_data/`, `_sass/`, and `assets/`; upstream documentation, demos, and build
-workflows were not imported. See `LICENSE.minimal-mistakes` for attribution.
-Future theme updates must be reviewed and merged into these local files.
+## Content and dates
 
-All four site plugins are versioned under `_plugins/`: citation generation,
-SEO descriptions, per-post JSON metadata, and Standard.site metadata.
-Citation files are generated into `_site/assets/citations/`; build-time
-metadata does not require browser JavaScript. JSON minification is disabled
-because the existing minifier fails on Standard.site document text; JSON
-generation itself is unchanged.
+Posts, pages, and authors remain in `_posts/`, `_pages/`, and `_authors/`.
+Markdown and YAML front matter remain editable through the existing CMS.
+Site settings, including **`timezone: America/New_York`**, live in `_config.yml`.
+Local timestamps and date-only values are interpreted in New York, including
+its daylight-saving changes.
 
-To check a completed production build:
+Every content document has a publication `date`. Existing valid dates were
+preserved; missing post dates came from filenames, and undated pages/authors
+used their earliest recorded Git commit, following renames. To backfill a
+new manually added document, run `node scripts/backfill-dates.js`.
 
-```sh
-python3 scripts/verify_build.py _site
-```
+An explicit `last_modified_at` takes precedence. Otherwise, each build reads
+the file's latest Git commit date. Modified-date listings fall back to
+publication dates when Git history is unavailable. Complete Git history gives
+the best results; source exports without `.git` remain buildable using their
+committed publication dates. Modification dates are never based on filesystem
+copy times. The Atom feed stays in publication order; homepage and taxonomy
+listings use modified order.
 
-See `docs/goal-1-validation.md` for migration checks and known limitations.
+## Templates, styles, and metadata
 
-[![Tip @mmmistakes via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/mmistakes).
+Liquid layouts and includes are maintained locally in `_layouts/` and
+`_includes/`. Eleventy paginates the prepared content records in `site.11ty.js`;
+`lib/site.js` builds the shared post, author, category, and tag indexes once.
+Markdown compatibility, including historical heading IDs, footnotes, and
+attribute syntax, is handled in `lib/templates.js`.
 
-I decided to go with @mmistakes theme [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes) because in [Lighthouse](https://developers.google.com/web/tools/lighthouse/). The theme has straight 💯's. If you are reading this stop by and check out the theme and/or support @mmistakes on PayPal.
+Edit **`assets/css/main.css`** directly. It retains the established Minimal
+Mistakes styles as readable CSS; there is no Sass compilation. Navigation uses
+the original theme markup with vanilla JavaScript, sticky positioning uses CSS, and image
+viewing uses a small native-dialog script. Search uses a vanilla JavaScript
+Lunr implementation on `/search/` and in the theme search overlay; Pagefind is a separate later goal.
 
-![Screenshot-2019-03-11-02.46.46.png](Screenshot-2019-03-11-02.46.46.png "Screenshot of the Doctrine of Discovery Lighthouse tools Score as of 2019-03-11")
+Citation generation, SEO descriptions, per-post metadata, and Standard.site
+endpoints run at build time in `lib/metadata.js` and `lib/content.js`. Existing
+citation URLs and historical downloads are retained. No browser JavaScript is
+needed for metadata generation.
 
-### Before on WordPress
-- Performance: 76%
-- Best Practices: 60%
-- SEO: 91%
-- load time: 12 seconds
-
-### After on Jekyll and Github Pages
-- Performance: 100%
-- Best Practices: 100%
-- SEO: 100%
-- load time:
-  - 392 ms via [tools.pingdom.com](https://tools.pingdom.com)
-  - 0.5s via [GT Metrix](https://gtmetrix.com/)
-  - 1.496s via [WebPageTest](https://www.webpagetest.org)
-
-### Minimal Mistakes
-Minimal Mistakes is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as
-a substitute for the default [Minima](https://github.com/jekyll/minima), with a
-few enhancements thrown in for good measure:
-
-- Clean responsive design with six customizable skins
-- About page layout
-- Site-wide search provided by [Algolia](https://www.algolia.com/) or [Lunr](https://lunrjs.com/).
-- Disqus Comments and Google Analytics support
-- SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
-
-**If you enjoy this theme, please consider [supporting @mmistakes](https://www.paypal.me/mmistakes) for developing and maintaining it.**
-
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/mmistakes)
-### Prerequisites
-
-- Flat file
-- static site
-- no filler
-- SSL
-- Github Pages
-
-## Built With
-* [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes)
-* [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
-
-
-
-## Modifications
-- Normally this theme uses Google Fonts. I removed the Google fonts in order to improve load time and fix some formatting issues. In order to switch [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/) I modified the following files:
-
-In [`_theme.yml`](_data/theme.yml) I removed:
-
-  ```YAML
-  # Google Fonts
-  google_fonts:
-    - name: "Fira Sans"
-      weights: "400,400i,600,600i"
-  ```
-
-In [`_variables.scss`](_sass/basically-basic/_variables.scss) I changed the `$base-font-family` line to read as follows:
-
-  ```scss
-  $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-  ```
-
-In [`head.html`](_includes/head.html) I removed:
-
-  ```liquid
-  {% if site.data.theme.google_fonts %}
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={% for font in site.data.theme.google_fonts %}{{ font.name | replace: ' ', '+' }}{% if font.weights %}:{% endif %}{{ font.weights | remove: ' ' }}{% if forloop.last != true %}|{% endif %}{% endfor %}">
-  {% endif %}
-  ```
-
-All of these changes improved the aesthetic and load time. Plus it helped make the mobile `site.title` more responsive on mobile especially for longer titles.
+The starting theme was Minimal Mistakes **4.27.3**, commit
+`0064dabea814bd3a2e203320a141c037fdcf67ea`, imported during Goal 1 and adapted
+for Eleventy during Goal 2. Its MIT attribution is retained in
+`LICENSE.minimal-mistakes`. See [Goal 2 validation](docs/goal-2-validation.md)
+for checks, measurements, and remaining limitations. The older
+[Goal 1 report](docs/goal-1-validation.md) records the preceding Jekyll stage.
 
 ## Credits
 

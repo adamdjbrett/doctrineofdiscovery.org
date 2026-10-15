@@ -7,4 +7,5 @@ links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://law.ou.edu/directory/lindsay-robertson" 
+date: 2023-07-19T16:25:18.000-04:00
 ---

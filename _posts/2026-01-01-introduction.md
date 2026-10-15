@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/domination-trans
 link: https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-01/introduction/
 permalink: /blog/link/outcome/featured/domination-translator/domination-translator-01/introduction/
 author: adam-dj-brett
+date: 2026-01-01
 ---
 
 "The Domination Translator Series: An Extended Essay on Various U.S. Supreme Court Rulings and," an Outcome archive entry by Steven T. Newcomb. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

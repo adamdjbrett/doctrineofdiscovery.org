@@ -13,6 +13,7 @@ tags:
 link: https://podcast.doctrineofdiscovery.org/season6/episode-10/
 canonical_url: https://podcast.doctrineofdiscovery.org/season6/episode-10/
 author: adam-dj-brett
+date: 2026-05-04
 ---
 
 In this episode of the Mapping the Doctrine of Discovery podcast, Jordan Loewen-Colon traces a genealogy from Roman res nullius and the Doctrine of Discovery to today's data economy. The conversation names Data Nullius as a digital version of colonial erasure that turns attention, behavior, and community knowledge into extractive data, then asks what changes when data is treated as relational responsibility rather than ownerless property.

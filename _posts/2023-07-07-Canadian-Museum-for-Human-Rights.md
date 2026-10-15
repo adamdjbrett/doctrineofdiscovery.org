@@ -6,6 +6,7 @@ tags:
   - link
   - Post Formats
 link: https://humanrights.ca/story/doctrine-discovery
+date: 2023-07-07
 ---
 > The Doctrine of Discovery is a legal and religious concept that has been used for centuries to justify Christian colonial conquest. It advanced the idea that European peoples, culture and religion were superior to all others...
 > 

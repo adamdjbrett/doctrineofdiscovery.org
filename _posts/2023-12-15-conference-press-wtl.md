@@ -8,6 +8,7 @@ tags:
   - Conference
   - press
 link: https://www.whitetoolong.net/p/wtl-conversations-s3e15-my-conversation
+date: 2023-12-15
 ---
 
 

@@ -13,6 +13,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/jcreor/essay2/indigenous/
 link: https://outcome.doctrineofdiscovery.org/jcreor/essay2/indigenous/
 permalink: /blog/link/outcome/jcreor/essay2/indigenous/
 author: adam-dj-brett
+date: 2024-09-21
 ---
 
 "Indigenous Values Initiative Together with the American Indian Law Alliance Submits this Report," an Outcome archive entry by Indigenous Values Initiative, American Indian Law Alliance. The entry belongs to the jcreor collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

@@ -9,6 +9,7 @@ tags:
   - Onondaga
 link: https://arcg.is/HTDry
 author: darle-wright-balfoort
+date: 2024-08-17
 ---
 > Beginning in 2014, University Chancellor Kent Syverud initiated several measures honoring the Haudenosaunee. One of the measures is the University’s policy of opening public events acknowledging our connection to and respect for the Onondaga and the Haudenosaunee people. Relations between the Euro-Americans and the Six Nations have been fraught with war, broken treaties, racism, and a long history of land grabs that can be documented in maps and historical records. This chronology explores and illustrates the history of that relationship with maps that tell the story in a way difficult to imagine from published histories. It is a story about Onondaga land. 
 > 

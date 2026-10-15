@@ -12,6 +12,7 @@ tags:
   - featured
 link: https://peterderrico.substack.com/p/cutting-through-the-us-claim-of-a
 author: peter-derrico
+date: 2025-11-13
 ---
 
 

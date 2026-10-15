@@ -7,6 +7,7 @@ tags:
   - book
   - play
   - book-release
+date: 2024-06-12
 ---
 ## ANNOUNCEMENT Artists' Book Release
 ### Details

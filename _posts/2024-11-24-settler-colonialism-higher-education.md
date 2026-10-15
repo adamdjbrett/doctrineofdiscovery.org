@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/settler-c
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/settler-colonialism-higher-education/
 permalink: /blog/link/outcome/featured/essay2/settler-colonialism-higher-education/
 author: adam-dj-brett
+date: 2024-11-24
 ---
 
 "Settler Colonialism in Higher Education: Syracuse University and the Legacy of the Doctrine of," an Outcome archive entry by Hugh Burnam. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

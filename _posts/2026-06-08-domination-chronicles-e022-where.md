@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e022-where/
 canonical_url: https://dominationchronicles.com/episodes/e022-where/
 author: adam-dj-brett
+date: 2026-06-08
 ---
 In this episode, Newcomb and d'Errico step back to ask where the work is now. They warn against turning words such as domination and discovery into slogans. Naming domination is necessary, but it is only the beginning of serious inquiry into law, religion, history, political language, and systems of control.
 

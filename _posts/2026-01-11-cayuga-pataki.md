@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/domination-trans
 link: https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-11/cayuga-pataki/
 permalink: /blog/link/outcome/featured/domination-translator/domination-translator-11/cayuga-pataki/
 author: adam-dj-brett
+date: 2026-01-11
 ---
 
 "The Haudenosaunee Cases: Cayuga Indian Nation v. Pataki (2nd Cir. June 28, 2005) Domination," an Outcome archive entry by Steven T. Newcomb. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

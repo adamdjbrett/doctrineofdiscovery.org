@@ -8,6 +8,7 @@ tags:
   - un
 link: https://stevennewcomb.substack.com/p/a-2005-talk-by-steven-newcomb-during
 author: steven-newcomb
+date: 2024-02-27
 ---
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/906827808?h=c65722002a" width="640" height="360" frameborder="0"    allowfullscreen></iframe>

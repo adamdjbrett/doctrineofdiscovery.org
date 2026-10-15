@@ -8,6 +8,7 @@ tags:
   - Conference
   - press
 link: https://hurstassociates.blogspot.com/2023/12/conference-religious-origins-of-white.html
+date: 2023-12-28
 ---
 > I wanted to get some thoughts written in a place where I could share them, but this post only scratches the surface of what I heard and experienced.  One person likened the weekend as providing more information than an academic class and that is true. It was overwhelming.  And because there was so much to say and discuss, nearly every session ran long and every break was eliminated! Very full days!
 > 

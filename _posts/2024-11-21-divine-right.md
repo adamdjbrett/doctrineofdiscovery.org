@@ -15,6 +15,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/divine-ri
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/divine-right/
 permalink: /blog/link/outcome/featured/essay2/divine-right/
 author: adam-dj-brett
+date: 2024-11-21
 ---
 
 "The Myth of Divine Right and the Doctrine of Discovery," an Outcome archive entry by Kenneth Chestek. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

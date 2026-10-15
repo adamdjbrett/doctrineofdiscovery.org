@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/domination-trans
 link: https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-13/onondaga-new-york/
 permalink: /blog/link/outcome/featured/domination-translator/domination-translator-13/onondaga-new-york/
 author: adam-dj-brett
+date: 2026-01-13
 ---
 
 "The Haudenosaunee Cases: Onondaga Nation v. N.Y. (Argued Oct. 12, 2012, decided October 19,," an Outcome archive entry by Steven T. Newcomb. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

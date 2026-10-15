@@ -7,4 +7,5 @@ links:
   - label: "Linkedin"
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/christophersudol/"
+date: 2023-02-13T10:57:43.000-05:00
 ---

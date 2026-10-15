@@ -17,6 +17,7 @@ toc: true
 toc_label: "Overview"
 toc_icon: "cog"
 published: true
+date: 2023-10-10
 ---
 ## Website Note
 The printed conference schedeule will have panel locations. The printed schedule is canonical.
@@ -115,16 +116,16 @@ We especially would like to acknowledge and thank:
 
 ## Tenative Conference Schedule
 
- {% include_cached schedule.html %}
+ {% include 'schedule.html' %}
 
 
 
- {% include_cached snip/import.md %}
+ {% include 'snip/import.md' %}
 
 ## Speaker Bios
 if you would like your bio included please email your *short* bio to info@indigenousvalues.org
 
-  {% include_cached snip/speaker-bios.md %}
+  {% include 'snip/speaker-bios.md' %}
 
 ## Special Thanks
 Special thanks to Dr. Adam DJ Brett, Deborah Pratt, Alex Snow, and our volunteers.

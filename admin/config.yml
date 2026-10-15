@@ -15,12 +15,13 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Modified Date Override', name: 'last_modified_at', widget: 'datetime', required: false, hint: 'Leave empty to use Git history.' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
       - { label: 'Header Image', name: 'image', widget: 'image' }
       - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - name: 'sidebar'
-        label: 'Sidebar' 
+        label: 'Sidebar'
         widget: 'list'
         options:
          - { label: 'Title', name: 'title', widget: 'string' }
@@ -29,7 +30,7 @@ collections:
          - { label: 'Text', name: 'text', widget: 'string' }
          - { label: 'Nav', name: 'nav', widget: 'string' }
       - name: 'toc'
-        label: 'Toc' 
+        label: 'Toc'
         widget: 'select'
         options:
          - { label: "True", value: "true" }
@@ -48,6 +49,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Modified Date Override', name: 'last_modified_at', widget: 'datetime', required: false, hint: 'Leave empty to use Git history.' }
       - { label: 'Header Image', name: 'image', widget: 'image' }
       - { label: 'Permalink', name: 'permalink', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -62,14 +64,15 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'category' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Taxonomy', name: 'taxonomy', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - name: 'author_profile'
-        label: 'Author Profile' 
+        label: 'Author Profile'
         widget: 'select'
         options:
          - { label: "True", value: "true" }
          - { label: "False", value: "false" }
       - name: 'suggestedcitiation'
-        label: 'Suggested Citiation' 
+        label: 'Suggested Citiation'
         widget: 'select'
         options:
          - { label: "True", value: "true" }
@@ -88,19 +91,19 @@ collections:
        widget: object
        fields:
          - name: 'main'
-           label: 'Main' 
+           label: 'Main'
            widget: 'list'
            fields:
             - { name: 'title', label: 'Title', widget: 'string' }
             - { name: 'url', label: 'URL Link', widget: 'string' }
          - name: 'next-steps'
-           label: 'Next Steps' 
+           label: 'Next Steps'
            widget: 'list'
            fields:
             - { name: 'title', label: 'Title', widget: 'string' }
             - { name: 'url', label: 'URL Link', widget: 'string' }
             - name: 'children'
-              label: 'Children' 
+              label: 'Children'
               widget: 'list'
               fields:
                - { name: 'title', label: 'Title', widget: 'string' }
@@ -117,13 +120,13 @@ collections:
        widget: object
        fields:
          - name: 'footer'
-           label: 'Footer' 
+           label: 'Footer'
            widget: 'object'
            fields:
             - { name: 'license', label: 'License', widget: 'markdown' }
             - { name: 'financial', label: 'Financial', widget: 'markdown' }
          - name: 'donation-alert'
-           label: 'Donation Alert' 
+           label: 'Donation Alert'
            widget: 'object'
            fields:
             - { name: 'h2', label: 'H2', widget: 'string' }
@@ -154,32 +157,32 @@ collections:
          - { name: 'logo', label: 'Logo', widget: 'image' }
          - { name: 'paginate', label: 'Pagination', widget: 'number' }
          - name: 'author'
-           label: 'Author' 
+           label: 'Author'
            widget: 'object'
            fields:
             - { name: 'name', label: 'Author Name', widget: 'string' }
             - { name: 'avatar', label: 'Avatar', widget: 'string' }
             - { name: 'bio', label: 'Bio', widget: 'text' }
             - name: 'links'
-              label: 'Links' 
+              label: 'Links'
               widget: 'list'
               fields:
                - { name: 'label', label: 'Label', widget: 'string' }
                - { name: 'icon', label: 'Icon', widget: 'string' }
                - { name: 'url', label: 'URL Link', widget: 'string' }
          - name: 'image'
-           label: 'Image' 
+           label: 'Image'
            widget: 'object'
            fields:
             - { name: 'path', label: 'Path Image', widget: 'image' }
             - { name: 'width', label: 'width', widget: 'string' }
             - { name: 'alt', label: 'Image Alt', widget: 'text' }
          - name: 'footer'
-           label: 'Footers' 
+           label: 'Footers'
            widget: 'object'
            fields:
             - name: 'links'
-              label: 'Links' 
+              label: 'Links'
               widget: 'list'
               fields:
                - { name: 'label', label: 'Label', widget: 'string' }

@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/domination-trans
 link: https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-10/white-university/
 permalink: /blog/link/outcome/featured/domination-translator/domination-translator-10/white-university/
 author: adam-dj-brett
+date: 2026-01-10
 ---
 
 "White v. University of California (9th Cir., 2014) Domination Translator Series Part 10," an Outcome archive entry by Steven T. Newcomb. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

@@ -16,6 +16,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/maya-comm
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/maya-commentary/
 permalink: /blog/link/outcome/featured/essay2/maya-commentary/
 author: adam-dj-brett
+date: 2024-12-05
 ---
 
 "How we met the Doctrine of Discovery. A Maya commentary Doctrine of Discovery," an Outcome archive entry by Manuel May Castillo. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

@@ -8,6 +8,7 @@ tags:
   - conference
 link: https://na.eventscloud.com/ereg/index.php?eventid=722437
 suggestedcitiation: false
+date: 2023-02-17
 ---
 [![flyer](/assets/images/unravelingcolonialism_square_rev2.png)](https://na.eventscloud.com/ereg/index.php?eventid=722437)
 

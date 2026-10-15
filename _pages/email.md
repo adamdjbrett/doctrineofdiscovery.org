@@ -3,6 +3,7 @@ title: Join our email list
 author_profile: false
 permalink: /email/
 suggestedcitiation: false
+date: 2022-11-01T20:21:48.000-04:00
 ---
 <div class="AW-Form-120207774"></div>
 <script type="text/javascript">(function(d, s, id) {

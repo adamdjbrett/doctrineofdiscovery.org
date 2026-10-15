@@ -7,6 +7,7 @@ tags:
   - Post Formats
   - readability
   - standard
+date: 2010-01-07
 ---
 
 This post has been updated and should show a modified date if used in a layout.

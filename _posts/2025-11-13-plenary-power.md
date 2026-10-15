@@ -13,6 +13,7 @@ tags:
   - featured
 link: https://peterderrico.substack.com/p/gorsuch-and-thomas-attack-the-us
 author: peter-derrico
+date: 2025-11-13
 ---
 
 

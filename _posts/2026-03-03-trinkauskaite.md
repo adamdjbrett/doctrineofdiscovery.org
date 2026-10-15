@@ -14,6 +14,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/jcrt/issue1/trinkauskaite
 link: https://outcome.doctrineofdiscovery.org/jcrt/issue1/trinkauskaite/
 permalink: /blog/link/outcome/jcrt/issue1/trinkauskaite/
 author: adam-dj-brett
+date: 2026-03-03
 ---
 
 "Baltic Religion: The Sacred Things," an Outcome archive entry by Eglutė Trinkauskaitė, Ellen B. Cutler. The entry belongs to the jcrt collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

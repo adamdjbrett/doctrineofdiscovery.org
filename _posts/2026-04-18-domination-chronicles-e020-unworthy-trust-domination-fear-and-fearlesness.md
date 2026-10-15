@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e020-unworthy-trust-domination-fear-and-fearlesness/
 canonical_url: https://dominationchronicles.com/episodes/e020-unworthy-trust-domination-fear-and-fearlesness/
 author: adam-dj-brett
+date: 2026-04-18
 ---
 The federal Indian law "trust doctrine" is often described as a protective obligation. In this episode, Newcomb and d'Errico ask whether the word trust actually hides a relationship of domination. Their discussion traces how a term associated with care can become a legal euphemism for control.
 

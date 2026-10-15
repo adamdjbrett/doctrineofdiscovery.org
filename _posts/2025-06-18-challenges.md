@@ -18,6 +18,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/chal
 link: https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/challenges/
 permalink: /blog/link/outcome/crosscurrents/essay2/challenges/
 author: adam-dj-brett
+date: 2025-06-18
 ---
 
 "The Challenges of Revoking the Papal Bulls: A View from the Shore Analysis of," an Outcome archive entry by Steven T. Newcomb. The entry belongs to the crosscurrents collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

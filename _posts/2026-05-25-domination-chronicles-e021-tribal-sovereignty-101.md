@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e021-tribal-sovereignty-101/
 canonical_url: https://dominationchronicles.com/episodes/e021-tribal-sovereignty-101/
 author: adam-dj-brett
+date: 2026-05-25
 ---
 In this episode, Newcomb and d'Errico unpack the phrase "tribal sovereignty" and argue that it often functions as a language trap. If sovereignty means a claim of unlimited power, then "limited sovereignty" becomes an oxymoron. Federal anti-Indian law uses that contradiction to make domination sound like recognition.
 

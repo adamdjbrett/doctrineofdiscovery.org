@@ -6,6 +6,7 @@ tags:
   - link
   - oped
 link: https://religionnews.com/2023/05/08/undoing-the-christian-nationalism-of-the-doctrine-of-discovery/
+date: 2023-05-09
 ---
 The repudiation, which came in a statement from a bureaucratic office, not Pope Francis himself, said the doctrine had been “manipulated” by colonizers “to justify immoral acts against Indigenous peoples that were carried out, at times, without opposition from ecclesial authorities.”
 

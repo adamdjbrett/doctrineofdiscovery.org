@@ -7,6 +7,7 @@ tags:
   - genocide
   - doctrineofdiscovery
 link: https://www.christiancentury.org/books/when-doctrine-discovery-became-law 
+date: 2024-10-29
 ---
 
 

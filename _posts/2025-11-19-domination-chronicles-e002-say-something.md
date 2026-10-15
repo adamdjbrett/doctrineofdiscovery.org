@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e002-say-something/
 canonical_url: https://dominationchronicles.com/episodes/e002-say-something/
 author: adam-dj-brett
+date: 2025-11-19
 ---
 This episode turns to [*Halverson v. Burgum*](/blog/link/halverson-v-burgum/), a 2025 Ninth Circuit decision dismissing Jack Halverson's case against the Bureau of Indian Affairs. The court's reasoning invokes the United States' sovereign immunity and cites [*Johnson v. McIntosh*](/johnson-v-mcintosh/), showing how a case from 1823 remains active inside contemporary legal decisions affecting Native people.
 

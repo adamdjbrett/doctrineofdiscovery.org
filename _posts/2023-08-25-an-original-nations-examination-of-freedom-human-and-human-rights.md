@@ -17,6 +17,7 @@ tags:
   - joint-statement-responses
 canonical_url: https://originalfreenations.com/an-original-nations-examination-of-freedom-human-and-human-rights/
 author: steven-newcomb
+date: 2023-08-25
 ---
 *Some Reflections for the Parliament of the World's Religions in Chicago, Illinois, August 14-18, 2023*
 

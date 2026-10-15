@@ -1,5 +1,5 @@
 ---
-title: "New Publication: Destroying the Doctrine of Discovery"
+title: "Destroying the Doctrine of Discovery"
 description: "Robert J. Miller examines the Doctrine of Discovery's continuing effects and outlines five strategies for dismantling its influence on Indigenous rights."
 author: robert-miller
 categories:
@@ -7,6 +7,7 @@ categories:
 tags:
   - law
   - international
+date: 2026-10-15
 ---
 
 We are pleased to share [**Destroying the Doctrine of Discovery**](/assets/pdfs/DestroyingDoctrineDiscovery.pdf), a new publication by [**Robert J. Miller**](/authors/robert-miller/). The paper examines how the Doctrine of Discovery became an international legal framework for colonization and outlines ways Indigenous nations and peoples can challenge its continuing effects on their lands, sovereignty, and human rights.

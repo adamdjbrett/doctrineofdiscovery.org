@@ -8,6 +8,7 @@ tags:
   - teaching
   - indigenous
 author: philip-arnold
+date: 2006-10-01
 ---
 When I began teaching at the University of Missouri in Columbia in 1990, the prevailing wisdom in the academy was to avoid teaching "Native American Religions." It was regarded as professional suicide for a nonnative, white male to commit their research and teaching to this contentious and controversial area of religious studies. So far as I can tell, this attitude still prevails. But, even then, I understood the contentiousness of Native American religions to be an indication of its importance. My "Native American Religions" brings an awareness to students of the traumatic and turbulent nature of American culture like no other class of mine. In 1996 my family and I moved to Syracuse University, which is in the heart of Haudenosaunee country. This move changed everything; my "Native American Religions" class, by virtue of our physical location, makes the subject matter immediately relevant and urgent.
 

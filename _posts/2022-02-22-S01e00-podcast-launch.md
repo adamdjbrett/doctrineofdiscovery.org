@@ -9,6 +9,7 @@ tags:
 link: https://podcast.doctrineofdiscovery.org/season1/episode-0/
 author: philip-arnold
 suggestedcitiation: false
+date: 2022-02-22
 ---
 
 <div id="buzzsprout-player-10062173"></div><script src="https://www.buzzsprout.com/1926214/10062173-introduction-to-mapping-the-doctrine-of-discovery-podcast.js?container_id=buzzsprout-player-10062173&player=small" type="text/javascript" charset="utf-8"></script>

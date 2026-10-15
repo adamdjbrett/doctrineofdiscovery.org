@@ -1,6 +1,7 @@
 ---
 permalink: /canopy/
 title: "Canopy Forum Series"
+date: 2023-11-14T19:53:18.000-05:00
 ---
 ## 200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands
 ### A Canopy Forum Thematic Series March – April 2023

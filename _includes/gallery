@@ -1,11 +1,11 @@
-{% if include.id %}
-  {% assign gallery = page[include.id] %}
+{% if include_id %}
+  {% assign gallery = page[include_id] %}
 {% else %}
   {% assign gallery = page.gallery %}
 {% endif %}
 
-{% if include.layout %}
-  {% assign gallery_layout = include.layout %}
+{% if include_layout %}
+  {% assign gallery_layout = include_layout %}
 {% else %}
   {% if gallery.size == 2 %}
     {% assign gallery_layout = 'half' %}
@@ -16,7 +16,7 @@
   {% endif %}
 {% endif %}
 
-<figure class="{{ gallery_layout }} {{ include.class }}">
+<figure class="{{ gallery_layout }} {{ include_class }}">
   {% for img in gallery %}
     {% if img.url %}
       <a href="{{ img.url | relative_url }}"
@@ -29,7 +29,7 @@
            alt="{% if img.alt %}{{ img.alt | escape_once }}{% endif %}">
     {% endif %}
   {% endfor %}
-  {% if include.caption %}
-    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% if include_caption %}
+    <figcaption>{{ include_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
 </figure>

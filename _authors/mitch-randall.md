@@ -19,4 +19,5 @@ links:
   - label: "LinkedIn"
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/mitch-randall-501618143/"
+date: 2024-02-21T12:05:44.000-05:00
 ---

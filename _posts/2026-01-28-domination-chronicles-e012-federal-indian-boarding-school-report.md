@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e012-federal-indian-boarding-school-report/
 canonical_url: https://dominationchronicles.com/episodes/e012-federal-indian-boarding-school-report/
 author: adam-dj-brett
+date: 2026-01-28
 ---
 The Federal Indian Boarding School Report names a history of forced assimilation, but Newcomb and d'Errico ask what such reports can and cannot do when the larger domination framework remains in place. This episode examines apology, documentation, dispossession, and the language used to describe violence against Native children, families, nations, and lifeways.
 

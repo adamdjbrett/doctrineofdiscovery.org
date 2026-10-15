@@ -3,9 +3,9 @@ layout: default
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
+  {% include 'page__hero.html' %}
 {% elsif page.header.video.id and page.header.video.provider %}
-  {% include page__hero_video.html %}
+  {% include 'page__hero_video.html' %}
 {% endif %}
 
 <div id="main" role="main">
@@ -30,9 +30,9 @@ layout: default
   {% assign entries_layout = page.entries_layout | default: 'list' %}
   <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
-      {% include archive-single.html type=entries_layout %}
+      {% include 'archive-single.html', include_type: entries_layout %}
     {% endfor %}
   </div>
 
-  {% include paginator.html %}
+  {% include 'paginator.html' %}
 </div>

@@ -15,6 +15,7 @@ tags:
 link: https://creor-ejournal.library.mcgill.ca/article/view/117
 canonical_url: https://outcome.doctrineofdiscovery.org/jcreor/essay2/limits/
 author: adam-dj-brett
+date: 2025-03-07
 ---
 Abstract
 --------

@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/lith
 link: https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/lithuanian/
 permalink: /blog/link/outcome/crosscurrents/essay2/lithuanian/
 author: adam-dj-brett
+date: 2025-06-14
 ---
 
 "Christian Nationalism in the Lithuanian Context," an Outcome archive entry by Eglutė Trinkauskaitė. The entry belongs to the crosscurrents collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

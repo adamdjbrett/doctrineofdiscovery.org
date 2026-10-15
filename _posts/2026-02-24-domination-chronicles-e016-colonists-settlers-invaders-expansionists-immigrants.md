@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e016-colonists-settlers-invaders-expansionists-immigrants/
 canonical_url: https://dominationchronicles.com/episodes/e016-colonists-settlers-invaders-expansionists-immigrants/
 author: adam-dj-brett
+date: 2026-02-24
 ---
 What do we call the people who came onto Native lands under claims of empire, settlement, expansion, and law? In this episode, Newcomb and d'Errico critique the language used in a contemporary article about the Indian Removal Act and the Muscogee Nation, asking how words such as colonists, settlers, invaders, expansionists, and immigrants shape historical understanding.
 

@@ -9,6 +9,7 @@ tags:
   - soverignity
 link: https://peterderrico.substack.com/p/inclusion-is-not-the-same-as-self/
 author: peter-derrico
+date: 2024-03-27
 ---
 But questions nagged at me:
 

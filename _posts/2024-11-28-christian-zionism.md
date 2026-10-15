@@ -15,6 +15,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/christian
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/christian-zionism/
 permalink: /blog/link/outcome/featured/essay2/christian-zionism/
 author: adam-dj-brett
+date: 2024-11-28
 ---
 
 "The Doctrine of Discovery and Christian Zionism," an Outcome archive entry by Jonathan Brenneman. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

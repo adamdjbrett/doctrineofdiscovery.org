@@ -15,6 +15,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/christian
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/christian-control-women-mother-earth/
 permalink: /blog/link/outcome/featured/essay2/christian-control-women-mother-earth/
 author: adam-dj-brett
+date: 2024-11-26
 ---
 
 "Christian Control Of Women And Mother Earth: The Doctrine Of Discovery And The Doctrine," an Outcome archive entry by Sally Roesch Wagner. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

@@ -8,6 +8,7 @@ tags:
   - colonialism
   - doctrine-of-discovery
 link: https://dailymontanan.com/2024/06/29/the-religious-underpinnings-of-one-of-americas-most-sacred-concepts-private-property/
+date: 2024-06-30
 ---
 <blockquote>
 <div>

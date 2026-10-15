@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e008-words-meanings/
 canonical_url: https://dominationchronicles.com/episodes/e008-words-meanings/
 author: adam-dj-brett
+date: 2025-12-07
 ---
 Words are not neutral containers. In this episode, Newcomb and d'Errico examine how terms such as state, empire, sovereignty, civilization, landlord, trust, and discovery can hide domination while appearing ordinary. Their conversation shows why the work of definition is central to understanding federal Indian law.
 

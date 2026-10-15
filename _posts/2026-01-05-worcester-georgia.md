@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/domination-trans
 link: https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-05/worcester-georgia/
 permalink: /blog/link/outcome/featured/domination-translator/domination-translator-05/worcester-georgia/
 author: adam-dj-brett
+date: 2026-01-05
 ---
 
 "The Marshall Trilogy: Worcester v. Georgia (1832) Domination Translator Series Part 5," an Outcome archive entry by Steven T. Newcomb. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

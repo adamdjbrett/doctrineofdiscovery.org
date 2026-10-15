@@ -8,6 +8,7 @@ tags:
   - Conference
   - press
 link: https://dailyorange.com/2023/12/su-hosts-conference-200-years-after-johnson-v-mcintosh-ruling/
+date: 2023-12-15
 ---
 Ilianna Murphy, a junior at Simpson College who attended the conference, said her biggest takeaway is the importance of listening more to Indigenous people and recognizing the privilege of colonizers.
 

@@ -7,6 +7,7 @@ tags:
   - law
 author: peter-derrico
 link: https://peterderrico.substack.com/p/political-principles-and-indian-sovereignty
+date: 2024-03-02
 ---
 > The Supreme Court now avoids naming the doctrine, as if that makes the problem go away.
 

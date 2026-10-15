@@ -1,19 +1,10 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/jekyll
-# Edit at https://www.toptal.com/developers/gitignore?templates=jekyll
-
-### Jekyll ###
 _site/
-.sass-cache/
+node_modules/
+/vendor/
+.cache/
+.DS_Store
+# Local leftovers from the previous Jekyll build.
+.bundle/
 .jekyll-cache/
 .jekyll-metadata
-.bundle/
-.icloud
-.DS_Store
-/vendor/
-node_modules/
-*.gem
-*.rb
-!_plugins/*.rb
-
-# End of https://www.toptal.com/developers/gitignore/api/jekyll
+.sass-cache/

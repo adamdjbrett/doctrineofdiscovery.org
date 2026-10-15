@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e006-plenary-power/
 canonical_url: https://dominationchronicles.com/episodes/e006-plenary-power/
 author: adam-dj-brett
+date: 2025-11-23
 ---
 Plenary power is one of the central fictions of federal Indian law: the claim that Congress possesses broad, nearly total authority over Native nations. In this episode, Newcomb and d'Errico discuss a Supreme Court dissent by Justices Gorsuch and Thomas that questions that doctrine and suggests the possibility of significant legal change.
 

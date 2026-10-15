@@ -14,6 +14,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay1/what-is-t
 link: https://outcome.doctrineofdiscovery.org/featured/essay1/what-is-the-doctrine-of-discovery/
 permalink: /blog/link/outcome/featured/essay1/what-is-the-doctrine-of-discovery/
 author: adam-dj-brett
+date: 2024-12-12
 ---
 
 "What is the Doctrine of Discovery?," an Outcome archive entry by Philip P. Arnold, Sandra Bigtree. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

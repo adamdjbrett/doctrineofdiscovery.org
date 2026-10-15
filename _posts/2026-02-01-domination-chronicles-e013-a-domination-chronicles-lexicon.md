@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e013-a-domination-chronicles-lexicon/
 canonical_url: https://dominationchronicles.com/episodes/e013-a-domination-chronicles-lexicon/
 author: adam-dj-brett
+date: 2026-02-01
 ---
 This brief episode offers a lexicon for hearing domination in the words that organize political and legal life. Steven Newcomb focuses on terms such as civilization, state, sovereignty, ascendancy, dominion, property, and empire, showing how each word can carry a history of coercion beneath its ordinary use.
 

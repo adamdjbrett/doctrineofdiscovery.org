@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e019-loretta-afraid-of-bear-cook-living-in-oglala-lakota-community/
 canonical_url: https://dominationchronicles.com/episodes/e019-loretta-afraid-of-bear-cook-living-in-oglala-lakota-community/
 author: adam-dj-brett
+date: 2026-04-07
 ---
 Loretta Afraid of Bear-Cook joins Newcomb and d'Errico for a conversation grounded in Oglala Lakota community, language, food, ceremony, and everyday practices of relationship. The episode expands the series by centering living traditions and the work required to sustain them under conditions shaped by domination and modern convenience.
 

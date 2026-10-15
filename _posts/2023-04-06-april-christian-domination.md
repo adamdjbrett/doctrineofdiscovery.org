@@ -13,6 +13,7 @@ tags:
   - responses
 link: https://www.aprilonline.org/continuing-christian-domination/
 suggestedcitiation: false
+date: 2023-04-06
 ---
 When the Vatican finally comes to the realization it is mired in the genocidal mud of centuries of racist exploitation of Indigenous peoples around the world, a step towards acknowledging the need for reconciliation is welcome.
 

@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e009-mcgirt-oklahoma-revealing-concealing/
 canonical_url: https://dominationchronicles.com/episodes/e009-mcgirt-oklahoma-revealing-concealing/
 author: adam-dj-brett
+date: 2025-12-17
 ---
 The Supreme Court's decision in [*McGirt v. Oklahoma*](/blog/link/outcome/featured/domination-translator/domination-translator-14/mcgirt-oklahoma/) was widely celebrated as a win for the Creek Nation. In this episode, Newcomb and d'Errico ask a more difficult question: what does the decision reveal, and what does it conceal, about U.S. domination over Native nations?
 

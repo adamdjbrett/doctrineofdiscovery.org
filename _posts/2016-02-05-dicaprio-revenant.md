@@ -7,6 +7,7 @@ tags:
   - film
   - Indigenous
 author: philip-arnold
+date: 2016-02-05
 ---
 As we head into the Academy Awards this weekend, we should visit Leonardo DiCaprio's acceptance speech at the Golden Globe Awards on 10 January, which concluded with his honoring Indigenous Peoples.
 

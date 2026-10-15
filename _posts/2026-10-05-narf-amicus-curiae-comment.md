@@ -13,6 +13,7 @@ tags:
 canonical_url: https://stevennewcomb.substack.com/p/a-comment-on-narfs-amicus-curiae
 link: https://stevennewcomb.substack.com/p/a-comment-on-narfs-amicus-curiae
 author: steven-newcomb
+date: 2026-10-05
 ---
 
 On September 23, 2026, the Native American Rights Fund (NARF) filed an amicus curiae brief in the D.C. Circuit on behalf of the National Congress of American Indians and the Inter Tribal Association of Arizona, supporting the Tohono O’odham Nation’s effort to stop construction of a border wall section on its reservation. In this post from *The Domination Chronicles*, Steven T. Newcomb asks how a court is informed by a brief that affirms Native nations as “independent political societies” while also relying on federal doctrines that presume their subordination.

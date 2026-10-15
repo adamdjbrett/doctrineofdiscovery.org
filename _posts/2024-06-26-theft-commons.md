@@ -7,6 +7,7 @@ tags:
   - colonialism
   - doctrine-of-discovery
 link: https://www.hcn.org/articles/the-theft-of-the-commons/
+date: 2024-06-26
 ---
 > In North America, it’s often assumed that private land ownership not only existed in colonizing cultures but was also universally accepted. Yet English commoners fought against privatization for centuries, dying by the tens of thousands to defend the rights of the commons. Even as English colonists were arriving on the Atlantic shores of North America, commoners violently resisted enclosure. The Midland Revolt, involving rebellions in several English counties in 1607, was a direct consequence of the government’s admitted failure to enforce its own laws against enclosure’s theft of the commons.
 > 

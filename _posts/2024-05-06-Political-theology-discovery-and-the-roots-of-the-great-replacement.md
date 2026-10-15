@@ -7,6 +7,7 @@ tags:
   - theology
   - discovery
 link: https://doi.org/10.1177/03063968241238601
+date: 2024-05-06
 ---
 
 Bossen, C. (2024). Political theology, discovery and the roots of the ‘great replacement’. Race & Class, 0(0). <https://doi.org/10.1177/03063968241238601>.

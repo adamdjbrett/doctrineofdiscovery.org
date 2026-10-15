@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/domination-trans
 link: https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-15/king-mountain/
 permalink: /blog/link/outcome/featured/domination-translator/domination-translator-15/king-mountain/
 author: adam-dj-brett
+date: 2026-01-15
 ---
 
 "U.S. v. King Mountain Tobacco Co., Inc. (9th Cir. Court, August 13, 2012) Domination," an Outcome archive entry by Steven T. Newcomb. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

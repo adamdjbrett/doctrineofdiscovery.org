@@ -1,13 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
+# Site configuration for Eleventy; also edited by admin/config.yml.
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -15,7 +6,7 @@
 # in the templates via {{ site.myvariable }}.
 locale: en-US
 title: Doctrine of Discovery Project
-#subtitle: 
+#subtitle:
 title_separator: "-"
 email: contact@doctrineofdiscovery.org
 description: >- # this means to ignore newlines until "baseurl:"
@@ -26,7 +17,6 @@ twitter_username: indigenousVI
 #github_username: username
 # Theme
 # Theme source is maintained in this repository (see README.md).
-minimal_mistakes_skin: default
 search: true
 teaser: "/assets/images/Mission-Interior-from-Lookout.jpg"
 logo: "/assets/images/doctrine-of-discovery-project-logo.png"
@@ -40,36 +30,8 @@ analytics:
     tracking_id: "UA-96037973-2"
     anonymize_ip: false # default
 
-# Build settings
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
+# Content
 excerpt_separator: "<!--more-->"
-incremental: false # Rebuild metadata and archives completely for deployment.
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-# HTML Compression
-# - https://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
 
 # Outputting
 permalink: /:categories/:title/
@@ -80,32 +42,6 @@ timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_t
 # Site settings
 atom_feed:
   path:
-
-include:
-  - _pages
-  - _redirects
-  - assets/js/_main.js
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-  - netlify.toml
-  - scripts
-  - docs
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-include-cache
-  - jekyll-minifier
 
 author:
   name   : "Indigenous Values Initiative"
@@ -153,11 +89,6 @@ footer:
       icon: "fab fa-fw fa-youtube-square"
       url: "https://youtube.com/c/IndigenousValuesInitiative"
 
-collections:
-  authors:
-    output: true
-    permalink: /authors/:name
-
 defaults:
   # _posts
   - scope:
@@ -180,15 +111,6 @@ defaults:
       author_profile: false
       suggestedcitiation: false
       excerpt_separator: "<!--more-->"
-  # assets
-  - scope:
-      path: "assets/images"
-    values:
-      image: true
-  - scope:
-      path: "assets/pdfs"
-    values:
-      pdf: true
   # _author
   - scope:
       path: "_authors"
@@ -218,34 +140,3 @@ standard_site:
   description: "The Doctrine of Discovery Project advances public education, research, and advocacy to challenge domination, dispossession, and the legacy of Christian Discovery in law, religion, and society."
   did: ""
   publication_at_uri: ""
-
-# Keep citation files when building
-keep_files:
-  - assets/citations
-
-
-jekyll-minifier:
-  uglifier_args:
-    harmony: true                   # Theme JavaScript includes ES6 syntax.
-  preserve_php: true                # Default: false
-  remove_spaces_inside_tags: true   # Default: true
-  remove_multi_spaces: true         # Default: true
-  remove_comments: true             # Default: true
-  remove_intertag_spaces: true      # Default: false
-  remove_quotes: false              # Default: false
-  compress_css: true                # Default: true
-  compress_javascript: true         # Default: true
-  # json-minify fails on existing Standard.site document text; preserve valid JSON.
-  compress_json: false
-  simple_doctype: false             # Default: false
-  remove_script_attributes: false   # Default: false
-  remove_style_attributes: false    # Default: false
-  remove_link_attributes: false     # Default: false
-  remove_form_attributes: false     # Default: false
-  remove_input_attributes: false    # Default: false
-  remove_javascript_protocol: false # Default: false
-  remove_http_protocol: false       # Default: false
-  remove_https_protocol: false      # Default: false
-  preserve_line_breaks: false       # Default: false
-  simple_boolean_attributes: false  # Default: false
-  compress_js_templates: false      # Default: false

@@ -6,6 +6,7 @@ tags:
   - link
   - news
 link: https://wired868.com/2023/04/27/crfp-indigenous-people-express-hope-and-concern-at-vaticans-repudiation-of-doctrine-of-discovery/
+date: 2023-05-10
 ---
 Philip P Arnold, a professor of religious studies at Syracuse University and the founding director of Skä·noñh — Great Law of Peace Center, was interviewed on the Emancipation Support Committee’s radio show Indaba, on Wednesday 12 April, along with his wife Sandy Bigtree.
 

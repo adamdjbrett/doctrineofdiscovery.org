@@ -7,4 +7,5 @@ links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://law.ucla.edu/faculty/faculty-profiles/alexandra-fay"
+date: 2023-03-29T11:46:26.000-04:00
 ---

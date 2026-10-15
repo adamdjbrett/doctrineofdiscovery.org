@@ -9,6 +9,7 @@ tags:
   - WeAreIndigenous
 link: https://aila.ngo/2024-craft-fair/
 author: aila
+date: 2024-03-26
 ---
 We invite everyone to visit the Indigenous Peoples Craft Fair on 17 April 2024 from 9:00 AM to 3:00 PM on the Eighth Floor of the Church Center of the United Nations (CCUN) located at 777 United Nations Plaza, New York, NY 10017.
 

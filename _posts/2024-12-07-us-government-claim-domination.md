@@ -16,6 +16,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/us-govern
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/us-government-claim-domination/
 permalink: /blog/link/outcome/featured/essay2/us-government-claim-domination/
 author: adam-dj-brett
+date: 2024-12-07
 ---
 
 "The U.S. Government’s Claim of a Right of Domination," an Outcome archive entry by Steven T. Newcomb. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

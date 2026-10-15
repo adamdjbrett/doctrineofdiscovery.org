@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e007-quantum-view/
 canonical_url: https://dominationchronicles.com/episodes/e007-quantum-view/
 author: adam-dj-brett
+date: 2025-12-01
 ---
 This episode brings quantum theory into conversation with Indigenous free existence. Newcomb and d'Errico ask whether concepts such as entanglement, uncertainty, and indeterminacy can help loosen the rigid assumptions that domination systems impose on people, land, time, and law.
 

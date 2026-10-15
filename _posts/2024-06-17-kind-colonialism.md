@@ -8,6 +8,7 @@ tags:
   - doctrine-of-discovery
 link: https://e-tangata.co.nz/history/dismantling-kind-colonialism/
 author: tina-ngata
+date: 2024-06-17
 ---
 <blockquote>
 “Kind colonialism” operates on the false idea that colonisation is necessary, beneficial, and inevitable. The reason it became the dominant form of colonisation in Aotearoa is because we were the most expensive place for Britain to colonise, being so far away.

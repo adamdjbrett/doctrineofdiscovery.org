@@ -12,6 +12,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/jcrt/issue2/
 link: https://outcome.doctrineofdiscovery.org/jcrt/issue2/
 permalink: /blog/link/outcome/jcrt/issue2/
 author: adam-dj-brett
+date: 2026-04-16
 ---
 
 "Vol. 25 No. 1 (Spring 2026): Challenging the Justifications of Domination through Law: Indigenous," an Outcome archive entry by the Outcome contributors. The entry belongs to the jcrt collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

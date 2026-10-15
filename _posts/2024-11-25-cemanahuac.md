@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/CEMANAHUA
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/CEMANAHUAC/
 permalink: /blog/link/outcome/featured/essay2/CEMANAHUAC/
 author: adam-dj-brett
+date: 2024-11-25
 ---
 
 "Superseding the Doctrine of Discovery: World Water One," an Outcome archive entry by Tupac Enrique Acosta. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

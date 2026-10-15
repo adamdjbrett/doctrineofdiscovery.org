@@ -2,8 +2,8 @@
 {% if page.robots_meta %}
 <meta name="robots" content="{{ page.robots_meta | escape }}">
 {% endif %}
-{% include head/zotero.html %}
-{% include author-profile-schema.html %}
+{% include 'head/zotero.html' %}
+{% include 'author-profile-schema.html' %}
 {% if page.collection == "posts" %}
 <link rel="cite-as" href="{{ page.canonical_url | default: page.url | absolute_url }}">
 <link rel="type" href="https://schema.org/BlogPosting">
@@ -17,18 +17,8 @@
 <link rel="alternate" type="application/json" title="Doctrine of Discovery Project Standard.site Documents" href="{{ '/standard.site/documents.json' | relative_url }}">
 <link rel="alternate" type="application/json" title="Doctrine of Discovery Project Standard.site Manifest" href="{{ '/standard.site/manifest.json' | relative_url }}">
 {% endif %}
-<!-- Google Analytics -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-96037973-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-96037973-2');
-</script>
 <!-- ReCaptcha -->
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+{% if page.layout == "contact-form" %}<script src="https://www.google.com/recaptcha/api.js" async defer></script>{% endif %}
 <!-- Favicons: generated with https://realfavicongenerator.net/ (2026-09-07) -->
 <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favicons/favicon-96x96.png?v=20260907">
 <link rel="icon" type="image/svg+xml" href="/assets/images/favicons/favicon.svg?v=20260907">

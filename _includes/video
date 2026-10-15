@@ -1,6 +1,6 @@
-{% capture video_id %}{{ include.id }}{% endcapture %}
-{% capture video_provider %}{{ include.provider }}{% endcapture %}
-{% capture video_danmaku %}{{ include.danmaku | default: 0 }}{% endcapture %}
+{% capture video_id %}{{ include_id }}{% endcapture %}
+{% capture video_provider %}{{ include_provider }}{% endcapture %}
+{% capture video_danmaku %}{{ include_danmaku | default: 0 }}{% endcapture %}
 
 {% capture video_src %}
   {% case video_provider %}

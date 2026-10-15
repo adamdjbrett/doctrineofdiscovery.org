@@ -14,6 +14,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/jcrt/issue2/rodgers-falk/
 link: https://outcome.doctrineofdiscovery.org/jcrt/issue2/rodgers-falk/
 permalink: /blog/link/outcome/jcrt/issue2/rodgers-falk/
 author: adam-dj-brett
+date: 2026-04-16
 ---
 
 "An Intergenerational and Perpetual Imperium of Domination and Subjugation of Indigenous Peoples: The Doctrine," an Outcome archive entry by Phillip Rodgers-Falk. The entry belongs to the jcrt collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

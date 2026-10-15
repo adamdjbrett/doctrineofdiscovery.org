@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e017-bruce-mcivor-legalized-lawlessness/
 canonical_url: https://dominationchronicles.com/episodes/e017-bruce-mcivor-legalized-lawlessness/
 author: adam-dj-brett
+date: 2026-03-09
 ---
 Attorney Bruce McIvor joins Newcomb and d'Errico to discuss what he calls "legalized lawlessness" in Canada. The phrase names a system in which courts and governments claim legitimacy while continuing to rely on the Crown's assertion of sovereignty and the Doctrine of Discovery to control Indigenous lands and peoples.
 

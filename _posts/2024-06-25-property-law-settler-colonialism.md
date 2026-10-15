@@ -7,6 +7,7 @@ tags:
   - colonialism
   - doctrine-of-discovery
 link: https://www.counterpunch.org/2024/06/25/property-law-settler-colonialism-and-the-vatican/
+date: 2024-06-25
 ---
 <blockquote>
 Newsflash!  Property law in the U.S. is not rooted in the Constitution. America's legal foundation for property law (possession), "anti-Indian law" and the concept of nation-states is religious, not secular.

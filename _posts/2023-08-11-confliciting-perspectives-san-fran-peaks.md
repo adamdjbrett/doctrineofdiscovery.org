@@ -12,6 +12,7 @@ categories:
   - joint-statement-responses
 link: https://originalfreenations.com/conflicting-perspectives-regarding-the-holy-mountain-called-san-francisco-peaks-and-other-sacred-and-significant-places-of-original-nations-and-traditional-healers/
 author: steven-newcomb
+date: 2023-08-11
 ---
 Steven Newcomb (Shawnee/Lenape)
 

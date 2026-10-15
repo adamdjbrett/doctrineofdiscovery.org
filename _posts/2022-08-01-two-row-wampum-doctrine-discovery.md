@@ -1,6 +1,6 @@
 ---
 title: "The Two Row Wampum: a Repudiation of the Doctrine of Discovery"
-date: 2022-08-01-01T14:54:46
+date: 2022-08-01T14:54:46
 categories:
   - blog
 tags:

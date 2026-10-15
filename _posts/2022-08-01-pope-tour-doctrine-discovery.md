@@ -1,6 +1,6 @@
 ---
 title: "Pope’s Indigenous tour signals a rethink of mission legacy"
-date: 2020-08-01-01T14:55:46
+date: 2020-08-01T14:55:46
 categories:
   - blog
 tags:

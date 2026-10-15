@@ -13,6 +13,7 @@ link: https://indepthnews.net/renounced-by-the-vatican-yet-the-repressive-force-
 toc: true
 toc_label: "Overview"
 toc_icon: "cog"
+date: 2024-04-19
 ---
 *By William D. Sunderlin, Ph.D., and Robert J. Miller, J.D.*
 

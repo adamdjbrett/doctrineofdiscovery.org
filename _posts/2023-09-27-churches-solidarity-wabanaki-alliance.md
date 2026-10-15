@@ -13,6 +13,7 @@ author: john-dieffenbacher-krall
 toc: true
 toc_label: "Overview"
 toc_icon: "cog"  
+date: 2023-09-27
 ---
 
 ## St.  Andrew's  Episcopal  Church,  Newcastle,  Maine 17<sup>th</sup> Sunday after Pentecost

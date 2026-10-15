@@ -14,6 +14,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/jcrt/issue2/schwartzberg/
 link: https://outcome.doctrineofdiscovery.org/jcrt/issue2/schwartzberg/
 permalink: /blog/link/outcome/jcrt/issue2/schwartzberg/
 author: adam-dj-brett
+date: 2026-04-16
 ---
 
 "An Appeal to the American People—Overturning “Federal Indian Law”," an Outcome archive entry by Steven J. Schwartzberg. The entry belongs to the jcrt collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

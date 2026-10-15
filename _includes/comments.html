@@ -34,7 +34,7 @@
                 {% assign url = comment.url %}
                 {% assign date = comment.date %}
                 {% assign message = comment.message %}
-                {% include comment.html index=forloop.index email=email name=name url=url date=date message=message %}
+                {% include 'comment.html', include_index: forloop.index, include_email: email, include_name: name, include_url: url, include_date: date, include_message: message %}
               {% endfor %}
             {% endif %}
           </div>
@@ -117,7 +117,7 @@
                 {% assign url = comment.url %}
                 {% assign date = comment.date %}
                 {% assign message = comment.message %}
-                {% include comment.html index=forloop.index email=email name=name url=url date=date message=message %}
+                {% include 'comment.html', include_index: forloop.index, include_email: email, include_name: name, include_url: url, include_date: date, include_message: message %}
               {% endfor %}
             {% endif %}
           </div>
@@ -175,6 +175,6 @@
       <h4 class="page__comments-title">{{ comments_label }}</h4>
       <section id="giscus-comments"></section>
     {% when "custom" %}
-      {% include /comments-providers/custom.html %}
+      {% include 'comments-providers/custom.html' %}
   {% endcase %}
 </div>

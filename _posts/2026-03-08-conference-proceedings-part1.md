@@ -13,6 +13,7 @@ tags:
   - christian-nationalism
   - journal
 author: adam-dj-brett
+date: 2026-03-08
 ---
 For immediate release
 

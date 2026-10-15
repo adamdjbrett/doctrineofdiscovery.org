@@ -7,6 +7,7 @@ tags:
   - colonialism
   - doctrine-of-discovery
 link: https://humanrights.ca/story/doctrine-discovery
+date: 2024-06-26
 ---
 <blockquote>
 <h3 id="why-is-it-important-">Why is it important?</h3>

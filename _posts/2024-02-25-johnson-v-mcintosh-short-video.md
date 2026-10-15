@@ -8,6 +8,7 @@ tags:
   - video
 link: https://stevennewcomb.substack.com/p/johnson-v-mcintosh-and-the-mental
 author: steven-newcomb
+date: 2024-02-25
 ---
 
 [Transcript PDF](/assets/pdfs/Johnson-v-McIntosh-the-Mental-World-of-Domination_otter_ai.pdf)

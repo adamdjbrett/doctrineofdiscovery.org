@@ -9,6 +9,7 @@ tags:
   - OAS
   - PDF
   - document
+date: 2023-12-28
 ---
 ## The Onondaga Nation And The Haudenosaunee Against The United States Of America
 ### The Onondaga Nation And The Haudenosaunee Confederacy Supplemental Submission Brief On The Merits

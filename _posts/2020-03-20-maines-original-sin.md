@@ -12,6 +12,7 @@ tags:
   - bibliography
 link: https://www.wabanakireach.org/maine_s_original_sin
 author: john-dieffenbacher-krall
+date: 2020-03-20
 ---
 *During his tenure as the Executive Director for the Maine Indian Tribal State Commission, John Dieffenbacher-Krall worked closely with Maine Wabanaki REACH engaging tribal and state partners, assisting with writing the mandate and developing the Commission selection process. He has worked tirelessly toward the repudiation of the Doctrine of Christian Discovery and we are pleased to offer the text of his talk at the Wilson Center in Orono on March 4, 2020, as our blog this month. The text has been edited slightly for readability.
 *

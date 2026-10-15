@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 
-{% include seo.html %}
+{% include 'seo.html' %}
 
 {% unless site.atom_feed.hide %}
   <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
@@ -9,12 +9,8 @@
 {%- comment %} https://docs.google.com/presentation/d/1rmxwWa9P6_xHqonmh5ONXRS-jPc5XKbnv99Rjkhe04s/present {% endcomment -%}
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-  {% if site.enable_copy_code_button -%}
-    window.enable_copy_code_button = true;
-  {%- endif %}
-</script>
+
+<script>document.documentElement.classList.replace("no-js", "js");</script>
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">

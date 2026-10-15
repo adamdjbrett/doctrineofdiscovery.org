@@ -9,6 +9,7 @@ tags:
   - video
 link: https://youtu.be/AC1MU0RkuiE?si=ALEOI-WiWH6jOInu
 author: philip-arnold
+date: 2024-05-09
 ---
 > Sandy Bigtree & Philip Arnold - The Religious Origins of White Supremacy
 > 

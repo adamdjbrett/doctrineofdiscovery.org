@@ -12,4 +12,5 @@ tags:
   - bibliography
 link: https://rivercrew.notion.site/Doctrine-of-Discovery-a841e79fae19469c829c413fe476dba0
 author: adam-dj-brett
+date: 2026-03-11
 ---

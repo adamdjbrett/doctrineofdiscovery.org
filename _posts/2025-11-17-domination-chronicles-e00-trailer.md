@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e00-trailer/
 canonical_url: https://dominationchronicles.com/episodes/e00-trailer/
 author: adam-dj-brett
+date: 2025-11-17
 ---
 The trailer for [*Domination Chronicles*](/blog/domination-chronicles/) introduces a conversation that begins where many public discussions stop: with the claim of domination itself. Steven T. Newcomb and Peter d'Errico frame the podcast as an ongoing inquiry into how Christian discovery, federal Indian law, language, symbols, and political concepts have been used to normalize a world built through conquest.
 

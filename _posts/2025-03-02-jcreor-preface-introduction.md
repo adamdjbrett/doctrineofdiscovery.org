@@ -15,6 +15,7 @@ tags:
 link: https://creor-ejournal.library.mcgill.ca/article/view/108
 canonical_url: https://outcome.doctrineofdiscovery.org/jcreor/essay1/intro/
 author: philip-arnold
+date: 2025-03-02
 ---
 Abstract
 --------

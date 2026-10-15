@@ -35,7 +35,7 @@
       {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
-      {% include page__meta.html %}
+      {% include 'page__meta.html' %}
       {% if page.header.actions %}
         <p>
         {% for action in page.header.actions %}

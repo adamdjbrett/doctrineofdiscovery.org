@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e003-symbols/
 canonical_url: https://dominationchronicles.com/episodes/e003-symbols/
 author: adam-dj-brett
+date: 2025-11-20
 ---
 Symbols are not passive decorations. In this episode, Steven Newcomb and Peter d'Errico examine how statues, seals, emblems, monuments, and public images help create a shared reality. They ask what these objects reveal about domination, especially when communities debate whether to remove, preserve, or reinterpret them.
 

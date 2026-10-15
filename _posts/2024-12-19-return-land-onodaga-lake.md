@@ -15,6 +15,7 @@ tags:
   - special-issue
   - featured
 link: https://www.syracuse.com/opinion/2024/12/return-land-on-onondaga-lake-to-the-onondaga-nation-your-letters.html
+date: 2024-12-19
 ---
 Syracuse.com Editorial Op-Ed
 <blockquote>

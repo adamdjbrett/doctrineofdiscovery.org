@@ -10,6 +10,7 @@ tags:
   - doctrine
   - featured
 link: https://goodfaithmedia.org/doctrine-of-christian-discovery/
+date: 2024-02-20
 ---
 Listen to the podcast on [Megaphone](https://goodfaithmedia.org/doctrine-of-christian-discovery/), [Spotify](https://open.spotify.com/show/4VnMhbq2UJbu3fdehsQ66I) or [Apple](https://podcasts.apple.com/us/podcast/doctrine-of-christian-discovery/id1729219360).
 

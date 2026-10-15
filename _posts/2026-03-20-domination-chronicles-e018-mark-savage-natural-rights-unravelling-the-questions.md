@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e018-mark-savage-natural-rights-unravelling-the-questions/
 canonical_url: https://dominationchronicles.com/episodes/e018-mark-savage-natural-rights-unravelling-the-questions/
 author: adam-dj-brett
+date: 2026-03-20
 ---
 Attorney Mark Savage joins Newcomb and d'Errico for a conversation about natural rights, plenary power, treaties, and the possibility of systemic litigation. The episode asks what changes when Native nations and their advocates begin from original free existence rather than from the categories imposed by federal anti-Indian law.
 

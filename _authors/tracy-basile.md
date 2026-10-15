@@ -7,4 +7,5 @@ links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://muckrack.com/tracy-basile-1/portfolio"
+date: 2023-02-14T17:33:10.000-05:00
 ---

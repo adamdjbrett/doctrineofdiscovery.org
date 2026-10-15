@@ -10,4 +10,5 @@ links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://library.syracuse.edu/staff/balfoort-darle/"
+date: 2024-08-16T13:01:35.000-04:00
 ---

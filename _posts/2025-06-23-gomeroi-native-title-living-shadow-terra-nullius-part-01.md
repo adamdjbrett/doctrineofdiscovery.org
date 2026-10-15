@@ -13,6 +13,7 @@ author: phil-rodgers-falk
 toc: true
 toc_label: "Overview"
 toc_icon: "cog"
+date: 2025-06-23
 ---
 ## Part 1
 ### **Gomeroi Native Title - Living in the Shadow of *Terra Nullius***

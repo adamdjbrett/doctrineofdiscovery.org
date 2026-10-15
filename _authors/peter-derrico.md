@@ -18,4 +18,5 @@ links:
   - label: "JCRT"
     icon: "fas fa-fw fa-book-open"
     url: "https://jcrt.org/authors/peter-d-errico/"
+date: 2023-02-13T10:57:43.000-05:00
 ---

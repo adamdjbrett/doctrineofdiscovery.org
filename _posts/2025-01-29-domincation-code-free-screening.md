@@ -10,6 +10,7 @@ tags:
   - Resources
 link: https://www.eventbrite.com/e/the-doctrine-of-discovery-unmasking-the-domination-code-with-live-q-a-tickets-1225475132109?aff=oddtdtcreator
 author: steven-newcomb
+date: 2025-01-29
 ---
 Join us for a deep dive into The Doctrine of Discovery film and uncover the hidden truths behind the Domination Code in our live Q&A session
 

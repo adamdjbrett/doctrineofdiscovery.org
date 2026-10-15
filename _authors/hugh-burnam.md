@@ -10,4 +10,5 @@ links:
   - label: "Website"
     icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/hugh-burnam-phd-a8a9b257/"
+date: 2024-02-02T12:22:19.000-05:00
 ---

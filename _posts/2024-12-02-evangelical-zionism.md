@@ -8,6 +8,7 @@ tags:
   - theology
   - evangelicals
 link: https://www.parapraxismagazine.com/articles/evangelical-zionism
+date: 2024-12-02
 ---
 <blockquote>
 Sitting amid this background before a congressional hearing, Reagan’s secretary of the interior James G. Watt was asked if he would protect wildernesses for future generations. Watt replied, “I do not know how many future generations we can count on before the Lord returns.” A normal American reaction. When I speak of the popular belief that we are living in the End Times, I hear either laughs in disbelief or, among those who grew up in that world, instant recognition. As a child, I doubt I knew many adults who didn’t believe the world was ending. But how many Americans believe there will be a future? How does that belief intersect with the climate and other crises?

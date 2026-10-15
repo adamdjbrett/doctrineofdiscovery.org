@@ -10,4 +10,5 @@ links:
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://chancellor.syr.edu/university-leadership-2/chancellors-council/brian-konkol/"
+date: 2023-08-03T15:09:45.000-04:00
 ---

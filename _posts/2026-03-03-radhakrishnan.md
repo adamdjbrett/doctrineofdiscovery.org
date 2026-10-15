@@ -14,6 +14,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/jcrt/issue1/radhakrishnan
 link: https://outcome.doctrineofdiscovery.org/jcrt/issue1/radhakrishnan/
 permalink: /blog/link/outcome/jcrt/issue1/radhakrishnan/
 author: adam-dj-brett
+date: 2026-03-03
 ---
 
 "Schools, Teachers, and Teacher Educators: Education Through the Disruption of White Supremacy," an Outcome archive entry by Ritu Radhakrishnan. The entry belongs to the jcrt collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

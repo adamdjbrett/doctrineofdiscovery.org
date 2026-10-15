@@ -8,6 +8,7 @@ tags:
   - doctrineofdiscovery
 link: https://tinangata.com/2024/11/19/the-doctrine-of-discovery-moana-jackson-2012/
 author: tina-ngata
+date: 2024-11-19
 ---
 <blockquote>
 _As our people march upon government to call for the honouring of our treaty, Te Tiriti o Waitangi, the words of Moana Jackson are more poignant, and powerful, than ever. Here, he reflects on how the ultimate liberation from the clutches of the Doctrine of Discovery can only happen when we have our full political authority returned. He would have been so proud of our people today xx_

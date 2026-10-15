@@ -35,21 +35,30 @@ def verify(root):
         "index.html", "search/index.html", "contact/index.html",
         "categories/index.html", "tags/index.html", "feed.xml", "sitemap.xml",
         "sitemapindex.xml", "pdf-archival-list.xml", "citations-archival-list.xml",
-        "assets/css/main.css", "assets/js/main.min.js",
-        "assets/js/lunr/lunr.min.js", "assets/js/lunr/lunr-store.js",
-        "assets/js/lunr/lunr-en.js", "admin/index.html", "admin/config.yml",
-        "_redirects", "metadata.json", "standard.site/publication.json",
+        "assets/css/main.css", "assets/js/main.js", "assets/js/search.js",
+        "assets/js/lunr/lunr.min.js", "assets/js/lunr/store.json",
+        "admin/index.html", "admin/config.yml",
+        "_redirects", "_headers", "metadata.json", "standard.site/publication.json",
         "standard.site/documents.json", "standard.site/manifest.json",
     ]
     for name in required:
         assert (root / name).is_file(), f"Missing output: {name}"
+    expected = json.loads((Path(__file__).parent.parent / "tests/fixtures/jekyll-public-pages.json").read_text())
+    for name in expected:
+        assert (root / name).is_file(), f"Lost public page: {name}"
+    assert not list(root.rglob("*.scss")), "Sass sources published"
+    assert not (root / "assets/js/vendor").exists(), "Legacy JavaScript vendor bundle published"
 
     pages = list(root.rglob("*.html"))
     descriptions = 0
     citation_links = 0
     for path in pages:
         page = Page()
-        page.feed(path.read_text())
+        html = path.read_text()
+        assert not html.lstrip().startswith("---"), f"Unprocessed front matter: {path}"
+        assert "{%" not in html and "{{ site." not in html, f"Unrendered Liquid: {path}"
+        page.feed(html)
+        assert not any("jquery" in asset.lower() for asset in page.assets), path
         for asset in page.assets + page.citations:
             assert (root / asset.lstrip("/")).is_file(), f"{path}: missing {asset}"
         descriptions += sum(bool(value.strip()) for value in page.descriptions)

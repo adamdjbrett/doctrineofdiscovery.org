@@ -1,4 +1,4 @@
-{% case site.category_archive.type %}
+{% capture breadcrumb_html %}{% case site.category_archive.type %}
   {% when "liquid" %}
     {% assign path_type = "#" %}
   {% when "jekyll-archives" %}
@@ -37,4 +37,4 @@
       {% endif %}
     {% endfor %}
   </ol>
-</nav>
+</nav>{% endcapture %}{{ breadcrumb_html | compact_html }}

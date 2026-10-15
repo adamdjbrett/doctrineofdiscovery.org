@@ -13,6 +13,7 @@ tags:
 link: https://fore.yale.edu/sites/default/files/NER.N9_Text_and-Covers.Final_.Web%20Version.pdf
 canonical_url: https://outcome.doctrineofdiscovery.org/ecozoic/essay1/haudenosaunee-great-binding-peace/
 author: philip-arnold
+date: 2025-09-02
 ---
 
 

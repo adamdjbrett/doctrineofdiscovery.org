@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/ijr/essay1/religious-mora
 link: https://outcome.doctrineofdiscovery.org/ijr/essay1/religious-moral/
 permalink: /blog/link/outcome/ijr/essay1/religious-moral/
 author: adam-dj-brett
+date: 2025-09-02
 ---
 
 "Religious Moral Suasion and Material Support for the Environmental Justice Movement," an Outcome archive entry by Sarah Nahar. The entry belongs to the ijr collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

@@ -15,6 +15,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/animals-d
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/animals-doctrine-discovery/
 permalink: /blog/link/outcome/featured/essay2/animals-doctrine-discovery/
 author: adam-dj-brett
+date: 2024-11-30
 ---
 
 "Animal Nations and the Doctrine of Discovery," an Outcome archive entry by Tracy Basile. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

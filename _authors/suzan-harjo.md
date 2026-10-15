@@ -5,4 +5,5 @@ bio: "Suzan Shown Harjo, Cheyenne & Hodulgee Muscogee, is a writer, curator and 
 avatar: /assets/images/authors/ssharjo.jpg
 redirect_from:
     - /authors/ssharjo/
+date: 2023-02-13T10:57:43.000-05:00
 ---

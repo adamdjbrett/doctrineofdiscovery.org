@@ -14,6 +14,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/jcrt/issue2/conclusion/
 link: https://outcome.doctrineofdiscovery.org/jcrt/issue2/conclusion/
 permalink: /blog/link/outcome/jcrt/issue2/conclusion/
 author: adam-dj-brett
+date: 2026-04-16
 ---
 
 "Conclusion: Dismantling the Doctrine of Christian Discovery Cultivating Right Relations," an Outcome archive entry by Philip P. Arnold, Sandra Bigtree, Adam DJ Brett. The entry belongs to the jcrt collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

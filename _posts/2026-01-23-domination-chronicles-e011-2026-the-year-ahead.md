@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e011-2026-the-year-ahead/
 canonical_url: https://dominationchronicles.com/episodes/e011-2026-the-year-ahead/
 author: adam-dj-brett
+date: 2026-01-23
 ---
 This New Year's conversation looks ahead by returning to the central themes of the work: domination, free existence, law, language, technology, and the long histories that shape present choices. Newcomb and d'Errico ask how to keep reading deeply in a moment when public language often rewards speed, slogans, and institutional performance.
 

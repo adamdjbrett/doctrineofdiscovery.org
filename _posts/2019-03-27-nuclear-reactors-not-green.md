@@ -10,6 +10,7 @@ tags:
   - energy
   - green
 link: https://aila.ngo/wp-content/uploads/2019/03/NukeRedPaper3-25-19.pdf
+date: 2019-03-27
 ---
 
 ### A Red Paper by Onondaga Nation, Haudenosaunee Environmental Task Force and American Indian Law Alliance.

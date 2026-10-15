@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/city-of-s
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/city-of-sherrill/
 permalink: /blog/link/outcome/featured/essay2/city-of-sherrill/
 author: adam-dj-brett
+date: 2024-12-04
 ---
 
 "City of Sherrill v. Oneida Indian Nation, 544 U.S. 197 (2005): THE DOCTRINE OF," an Outcome archive entry by Joseph J. Heath. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

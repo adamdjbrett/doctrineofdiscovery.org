@@ -15,6 +15,7 @@ translator: Tupac Enrique Acosta
 header:
   image: /assets/images/burning-the-papal-bulls.dodconf2018.jpg
   caption: "2018 Papal Bull Burning."
+date: 2023-04-13
 ---
 por Betty Lyons, Sandra Bigtree y Philip Arnold
   

@@ -8,6 +8,7 @@ tags:
   - doctrine-of-discovery
 link: https://tinangata.substack.com/p/new-resources-talking-to-christians
 author: tina-ngata
+date: 2024-07-06
 ---
 > Remember, if it’s starting to get heated, step out and take a breather, you can always have the kōrero again another day.
 > TLDR: It’s ok to be Christian, it’s not ok to be Christian-supremacist.

@@ -12,4 +12,5 @@ links:
     url: "https://www.linkedin.com/in/robert-michael-ruehl-01a60817/"
 redirect_from:
   - /authors/rmruehl/
+date: 2023-02-13T10:57:43.000-05:00
 ---

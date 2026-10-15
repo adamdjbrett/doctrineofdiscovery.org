@@ -26,6 +26,7 @@ toc: true
 toc_label: "Overview"
 toc_icon: "cog"
 published: true
+date: 2024-02-01
 ---
 *Keywords: Settler colonialism, higher education, land grant, the Whipple Report, Onondaga Nation, Syracuse University*
 

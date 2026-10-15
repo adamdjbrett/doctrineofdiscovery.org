@@ -12,6 +12,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/jcrt/issue1/
 link: https://outcome.doctrineofdiscovery.org/jcrt/issue1/
 permalink: /blog/link/outcome/jcrt/issue1/
 author: adam-dj-brett
+date: 2026-03-03
 ---
 
 "Vol. 24 No. 2 (Winter 2026): Challenging the Justifications of Domination Through Religion," an Outcome archive entry by the Outcome contributors. The entry belongs to the jcrt collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

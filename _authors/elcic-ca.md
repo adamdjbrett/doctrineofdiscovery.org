@@ -10,4 +10,5 @@ links:
   - label: "Facebook"
     icon: "fab fa-fw fa-facebook"
     url: "https://www.facebook.com/CanadianLutherans"
+date: 2023-02-13T10:57:43.000-05:00
 ---

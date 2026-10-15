@@ -14,6 +14,7 @@ tags:
   - featured
 link: https://creor-ejournal.library.mcgill.ca/article/view/107
 canonical_url: https://outcome.doctrineofdiscovery.org/jcreor/essay1/editorial/
+date: 2025-03-01
 ---
 Abstract
 --------

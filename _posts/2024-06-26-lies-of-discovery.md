@@ -7,6 +7,7 @@ tags:
   - colonialism
   - doctrine-of-discovery
 link: https://oregonhumanities.org/rll/magazine/possession-spring-2021/lies-of-discovery/
+date: 2024-06-26
 ---
 <blockquote>
 In 2016 the Vatican, recognizing the need to understand Indigenous religious protocols, invited Indigenous spiritual leaders from around the world to Rome. On May 4, eleven leaders met outside of Rome to prepare for their visit with Pope Francis. JoDe Goudy, as chairman and a longhouse spiritual leader of the Yakama Nation, began with a song and prayer to honor his peers and the occasion. Each leader followed with a similar honoring and mission: revoke the Doctrine of Discovery.

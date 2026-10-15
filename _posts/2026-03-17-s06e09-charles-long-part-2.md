@@ -13,6 +13,7 @@ tags:
 link: https://podcast.doctrineofdiscovery.org/season6/episode-09/
 canonical_url: https://podcast.doctrineofdiscovery.org/season6/episode-09/
 author: adam-dj-brett
+date: 2026-03-17
 ---
 
 In this episode of the Mapping the Doctrine of Discovery podcast, Philip P. Arnold, Natalie Avalos, Teresa Smallwood, Emilie Townes, and Corey D. B. Walker trace how the Doctrine of Discovery moved from papal bulls to U.S. property law while centering Haudenosaunee sovereignty, Indigenous resurgence, and Charles H. Long's call to reimagine the human. The conversation connects colonial law, whiteness, womanist critique, Black Studies, and decolonial repair.

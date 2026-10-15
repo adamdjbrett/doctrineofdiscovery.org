@@ -14,6 +14,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/jcrt/issue2/postscript/
 link: https://outcome.doctrineofdiscovery.org/jcrt/issue2/postscript/
 permalink: /blog/link/outcome/jcrt/issue2/postscript/
 author: adam-dj-brett
+date: 2026-04-16
 ---
 
 "A Postscript: Sovereignty is Still the Issue," an Outcome archive entry by Adam DJ Brett, Betty Hill (Lyons), Nethanial Belmont. The entry belongs to the jcrt collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

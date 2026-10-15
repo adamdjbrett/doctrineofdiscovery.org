@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/jcreor/essay2/intellectua
 link: https://outcome.doctrineofdiscovery.org/jcreor/essay2/intellectual/
 permalink: /blog/link/outcome/jcreor/essay2/intellectual/
 author: adam-dj-brett
+date: 2024-09-16
 ---
 
 "Intellectual Acknowledgement in Favour of Religious Freedom and Justice," an Outcome archive entry by Lars Kirkhusmo Pharo. The entry belongs to the jcreor collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

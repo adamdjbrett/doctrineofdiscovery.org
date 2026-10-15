@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/docu
 link: https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/documenting-domination-in-international-relations-through-the-doctrine-of-discovery/
 permalink: /blog/link/outcome/crosscurrents/essay2/documenting-domination-in-international-relations-through-the-doctrine-of-discovery/
 author: adam-dj-brett
+date: 2025-06-12
 ---
 
 "Documenting Domination in International Relations Through the Doctrine of Discovery," an Outcome archive entry by Adam DJ Brett, Betty Hill (Lyons). The entry belongs to the crosscurrents collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

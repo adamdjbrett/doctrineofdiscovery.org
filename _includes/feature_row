@@ -1,5 +1,5 @@
-{% if include.id %}
-  {% assign feature_row = page[include.id] %}
+{% if include_id %}
+  {% assign feature_row = page[include_id] %}
 {% else %}
   {% assign feature_row = page.feature_row %}
 {% endif %}
@@ -7,7 +7,7 @@
 <div class="feature__wrapper">
 
   {% for f in feature_row %}
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="feature__item{% if include_type %}--{{ include_type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">

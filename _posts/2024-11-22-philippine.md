@@ -16,6 +16,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/philippin
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/philippine/
 permalink: /blog/link/outcome/featured/essay2/philippine/
 author: adam-dj-brett
+date: 2024-11-22
 ---
 
 "The Regalian Doctrine: The Philippine Case," an Outcome archive entry by S. Lily Mendoza. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

@@ -13,6 +13,7 @@ tags:
 link: https://dominationchronicles.com/episodes/e015-domination-chronicles-stolen-land/
 canonical_url: https://dominationchronicles.com/episodes/e015-domination-chronicles-stolen-land/
 author: adam-dj-brett
+date: 2026-02-19
 ---
 This episode begins with the public controversy around saying "stolen land" and moves quickly to the deeper issue: what kind of speech actually challenges domination? Newcomb and d'Errico distinguish between words that perform legal acts, such as claiming land for a monarch, and words that perform social approval without changing underlying structures.
 

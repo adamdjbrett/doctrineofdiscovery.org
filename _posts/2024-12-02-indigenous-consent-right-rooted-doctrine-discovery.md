@@ -15,6 +15,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/indigenou
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/indigenous-consent-right-rooted-doctrine-discovery/
 permalink: /blog/link/outcome/featured/essay2/indigenous-consent-right-rooted-doctrine-discovery/
 author: adam-dj-brett
+date: 2024-12-02
 ---
 
 "Indigenous Consent: A Right Rooted in the Doctrine of Discovery," an Outcome archive entry by Urszula Piasta Mansfield. The entry belongs to the featured collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

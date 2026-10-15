@@ -10,6 +10,7 @@ tags:
   - neoclonilaism
 link: https://youtu.be/ZUM6R5rMbss?si=V8qUeb-RtM0u9A-y
 author: tupac-enrique-acosta
+date: 2020-06-20
 ---
 Featured speaker: Tupac Enrique Acosta, Tonatierra
 

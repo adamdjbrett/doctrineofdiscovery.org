@@ -17,6 +17,7 @@ canonical_url: https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/stat
 link: https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/statement-doctrine-discovery-episcopal/
 permalink: /blog/link/outcome/crosscurrents/essay2/statement-doctrine-discovery-episcopal/
 author: adam-dj-brett
+date: 2025-06-26
 ---
 
 "Statement on the Doctrine of Discovery," an Outcome archive entry by Bishop Dede Duncan-Probe. The entry belongs to the crosscurrents collection and connects readers to scholarship, public history, and organizing around the Doctrine of Discovery, Christian domination, Indigenous sovereignty, law, religion, land, memory, and accountability.

@@ -23,6 +23,7 @@ link: https://artsandsciences.syracuse.edu/religion/news/university-to-host-conf
 toc: true
 toc_label: "Overview"
 toc_icon: "cog"
+date: 2023-09-30
 ---
 
 ![Conference Flyer](/assets/images/2023-conference-banner.jpg)
