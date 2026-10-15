@@ -1,4 +1,5 @@
 ---
+schema_type: Organization
 username: united-church-canada
 name: "United Church of Canada"
 bio: "The United Church of Canada is the largest Protestant denomination in Canada."

@@ -1,4 +1,5 @@
 ---
+schema_type: Organization
 username: christian-church-disciples-of-christ
 name: "Christian Church (Disciples of Christ)"
 bio: "A mainline Protestant denomination centered in the United States and Canada"

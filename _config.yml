@@ -140,3 +140,9 @@ standard_site:
   description: "The Doctrine of Discovery Project advances public education, research, and advocacy to challenge domination, dispossession, and the legacy of Christian Discovery in law, religion, and society."
   did: ""
   publication_at_uri: ""
+
+rights: "https://creativecommons.org/licenses/by/4.0/"
+
+# IndexNow ownership verification key; published in a root text file.
+indexnow:
+  key: 27202ab8b1581d5f08050cba9b94f0e5

@@ -1,18 +1,13 @@
 <h2 class="suggested-citation-header">{{ site.data.snippets.suggested-citation }}</h2>
 <div class="suggested-citation-text">
 	<p class="suggested-citation-text">
-		{% for author in site.authors %}
-		{% if author.username == page.author %}
-		{% assign author = page.author %}
-		{{ author.name }},
-		{{ site.data.snippets.title-open-quote }}{{ page.title | strip }}{{ site.data.snippets.title-close-quote }}
+		{{ page.publication.authors | map: 'name' | join: ', ' | escape }},
+		{{ site.data.snippets.title-open-quote }}{{ page.publication.title | escape }}{{ site.data.snippets.title-close-quote }}
 		{% if page.translator %}
 		{{ site.data.snippets.translator }}
 		{{ page.translator }},{% endif %}
 		<em>{{ site.data.snippets.journal-title }}</em> ({{ page.date | date: "%-d %B %Y" }}),
 		{{ site.url }}{{ page.url }}.
-		{% endif %}
-		{% endfor %}
 	</p>
 </div>
 </div>

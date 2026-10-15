@@ -1,0 +1,92 @@
+{
+  "name": "Doctrine of Discovery Project",
+  "alternateName": "Doctrine of Christian Discovery",
+  "url": "https://doctrineofdiscovery.org/",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://doctrineofdiscovery.org/assets/images/doctrine-of-discovery-project-logo.png"
+  },
+  "foundingDate": "2007",
+  "description": "The Doctrine of Discovery Project advances public education, research, and advocacy to challenge domination, dispossession, and the legacy of Christian Discovery in law, religion, and society.",
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Indigenous Values Initiative",
+      "url": "https://indigenousvalues.org/"
+    },
+    {
+      "@type": "Organization",
+      "name": "American Indian Law Alliance",
+      "url": "https://aila.ngo/"
+    }
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "General Inquiries",
+      "name": "Philip P. Arnold",
+      "email": "info@indigenousvalues.org",
+      "availableLanguage": [
+        "en"
+      ],
+      "areaServed": "International"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "P.O. Box 336",
+    "addressLocality": "DeWitt",
+    "addressRegion": "NY",
+    "postalCode": "13214-9211",
+    "addressCountry": "US"
+  },
+  "email": "info@indigenousvalues.org",
+  "subjectOf": [
+    {
+      "@type": "CreativeWork",
+      "name": "Mapping the Doctrine of Discovery Podcast",
+      "url": "https://podcast.doctrineofdiscovery.org/",
+      "description": "A podcast exploring the historical, legal, and theological legacy of the Doctrine of Christian Discovery and its ongoing impacts on Indigenous peoples."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Doctrine of Discovery Outcome Documents",
+      "url": "https://outcome.doctrineofdiscovery.org/",
+      "description": "A curated collection of outcome documents, statements, and reports advancing public understanding and action related to the Doctrine of Christian Discovery."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Vol. 5 No. 2 (2024): From Indigenous Religions to Indigenous Values",
+      "url": "https://creor-ejournal.library.mcgill.ca/issue/view/12",
+      "isPartOf": "CREOR e-Journal",
+      "description": "A special journal issue examining Indigenous religions, community values, and relational worldviews in the context of critical scholarship on the Doctrine of Discovery."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Special Issue: 200 Years of Johnson v. M’Intosh: Indigenous Responses to the Religious Foundations of Racism",
+      "url": "https://muse.jhu.edu/issue/55074",
+      "isPartOf": "Journal of Law and Religion",
+      "description": "A scholarly special issue marking the 200-year anniversary of the Johnson v. M’Intosh decision, featuring Indigenous critiques of its religious and racial foundations."
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/doctrineofdiscovery"
+  ],
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Philip P. Arnold",
+      "url": "https://artsandsciences.syracuse.edu/people/faculty/arnold-philip-p/"
+    },
+    {
+      "@type": "Person",
+      "name": "Sandy Bigtree",
+      "url": "https://indigenousvalues.org/about/our-team/"
+    },
+    {
+      "@type": "Person",
+      "name": "Adam DJ Brett",
+      "url": "https://adamdjbrett.com"
+    }
+  ]
+}

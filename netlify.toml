@@ -5,3 +5,25 @@
 [build.environment]
   NODE_VERSION = "24"
   ELEVENTY_ENV = "production"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
+[functions.oai]
+  included_files = ["_site/oai/records.json"]
+
+[[redirects]]
+  from = "/oai"
+  to = "/.netlify/functions/oai"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/oai/"
+  to = "/.netlify/functions/oai"
+  status = 200
+  force = true
+
+[[plugins]]
+  package = "./netlify/plugins/indexnow"

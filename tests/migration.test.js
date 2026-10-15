@@ -60,6 +60,9 @@ test('site uses Git modifications, precomputed author lists, and unique output p
   const expectedGit=execFileSync('git',['log','-1','--format=%cI','--','index.html'],{encoding:'utf8'}).trim();
   assert.equal(isoDate(documents.find(d=>d.path==='index.html').last_modified_at),isoDate(expectedGit));
   assert.deepEqual([...site.posts].sort(sortByModified).map(d=>d.url),site.posts.map(d=>d.url));
+  const homepagePosts=documents.filter(d=>d.paginator).sort((a,b)=>a.paginator.page-b.paginator.page).flatMap(d=>d.paginator.posts);
+  assert.equal(homepagePosts.length,site.posts.length);
+  for(let i=1;i<homepagePosts.length;i++) assert.ok(dateValue(homepagePosts[i-1].date)>=dateValue(homepagePosts[i].date),'Homepage pagination must show newest publications first');
   assert.equal(new Set(documents.map(d=>d.output)).size,documents.length);
   const first=site.posts[0];
   assert.ok(first.html.includes('class="page__related"'));
@@ -76,8 +79,8 @@ test('citation and metadata generation preserve publication dates and document c
   const {ris,csl}=citation(site,post);assert.match(ris,/DA  - 2022\/06\/13/);
   assert.equal(csl[0].type,'post-weblog');assert.equal(csl[0].URL,site.url+post.url);
   assert.deepEqual(csl[0].issued['date-parts'],[[2022,6,13]]);
-  const metadata=postMetadata(site,post);assert.equal(metadata.datePublished,'2022-06-13');
-  assert.equal(metadata.author.name,'Indigenous Values Initiative');
+  const metadata=postMetadata(site,post);assert.equal(metadata.datePublished.slice(0,10),'2022-06-13');
+  assert.deepEqual(metadata.author.map(author=>author.name),['Sebastian Modrow','Melissa Smith']);
   const records=standardRecords(site);assert.equal(records.manifest.documentCount,site.posts.length+10);
 });
 
@@ -129,7 +132,7 @@ test('direct asset serving is limited to in-project previews; other builds keep 
       configure(fake);
       assert.equal(fake.behavior==='passthrough',fast);
       assert.equal(fake.watchIgnores.has('assets/css/**'),fast);
-      assert.equal(Boolean(fake.server?.aliases['/assets/citations/']),fast);
+      assert.equal(Boolean(fake.server?.aliases?.['/assets/citations/']),fast);
     }
   } finally {
     if(previous===undefined)delete process.env.ELEVENTY_RUN_MODE;else process.env.ELEVENTY_RUN_MODE=previous;

@@ -7,7 +7,7 @@ categories:
 tags:
   - law
   - international
-date: 2026-10-15
+date: 2026-10-15T16:33:17-04:00
 ---
 
 We are pleased to share [**Destroying the Doctrine of Discovery**](/assets/pdfs/DestroyingDoctrineDiscovery.pdf), a new publication by [**Robert J. Miller**](/authors/robert-miller/). The paper examines how the Doctrine of Discovery became an international legal framework for colonization and outlines ways Indigenous nations and peoples can challenge its continuing effects on their lands, sovereignty, and human rights.

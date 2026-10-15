@@ -2,6 +2,7 @@
 """Check a production build without installing a test framework."""
 
 import json
+import hashlib
 import sys
 from html.parser import HTMLParser
 from pathlib import Path
@@ -15,19 +16,33 @@ class Page(HTMLParser):
         self.assets = []
         self.citations = []
         self.descriptions = []
+        self.json_ld = []
+        self.script = None
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
+        if tag == "script" and attrs.get("type") == "application/ld+json":
+            self.script = ""
         url = attrs.get("src") if tag == "script" else attrs.get("href")
         if url:
             path = unquote(urlsplit(url).path)
             if not urlsplit(url).netloc:
                 if path.startswith(("/assets/css/", "/assets/js/")):
                     self.assets.append(path)
-                if path.startswith("/assets/citations/"):
+                if path.startswith("/assets/citations/") or path.endswith(("/citation.ris", "/citation.csl.json", ".citation.ris", ".citation.csl.json")):
                     self.citations.append(path)
         if tag == "meta" and attrs.get("name") == "description":
             self.descriptions.append(attrs.get("content", ""))
+
+
+    def handle_data(self, data):
+        if self.script is not None:
+            self.script += data
+
+    def handle_endtag(self, tag):
+        if tag == "script" and self.script is not None:
+            self.json_ld.append(json.loads(self.script))
+            self.script = None
 
 
 def verify(root):
@@ -38,7 +53,7 @@ def verify(root):
         "assets/css/main.css", "assets/js/main.js", "assets/js/search.js",
         "assets/js/lunr/lunr.min.js", "assets/js/lunr/store.json",
         "admin/index.html", "admin/config.yml",
-        "_redirects", "_headers", "metadata.json", "standard.site/publication.json",
+        "_redirects", "_headers", "metadata.json", "oai/records.json", "indexnow.json", "standard.site/publication.json",
         "standard.site/documents.json", "standard.site/manifest.json",
     ]
     for name in required:
@@ -58,6 +73,10 @@ def verify(root):
         assert not html.lstrip().startswith("---"), f"Unprocessed front matter: {path}"
         assert "{%" not in html and "{{ site." not in html, f"Unrendered Liquid: {path}"
         page.feed(html)
+        if 'class="greedy-nav"' in html:
+            assert len(page.json_ld) == 1, f"Expected one coherent JSON-LD graph: {path}"
+            graph = page.json_ld[0]["@graph"]
+            assert sum(node.get("@type") == "Organization" and node.get("@id", "").endswith("/#organization") for node in graph) == 1, path
         assert not any("jquery" in asset.lower() for asset in page.assets), path
         for asset in page.assets + page.citations:
             assert (root / asset.lstrip("/")).is_file(), f"{path}: missing {asset}"
@@ -79,6 +98,22 @@ def verify(root):
         record = json.loads(path.read_text())
         assert record, f"Empty citation: {path}"
         assert path.with_name(path.name.removesuffix(".csl.json") + ".ris").is_file(), path
+
+    catalog = json.loads((root / "oai/records.json").read_text())
+    assert catalog["records"], "No OAI records"
+    assert len({r["identifier"] for r in catalog["records"]}) == len(catalog["records"])
+    for record in catalog["records"]:
+        ElementTree.fromstring(record["xml"])
+    manifest = json.loads((root / "indexnow.json").read_text())
+    assert "key" not in manifest and "keyLocation" not in manifest
+    keys = [p for p in root.glob("*.txt") if p.read_text().strip() == p.stem and hashlib.sha256(p.stem.encode()).hexdigest() == manifest["keyVersion"]]
+    assert len(keys) == 1, "Missing IndexNow ownership verification file"
+    for record in manifest["records"]:
+        assert urlsplit(record["url"]).netloc == manifest["host"]
+    for path in root.rglob("citation.csl.json"):
+        assert path.with_name("citation.ris").is_file(), path
+        ElementTree.parse(path.with_name("dc.xml"))
+        assert json.loads(path.read_text()), path
 
     standard = root / "standard.site"
     documents = json.loads((standard / "documents.json").read_text())

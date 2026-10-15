@@ -1,4 +1,5 @@
 ---
+schema_type: Organization
 username: wcc
 name: "World Council of Churches"
 bio: "A worldwide fellowship of churches seeking unity, a common witness and Christian service"

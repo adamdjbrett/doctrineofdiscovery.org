@@ -1,4 +1,5 @@
 ---
+schema_type: Organization
 username: united-church-christ
 name: "United Church of Christ"
 bio: "The United Church of Christ (UCC) is a distinct and diverse community of Christians that come together as one church to join faith and action."

@@ -1,6 +1,6 @@
 {% for author in site.authors %}
 {% if author.username == page.author %}
-<div itemscope itemtype="https://schema.org/Person" class="h-card">
+<div itemscope itemtype="https://schema.org/{{ author.schema_type | default: 'Person' }}" class="h-card">
 	{% if author.avatar %}
 	<div class="author__avatar">
 		<a href="{{ author.url }}">

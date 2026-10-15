@@ -1,4 +1,5 @@
 ---
+schema_type: Organization
 username: umc
 name: "United Methodist Church"
 bio: "The United Methodist Church is a global denomination of more than 12 million members around the world."

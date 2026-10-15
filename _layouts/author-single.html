@@ -17,9 +17,10 @@ layout: default
 <div id="main" role="main">
 	{% include 'sidebar.html' %}
 
-	<div class="archive">
+	<div class="archive h-card">
+    <div hidden><a class="u-url" href="{{ page.url }}">{{ page.name }}</a>{% if page.avatar %}<a class="u-photo" href="{{ page.avatar }}"></a>{% endif %}{% if page.bio %}<span class="p-note">{{ page.bio | markdownify | strip_html }}</span>{% endif %}</div>
 		{% unless page.header.overlay_color or page.header.overlay_image %}
-		<h1 id="page-title" class="page__title">{{ page.name }}</h1>
+		<h1 id="page-title" class="page__title p-name">{{ page.name }}</h1>
 		{% endunless %}
 		{% for post in site.author_posts[page.username] %}
 

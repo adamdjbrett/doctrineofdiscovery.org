@@ -1,4 +1,5 @@
 ---
+schema_type: Organization
 username: indigenous-values-initiative
 name: Indigenous Values Initiative
 avatar: /assets/images/indigenousvalues-2020.png

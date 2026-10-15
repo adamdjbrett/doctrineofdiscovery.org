@@ -58,8 +58,8 @@ the file's latest Git commit date. Modified-date listings fall back to
 publication dates when Git history is unavailable. Complete Git history gives
 the best results; source exports without `.git` remain buildable using their
 committed publication dates. Modification dates are never based on filesystem
-copy times. The Atom feed stays in publication order; homepage and taxonomy
-listings use modified order.
+copy times. The Atom feed, homepage, and homepage pagination use publication
+order, newest first. Taxonomy listings use modified order.
 
 ## Templates, styles, and metadata
 
@@ -79,6 +79,46 @@ Citation generation, SEO descriptions, per-post metadata, and Standard.site
 endpoints run at build time in `lib/metadata.js` and `lib/content.js`. Existing
 citation URLs and historical downloads are retained. No browser JavaScript is
 needed for metadata generation.
+
+### Publication metadata and discovery
+
+Posts and HTML pages expose Zotero/Highwire citation tags, Dublin Core tags,
+and one coherent Schema.org graph. Posts use `BlogPosting`; author profiles
+use `ProfilePage` with `Person` or `Organization`. The standard microformat
+author representation is `p-author h-card` inside `h-entry`.
+Explicit `authors` takes precedence over `author`; names and profile details
+come from `_authors/`. Set `schema_type: Organization` for institutional
+authors. Publisher details live in `_data/organization.yml`.
+
+Each post and content HTML page has adjacent `citation.ris`, `citation.csl.json`, and
+`dc.xml` exports (for example, `/inter-caetera/citation.ris`). URLs ending in
+`.html` append `.citation.ris`, `.citation.csl.json`, or `.dc.xml` instead.
+Legacy `/assets/citations/` downloads remain available.
+
+`/oai?verb=Identify` exposes the OAI-PMH repository, both in local preview and
+on Netlify. It supports all six verbs, GET and form POST, the `oai_dc`
+metadata format, and the `blog` set. Dates use UTC days from Git history;
+lists currently return all matching records in one response.
+
+IndexNow notifications run after successful **production Netlify deploys**.
+Local builds and deploy previews do not submit. The local build plugin
+compares the previous production `/indexnow.json` with the new manifest,
+then submits new, changed, and removed URLs after checking the deployed
+ownership file. The verification key lives in `_config.yml`; the build
+generates its root `.txt` verification file. The public manifest contains
+URL hashes and a key fingerprint. Notifications exclude redirects, drafts,
+unpublished documents, `noindex`, `sitemap: false`, and external canonical
+URLs. Theme `hidden` only affects archive listings.
+
+```sh
+npm run indexnow -- --dry-run  # inspect current URL count; no notification
+npm run indexnow -- --submit  # manually submit after deploying this build
+```
+
+Notification failures are logged without failing an already successful
+deployment; use the manual command to retry. See
+[Goal 3 validation](docs/goal-3-validation.md) for local checks and the
+remaining Netlify validation steps.
 
 The starting theme was Minimal Mistakes **4.27.3**, commit
 `0064dabea814bd3a2e203320a141c037fdcf67ea`, imported during Goal 1 and adapted

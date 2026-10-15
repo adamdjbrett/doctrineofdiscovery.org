@@ -9,7 +9,8 @@
     "dev": "eleventy --serve --port=8080 --quiet",
     "start": "npm run dev",
     "test": "node --test",
-    "verify": "python3 scripts/verify_build.py _site"
+    "verify": "python3 scripts/verify_build.py _site",
+    "indexnow": "node scripts/indexnow.js"
   },
   "overrides": {
     "chokidar@^3.0.0": {

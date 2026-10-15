@@ -1,4 +1,5 @@
 ---
+schema_type: Organization
 username: church-brethren
 name: Church of the Brethren
 bio: "Continuing the work of Jesus. Peacefully. Simply. Together."

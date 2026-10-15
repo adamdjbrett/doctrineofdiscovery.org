@@ -1,4 +1,5 @@
 ---
+schema_type: Organization
 username: christian-reformed
 name: "Christian Reformed Church"
 bio: "A Protestant denomination in the United States and Canada"

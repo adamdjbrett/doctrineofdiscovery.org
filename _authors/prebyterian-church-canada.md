@@ -1,4 +1,5 @@
 ---
+schema_type: Organization
 username: prebyterian-church-canada
 name: "The Presbyterian Church in Canada"
 bio: "The Presbyterian Church in Canada is a Presbyterian denomination, serving in Canada under this name since 1875."

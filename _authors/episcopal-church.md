@@ -1,4 +1,5 @@
 ---
+schema_type: Organization
 username: episcopal-church
 name: "Episcopal Church (USA)"
 bio: "The Episcopal Church is a member church of the worldwide Anglican Communion based in the United States with dioceses elsewhere."

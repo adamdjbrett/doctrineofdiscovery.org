@@ -2,11 +2,9 @@
   Generate citation download links for the current post.
   Usage: {% include 'citation-links.html' %}
 {% endcomment %}
-{% assign slug = page.url | split: '/' | last %}
-
 <h3>Download citation formats:</h3>
 <ul>
-<li><a href="/assets/citations/{{ slug }}.ris">Download RIS citation</a></li>
-<li><a href="/assets/citations/{{ slug }}.csl.json">Download CSL-JSON citation</a></li>
+<li><a href="{{ page.citation_urls.ris }}">Download RIS citation</a></li>
+<li><a href="{{ page.citation_urls.csl }}">Download CSL-JSON citation</a></li>
 </ul>
 

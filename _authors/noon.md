@@ -1,4 +1,5 @@
 ---
+schema_type: Organization
 username: noon
 name: "NOON"
 bio: "Neighbors of Onondaga Nation."
