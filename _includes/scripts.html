@@ -1,3 +1,3 @@
-<script src="{{ '/assets/js/main.js' | asset_url }}" data-icons="{{ '/assets/icons/fontawesome.svg' | asset_url }}" defer></script>
-{% if site.search %}<script src="{{ '/assets/js/search.js' | asset_url }}" defer></script>{% endif %}
+<script src="{{ '/assets/js/main.js' | asset_url }}" {% if site.search %}data-search="{{ '/assets/js/search.js' | asset_url }}"{% endif %} data-gallery="{{ '/assets/js/gallery.js' | asset_url }}" defer></script>
+{% if page.toc %}<script src="{{ '/assets/js/toc.js' | asset_url }}" defer></script>{% endif %}
 {% include 'analytics.html' %}

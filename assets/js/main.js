@@ -53,64 +53,19 @@ function toggleSearch(open) {
 }
 searchToggle?.addEventListener('click', () => toggleSearch(!searchOverlay?.classList.contains('is--visible')));
 document.addEventListener('keydown', event => { if (event.key === 'Escape' && searchOverlay?.classList.contains('is--visible')) toggleSearch(false); });
-for (const heading of document.querySelectorAll('.page__content h1[id], .page__content h2[id], .page__content h3[id], .page__content h4[id], .page__content h5[id], .page__content h6[id]')) {
-  const anchor = document.createElement('a');
-  anchor.className='header-link'; anchor.href='#'+heading.id; anchor.title='Permalink';
-  anchor.innerHTML=`<span class="sr-only">Permalink</span><svg class="site-icon" aria-hidden="true" focusable="false"><use href="${document.querySelector('script[data-icons]').dataset.icons}#solid-link"></use></svg>`;
-  heading.append(anchor);
+const script=document.querySelector('script[data-gallery]');
+const form=document.querySelector('#site-search-form');
+if (form && script.dataset.search) {
+  const loadSearch=()=>import(script.dataset.search).catch(()=>{document.querySelector('#search-status').textContent='Search could not be loaded. Please reload and try again.';});
+  form.addEventListener('focusin',loadSearch,{once:true});
+  form.addEventListener('input',loadSearch,{once:true});
+  form.addEventListener('submit',event=>{event.preventDefault();loadSearch();},{once:true});
+  if (new URLSearchParams(location.search).get('q')) loadSearch();
 }
-// Native dialog retains the theme's Magnific Popup appearance and keyboard support.
-const images = [...document.querySelectorAll('.page__content a[href]')].filter(link => link.querySelector(':scope > img') && /\.(?:jpe?g|png|gif|webp|avif)(?:[?#]|$)/i.test(link.href));
-if (images.length) {
-  const dialog = document.createElement('dialog');
-  dialog.className = 'image-viewer mfp-wrap mfp-gallery mfp-ready';
-  dialog.setAttribute('aria-label', 'Image viewer');
-  dialog.innerHTML = `<div class="mfp-container mfp-image-holder"><div class="mfp-content"><div class="mfp-figure"><button type="button" class="mfp-close" aria-label="Close">×</button><figure><img class="mfp-img" alt=""><figcaption><div class="mfp-bottom-bar"><div class="mfp-title"></div><div class="mfp-counter"></div></div></figcaption></figure></div></div><button type="button" class="mfp-arrow mfp-arrow-left" aria-label="Previous image"></button><button type="button" class="mfp-arrow mfp-arrow-right" aria-label="Next image"></button></div>`;
-  const image = dialog.querySelector('img');
-  const caption = dialog.querySelector('.mfp-title');
-  let current = 0;
-  function show(index) {
-    current = (index + images.length) % images.length;
-    image.src = images[current].href;
-    image.alt = images[current].querySelector('img')?.alt || '';
-    image.style.maxHeight = innerHeight+'px';
-    caption.textContent = images[current].title || '';
-    dialog.querySelector('.mfp-counter').textContent = `${current + 1} of ${images.length}`;
-  }
-  image.addEventListener('error', () => { caption.replaceChildren(); const link=document.createElement('a'); link.href=image.src; link.textContent='Image could not be loaded. Open original.'; caption.append(link); });
-  dialog.querySelector('.mfp-close').addEventListener('click',()=>dialog.close());
-  dialog.querySelector('.mfp-arrow-left').addEventListener('click',()=>show(current-1));
-  dialog.querySelector('.mfp-arrow-right').addEventListener('click',()=>show(current+1));
-  image.addEventListener('click',()=>show(current+1));
-  document.body.append(dialog);
-  images.forEach((link,index) => link.addEventListener('click', event => {
-    if (event.button || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
-    event.preventDefault(); show(index); dialog.showModal();
-  }));
-  dialog.addEventListener('click', event => { if (event.target === dialog || event.target.classList.contains('mfp-container')) dialog.close(); });
-  dialog.addEventListener('keydown', event => {
-    if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') { event.preventDefault(); show(current + (event.key === 'ArrowLeft' ? -1 : 1)); }
-  });
-}
-for (const frame of document.querySelectorAll('#main iframe[src*="youtube"], #main iframe[src*="vimeo"]')) {
-  if (frame.closest('.responsive-video-container')) continue;
-  const wrapper=document.createElement('div'); wrapper.className='fluid-width-video-wrapper';
-  wrapper.style.paddingTop = ((Number(frame.height)||9)/(Number(frame.width)||16)*100)+'%';
-  frame.before(wrapper); wrapper.append(frame); frame.removeAttribute('width'); frame.removeAttribute('height');
-}
-const tocLinks=[...document.querySelectorAll('nav.toc a[href^="#"]')];
-if (tocLinks.length) {
-  const sections=tocLinks.map(link=>({link,heading:document.getElementById(decodeURIComponent(link.hash.slice(1)))})).filter(item=>item.heading);
-  let active, scheduled=false;
-  function updateToc() {
-    scheduled=false;
-    const current=sections.filter(item=>item.heading.getBoundingClientRect().top<=20).at(-1);
-    if (active===current) return;
-    active?.link.parentElement.classList.remove('active'); active?.heading.classList.remove('active');
-    current?.link.parentElement.classList.add('active'); current?.heading.classList.add('active'); active=current;
-    const sidebar=current?.link.closest('.sidebar__right.sticky');
-    if (sidebar && getComputedStyle(sidebar).position==='sticky') current.link.scrollIntoView({block:'nearest'});
-  }
-  window.addEventListener('scroll',()=>{if(!scheduled){scheduled=true;requestAnimationFrame(updateToc);}}, {passive:true});
-  updateToc();
-}
+document.addEventListener('click',async event=>{
+  const link=event.target.closest('.page__content a[href]');
+  if (!link || !link.querySelector(':scope > img') || !/\.(?:jpe?g|png|gif|webp|avif)(?:[?#]|$)/i.test(link.href) || event.button || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+  event.preventDefault();
+  try { (await import(script.dataset.gallery)).open(link); }
+  catch { location.href=link.href; }
+});

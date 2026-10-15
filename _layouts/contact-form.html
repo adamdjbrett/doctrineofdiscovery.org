@@ -44,7 +44,7 @@ layout: default
           </aside>
         {% endif %}
 
-        {{ content }}
+        {{ content | static_content }}
         <!-- Removed if link condition and inserted contact form from FORMSPREE -->
         <!-- modify this form HTML and place wherever you want your form -->
         <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mdobawgz" method="post">

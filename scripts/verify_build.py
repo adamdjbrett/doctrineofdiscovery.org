@@ -51,7 +51,6 @@ def verify(root):
         "categories/index.html", "tags/index.html", "feed.xml", "sitemap.xml",
         "sitemapindex.xml", "pdf-archival-list.xml", "citations-archival-list.xml",
         "assets/css/main.css", "assets/js/main.js", "assets/js/search.js",
-        "assets/js/lunr/lunr.min.js", "assets/js/lunr/store.json",
         "admin/index.html", "admin/config.yml",
         "_redirects", "_headers", "metadata.json", "oai/records.json", "indexnow.json", "standard.site/publication.json",
         "standard.site/documents.json", "standard.site/manifest.json",
@@ -63,6 +62,12 @@ def verify(root):
         assert (root / name).is_file(), f"Lost public page: {name}"
     assert not list(root.rglob("*.scss")), "Sass sources published"
     assert not (root / "assets/js/vendor").exists(), "Legacy JavaScript vendor bundle published"
+    assert not (root / "assets/js/lunr").exists(), "Legacy Lunr search published"
+    bundles = list((root / "assets/built").glob("pagefind.*"))
+    assert len(bundles) == 1, "Expected one Pagefind bundle"
+    for name in ["pagefind.js", "pagefind-entry.json"]:
+        assert (bundles[0] / name).is_file(), f"Missing Pagefind output: {name}"
+    assert list(bundles[0].glob("index/*.pf_index")), "Missing Pagefind index chunks"
 
     pages = list(root.rglob("*.html"))
     descriptions = 0
