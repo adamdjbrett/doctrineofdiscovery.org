@@ -8,9 +8,9 @@ import { setTimeout as delay } from 'node:timers/promises';
 import { execFileSync } from 'node:child_process';
 import chokidar from 'chokidar';
 
-test('replacement watcher retains glob matching for additions, edits and deletions', { timeout: 15000 }, async t => {
+test('native directory watcher detects additions, edits and deletions', { timeout: 15000 }, async t => {
   const folder = fs.mkdtempSync(path.join(os.tmpdir(), 'dod-watch-'));
-  const watcher = chokidar.watch(`${folder}/**/*.md`, { ignoreInitial: true, usePolling: true, interval: 25, awaitWriteFinish: { stabilityThreshold: 50, pollInterval: 10 } });
+  const watcher = chokidar.watch(folder, { ignoreInitial: true, usePolling: true, interval: 25, awaitWriteFinish: { stabilityThreshold: 50, pollInterval: 10 } });
   t.after(async () => { await watcher.close(); fs.rmSync(folder, { recursive: true, force: true }); });
   await once(watcher, 'ready');
   const filename = path.join(folder, 'article.md');

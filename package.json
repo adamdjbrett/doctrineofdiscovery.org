@@ -3,7 +3,9 @@
   "private": true,
   "type": "module",
   "license": "MIT",
-  "engines": { "node": ">=24" },
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
     "build": "eleventy --quiet",
     "dev": "eleventy --serve --port=8080 --quiet",
@@ -12,23 +14,13 @@
     "verify": "python3 scripts/verify_build.py _site",
     "indexnow": "node scripts/indexnow.js"
   },
-  "overrides": {
-    "chokidar@^3.0.0": {
-      ".": "npm:@11ty/chokidar-with-glob-support@^1.1.0",
-      "chokidar": "^4.0.3"
-    },
-    "gray-matter": {
-      "js-yaml": "$js-yaml"
-    }
-  },
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.6",
+    "@11ty/eleventy": "4.0.0-alpha.10",
     "js-yaml": "^4.1.0",
     "liquidjs": "^10.21.0",
     "luxon": "^3.7.2",
     "markdown-it": "^14.1.0",
     "markdown-it-attrs": "^4.3.1",
-    "markdown-it-deflist": "^3.0.0",
     "markdown-it-footnote": "^4.0.0"
   }
 }

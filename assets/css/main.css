@@ -1454,7 +1454,8 @@ tr,td,th {
   text-decoration:none
 }
 .site-logo img {
-  max-height:2rem
+  width:2rem;
+  height:2rem
 }
 .site-title {
   display:-webkit-box;
@@ -1569,7 +1570,7 @@ tr,td,th {
   float:left;
   margin-left:-1px
 }
-.pagination li a {
+.pagination li a,.pagination li span {
   display:block;
   margin-bottom:.25em;
   padding:.5em 1em;
@@ -1586,11 +1587,11 @@ tr,td,th {
 .pagination li a:hover {
   color:#235e70
 }
-.pagination li a.current,.pagination li a.current.disabled {
+.pagination li a.current,.pagination li span.current {
   color:#fff;
   background:#6f777d
 }
-.pagination li a.disabled {
+.pagination li a.disabled,.pagination li span.disabled {
   color:rgba(100,103,105,.5);
   pointer-events:none;
   cursor:not-allowed
@@ -1598,11 +1599,11 @@ tr,td,th {
 .pagination li:first-child {
   margin-left:0
 }
-.pagination li:first-child a {
+.pagination li:first-child a,.pagination li:first-child span {
   border-top-left-radius:4px;
   border-bottom-left-radius:4px
 }
-.pagination li:last-child a {
+.pagination li:last-child a,.pagination li:last-child span {
   border-top-right-radius:4px;
   border-bottom-right-radius:4px
 }
@@ -2428,7 +2429,7 @@ div.highlighter-rouge>pre,div.highlighter-rouge pre.highlight,figure.highlight>p
 .transparent {
   opacity:0
 }
-.visually-hidden,.screen-reader-text,.screen-reader-text span,.screen-reader-shortcut {
+.sr-only,.visually-hidden,.screen-reader-text,.screen-reader-text span,.screen-reader-shortcut {
   position:absolute!important;
   clip:rect(1px,1px,1px,1px);
   height:1px!important;
@@ -3372,8 +3373,15 @@ body {
   bottom:0
 }
 .archive__item-title a+a {
-  opacity:.5
+  opacity:1;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  min-width:24px;
+  min-height:24px;
+  margin-left:.25em
 }
+.archive__item-title a+a[rel=permalink]::before { content:none; }
 .page__content .archive__item-title {
   margin-top:1em;
   border-bottom:0
@@ -4213,3 +4221,8 @@ dialog.image-viewer::backdrop { background:rgba(0,0,0,.8); }
 /* Long citations and form controls must fit narrow viewports. */
 .page,.archive,.page__footer { overflow-wrap:anywhere; }
 form fieldset { min-width:0; }
+
+/* Local SVG icons replace the remote icon font. */
+.site-icon { display:inline-block; width:1em; height:1em; fill:currentColor; vertical-align:-.125em; }
+.site-icon.fa-fw { width:1.25em; }
+.site-icon.fa-lg { font-size:1.33333333em; }

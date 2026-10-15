@@ -25,8 +25,12 @@ toc: true
 toc_label: "Overview"
 toc_icon: "cog"    
 ---
->Again, were we to inquire by what law or authority you set up a claim \[to our land\], I answer, none! Your laws extend not into our country, nor ever did. You talk of the law of nature and the law of nations, and they are both against you.
->~ Corn Tassel (Cherokee, 1785)
+<blockquote>
+<dl>
+<dt>Again, were we to inquire by what law or authority you set up a claim [to our land], I answer, none! Your laws extend not into our country, nor ever did. You talk of the law of nature and the law of nations, and they are both against you.</dt>
+<dd>Corn Tassel (Cherokee, 1785)</dd>
+</dl>
+</blockquote>
 
 The European doctrine of discovery principle, recognized as recently as 1986 by a federal district court as “a legal fiction,” nevertheless remains one of the most entrenched and baffling legal doctrines undergirding federal Indian policy and law. It’s continuing legal and perceptual force perpetuates a second class national status for Native nations and relegates individual Natives to a second class citizenship status with regards to their incomplete property rights. This doctrine holds, under its most widely understood and debilitating definition, that European explorers’ ‘discovery’ of land in what became known as the Americas gave the discovering European nation–and the United States as successor–absolute legal title and ownership of land, reducing Indigenous peoples to being mere tenants holding only a lesser beneficial interest in their Aboriginal homelands.
 

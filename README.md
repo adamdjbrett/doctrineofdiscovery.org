@@ -12,7 +12,8 @@ I have become frustrated with how slow and limited in accessibility WordPress is
 
 ## Build and preview
 
-The site runs on **Eleventy 3** and **Node 24**. It deploys to Netlify using
+The site runs on **Eleventy 4.0.0-alpha.10** (the canary release, pinned exactly)
+and **Node 24**. It deploys to Netlify using
 `netlify.toml`; no Ruby, Jekyll, Sass, theme package, or jQuery is required.
 
 ```sh
@@ -33,12 +34,15 @@ installs the locked npm dependencies, runs `npm run build`, and publishes
 `_site/`. Redirects and HTTP headers are maintained in `_redirects` and
 `_headers`. CMS access under `/admin/` and the Formspree contact form remain.
 
-The dependency overrides in `package.json` retain Eleventy's glob-based file
-watching through its Chokidar 4 adapter and reuse YAML 4 in gray-matter. They
-remove the legacy vulnerable dependency chains and the optional `fsevents`
-install script. Keep them until Eleventy updates those dependency ranges;
-`npm ci`, `npm audit`, and `npm test` validate the locked setup. Funding notices
-are informational.
+Eleventy 4 uses native Chokidar 5 directory watching and YAML 4; the older
+dependency overrides and watcher adapter are no longer needed. CSS/JS live
+reload watches directory paths because the new dev server does not accept
+glob patterns in its `watch` option. `npm ci`, `npm audit`, and `npm test`
+validate the locked setup. Funding notices are informational.
+Custom content/configuration watch targets use recursive globs so Eleventy 4
+detects changes inside those directories. This is a prerelease dependency;
+review the [upstream releases](https://github.com/11ty/buildawesome/releases)
+before upgrading the exact pin.
 
 ## Content and dates
 
@@ -68,6 +72,8 @@ Liquid layouts and includes are maintained locally in `_layouts/` and
 `lib/site.js` builds the shared post, author, category, and tag indexes once.
 Markdown compatibility, including historical heading IDs, footnotes, and
 attribute syntax, is handled in `lib/templates.js`.
+Definition lists use native HTML; the three existing quotation blocks retain
+their rendered markup without a definition-list plugin.
 
 Edit **`assets/css/main.css`** directly. It retains the established Minimal
 Mistakes styles as readable CSS; there is no Sass compilation. Navigation uses

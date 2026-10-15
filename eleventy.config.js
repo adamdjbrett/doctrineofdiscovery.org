@@ -33,14 +33,17 @@ export default function (config) {
     const clientAssets = ['assets/css/**', 'assets/js/**'];
     for (const target of clientAssets) config.watchIgnores.add(target);
     config.setServerOptions({
-      watch: clientAssets,
+      watch: ['assets/css', 'assets/js'],
       // Generated citations take precedence over historical source copies.
-      aliases: { '/assets/citations/': path.resolve(config.directories.output, 'assets/citations') + path.sep }
+      aliases: {
+        '/assets/citations/': path.resolve(config.directories.output, 'assets/citations') + path.sep,
+        '/assets/built/': path.resolve(config.directories.output, 'assets/built') + path.sep
+      }
     });
   }
   config.addPassthroughCopy('assets');
   config.addPassthroughCopy('admin');
   for (const filename of ['_redirects','_headers','robots.txt','favicon.ico','CNAME','BingSiteAuth.xml','googlebfdcfddbdbfcbd99.html','humans.txt','LICENSE','LICENSE.minimal-mistakes']) config.addPassthroughCopy(filename);
-  for (const target of ['_posts','_pages','_authors','_includes','_layouts','_data','_config.yml','lib']) config.addWatchTarget(target, { resetConfig: true });
+  for (const target of ['_posts/**','_pages/**','_authors/**','_includes/**','_layouts/**','_data/**','_config.yml','lib/**']) config.addWatchTarget(target, { resetConfig: true });
   return { templateFormats: ['11ty.js'], dir: { input: '.', output: '_site', data: '_eleventy_data', includes: '_includes' } };
 }

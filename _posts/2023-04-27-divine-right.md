@@ -24,13 +24,14 @@ toc: true
 toc_label: "Overview"
 toc_icon: "cog" 
 ---
-> And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
-> 
-> So God created man in his own image, in the image of God created he him; male and female created he them.
-> 
-> And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
-> 
-> ~ Genesis 1:26-28 (King James Version)
+<blockquote>
+<p>And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.</p>
+<p>So God created man in his own image, in the image of God created he him; male and female created he them.</p>
+<dl>
+<dt>And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.</dt>
+<dd>Genesis 1:26-28 (King James Version)</dd>
+</dl>
+</blockquote>
 
 Conventional wisdom holds that the Doctrine of Discovery originated with a series of papal bulls issued by several 15<sup>th</sup>-Century popes. But it is unlikely that the doctrine sprang, fully-formed, from the head of Pope Alexander VI in 1493. Rather, the doctrine can be traced all the way back to the Book of Genesis.
 

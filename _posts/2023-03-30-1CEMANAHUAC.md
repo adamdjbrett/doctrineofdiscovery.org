@@ -89,9 +89,12 @@ Internationally, the dogma of the Doctrine of Discovery also perpetuates the nor
 
 This nefarious international policy of impunity in violation of the right of self- determination of the **Original Nations **of **Indigenous Peoples **is further reinforced by another discriminatory dogma of contemporary international law known as the "**Blue Water Rule**" relevant to the right of Self Determination of Indigenous Nations.
 
-> "The question is no longer whether the Doctrine of Discovery as it is still being perpetuated in policy and practice across the hemisphere is valid. That question has been answered, definitively and finally. There is no moral, legal, or cultural presentation that can legitimately argue that the theory of the Divine Right of Kings, which spawned the Doctrine of Discovery by Christendom, can hold any validity in a democratic society by positing the "Divine Right of States". What is in question now, is on what side of history will each of us as individuals, as families, as communities, as nations and as human beings stand."
-> 
-> ~ Continental Commission Abya Yala
+<blockquote>
+<dl>
+<dt>“The question is no longer whether the Doctrine of Discovery as it is still being perpetuated in policy and practice across the hemisphere is valid. That question has been answered, definitively and finally. There is no moral, legal, or cultural presentation that can legitimately argue that the theory of the Divine Right of Kings, which spawned the Doctrine of Discovery by Christendom, can hold any validity in a democratic society by positing the “Divine Right of States”. What is in question now, is on what side of history will each of us as individuals, as families, as communities, as nations and as human beings stand.”</dt>
+<dd>Continental Commission Abya Yala</dd>
+</dl>
+</blockquote>
 
 ***
 
