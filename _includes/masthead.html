@@ -5,7 +5,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | asset_url }}" width="88" height="88" alt="{{ site.masthead_title | default: site.title }}"></a>
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | asset_url }}"{% if site.logo == '/assets/images/doctrine-of-discovery-project-logo.png' %} srcset="{{ '/assets/images/optimized/site-logo-1x.webp' | asset_url }} 1x, {{ logo_path | asset_url }} 2x, {{ '/assets/images/optimized/site-logo-3x.webp' | asset_url }} 3x"{% endif %} width="88" height="88" fetchpriority="low" alt="{{ site.masthead_title | default: site.title }}"></a>
         {% endunless %}
         <a class="site-title" href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title | escape_once | strip }}

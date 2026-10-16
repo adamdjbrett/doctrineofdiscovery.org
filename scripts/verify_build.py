@@ -8,6 +8,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 from xml.etree import ElementTree
+from check_links import verify as verify_links
 
 
 class Page(HTMLParser):
@@ -21,6 +22,10 @@ class Page(HTMLParser):
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
+        for candidate in attrs.get("srcset", "").split(","):
+            url = candidate.strip().split()
+            if url and url[0].startswith("/assets/built/"):
+                self.assets.append(urlsplit(url[0]).path)
         if tag == "script" and attrs.get("type") == "application/ld+json":
             self.script = ""
         for key in ["src", "href", "data-search", "data-gallery", "data-pagefind"]:
@@ -56,6 +61,7 @@ def verify(root):
         "admin/index.html", "admin/config.yml",
         "_redirects", "_headers", "metadata.json", "oai/records.json", "indexnow.json", "standard.site/publication.json",
         "standard.site/documents.json", "standard.site/manifest.json",
+        "sw.js", "offline.html", "assets/images/favicons/site.webmanifest",
     ]
     for name in required:
         assert (root / name).is_file(), f"Missing output: {name}"
@@ -134,6 +140,7 @@ def verify(root):
             ElementTree.parse(root / name)
     print(f"PASS: {len(pages)} HTML pages, {len(metadata)} metadata records, "
           f"{len(citations)} citation pairs, {len(documents)} Standard.site documents")
+    verify_links(root)
 
 
 if __name__ == "__main__":

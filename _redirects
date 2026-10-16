@@ -1,1 +1,19 @@
 /category/:slug/    /categories#:slug
+
+# Preserve previously linked public routes.
+/subscribe/ https://podcast.doctrineofdiscovery.org/subscribe/ 301
+/land/ https://podcast.doctrineofdiscovery.org/land/ 301
+/tagged /tags/ 301
+/tagged/ /tags/ 301
+/blog/domination/ /blog/domination/domination-translator-series-introduction/ 301
+/dum-Diversas/ /dum-diversas/ 301
+/blog/Law/commentary-on-mcgirt/ /blog/law/commentary-on-mcgirt/ 301
+
+# Keep historical fingerprinted image and SVG URLs reachable.
+/assets/built/fontawesome.1b9a32ca8bbccb74.svg /assets/icons/fontawesome.svg 301
+/assets/built/law.fc41e96c3e7c24ce.webp /assets/images/optimized/law.webp 301
+/assets/built/papal-bulls.6f1a2add5cf1bbef.webp /assets/images/optimized/papal-bulls.webp 301
+/assets/built/repudiations.f66025a3ff21b2fa.webp /assets/images/optimized/repudiations.webp 301
+/assets/built/site-logo.0768bbb53d16630b.webp /assets/images/optimized/site-logo.webp 301
+/assets/built/site-logo.0e0b7cca6c34ea69.webp /assets/images/optimized/site-logo.webp 301
+/assets/built/site-logo.e47cea7e0a2d25bf.webp /assets/images/optimized/site-logo.webp 301

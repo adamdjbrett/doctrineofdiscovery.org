@@ -1,0 +1,80 @@
+{
+  "baseline": {
+    "url": "https://6ad16173a6b2bf2faf8e4d10--doctrineofdiscovery.netlify.app/",
+    "lighthouseVersion": "9.6.8",
+    "scores": {
+      "performance": 0.97,
+      "accessibility": 1,
+      "best-practices": 1,
+      "seo": 1,
+      "pwa": 0.9
+    },
+    "deployTotalSeconds": 62.791
+  },
+  "finalLocal": {
+    "url": "http://dod-preview.localhost:8080/",
+    "fetchTime": "2026-10-15T23:55:38.658Z",
+    "lighthouseVersion": "13.5.0",
+    "scores": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 1,
+      "seo": 1
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 753.1775,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1653.1775000000002,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.0002311764656051116,
+        "unit": "unitless"
+      }
+    },
+    "fullReport": "/private/tmp/dod-goal6/home-final.report.json",
+    "remainingDiagnostics": [
+      {
+        "id": "largest-contentful-paint",
+        "displayValue": "1.7\u00a0s"
+      },
+      {
+        "id": "unused-css-rules",
+        "displayValue": "Est savings of 10\u00a0KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "displayValue": "Est savings of 13\u00a0KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "displayValue": null
+      },
+      {
+        "id": "render-blocking-insight",
+        "displayValue": "Est savings of 110\u00a0ms"
+      }
+    ]
+  },
+  "pwa": {
+    "modernLighthouseScore": null,
+    "rootManifestIdentity": true,
+    "serviceWorkerControlled": true,
+    "offlineBrowserFallbackVerified": true,
+    "articleCaching": false
+  },
+  "netlify": {
+    "jekyllCachePluginDisabled": true,
+    "lighthousePluginDisabled": true,
+    "newDeploymentMeasured": false,
+    "estimatedTotalSeconds": 40,
+    "underOneMinuteConfirmed": false
+  }
+}

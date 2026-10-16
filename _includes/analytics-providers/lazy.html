@@ -1,0 +1,33 @@
+<script>
+  {% if google_id %}
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.analytics.google.tracking_id }}', { 'anonymize_ip': {{ site.analytics.google.anonymize_ip | default: false }}});
+  {% endif %}
+  const analyticsEvents = ['pointerdown', 'keydown', 'scroll'];
+  function scheduleAnalytics() {
+    analyticsEvents.forEach(event => window.removeEventListener(event, scheduleAnalytics));
+    const load = () => {
+      {% if google_id %}
+      const script = document.createElement('script');
+      script.async = true;
+      script.src = 'https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}';
+      document.head.append(script);
+      {% endif %}
+      {% if cloudflare_token %}
+      if (!document.querySelector('script[src^="https://static.cloudflareinsights.com/beacon.min.js"]')) {
+        const beacon = document.createElement('script');
+        beacon.async = true;
+        beacon.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+        beacon.setAttribute('data-cf-beacon', JSON.stringify({token: {{ cloudflare_token | jsonify }}}));
+        document.head.append(beacon);
+      }
+      {% endif %}
+    };
+    if ('requestIdleCallback' in window) window.requestIdleCallback(load, {timeout:2000});
+    else window.setTimeout(load, 0);
+  }
+  analyticsEvents.forEach(event => window.addEventListener(event, scheduleAnalytics, {once:true, passive:true}));
+</script>

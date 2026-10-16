@@ -27,7 +27,7 @@ FOR IMMEDIATE RELEASE
 ## The Doctrine of Discovery Project Launches The Domination Translator Series
 ### A 15-Part Extended Essay Analyzing How U.S. Courts Have Applied the Doctrine of Discovery
 
-**Syracuse, New York** — January 19, 2026 — The Doctrine of Discovery Project is pleased to announce the launch of [**The Domination Translator Series**](/blog/domination/domination-translator-series-introduction/) by [Steven T. Newcomb](authors/steven-newcomb), a comprehensive 15-part extended essay examining the historical and ongoing impact of the [Doctrine of Discovery](/) on United States legal jurisprudence.
+**Syracuse, New York** — January 19, 2026 — The Doctrine of Discovery Project is pleased to announce the launch of [**The Domination Translator Series**](/blog/domination/domination-translator-series-introduction/) by [Steven T. Newcomb](/authors/steven-newcomb), a comprehensive 15-part extended essay examining the historical and ongoing impact of the [Doctrine of Discovery](/) on United States legal jurisprudence.
 
 ### About The Domination Translator Series
 
@@ -77,14 +77,14 @@ Each post in the series includes a **Cases** section with hyperlinks to full cas
 
 ### Access the Series
 
-All posts are available at [doctrineofdiscovery.org/blog/domination/](/blog/domination/) and are indexed in the [Law section](/law/) of the website, alongside related scholarly articles, amicus briefs, and policy statements.
+All posts are available at [The Domination Translator Series](/blog/domination/domination-translator-series-introduction/) and are indexed in the [Law section](/law/) of the website, alongside related scholarly articles, amicus briefs, and policy statements.
 
 ### Funding
 Thank you to the Henry Luce Foundation for funding in part the creation of this important series.
 
 ### A Note of Thanks to Steven T. Newcomb
 
-We wish to express our deep gratitude to [Steven T. Newcomb](authors/steven-newcomb) for his scholarship, advocacy, and vision in creating [**The Domination Translator Series**](/blog/domination/domination-translator-series-introduction/). His groundbreaking work documenting and analyzing how the Doctrine of Discovery has shaped American law and policy continues to advance our understanding of the deep historical roots of indigenous dispossession and the ongoing struggle for indigenous sovereignty and rights. Please consider purchasing [*Pagans in the Promised Land*](https://www.chicagoreviewpress.com/pagans-in-the-promised-land-products-9781555916428.php) and/or [*The Doctrine of Discovery: Umasking the Domination Code* film](/the-doctrine-of-discovery-unmasking-the-domination-code/)
+We wish to express our deep gratitude to [Steven T. Newcomb](/authors/steven-newcomb) for his scholarship, advocacy, and vision in creating [**The Domination Translator Series**](/blog/domination/domination-translator-series-introduction/). His groundbreaking work documenting and analyzing how the Doctrine of Discovery has shaped American law and policy continues to advance our understanding of the deep historical roots of indigenous dispossession and the ongoing struggle for indigenous sovereignty and rights. Please consider purchasing [*Pagans in the Promised Land*](https://www.chicagoreviewpress.com/pagans-in-the-promised-land-products-9781555916428.php) and/or [*The Doctrine of Discovery: Umasking the Domination Code* film](/the-doctrine-of-discovery-unmasking-the-domination-code/)
 
 Steven T. Newcomb's scholarly work and public engagement can be found through:
 

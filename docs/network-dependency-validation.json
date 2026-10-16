@@ -1,0 +1,43 @@
+{
+  "fetchTime": "2026-10-16T00:04:35.600Z",
+  "lighthouseVersion": "13.5.0",
+  "scope": "Local production-style build; not a new deployment or same-network comparison with production",
+  "scores": {
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  "initialAnalyticsRequests": [],
+  "longestCriticalChainMs": 23,
+  "criticalRequests": {
+    "70E114FB67AC62D6AC22F3267E1E5ED9": {
+      "url": "http://dod-preview.localhost:8080/",
+      "navStartToEndTime": 18,
+      "transferSize": 8751,
+      "isLongest": true,
+      "children": {
+        "18473.3": {
+          "url": "http://dod-preview.localhost:8080/assets/built/main.c40c7bd00e841fe2.css",
+          "navStartToEndTime": 23,
+          "transferSize": 13152,
+          "isLongest": true,
+          "children": {}
+        }
+      }
+    }
+  },
+  "fullReport": "/private/tmp/dod-network-tree/home.report.json",
+  "production": {
+    "stylesheet": "/assets/built/main.ba5899b42df39305.css",
+    "manualCloudflareLoaderPresent": false,
+    "interactionAnalyticsPresent": false,
+    "cloudflareAutomaticInjection": "Still enabled; dashboard requires sign-in"
+  },
+  "manifestPriorityExperiment": {
+    "fetchpriorityLowHonored": false,
+    "hintRetained": false,
+    "requestPriority": "Medium",
+    "inLocalCriticalTree": false
+  }
+}

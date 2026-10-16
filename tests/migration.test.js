@@ -159,3 +159,25 @@ test('direct asset serving is limited to in-project previews; other builds keep 
     if(previous===undefined)delete process.env.ELEVENTY_RUN_MODE;else process.env.ELEVENTY_RUN_MODE=previous;
   }
 });
+
+test('dev serves permanent URL aliases locally and preserves queries and fragments', async () => {
+  const previous=process.env.ELEVENTY_RUN_MODE;
+  const folder=fs.mkdtempSync('/private/tmp/dod-redirects-');
+  try {
+    process.env.ELEVENTY_RUN_MODE='serve';
+    fs.writeFileSync(folder+'/_redirects','/old/ https://doctrineofdiscovery.org/review/new/#part 301!\n/away https://podcast.doctrineofdiscovery.org/subscribe/ 301\n');
+    const options=[];
+    configure({directories:{output:folder},on(){},addPassthroughCopy(){},addWatchTarget(){},setServerOptions:value=>options.push(value)});
+    const middleware=options.find(value=>value.middleware).middleware[0];
+    for(const [url,expected] of [['/old/?source=test','/review/new/?source=test#part'],['/away','https://podcast.doctrineofdiscovery.org/subscribe/']]) {
+      let response;
+      await middleware({url,method:'GET'},{writeHead:(status,headers)=>{response={status,...headers};},end(){}},()=>assert.fail('Alias must redirect'));
+      assert.deepEqual(response,{status:301,Location:expected});
+    }
+    let next=false;
+    await middleware({url:'/unchanged/',method:'GET'},{},()=>{next=true;});assert.ok(next);
+  } finally {
+    fs.rmSync(folder,{recursive:true,force:true});
+    if(previous===undefined)delete process.env.ELEVENTY_RUN_MODE;else process.env.ELEVENTY_RUN_MODE=previous;
+  }
+});

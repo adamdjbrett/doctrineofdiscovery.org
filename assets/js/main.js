@@ -1,4 +1,7 @@
 // Keep Minimal Mistakes' DOM and responsive navigation without jQuery.
+if ('serviceWorker' in navigator && !['localhost', '127.0.0.1', '[::1]'].includes(location.hostname)) {
+  window.addEventListener('load', () => navigator.serviceWorker.register('/sw.js').catch(error => console.warn('Offline support unavailable:', error)), {once:true});
+}
 const nav = document.querySelector('.greedy-nav');
 if (nav) {
   const visible = nav.querySelector('.visible-links');

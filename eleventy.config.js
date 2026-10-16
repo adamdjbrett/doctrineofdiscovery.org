@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { execFileSync } from 'node:child_process';
 import { timezone } from './lib/content.js';
 import { getSite, resetSite } from './lib/site.js';
 import { writeMetadata } from './lib/metadata.js';
@@ -11,11 +12,27 @@ export default function (config) {
     resetSite();
     if (runMode === 'build' && path.resolve(directories.output) === path.resolve('_site')) fs.rmSync('_site', { recursive: true, force: true });
   });
-  config.on('eleventy.after', async ({ directories }) => writeMetadata(await getSite(),directories.output));
+  config.on('eleventy.after', async ({ directories, runMode }) => {
+    writeMetadata(await getSite(),directories.output);
+    if(runMode === 'build') execFileSync('python3',['scripts/check_links.py',directories.output],{stdio:'inherit'});
+  });
   if (process.env.ELEVENTY_RUN_MODE === 'serve') {
     config.setServerOptions({ middleware: [async (req,res,next) => {
       const url=new URL(req.url,'http://localhost');
-      if (!['/oai','/oai/'].includes(url.pathname)) return next();
+      if (!['/oai','/oai/'].includes(url.pathname)) {
+        if (['GET','HEAD'].includes(req.method)) {
+          const rule=fs.readFileSync(path.join(config.directories.output,'_redirects'),'utf8').split('\n')
+            .map(line=>line.trim().split(/\s+/)).find(parts=>parts[0]===url.pathname && /^30[12378]!?$/.test(parts[2] || '301'));
+          if(rule) {
+            const {site}=await getSite();
+            const target=new URL(rule[1],site.url);
+            if(!target.search)target.search=url.search;
+            const location=target.origin===new URL(site.url).origin?target.pathname+target.search+target.hash:target.href;
+            res.writeHead(parseInt(rule[2] || '301',10),{Location:location});res.end();return;
+          }
+        }
+        return next();
+      }
       const request=new Request(url,{method:req.method,headers:req.headers,
         ...(['GET','HEAD'].includes(req.method)?{}:{body:req,duplex:'half'})});
       const catalog=JSON.parse(await fs.promises.readFile(path.join(config.directories.output,'oai/records.json'),'utf8'));
@@ -43,7 +60,8 @@ export default function (config) {
   }
   config.addPassthroughCopy('assets');
   config.addPassthroughCopy('admin');
-  for (const filename of ['_redirects','_headers','robots.txt','favicon.ico','CNAME','BingSiteAuth.xml','googlebfdcfddbdbfcbd99.html','humans.txt','LICENSE','LICENSE.minimal-mistakes']) config.addPassthroughCopy(filename);
+  config.addPassthroughCopy('Screenshot-2019-03-11-02.46.46.png');
+  for (const filename of ['_redirects','_headers','robots.txt','favicon.ico','CNAME','BingSiteAuth.xml','googlebfdcfddbdbfcbd99.html','humans.txt','LICENSE','LICENSE.minimal-mistakes','sw.js','offline.html']) config.addPassthroughCopy(filename);
   for (const target of ['_posts/**','_pages/**','_authors/**','_includes/**','_layouts/**','_data/**','_config.yml','lib/**']) config.addWatchTarget(target, { resetConfig: true });
   return { templateFormats: ['11ty.js'], dir: { input: '.', output: '_site', data: '_eleventy_data', includes: '_includes' } };
 }

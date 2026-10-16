@@ -1,1 +1,3 @@
-{% if site.analytics.google.tracking_id %}{% include 'analytics-providers/google-gtag.html' %}{% endif %}
+{% assign google_id = site.analytics.google.tracking_id | default: false %}
+{% assign cloudflare_token = site.analytics.cloudflare.token | default: false %}
+{% if google_id or cloudflare_token %}{% include 'analytics-providers/lazy.html' %}{% endif %}

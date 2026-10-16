@@ -13,7 +13,7 @@ I have become frustrated with how slow and limited in accessibility WordPress is
 ## Build and preview
 
 The site runs on **Eleventy 4.0.0-alpha.10** (the canary release, pinned exactly)
-and **Node 24**. It deploys to Netlify using
+and **Node 24**, with **Python 3** standard-library URL checks. It deploys to Netlify using
 `netlify.toml`; no Ruby, Jekyll, Sass, theme package, or jQuery is required.
 
 ```sh
@@ -45,6 +45,34 @@ review the [upstream releases](https://github.com/11ty/buildawesome/releases)
 before upgrading the exact pin.
 
 ## Content and dates
+
+Public post/page paths and original PDF/image paths are protected by
+`tests/fixtures/public-urls.json`, including the saved Jekyll URLs and known
+historical fingerprinted media URLs. Production builds and `npm run verify`
+check local links, fragments, image metadata, SVG references, CSS URLs, and
+redirect targets with case-sensitive filename matching. A missing protected
+URL or a newly introduced broken link fails the build before Netlify deploys.
+
+Keep existing permalinks and media filenames when editing. When a move is
+necessary, retain the old URL with `redirect_from` for content or a permanent
+redirect in `_redirects` for files. Front-matter redirects are emitted as HTTP
+301 rules on Netlify. The dev server follows literal redirect rules locally,
+including historical media aliases; Netlify handles its wildcard rules.
+Original media remain available even when the page uses an optimized copy.
+
+For intentional additions, build first, then record the new URLs and review
+the fixture diff:
+
+```sh
+python3 scripts/check_links.py _site --record
+npm run build
+npm run verify
+```
+
+The initial build can stop at the new-URL check after writing its output.
+Recording only adds URLs; it never removes historical entries or excuses a
+missing target. External websites are not fetched during builds. See the
+[URL preservation validation](docs/url-preservation-validation.md).
 
 Posts, pages, and authors remain in `_posts/`, `_pages/`, and `_authors/`.
 Markdown and YAML front matter remain editable through the existing CMS.
@@ -92,8 +120,44 @@ Icons use the local Font Awesome 6.7.2 SVG subset in
 `assets/icons/fontawesome.svg`, with attribution in the adjacent license.
 Add a symbol there before using a new icon; the build reports missing symbols.
 There is no remote icon font stylesheet. Analytics queues its configuration
-immediately, then downloads after the page's load event when the browser is
-idle (with a two-second idle timeout).
+immediately, then downloads one GA4 tag after the first pointer, keyboard, or
+scroll interaction when the browser is idle (with a two-second idle timeout).
+Visits without interaction may not be counted. The retired Universal Analytics
+loader is no longer used.
+
+Cloudflare Web Analytics shares the same first-interaction/idle loader using
+the existing public token in `analytics.cloudflare.token`. It skips insertion
+if Cloudflare has already injected its own beacon, preventing double tracking.
+After deploying this code, choose **Enable with JS Snippet installation** under
+the site's **Manage site** settings in Cloudflare Web Analytics. Until automatic
+injection is switched off, the injected beacon still loads eagerly. Keep that
+setting change after deployment to avoid a gap in tracking. The dashboard
+change is pending sign-in; it was not applied locally. See
+[Cloudflare's setup instructions](https://developers.cloudflare.com/web-analytics/get-started/).
+Delayed analytics can miss visits without interaction and can change the
+population represented by Cloudflare's browser performance metrics.
+
+The logo remains 88 × 88 CSS pixels. Its WebP `srcset` supplies 88px and 176px
+high-quality variants and the original lossless 300px variant for denser screens.
+Regenerate all three variants when replacing the source logo.
+
+The web app manifest uses `/` as its identity, start URL, and scope. A small
+service worker supplies a self-contained offline notice if a page cannot load;
+it does not cache articles, API responses, downloads, or analytics. It is disabled
+on ordinary localhost development URLs. If editing `offline.html`, also bump
+the cache version in `sw.js` so existing installations refresh that notice.
+
+Netlify's old Jekyll Cache and deploy-time Lighthouse plugins are disabled in
+the project dashboard. Keep Lighthouse off the deployment path and audit a
+deployed preview separately:
+
+```sh
+npm run lighthouse -- https://YOUR-PREVIEW.netlify.app/ --output=json --output=html
+```
+
+The command uses pinned Lighthouse 13.5.0 without adding a project dependency.
+Current Lighthouse has no PWA score; test installation and offline behavior
+separately. See [deployment/performance validation](docs/netlify-performance-validation.md).
 
 The two custom HTTP response headers are `X-Content-Type-Options: nosniff`
 and the immutable cache rule for hashed assets. The redundant explicit modern

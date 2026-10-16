@@ -12,6 +12,7 @@
     "start": "npm run dev",
     "test": "node --test",
     "verify": "python3 scripts/verify_build.py _site",
+    "lighthouse": "npx --yes --package=lighthouse@13.5.0 lighthouse",
     "indexnow": "node scripts/indexnow.js"
   },
   "devDependencies": {

@@ -58,7 +58,7 @@ toc_icon: "cog"
 *   [McGirt v. Oklahoma (U.S. Supreme Court, July 2020)](/blog/domination/mcgirt-oklahoma/)
 
 ---
-## The Domination Translator Series: An Extended Essay on Various U.S. Supreme Court Rulings and Other Topics by [Steven T. Newcomb](authors/steven-newcomb)
+## The Domination Translator Series: An Extended Essay on Various U.S. Supreme Court Rulings and Other Topics by [Steven T. Newcomb](/authors/steven-newcomb)
 
 *   [The Domination Translator Series: An Extended Essay on Various U.S. Supreme Court Rulings and Other Topics - Part 1](/blog/domination/domination-translator-series-introduction/)
 *   [Fletcher v. Peck (1810) - Domination Translator Series - Part 2](/blog/domination/fletcher-v-peck/)

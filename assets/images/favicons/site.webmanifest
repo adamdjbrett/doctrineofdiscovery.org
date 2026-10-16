@@ -1,18 +1,21 @@
 {
   "name": "Doctrine of Discovery Project",
   "short_name": "DoD",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
   "icons": [
     {
       "src": "/assets/images/favicons/web-app-manifest-192x192.png?v=20260907",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     },
     {
       "src": "/assets/images/favicons/web-app-manifest-512x512.png?v=20260907",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
   ],
   "theme_color": "#ffffff",

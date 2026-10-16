@@ -1,5 +1,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="{{ site.generator | escape }}">
+{% if page.header.overlay_image %}<link rel="preload" as="image" fetchpriority="high" href="{{ page.header.overlay_image | asset_url }}">{% endif %}
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | asset_url }}">
 
 {% include 'seo.html' %}
 
@@ -14,8 +16,6 @@
 <script>document.documentElement.classList.replace("no-js", "js");</script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | asset_url }}">
-{% if page.header.overlay_image %}<link rel="preload" as="image" fetchpriority="high" href="{{ page.header.overlay_image | asset_url }}">{% endif %}
 
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}

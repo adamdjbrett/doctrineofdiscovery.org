@@ -27,8 +27,10 @@ words_per_minute: 200
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-96037973-2"
+    tracking_id: "G-RWJ9WXTZ3B"
     anonymize_ip: false # default
+  cloudflare:
+    token: "7c09e2b61dd142e1aad1b7f6308b6761"
 
 # Content
 excerpt_separator: "<!--more-->"

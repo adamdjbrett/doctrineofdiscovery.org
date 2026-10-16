@@ -26,6 +26,8 @@ Indigenous Law Institute and Original Nations Advocates[^1]
 
 *"Force is not truth, nor justice, but [force] is indispensable for the propagation of civilization"*[^2]
 
+<a id="ToC"></a>
+
 **Contents**
 
 -   [**Our Global Predicament and the 2023 Parliament of the World's Religions**](#S1)
@@ -51,6 +53,8 @@ Indigenous Law Institute and Original Nations Advocates[^1]
 -   [**Conclusion**](#S21)
 -   [**Notes**](#S22)
 
+<a id="S1"></a>
+
 [↑](#ToC) **Our Global Predicament and the 2023 Parliament of the World's Religions**
 
 This essay reveals why, *from an Original Nations' Perspective*, the term "human," in the Greco-Roman-Judeo-Christian sense, as traced to the [Vatican papal bulls of the fifteenth century](https://ratical.org/many_worlds/StevenNewcomb/index.html#DD1452), means "living under domination," which in turn changes our understanding of the term "freedom." We will explain why the international framework of human rights is not designed to liberate Peoples from the claim of a right of domination.
@@ -61,13 +65,19 @@ Domination has been defined as "living under the arbitrary will of another, [or]
 
 In our view, the claim of a right of domination, and the behaviors that follow from that claim, are the main cause of the global problems we all face. This is why opposition to that claim is a potentially unifying theme for *homo sapiens*. Accordingly, we are prompted to ask: "To what extent is the theme of the 2023 Parliament of the World's Religions, 'A Call to Conscience: Defending Freedom and Human Rights' focused on the fundamental and global issue of domination?" One possible answer is: "While it's true that the Parliament's theme is not focused on the term domination, the potential for such a focus is hidden in the background and deeper meaning of the terms 'freedom,' 'human,' and 'human rights' when examined from an Original Nations' Perspective."
 
+<a id="S2"></a>
+
 [↑](#ToC) **An Original Nations' Perspective**
 
 Our way of framing the context for this 2023 Parliament of the World's Religions is to think of it in terms of the *contrast* between our initial free existence as the Original Nations and Peoples of this continent, and the *claim of a right of domination* that centuries ago was brought by ship across the ocean from Western Christendom and imposed on Peoples and places that Christendom labeled as "barbarous" ---an imposition which continues today. From this contrast, two points of view emerge: The first vantage point imagines our ancestors' view-from-the-shore, seeing an invading ship moving toward them. The second vantage point is a view-from-the-ship, with the voyaging colonizers looking at our free and independent Native ancestors standing on shore.
 
+<a id="S3"></a>
+
 [↑](#ToC) **The Domination Translator**
 
 At times I will be using a specific technique I've developed, which I call "the domination translator." It's quite simple. After a synonym for domination, such as the word "conquest", I add the word "domination" in brackets. For example, "conquest [domination]." Or I may place "dominator" or "dominating" in brackets. I use this technique because none of us were ever taught to make a mental association between certain English and Latin words and domination. Using this technique helps the brain learn to make the connection.
+
+<a id="S4"></a>
 
 [↑](#ToC) **The System of Domination**
 
@@ -80,6 +90,8 @@ The ecosystems of the planet have been horrifically impacted, while poverty and 
 During the past five centuries, the vast majority of the *original* old growth forests on this Turtle Island continent ("North America" ), which our ancestors nurtured, have been cut down, along with much of the rainforests to the South. Massive numbers of species have been wiped out. Genocide---the intention to destroy, in whole or in part, an entire nation or people---was committed against the Buffalo Nation, and against our Original Nations throughout this Western Hemisphere.
 
 The "human" and "Christian" system of domination called "civilization," which has been so destructive to our Original Nations and Peoples is also well-illustrated by the U.S. government detonating nuclear weapons in the homeland of the Western Shoshone Nation, thereby sending radioactivity, spewing out onto the Western Shoshone, the land, the air, and the water, and reaching some 46 states, Mexico, and Canada.[^5] There was no regard by the scientific and military planners for the long-term and devastating consequences of the radiation. The proliferation of nuclear weapons, and the instability caused by competing domination systems vying for supremacy, has brought the planet closer than ever to the real prospect of a nuclear catastrophe.[^6] Innumerable destructive effects of the claim of a right of domination can be recounted.
+
+<a id="S5"></a>
 
 [↑](#ToC) **The 1893 Congress of Religions**
 
@@ -95,6 +107,8 @@ The Original Nations and Peoples of this Turtle Island continent were not honore
 
 To achieve this "beneficent" objective, the children of our Original Nations and Peoples were taken away from their families and loved ones and subjected to horrific abuse in so-called "boarding schools" and "residential schools."[^10] They were taught the patterns of domination by, for example, being forcibly christianized and violently subjected for doing the most natural thing imaginable, speaking their own Original Nation language.[^11] The death toll was high. At Sherman Indian School in Riverside, California, for instance, there are some 70 unmarked graves. There were more than 300 such "schools" in the United States, and several hundred in Canada as well. The children who died were alone without the comfort of any family member or loved ones.
 
+<a id="S6"></a>
+
 [↑](#ToC) **The 1890 Massacre at Wounded Knee**
 
 ![](https://originalfreenations.com/wp-content/uploads/2023/08/Woundedknee1891-1024x739.jpg)
@@ -107,11 +121,15 @@ Dewey Beard, the grandfather of my Oglala Lakota friend and mentor Birgil Kills 
 
 A century after Wounded Knee, from 1986 to 1990, Birgil Kills Straight (Oglala Lakota), Alex White Plume (Oglala Lakota), and Eugenio White Hawk (Oglala Lakota), and many other people of the *Oceti Sakowin* ("Great Sioux Nation" ) organized an annual horseback ride some 300 miles long, through winter conditions periodically engulfed in blizzards. The Ride retraced the footsteps of Chief Bigfoot and his people to Wounded Knee. They did so as a ceremonial way of renewing the traditional Wiping of the Tears of the people and honoring the memory of the hundreds who were murdered by the U.S. Seventh Cavalry, while at the same time revitalizing the ceremonial life of the *Oceti Sakowin*.
 
+<a id="S7"></a>
+
 [↑](#ToC) **Birgil and I Attended the 1993 Parliament of the World's Religions**
 
 In 1993, Birgil and I traveled to Chicago to attend the first Parliament of the World's Religions to be convened since the Congress of Religions was held in 1893. 1893 marked four centuries since Pope Alexander VI had issued a series of papal documents in 1493. The documents called for the propagation of the Christian empire and for the establishment of Christian domination wherever it did not yet exist.
 
 Birgil and I were presenters on a panel titled "[Voices of the Dispossessed](https://parliamentofreligions.org/parliament/1993-chicago/)." We brought the [issue of the Vatican papal bulls to the world stage by publicizing the patterns of oppression and subjugation found in the Vatican documents](https://ratical.org/many_worlds/StevenNewcomb/RevokeCaeteraBull-1993.html). We explained the link between the so-called doctrine of discovery, the Vatican documents, and the ideas and arguments that comprise U.S. federal Indian law, which is [an anti-Indian area of "law."](https://ictnews.org/archive/u-s-anti-indian-law-a-question-of-legitimacy) 1993 was also the year that [we wrote an open letter to then Pope John Paul II](https://indigenouslawinstitute.com//ricb.html),[^14] calling on him to formally revoke the *[Inter Caetera papal bull of May 4, 1493](https://ratical.org/many_worlds/StevenNewcomb/index.html#IC05041493)*. We did this as a way of publicizing the connection between U.S. federal Indian law and the [Vatican documents of the fifteenth century](https://ratical.org/many_worlds/StevenNewcomb/index.html#DD1452).
+
+<a id="S8"></a>
 
 [↑](#ToC) **How Are We Able to Defend Our "Freedom" When We Are Living Under and Subject to the U.S. Claim of a Right of Domination?**
 
@@ -128,6 +146,8 @@ This year's theme of the Parliament of the World's Religions, "A Call to Conscie
 When someone claims to be defending "freedom," there is an unconscious assumption that we all share the same understanding of the word freedom: "being free." But what kind of "freedom" are we talking about, relative to our Original Nations and Peoples, given that foreigners from across the ocean came here, labeled our ancestors "barbarous" and worked to deprive us of our original free existence by means of their invasive system of domination called "human civilization," "democracy," and "civil society" ?
 
 Our nations and peoples have ended up with a type of "*human* *freedom*" under and subject to the control of the United States (and "Canada" ), and of other countries in other areas. This type of "freedom" does not include our original free existence because the invaders consider us to be the descendants of "barbarous" ancestors and thus rightfully *subject to* the ideas and arguments produced by their mental world *of domination*, ideas such as "[conquest](https://ictnews.org/archive/the-conquest-an-idea-system-of-domination)," "ultimate dominion," and the "[plenary](https://ictnews.org/archive/no-plenary-power-over-indian-nations) [power](https://ictnews.org/archive/the-dark-side-of-the-trust-relationship-and-plenary-power)" of Congress. To be "human" in this context is to live "free" under the arbitrary restrictions of a mentally imposed framework of domination.
+
+<a id="S9"></a>
 
 [↑](#ToC) **The Vatican's March 30th Statement About the Doctrine of Discovery and Human Rights Failed to Address the Claim of a Right of Domination**[^17]
 
@@ -147,6 +167,8 @@ The Vatican officials did quote the titles of three of the papal documents, but 
 
 The Vatican's March 30th statement also ignores the intention, which is explicitly mentioned in two papal bull documents dated [May 3rd](https://ratical.org/many_worlds/StevenNewcomb/index.html#IC1493) and [September 26th](https://ratical.org/many_worlds/StevenNewcomb/index.html#DS1493) of 1493, to establish Christian domination wherever it did not yet exist. The Vatican's statement does not explain that the system of domination the Holy See helped unleash on the planet is what makes people call out for "human rights." The claim of a right of domination is what results in the problems that the international "human rights" framework is supposedly designed to resolve. However, the international human rights framework never acknowledges that domination is intrinsic to the meaning of the word "human."
 
+<a id="S10"></a>
+
 [↑](#ToC) **The Vatican is Responsible for Our Nations and Peoples Having Been Forced to Transition from Living Free to Living a "Human" Existence Under Christian Domination**
 
 The history of the colonization of California provides important evidence that the word "human" means "living under domination." In 1930, for instance, the California Supreme Court issued a decision in the case *[City of San Diego v. Cuyamaca Water Company](https://www.courtlistener.com/opinion/3306079/city-of-san-diego-v-cuyamaca-water-co/)* (209 Cal. Mar. 1930, p. 125). The court said that when the Spaniards arrived at Alta ("Upper" ) California, with the intention of establishing a Spanish Catholic mission system, the "Indian population" was, from the Spaniards' viewpoint, living in "a state of barbarism."
@@ -156,6 +178,8 @@ Interestingly, the term "barbarism" matches Pope Alexander VI's expressed desire
 In the Spanish language, the Catholic missions, such as those established in Alta **(Upper)** California in 1769, were called *reducciones* ("reductions" in English). This process of reduction is designed to cause a transition from one capacity, quality, or quantity to a "diminished" or smaller capacity, quality, or quantity. A reduction can also be thought of in terms of moving or pushing something downward from a starting height to a lower level, which is the metaphorical image of a motion that causes Free Nations and Peoples to be forced down and under a system of oppression.
 
 The imagery of reduction was utilized by Chief Justice John Marshall in the U.S. Supreme Court ruling *[Johnson & Graham's Lessee v. McIntosh 21 U.S.](https://ratical.org/many_worlds/StevenNewcomb/index.html#JvMcI)* (8 Wheat.) 543 (1823). Marshall said of the "Indians": "Their rights to complete sovereignty, as independent nations, were necessarily *diminished* by the original fundamental principle that, discovery gave title to those who made it [the discovery]."[^25] (emphasis added) Notice how Marshall is claiming that the colonizers are original and fundamental to this continent. In fact, they are neither, which is why we emphasize that *we* are the *Original* Nations and Peoples who were already living on this and other continents when the invaders arrived on their ships.
+
+<a id="S11"></a>
 
 [↑](#ToC) **The Mission of the Mission System**
 
@@ -173,6 +197,8 @@ Gary Caldwell lucidly explains how the Spanish Crown had enlisted the Franciscan
 
 Caldwell notes Charles Chapman's cynical comment about "the priests heading north." For the Franciscan priests, if the individual Indian's "soul were to be saved and his intelligence quickened . . . his body should first be enslaved [domination]."[^29] To this, we accurately add, they should first be enslaved [dominated] as part of the process of being made "human" living under Christendom's claim of a right of domination.
 
+<a id="S12"></a>
+
 [↑](#ToC) **Is it Possible to Defend a Freedom You've Been Deprived of?**
 
 Let us now examine more specifically how the invading Spanish Catholic colonizers forced the Native Peoples into a reality of domination called "human." Because of the Spanish Catholic invasion, Native Nations and Peoples were working to "defend their freedom," meaning their *original* free existence, from the Catholic Church's and the Spanish crown's claim of a right of domination. The framework for this was created by the Spanish monarchy's assumed right of domination ("dominium" ) over the Native Nations and their lands.[^30] This was applied to any newly identified non-Christian place on the basis of the papal bulls of domination. After the Original Nations and Peoples had been deprived of their free existence, and forced to live a "human" existence under domination, how much of their *original* freedom was remaining for them to defend?
@@ -189,6 +215,8 @@ And, as one example of the views of a Catholic Church official, what did [Archbi
 
 Referencing Gomez, in 2015 *Catholic News Agency* stated, "Not only did Bl. Junipero Serra offer an important model to follow for the eighteenth-century missionaries, but he also continues to pave the way for the new era of cultural encounter."[^37] Archbishop Gomez, without a sense of irony, says the current generation "has much to learn from Padre Serra in the continental mission of the new evangelization."[^38]
 
+<a id="S13"></a>
+
 [↑](#ToC) **Being Whipped and Goaded into Worshipping the "God" of the "Humans"**
 
 For the Franciscan missionaries, the temporal (physical) and spiritual "conquest" [domination] of the Native peoples was a taken for granted objective. Eyewitness Thomas Jefferson Farnham explained that the Indians' attendance at the mission church was mandatory.[^39] Once inside the church, the men and women were separated by a wide aisle. He described the threatening tactics used against the Native people in the mission church to make them comply with the dictates of a "human" existence under a joint church (priests)-state (soldiers) system of domination:
@@ -197,9 +225,13 @@ For the Franciscan missionaries, the temporal (physical) and spiritual "conquest
 
 Looking back on such examples of mission history, Archbishop Gomez claims "We cannot judge eighteenth century attitudes and behavior by 21st century standards."[^41] "But the demands of Gospel love are the same in every age," he continues.[^42] Gomez does not entertain the possibility that the horrific mission conditions of that time are correctly judged in our time consistent with the eighteenth-century views of the Native Peoples themselves who were being whipped, goaded, terrorized, and killed on a mass scale in the name of "Gospel love," and "God's plan of salvation," and that form of domination euphemistically called "civilization."
 
+<a id="S14"></a>
+
 [↑](#ToC) **La Conquistadora (the Female Dominator)**
 
 Archbishop Gomez says of Serra, "His story reminds us of God's plan of salvation, the Gospel was first preached in this country by Spanish missionaries from Mexico, under the sign of the Virgin Guadalupe, the bright star of America's first evangelization."[^43] "And let us ask Our Lady Guadalupe," he adds, "to help us to continue her work of America's first missionaries---in offering Jesus Christ to every man and woman and promoting justice and human dignity." He does not admit that, in keeping with the goal of the "spiritual conquest" of the "Indians", a Spanish name for the Virgin Mary was "La Conquistadora" (a female Conqueror, and thus Dominator).[^44]
+
+<a id="S15"></a>
 
 [↑](#ToC) **Civilization as Domination**
 
@@ -209,9 +241,13 @@ Various tactics were used as a means of forcing Original Nations and Peoples to 
 
 [Lewis Mumford](https://www3.nd.edu/~ehalton/mumfordbio.html), in [*The Myth of the Machine: The Pentagon of Power* ](https://ratical.org/ratville/JFK/PentagonOfPower-Mumford-1970.pdf#page=5)(1970), points out that the explorations of "Western man" were focused on whatever "aspect of nature" "could be brought under human domination." ([p. 3](https://ratical.org/ratville/JFK/PentagonOfPower-Mumford-1970.pdf#page=15)) Two inventions that helped facilitate this process were the magnetic compass, to figure out where they were going, and gunpowder to assist them in using lethal force once they got there. Then, using synonyms for domination Mumford writes about "the equipment that made these conquests and exploitations and enslavements possible---the armor, the crossbows, muskets and cannon---these new technical facilities" which "gave the Europeans who commanded them, though vastly outnumbered, the power to overcome the aborigines: their [the Christian Europeans'] grim audacity and their utter ruthlessness were not only supported but magnified by their superior weapons." "What is more," he continues, "the easy successes this achieved re-enforced the new power complex [of human domination] that was coming into existence." ([p. 7](https://ratical.org/ratville/JFK/PentagonOfPower-Mumford-1970.pdf#page=19))
 
+<a id="S16"></a>
+
 [↑](#ToC) **"The State" of Domination**
 
 Once the Christian European dominators had deprived our ancestors of their free existence, the only possible "freedom" for our Original Nations and Peoples to experience was whatever degree of latitude they could achieve under and subject to the resulting "human" system of domination being forcibly imposed by the Spanish Catholic imperialist, or by the United States in its political context. If the Native Peoples had been told back then they were in need of "human rights" it would have been because of the torment, misery, and death they were experiencing as a result of being forced to live a "human" existence under the domination of the Catholic Church and "the State." German sociologist Max Weber pointed out a century ago that "the State" is accurately defined as "[a relation of men dominating men](https://archive.org/details/weber_max_1864_1920_politics_as_a_vocation/page/n3/mode/1up?q=men+dominating+Men),.... If the state is to exist, the dominated [e.g., the Original Nations and Peoples] must obey  the authority claimed by the powers that be."[^45]
+
+<a id="S17"></a>
 
 [↑](#ToC) **A "Human" Existence Lived Under Domination Creates the Need for "Human Rights"**
 
@@ -221,6 +257,8 @@ And once the freedom of the Native peoples had been successfully destroyed as a 
 
 At that point how much of their pre-invasion pre-domination freedom was remaining for them to have defended by means of the idea "human rights," if such a framework had been existing back then? Being compelled to live a "human" life under Christian European domination is what caused them to need "human rights" in the first place.
 
+<a id="S18"></a>
+
 [↑](#ToC) **The Context of the United Nations**
 
 Founded in 1945, the United Nations (UN) defines "human rights" as "rights inherent to all human beings, regardless of race, sex, nationality, ethnicity, language, religion, or any other status."[^46] Human rights are said to include "the right to life and liberty, freedom from slavery and torture, freedom of opinion and expression, the right to work and education, and many more."[^47] How interesting that the destructive acts perpetrated against the Native peoples to rob them of their freedom and make them "human", are the actions said to be disallowed according to the international framework of "human rights."
@@ -228,6 +266,8 @@ Founded in 1945, the United Nations (UN) defines "human rights" as "rights inher
 According to the UN, "International human rights law lays down the obligations of Governments to act in certain ways or to refrain from certain acts, in order to promote and protect human rights and fundamental freedoms of individuals or groups."[^48] We are also told that the "comprehensive body of human rights law" is "a universal and internationally protected code to which all nations can subscribe and all people [can] aspire."[^49]
 
 Given that "aspire" means "to desire a lofty object", this implies that all people can *desire* to one day *obtain* the goal and protected code of human rights. But the UN also tells us that human rights are "inherent", which means "innate" . It stands to reason that if these rights are innate within us, then there is no need for us to *desire* them because we already have them. This must mean that such "rights" are merely *ideational* (i.e., existing on the level of ideas) and that *the mere aspirational idea of such rights* provides us with no actual ability to end the patterns of domination that are causing our suffering and discontent.
+
+<a id="S19"></a>
 
 [↑](#ToC) **The "Human Rights" Framework Provides Us with No Means of Liberating Our Nations and Peoples from the Claim of a Right of Domination**
 
@@ -241,6 +281,8 @@ In any case, the United Nations is an organization made up of States of dominati
 
 No one, in other words, is allowed to call into question the domination system termed "civil society," "democracy," and "the State." Accordingly, the international framework of human rights regards every State of domination as a permanent and unquestionable given. We as Indigenous people and peoples are able to use international human rights to *aspire* to someday alleviate the suffering we experience as a result of the domination system, but from the perspective of the UN, no one is allowed to challenge the premise of the UN system, which is "the State's" claim of a right of domination over everyone and everything within boundaries claimed geopolitically by a given State of domination.
 
+<a id="S20"></a>
+
 [↑](#ToC) **Challenging the Claim of a Right of Domination**
 
 An existing global system of domination, which has been used to strip Indigenous Nations and Peoples of their original free existence, is the context for the Parliament's phrase "defending freedom and human rights." One potential course of action is for us to put forward the argument that *there is no such thing* as a *right of domination*. Making that argument, however, does not change the fact that the present day and ongoing system of ideas and arguments called U.S. federal Indian law (a.k.a anti-Indian law) and policy has been constructed, and continues to operate, on the basis of the U.S. claim of a right of domination over our original Native Nations and Peoples. The Felix Cohen *[Handbook of Federal Indian Law](https://ratical.org/many_worlds/StevenNewcomb/HandbookOfFederalIndianLaw1942.pdf)*, for example, pointedly states: "Conquest [domination] renders the tribes subject to the legislative power [domination] of the United States."[^51]
@@ -252,6 +294,8 @@ Given that the "State" systems of the planet have been organized around the pres
 Here are some additional questions: Will robots and AI systems end up with an unquestioned right to exert a right of domination over the "humans" who have built those systems? Will every human being on the planet one day be compelled, based on an AI theology, to live under and subject to an AI system of domination? Will an Era of robots and Artificial Intelligence render obsolete any discussion of a fundamental "human right" to live free from an AI system of domination?
 
 Will the Chief Justice of an AI Tribunal, which is modeled after Chief Justice John Marshall and the U.S. Supreme Court, someday say of the humans: "Their rights to live free from an AI System have been necessarily diminished by the original fundamental principle that the discovery of AI gave a title of ultimate dominion to the Central AI System." Are we hurtling toward an AI form of totalitarianism from which there will be no means of escape? Is the so-called "great reset" simply a "reset" and intensification of the global system of domination?
+
+<a id="S21"></a>
 
 [↑](#ToC) **Conclusion**
 
@@ -272,6 +316,8 @@ We have a sacred responsibility to place the long-term well-being of our childre
 We need thoughts, behaviors, and [language of Reverence](https://www.shawnabluestar.com/) that will enable us to create the social and economic patterns by means of which we can thrive together in perpetuity as free beings, meaning free from domination. In the meantime, we need to learn how to listen skillfully, and develop the receptivity,  patience, and discipline to establish and maintain strong relationships by communicating effectively so we can work together toward these positive outcomes.
 
 ## Notes
+
+<a id="S22"></a>
 
 [^1]: [Indigenous Law Institute](https://indigenouslawinstitute.com/). See also, [https://originalfreenations.com](https://originalfreenations.com/)
 

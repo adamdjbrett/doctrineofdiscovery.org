@@ -49,18 +49,58 @@ test('image sizing preserves aspect ratios and existing attributes without loadi
   assert.equal(assets.renderImages('<img src="https://example.org/photo.png">'),'<img src="https://example.org/photo.png">');
 });
 
-test('analytics queues page configuration immediately and loads only after load and idle',()=>{
+test('logo variants preserve 88px sizing and sharp high-density choices',()=>{
+  const assets=assetManager();
+  const site={logo:'/assets/images/doctrine-of-discovery-project-logo.png',title:'Test',assets};
+  const html=templateEngine(site).engine.renderFileSync('masthead.html',{site});
+  assert.match(html,/width="88" height="88"/);
+  assert.match(html,/srcset="[^\"]+ 1x, [^\"]+ 2x, [^\"]+ 3x"/);
+  for(const [name,size] of [['site-logo-1x',88],['site-logo',176],['site-logo-3x',300]]) {
+    assert.deepEqual(imageDimensions(fs.readFileSync(`assets/images/optimized/${name}.webp`)),[size,size]);
+  }
+  site.logo='/assets/images/authors/rjmill10.png';
+  assert.ok(!templateEngine(site).engine.renderFileSync('masthead.html',{site}).includes('srcset='));
+});
+
+test('analytics queues page configuration and loads once after interaction and idle',()=>{
   const site={analytics:{google:{tracking_id:'G-TEST',anonymize_ip:true}}};
-  const html=templateEngine(site).engine.renderFileSync('analytics-providers/google-gtag.html',{site});
+  const html=templateEngine(site).engine.renderFileSync('analytics.html',{site});
   for(const idleSupported of [true,false]) {
-    let load,idle;const appended=[];
+    let idle;const appended=[];const listeners=new Map();
     const context={document:{createElement:()=>({}),head:{append:script=>appended.push(script)}},
-      addEventListener:(event,callback,options)=>{assert.equal(event,'load');assert.equal(options.once,true);load=callback;},
+      addEventListener:(event,callback,options)=>{assert.equal(options.once,true);assert.equal(options.passive,true);listeners.set(event,callback);},
+      removeEventListener:event=>listeners.delete(event),
       setTimeout:callback=>{idle=callback;}};
     if(idleSupported)context.requestIdleCallback=callback=>{idle=callback;};
     context.window=context;vm.runInNewContext(html.match(/<script>([\s\S]*?)<\/script>/)[1],context);
     assert.equal(context.dataLayer.length,2);assert.equal(context.dataLayer[1][1],'G-TEST');
-    assert.equal(appended.length,0);load();assert.equal(appended.length,0);idle();
+    assert.equal(appended.length,0);assert.equal(idle,undefined);
+    assert.deepEqual([...listeners.keys()],['pointerdown','keydown','scroll']);
+    listeners.get('keydown')();assert.equal(listeners.size,0);assert.equal(appended.length,0);idle();
     assert.equal(appended.length,1);assert.equal(appended[0].async,true);assert.ok(appended[0].src.endsWith('id=G-TEST'));
   }
+});
+
+test('Cloudflare shares the lazy analytics trigger and avoids an injected duplicate',()=>{
+  for(const google of [undefined,{tracking_id:'G-TEST'}]) for(const injected of [false,true]) {
+    const site={analytics:{google,cloudflare:{token:'existing-public-token'}}};
+    const html=templateEngine(site).engine.renderFileSync('analytics.html',{site});
+    const listeners=new Map(),appended=[];let idle;
+    const context={document:{querySelector:selector=>{assert.ok(selector.includes('static.cloudflareinsights.com'));return injected?{}:null;},
+      createElement:()=>({setAttribute(name,value){this[name]=value;}}),head:{append:script=>appended.push(script)}},
+      addEventListener:(event,callback)=>listeners.set(event,callback),removeEventListener:event=>listeners.delete(event),
+      requestIdleCallback:callback=>{idle=callback;}};
+    context.window=context;vm.runInNewContext(html.match(/<script>([\s\S]*?)<\/script>/)[1],context);
+    assert.equal(appended.length,0);assert.equal(idle,undefined);
+    listeners.get('pointerdown')();assert.equal(listeners.size,0);assert.equal(appended.length,0);idle();
+    const beacons=appended.filter(script=>script.src.includes('cloudflareinsights'));
+    assert.equal(beacons.length,injected?0:1);
+    if(!injected) {
+      assert.equal(beacons[0].async,true);
+      assert.deepEqual(JSON.parse(beacons[0]['data-cf-beacon']),{token:'existing-public-token'});
+    }
+    assert.equal(appended.length,(google?1:0)+(injected?0:1));
+  }
+  const site={analytics:{cloudflare:{token:''}}};
+  assert.equal(templateEngine(site).engine.renderFileSync('analytics.html',{site}).trim(),'');
 });
