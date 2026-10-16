@@ -6,6 +6,7 @@ import path from 'node:path';
 import vm from 'node:vm';
 import {assetManager,compactCss,imageDimensions} from '../lib/assets.js';
 import {templateEngine} from '../lib/templates.js';
+import {frontMatter} from '../lib/content.js';
 
 test('built assets have content hashes, preserve bytes, and cannot escape assets',()=>{
   const folder=fs.mkdtempSync('assets/.asset-test-');
@@ -60,6 +61,41 @@ test('logo variants preserve 88px sizing and sharp high-density choices',()=>{
   }
   site.logo='/assets/images/authors/rjmill10.png';
   assert.ok(!templateEngine(site).engine.renderFileSync('masthead.html',{site}).includes('srcset='));
+});
+
+test('homepage feature images offer correctly sized WebPs without changing their shape',()=>{
+  const page=frontMatter(fs.readFileSync('index.html','utf8')).data;
+  const assets=assetManager();const site={assets};const engine=templateEngine(site).engine;
+  const html=engine.renderFileSync('feature_row',{page,site});
+  assert.equal((html.match(/srcset=/g)||[]).length,3);
+  assert.equal((html.match(/sizes=/g)||[]).length,3);
+  assert.equal((html.match(/loading="lazy"/g)||[]).length,2);
+  for(const feature of page.feature_row) {
+    assert.ok(html.includes(`src="${assets.url(feature.image_path)}"`));
+    for(const source of feature.image_sources) {
+      assert.deepEqual(imageDimensions(fs.readFileSync(source.path.slice(1))),[source.width,source.width*3/5]);
+      assert.ok(html.includes(`${assets.url(source.path)} ${source.width}w`));
+    }
+  }
+  assert.ok(!engine.renderFileSync('feature_row',{page:{feature_row:[{image_path:page.feature_row[0].image_path}]},site}).includes('srcset='));
+});
+
+test('responsive homepage hero and preloads choose the same WebPs',()=>{
+  const page=frontMatter(fs.readFileSync('index.html','utf8')).data;
+  const site={assets:assetManager(),title:'Test',url:'https://example.org',data:{authors:{}},atom_feed:{hide:true}};
+  const engine=templateEngine(site).engine;
+  const mobile=site.assets.url(page.header.overlay_image_mobile),wide=site.assets.url(page.header.overlay_image);
+  const hero=engine.renderFileSync('page__hero.html',{site,page});
+  const head=engine.renderFileSync('head.html',{site,page});
+  assert.ok(hero.includes(`image-set(url('${mobile}') 1x, url('${wide}') 2x)`));
+  assert.ok(head.includes(`imagesrcset="${mobile} 1x, ${wide} 2x"`));
+  assert.ok(head.includes('media="(max-width: 599px)"'));
+  assert.ok(head.includes('media="(min-width: 600px)"'));
+  assert.ok(head.indexOf('name="viewport"')<head.indexOf('rel="preload"'));
+  assert.deepEqual(imageDimensions(fs.readFileSync(page.header.overlay_image_mobile.slice(1))),[1024,607]);
+  delete page.header.overlay_image_mobile;
+  assert.ok(engine.renderFileSync('page__hero.html',{site,page}).includes(`url('${wide}')`));
+  assert.ok(!engine.renderFileSync('head.html',{site,page}).includes('imagesrcset='));
 });
 
 test('analytics queues page configuration and loads once after interaction and idle',()=>{

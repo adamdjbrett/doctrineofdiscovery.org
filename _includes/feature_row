@@ -12,6 +12,7 @@
         {% if f.image_path %}
           <div class="archive__item-teaser">
             <img src="{{ f.image_path | asset_url }}" {% if f.image_width and f.image_height %}width="{{ f.image_width }}" height="{{ f.image_height }}"{% endif %} decoding="async" {% unless forloop.first %}loading="lazy"{% endunless %}
+                 {% if f.image_sources %}srcset="{% for source in f.image_sources %}{{ source.path | asset_url }} {{ source.width }}w{% unless forloop.last %}, {% endunless %}{% endfor %}" sizes="(min-width: 1280px) 398px, (min-width: 1024px) calc(32.2034vw - 12.8814px), (min-width: 768px) calc(32.2034vw - 11.5932px), (min-width: 600px) calc(32.2034vw - 10.3051px), calc(100vw - 32px)"{% endif %}
                  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>

@@ -10,6 +10,12 @@
 /blog/Law/commentary-on-mcgirt/ /blog/law/commentary-on-mcgirt/ 301
 
 # Keep historical fingerprinted image and SVG URLs reachable.
+/assets/built/home-hero.0f909d2e733578f0.webp /assets/images/optimized/home-hero.webp 301
+/assets/built/GLC04093_0.94ee743eea1b3c93.jpg /assets/images/GLC04093_0.jpg 301
+/assets/built/book-1659717_1280.38341822a067a844.jpg /assets/images/book-1659717_1280.jpg 301
+/assets/built/papal-bulls.40d9ff9919d80d57.webp /assets/images/optimized/papal-bulls.webp 301
+/assets/built/law.77652b2646a8076d.webp /assets/images/optimized/law.webp 301
+/assets/built/repudiations.b57fe8756a123c2c.webp /assets/images/optimized/repudiations.webp 301
 /assets/built/fontawesome.1b9a32ca8bbccb74.svg /assets/icons/fontawesome.svg 301
 /assets/built/law.fc41e96c3e7c24ce.webp /assets/images/optimized/law.webp 301
 /assets/built/papal-bulls.6f1a2add5cf1bbef.webp /assets/images/optimized/papal-bulls.webp 301

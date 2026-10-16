@@ -1,6 +1,10 @@
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="{{ site.generator | escape }}">
-{% if page.header.overlay_image %}<link rel="preload" as="image" fetchpriority="high" href="{{ page.header.overlay_image | asset_url }}">{% endif %}
+{% if page.header.overlay_image %}
+  {% if page.header.overlay_image_mobile %}<link rel="preload" as="image" fetchpriority="high" media="(max-width: 599px)" href="{{ page.header.overlay_image_mobile | asset_url }}" imagesrcset="{{ page.header.overlay_image_mobile | asset_url }} 1x, {{ page.header.overlay_image | asset_url }} 2x">{% endif %}
+  <link rel="preload" as="image" fetchpriority="high"{% if page.header.overlay_image_mobile %} media="(min-width: 600px)"{% endif %} href="{{ page.header.overlay_image | asset_url }}">
+{% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | asset_url }}">
 
 {% include 'seo.html' %}
@@ -10,7 +14,6 @@
 {% endunless %}
 
 {%- comment %} https://docs.google.com/presentation/d/1rmxwWa9P6_xHqonmh5ONXRS-jPc5XKbnv99Rjkhe04s/present {% endcomment -%}
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
 <script>document.documentElement.classList.replace("no-js", "js");</script>

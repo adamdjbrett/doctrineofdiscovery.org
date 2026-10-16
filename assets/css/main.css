@@ -2937,6 +2937,14 @@ body {
   content:"";
   display:table
 }
+.page__hero--responsive {
+  background-image:var(--hero-wide-background)
+}
+@media(max-width:599px) {
+  .page__hero--responsive {
+    background-image:var(--hero-mobile-background)
+  }
+}
 .page__hero--overlay a {
   color:#fff
 }
