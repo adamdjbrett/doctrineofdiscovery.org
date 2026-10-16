@@ -21,7 +21,7 @@ The Presbyterian Church in Canada [Justice Ministries](https://presbyterian.ca/j
 ### [⤓ Download the full report to the 2019 General Assembly repudiating the Doctrine of Discovery](/assets/pdfs/R-Repudiating-the-Doctrine-of-Discovery-final-draft-as-appears-in-GA-JM-report-2019.pdf)
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/43udB7rR7Qg" frameborder="0" allowfullscreen></iframe>
+<iframe title="The Presbyterian Church in Canada — video" width="640" height="360" src="https://www.youtube.com/embed/43udB7rR7Qg" frameborder="0" allowfullscreen></iframe>
 
 ### Further Resources
 * [PCC Doctrine of Discovery](https://presbyterian.ca/justice/doctrine-of-discovery/)

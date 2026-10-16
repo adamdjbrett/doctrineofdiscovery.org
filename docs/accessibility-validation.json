@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-15",
+  "standard_target": "WCAG 2.2 AA",
+  "conformance_claim": false,
+  "pagination_text_contrast": 8.059053666623408,
+  "results": [
+    {
+      "url": "/",
+      "lighthouse_version": "13.4.1",
+      "accessibility_score": 100,
+      "failed_audits": []
+    },
+    {
+      "url": "/blog/declaration-independence-robert-j-miller/",
+      "lighthouse_version": "13.4.1",
+      "accessibility_score": 100,
+      "failed_audits": []
+    },
+    {
+      "url": "/authors/robert-miller",
+      "lighthouse_version": "13.4.1",
+      "accessibility_score": 100,
+      "failed_audits": []
+    },
+    {
+      "url": "/categories/",
+      "lighthouse_version": "13.4.1",
+      "accessibility_score": 100,
+      "failed_audits": []
+    },
+    {
+      "url": "/contact/",
+      "lighthouse_version": "13.4.1",
+      "accessibility_score": 100,
+      "failed_audits": []
+    },
+    {
+      "url": "/page2/",
+      "lighthouse_version": "13.4.1",
+      "accessibility_score": 100,
+      "failed_audits": []
+    },
+    {
+      "url": "/search/",
+      "lighthouse_version": "13.4.1",
+      "accessibility_score": 100,
+      "failed_audits": []
+    },
+    {
+      "url": "/doctrine-of-discovery-short-film/",
+      "lighthouse_version": "13.4.1",
+      "accessibility_score": 100,
+      "failed_audits": []
+    }
+  ],
+  "static_html_checked": 790,
+  "static_checks": [
+    "img alt attribute present",
+    "iframe title present",
+    "html language present"
+  ],
+  "remaining_manual_review": [
+    "screen reader task flows",
+    "keyboard coverage beyond sampled navigation",
+    "alt text quality",
+    "captions and audio descriptions",
+    "archival PDF accessibility",
+    "third-party players and CMS",
+    "full 200% text resize and 400% zoom across content"
+  ]
+}

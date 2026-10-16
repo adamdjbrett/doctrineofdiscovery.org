@@ -19,6 +19,6 @@
 <!-- Courtesy of embedresponsively.com -->
 {% unless video_src == "" %}
   <div class="responsive-video-container">
-    <iframe src="{{ video_src }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="{{ video_src }}" title="{{ page.title | default: 'Embedded video' | escape }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
   </div>
 {% endunless %}

@@ -1579,12 +1579,16 @@ tr,td,th {
 .pagination li a:hover {
   color:#235e70
 }
+.pagination a:focus-visible {
+  outline:3px solid #005fcc;
+  outline-offset:3px
+}
 .pagination li a.current,.pagination li span.current {
   color:#fff;
-  background:#6f777d
+  background:#4a5157
 }
 .pagination li a.disabled,.pagination li span.disabled {
-  color:rgba(100,103,105,.5);
+  color:#646769;
   pointer-events:none;
   cursor:not-allowed
 }
@@ -1627,7 +1631,7 @@ tr,td,th {
   border-bottom-left-radius:0
 }
 .pagination--pager.disabled {
-  color:rgba(100,103,105,.5);
+  color:#646769;
   pointer-events:none;
   cursor:not-allowed
 }
@@ -1664,7 +1668,9 @@ tr,td,th {
   margin-right:.5rem
 }
 .greedy-nav a.site-title {
-  margin-left:0
+  margin-left:0;
+  min-width:0;
+  overflow-wrap:anywhere
 }
 .greedy-nav img {
   -webkit-transition:none;

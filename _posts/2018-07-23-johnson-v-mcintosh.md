@@ -54,7 +54,7 @@ toc_icon: "cog"
 <iframe width="640" height="360" src="https://www.youtube.com/embed/u9etyRazLvk?si=Kiq7MI0wnE4HhkXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<iframe src="https://archive.org/embed/illinoiswabashla00unit" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>  
+<iframe title="Johnson v. M’Intosh — document reader" src="https://archive.org/embed/illinoiswabashla00unit" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ### [United Illinois and Wabash Land Companies Collection](https://digital.libraries.ou.edu/IWLC/)
 The collection consists of 263 original manuscripts, five hand-drawn maps and seven published documents which relate to the Companies’ efforts to acquire title to Indian lands during the period 1775 to 1823. These efforts culminated in the Supreme Court’s landmark 1823 decision in Johnson v. M’Intosh divesting Native Americans of title to their lands. Jasper Brinton, great-great-great grandson of John Hill Brinton, the Companies’ secretary from 1805 to 1823, entrusted the papers to the Donald E. Pray Law Library. The papers informed Lindsay G. Robertson’s award-winning book, _[Conquest by Law: How the Discovery of America Dispossessed Indigenous Peoples of Their Lands](http://www.us.oup.com/us/catalog/general/subject/Law/LegalHistory/?view=usa&ci=9780195314892)_ (Oxford University Press, 2005)

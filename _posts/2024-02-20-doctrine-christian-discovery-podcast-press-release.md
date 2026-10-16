@@ -57,6 +57,6 @@ Listen to the podcast on [Megaphone](https://goodfaithmedia.org/doctrine-of-chr
 Learn more at [DoctrineOfDiscovery.org](https://doctrineofdiscovery.org/)
 Listen to the podcast on [Megaphone](https://goodfaithmedia.org/doctrine-of-christian-discovery/), [Spotify](https://open.spotify.com/show/4VnMhbq2UJbu3fdehsQ66I) or [Apple](https://podcasts.apple.com/us/podcast/doctrine-of-christian-discovery/id1729219360).
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4VnMhbq2UJbu3fdehsQ66I?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe title="New Good Faith Media Podcast Highlights ‘Doctrine of Christian Discovery’ — podcast player" style="border-radius:12px" src="https://open.spotify.com/embed/show/4VnMhbq2UJbu3fdehsQ66I?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 

@@ -16,7 +16,7 @@ tags:
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/V3gF7ULVrl4?controls=0&amp;" frameborder="0" allowfullscreen></iframe>
+  <iframe title="Doctrine of Discovery Short Film — video" width="640" height="360" src="https://www.youtube-nocookie.com/embed/V3gF7ULVrl4?controls=0&amp;" frameborder="0" allowfullscreen></iframe>
 </div>
 
 * [Doctrine of Discovery Short Film on Youtube](https://www.youtube.com/watch?v=V3gF7ULVrl4) 

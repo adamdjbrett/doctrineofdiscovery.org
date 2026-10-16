@@ -47,6 +47,6 @@ Download event flyer as a [⤓ image](/assets/images/Sullivan-Clinton-Campaign-F
 * [Watch on Youtube](https://youtu.be/HMJOtMjCSAE)
 
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/HMJOtMjCSAE?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe title="Revisiting George Washington’s assault on the Haudenosaunee 240 Years Later — video" width="640" height="360" src="https://www.youtube-nocookie.com/embed/HMJOtMjCSAE?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 

@@ -15,7 +15,7 @@ toc_label: "Overview"
 toc_icon: "cog"
 date: 2024-11-21
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//4MYq8oH7LdQ' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe title="Indigenous Sovereignty and Colonial Frameworks: A Comparative Analysis of Aotearoa (New Zealand) and Australia — video" src='https://www.youtube.com/embed//4MYq8oH7LdQ' frameborder='0' allowfullscreen></iframe></div>
 
 Indigenous Sovereignty and Colonial Frameworks: A Comparative Analysis of Aotearoa (New Zealand) and Australia
 ==============================================================================================================

@@ -20,6 +20,6 @@ tags:
 * Read the [full statement from Canadian Yearly Meeting](/assets/pdfs/Doctrine-of-Discovery-minute-and-background-August-2013.pdf)
 * [FAQ](/assets/pdfs/FAQs-on-DoD-July-30-2015.pdf)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed//1NrjoaFuXk4" frameborder="0" allowfullscreen></iframe>
+<iframe title="Canadian Friends Service Committee (Quakers) — video" width="640" height="360" src="https://www.youtube.com/embed//1NrjoaFuXk4" frameborder="0" allowfullscreen></iframe>
 
 
