@@ -23,7 +23,7 @@ test('both paginators identify the current page without disabling it or adding d
 });
 
 test('pagination text colors meet AA normal-text contrast',()=>{
-  const css=fs.readFileSync('assets/css/main.css','utf8');
+  const css=fs.readFileSync('src/assets/css/main.css','utf8');
   const current=css.match(/\.pagination li a\.current,\.pagination li span\.current\s*\{([^}]+)}/)[1];
   const disabled=css.match(/\.pagination li a\.disabled,\.pagination li span\.disabled\s*\{([^}]+)}/)[1];
   const luminance=hex=>hex.replace('#','').match(/../g).map(v=>parseInt(v,16)/255)
@@ -46,10 +46,10 @@ test('post navigation keeps inactive controls out of the tab order',()=>{
 });
 
 test('embedded media have titles and the admin document declares its language',()=>{
-  for(const file of [...files('_posts'),...files('_pages'),'_includes/video']) {
+  for(const file of [...files('src/_posts'),...files('src/_pages'),'src/_includes/video']) {
     for(const tag of fs.readFileSync(file,'utf8').match(/<iframe\b[^>]*>/gi)||[]) {
       assert.match(tag,/\btitle=["'][^"']+/i,file);
     }
   }
-  assert.match(fs.readFileSync('admin/index.html','utf8'),/<html lang="en">/);
+  assert.match(fs.readFileSync('src/admin/index.html','utf8'),/<html lang="en">/);
 });

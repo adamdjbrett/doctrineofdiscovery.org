@@ -27,14 +27,8 @@ availability, platform queues, network transfer, and production-only IndexNow
 work can change the result. The next deployment log must confirm the one-minute
 target. The final local production build took approximately four seconds.
 
-Run Lighthouse separately against each preview that needs release validation:
-
-```sh
-npm run lighthouse -- https://YOUR-PREVIEW.netlify.app/ --output=json --output=html
-```
-
-This uses Lighthouse 13.5.0 through a temporary npm tool installation; no
-Lighthouse dependency was added to the application lockfile.
+The Lighthouse npm command has since been removed. The measurements below
+are historical; no Lighthouse dependency was added to the application lockfile.
 [Netlify documents disabling dashboard-installed plugins here](https://docs.netlify.com/extend/install-and-use/build-plugins/).
 
 ## Page changes

@@ -45,10 +45,10 @@ export default function (config) {
   if (process.env.ELEVENTY_RUN_MODE === 'serve' && outputInProject) {
     config.setServerPassthroughCopyBehavior('passthrough');
     // Styles and scripts can reload directly without rendering every page.
-    const clientAssets = ['assets/css/**', 'assets/js/**'];
+    const clientAssets = ['src/assets/css/**', 'src/assets/js/**'];
     for (const target of clientAssets) config.watchIgnores.add(target);
     config.setServerOptions({
-      watch: ['assets/css', 'assets/js'],
+      watch: ['src/assets/css', 'src/assets/js'],
       // Generated citations take precedence over historical source copies.
       aliases: {
         '/assets/citations/': path.resolve(config.directories.output, 'assets/citations') + path.sep,
@@ -56,10 +56,11 @@ export default function (config) {
       }
     });
   }
-  config.addPassthroughCopy('assets');
-  config.addPassthroughCopy('admin');
-  config.addPassthroughCopy('Screenshot-2019-03-11-02.46.46.png');
-  for (const filename of ['_redirects','_headers','robots.txt','favicon.ico','CNAME','BingSiteAuth.xml','googlebfdcfddbdbfcbd99.html','humans.txt','LICENSE','LICENSE.minimal-mistakes','sw.js','offline.html']) config.addPassthroughCopy(filename);
-  for (const target of ['_posts/**','_pages/**','_authors/**','_includes/**','_layouts/**','_data/**','_config.yml','lib/**']) config.addWatchTarget(target, { resetConfig: true });
-  return { templateFormats: ['11ty.js'], dir: { input: '.', output: '_site', data: '_eleventy_data', includes: '_includes' } };
+  config.addPassthroughCopy('src/assets');
+  config.addPassthroughCopy('src/admin');
+  config.addPassthroughCopy('src/Screenshot-2019-03-11-02.46.46.png');
+  for (const filename of ['_redirects','_headers','robots.txt','favicon.ico','CNAME','BingSiteAuth.xml','googlebfdcfddbdbfcbd99.html','humans.txt','sw.js','offline.html']) config.addPassthroughCopy('src/' + filename);
+  for (const filename of ['LICENSE','LICENSE.minimal-mistakes']) config.addPassthroughCopy({ [filename]: filename });
+  for (const target of ['src/_posts/**','src/_pages/**','src/_authors/**','src/_includes/**','src/_layouts/**','src/_data/**','src/_config.yml','lib/**']) config.addWatchTarget(target, { resetConfig: true });
+  return { templateFormats: ['11ty.js'], dir: { input: 'src', output: '_site', data: '_eleventy_data', includes: '_includes' } };
 }

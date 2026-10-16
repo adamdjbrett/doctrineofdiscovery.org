@@ -1,4 +1,4 @@
-import { getSite } from './lib/site.js';
+import { getSite } from '../lib/site.js';
 
 export default class {
   async data() {

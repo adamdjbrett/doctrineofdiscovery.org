@@ -138,9 +138,10 @@ def verify(root):
     for name in required:
         if name.endswith(".xml"):
             ElementTree.parse(root / name)
-    print(f"PASS: {len(pages)} HTML pages, {len(metadata)} metadata records, "
-          f"{len(citations)} citation pairs, {len(documents)} Standard.site documents")
-    verify_links(root)
+    protected = verify_links(root)
+    print(f"PASS: {len(pages)} pages, {len(metadata)} metadata records, "
+          f"{len(citations)} citation pairs, {len(documents)} standard.site documents; "
+          f"links and fragments valid ({protected} protected URLs)")
 
 
 if __name__ == "__main__":

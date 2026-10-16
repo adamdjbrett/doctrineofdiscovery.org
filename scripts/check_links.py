@@ -157,7 +157,7 @@ def verify(root):
     if new:
         raise SystemExit('New public URLs need recording before deployment: '+', '.join(sorted(new)[:3])+
                          '\nRun python3 scripts/check_links.py '+str(root)+' --record, then review the fixture diff.')
-    print(f'PASS: local links and fragments across {sum(url.endswith(".html") for url in site.pages)} HTML pages; {len(protected)} protected public URLs')
+    return len(protected)
 
 
 if __name__ == '__main__':
@@ -166,4 +166,5 @@ if __name__ == '__main__':
         existing = set(json.loads(CONTRACT.read_text())) if CONTRACT.exists() else set()
         CONTRACT.write_text(json.dumps(sorted(existing | SiteLinks(root).public_urls()),indent=2,ensure_ascii=False)+'\n')
         print('Recorded public URLs without removing historical entries.')
-    verify(root)
+    protected = verify(root)
+    print(f'PASS: local links and fragments; {protected} protected URLs')

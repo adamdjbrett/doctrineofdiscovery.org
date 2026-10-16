@@ -7,7 +7,7 @@ test('offline support keeps online pages fresh and leaves APIs and downloads alo
   const listeners=new Map();
   const offline=new Response('Offline notice');
   let installed,claimed=false,online=true;
-  vm.runInNewContext(fs.readFileSync('sw.js','utf8'),{
+  vm.runInNewContext(fs.readFileSync('src/sw.js','utf8'),{
     URL,
     self:{location:{origin:'https://example.org'},clients:{claim:async()=>{claimed=true;}},
       addEventListener:(name,handler)=>listeners.set(name,handler)},
@@ -34,12 +34,12 @@ test('offline support keeps online pages fresh and leaves APIs and downloads alo
 });
 
 test('installable manifest has a stable root identity and usable local icons', () => {
-  const manifest=JSON.parse(fs.readFileSync('assets/images/favicons/site.webmanifest','utf8'));
+  const manifest=JSON.parse(fs.readFileSync('src/assets/images/favicons/site.webmanifest','utf8'));
   for(const key of ['id','start_url','scope']) assert.equal(manifest[key],'/');
   assert.equal(manifest.display,'standalone');
   for(const size of ['192x192','512x512']) {
     const icon=manifest.icons.find(icon=>icon.sizes===size);
     assert.ok(icon.purpose.split(' ').includes('any'));
-    assert.ok(fs.existsSync(icon.src.split('?')[0].slice(1)));
+    assert.ok(fs.existsSync('src' + icon.src.split('?')[0]));
   }
 });

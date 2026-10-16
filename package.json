@@ -11,8 +11,7 @@
     "dev": "eleventy --serve --port=8080 --quiet",
     "start": "npm run dev",
     "test": "node --test",
-    "verify": "python3 scripts/verify_build.py _site",
-    "lighthouse": "npx --yes --package=lighthouse@13.5.0 lighthouse",
+    "verify": "npm run build && python3 scripts/verify_build.py _site",
     "indexnow": "node scripts/indexnow.js"
   },
   "devDependencies": {

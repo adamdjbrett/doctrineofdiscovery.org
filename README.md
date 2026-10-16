@@ -31,8 +31,8 @@ Content edits rebuild shared archives, search data, citations, and SEO metadata.
 Run `npm run build` to create the complete deployable `_site/` directory. The build
 cleans that output directory before generating pages and metadata. Netlify
 installs the locked npm dependencies, runs `npm run build`, and publishes
-`_site/`. Redirects and HTTP headers are maintained in `_redirects` and
-`_headers`. CMS access under `/admin/` and the Formspree contact form remain.
+`_site/`. Redirects and HTTP headers are maintained in `src/_redirects` and
+`src/_headers`. CMS access under `/admin/` and the Formspree contact form remain.
 
 Eleventy 4 uses native Chokidar 5 directory watching and YAML 4; the older
 dependency overrides and watcher adapter are no longer needed. CSS/JS live
@@ -44,19 +44,42 @@ detects changes inside those directories. This is a prerelease dependency;
 review the [upstream releases](https://github.com/11ty/buildawesome/releases)
 before upgrading the exact pin.
 
+## Project structure
+
+`src/` is Eleventy's input directory. Content, Liquid templates, YAML data,
+assets, CMS configuration, and public files live there. Public URLs omit `src/`.
+
+```text
+src/
+  _posts/       _pages/       _authors/     _drafts/
+  _includes/    _layouts/     _data/        _config.yml
+  assets/       admin/       site.11ty.js  index.html
+lib/            # shared rendering and metadata code
+scripts/        # manual maintenance and verification tools
+tests/          # tests and URL fixtures
+netlify/        # functions and deployment plugin
+_site/          # generated output (ignored by Git)
+```
+
+Run npm commands from the repository root. `eleventy.config.js`, `package.json`,
+and `netlify.toml` stay at the root; Netlify builds there and publishes `_site/`.
+The CMS writes to `src/` while uploaded images keep `/assets/uploads/` URLs.
+Content record paths remain relative to `src/`, and Git date lookup recognizes
+both the previous root paths and the new `src/` paths.
+
 ## Content and dates
 
 Public post/page paths and original PDF/image paths are protected by
 `tests/fixtures/public-urls.json`, including the saved Jekyll URLs and known
-historical fingerprinted media URLs. The manual `npm run verify` command can
-check local links, fragments, image metadata, SVG references, CSS URLs, and
+historical fingerprinted media URLs. The manual `npm run verify` command rebuilds
+the site first, then checks local links, fragments, image metadata, SVG references, CSS URLs, and
 redirect targets with case-sensitive filename matching. A missing protected
 URL or a newly introduced broken link fails verification. Link checking does
 not run during `npm run build` or Netlify deployment.
 
 Keep existing permalinks and media filenames when editing. When a move is
 necessary, retain the old URL with `redirect_from` for content or a permanent
-redirect in `_redirects` for files. Front-matter redirects are emitted as HTTP
+redirect in `src/_redirects` for files. Front-matter redirects are emitted as HTTP
 301 rules on Netlify. The dev server follows literal redirect rules locally,
 including historical media aliases; Netlify handles its wildcard rules.
 Original media remain available even when the page uses an optimized copy.
@@ -74,9 +97,9 @@ Recording only adds URLs; it never removes historical entries or excuses a
 missing target. External websites are not fetched during builds. See the
 [URL preservation validation](docs/url-preservation-validation.md).
 
-Posts, pages, and authors remain in `_posts/`, `_pages/`, and `_authors/`.
+Posts, pages, and authors live in `src/_posts/`, `src/_pages/`, and `src/_authors/`.
 Markdown and YAML front matter remain editable through the existing CMS.
-Site settings, including **`timezone: America/New_York`**, live in `_config.yml`.
+Site settings, including **`timezone: America/New_York`**, live in `src/_config.yml`.
 Local timestamps and date-only values are interpreted in New York, including
 its daylight-saving changes.
 
@@ -95,8 +118,8 @@ order, newest first. Taxonomy listings use modified order.
 
 ## Templates, styles, and metadata
 
-Liquid layouts and includes are maintained locally in `_layouts/` and
-`_includes/`. Eleventy paginates the prepared content records in `site.11ty.js`;
+Liquid layouts and includes are maintained locally in `src/_layouts/` and
+`src/_includes/`. Eleventy paginates the prepared content records in `src/site.11ty.js`;
 `lib/site.js` builds the shared post, author, category, and tag indexes once.
 Markdown compatibility, including historical heading IDs, footnotes, and
 attribute syntax, is handled in `lib/templates.js`.
@@ -110,14 +133,14 @@ contents changes its URL. Local CSS/JS preview still serves the editable files
 directly. Local raster images receive intrinsic dimensions when both dimensions
 are missing. Related-post images and later feature images load lazily.
 
-Selected high-traffic images have WebP copies in `assets/images/optimized/`;
+Selected high-traffic images have WebP copies in `src/assets/images/optimized/`;
 `lib/assets.js` maps their original URLs to those copies. When replacing one
 of these source images, regenerate its optimized copy too. Originals remain
 available for historical links. Image conversion is done before committing,
 so Netlify needs no image-processing dependency.
 
 Icons use the local Font Awesome 6.7.2 SVG subset in
-`assets/icons/fontawesome.svg`, with attribution in the adjacent license.
+`src/assets/icons/fontawesome.svg`, with attribution in the adjacent license.
 Add a symbol there before using a new icon; the build reports missing symbols.
 There is no remote icon font stylesheet. Analytics queues its configuration
 immediately, then downloads one GA4 tag after the first pointer, keyboard, or
@@ -148,16 +171,9 @@ on ordinary localhost development URLs. If editing `offline.html`, also bump
 the cache version in `sw.js` so existing installations refresh that notice.
 
 Netlify's old Jekyll Cache and deploy-time Lighthouse plugins are disabled in
-the project dashboard. Keep Lighthouse off the deployment path and audit a
-deployed preview separately:
-
-```sh
-npm run lighthouse -- https://YOUR-PREVIEW.netlify.app/ --output=json --output=html
-```
-
-The command uses pinned Lighthouse 13.5.0 without adding a project dependency.
-Current Lighthouse has no PWA score; test installation and offline behavior
-separately. See [deployment/performance validation](docs/netlify-performance-validation.md).
+the project dashboard. The Lighthouse npm command has been removed. See
+[deployment/performance validation](docs/netlify-performance-validation.md)
+for historical measurements.
 
 The two custom HTTP response headers are `X-Content-Type-Options: nosniff`
 and the immutable cache rule for hashed assets. The redundant explicit modern
@@ -165,7 +181,7 @@ browser referrer-policy default and zero-age asset-cache override were removed.
 Netlify supplies its own transport/CDN headers. See
 [Goal 4 validation](docs/goal-4-validation.md) for Lighthouse measurements.
 
-Edit **`assets/css/main.css`** directly. It retains the established Minimal
+Edit **`src/assets/css/main.css`** directly. It retains the established Minimal
 Mistakes styles as readable CSS; there is no Sass compilation. Navigation uses
 the original theme markup with vanilla JavaScript, sticky positioning uses CSS, and image
 viewing uses a native-dialog module loaded on the first image click. TOC
@@ -202,8 +218,8 @@ and one coherent Schema.org graph. Posts use `BlogPosting`; author profiles
 use `ProfilePage` with `Person` or `Organization`. The standard microformat
 author representation is `p-author h-card` inside `h-entry`.
 Explicit `authors` takes precedence over `author`; names and profile details
-come from `_authors/`. Set `schema_type: Organization` for institutional
-authors. Publisher details live in `_data/organization.yml`.
+come from `src/_authors/`. Set `schema_type: Organization` for institutional
+authors. Publisher details live in `src/_data/organization.yml`.
 
 Each post and content HTML page has adjacent `citation.ris`, `citation.csl.json`, and
 `dc.xml` exports (for example, `/inter-caetera/citation.ris`). URLs ending in
@@ -219,7 +235,7 @@ IndexNow notifications run after successful **production Netlify deploys**.
 Local builds and deploy previews do not submit. The local build plugin
 compares the previous production `/indexnow.json` with the new manifest,
 then submits new, changed, and removed URLs after checking the deployed
-ownership file. The verification key lives in `_config.yml`; the build
+ownership file. The verification key lives in `src/_config.yml`; the build
 generates its root `.txt` verification file. The public manifest contains
 URL hashes and a key fingerprint. Notifications exclude redirects, drafts,
 unpublished documents, `noindex`, `sitemap: false`, and external canonical

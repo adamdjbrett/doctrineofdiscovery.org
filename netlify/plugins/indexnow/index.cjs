@@ -8,7 +8,7 @@ module.exports={
   async onPreBuild({constants}) {
     previous=undefined;
     if (!production(constants)) return;
-    const site=yaml.load(fs.readFileSync('_config.yml','utf8'));
+    const site=yaml.load(fs.readFileSync('src/_config.yml','utf8'));
     try {
       const response=await fetch(new URL('/indexnow.json',site.url),{redirect:'error',signal:AbortSignal.timeout(15000)});
       if (response.ok) previous=await response.json();
@@ -19,7 +19,7 @@ module.exports={
     if (!production(constants)) return;
     try {
       const {changedUrls,submitIndexNow,withKey}=await import('../../../lib/indexnow.js');
-      const current=withKey(JSON.parse(fs.readFileSync(path.join(constants.PUBLISH_DIR,'indexnow.json'),'utf8')),yaml.load(fs.readFileSync('_config.yml','utf8')).indexnow.key);
+      const current=withKey(JSON.parse(fs.readFileSync(path.join(constants.PUBLISH_DIR,'indexnow.json'),'utf8')),yaml.load(fs.readFileSync('src/_config.yml','utf8')).indexnow.key);
       // A malformed old manifest must not prevent notification of the new one.
       let urls;
       try {urls=changedUrls(current,previous);} catch {urls=changedUrls(current,null);}

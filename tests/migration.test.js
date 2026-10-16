@@ -20,7 +20,7 @@ test('front matter supports empty blocks, trailing delimiter spaces and quoted d
   assert.equal(frontMatter('---\npublished: false\n---\nBody').data.published,false);
 });
 test('every content document has a valid publication date in front matter', () => {
-  for(const filename of ['_posts','_pages','_authors','_drafts'].flatMap(files).concat(['index.html','atom.xml','metadata.json'])) {
+  for(const filename of ['src/_posts','src/_pages','src/_authors','src/_drafts'].flatMap(files).concat(['src/index.html','src/atom.xml','src/metadata.json'])) {
     const {data}=frontMatter(fs.readFileSync(filename,'utf8'));
     assert.ok(data.date,filename); assert.ok(dateValue(data.date).isValid,filename);
   }
@@ -59,7 +59,7 @@ test('site uses Git modifications, precomputed author lists, and unique output p
   assert.equal(site.timezone,'America/New_York');
   const version=JSON.parse(fs.readFileSync('node_modules/@11ty/eleventy/package.json','utf8')).version;
   assert.ok(documents.find(d=>d.url==='/').html.includes(`<meta name="generator" content="Eleventy v${version}">`));
-  const expectedGit=execFileSync('git',['log','-1','--format=%cI','--','index.html'],{encoding:'utf8'}).trim();
+  const expectedGit=execFileSync('git',['log','-1','--format=%cI','--','src/index.html','index.html'],{encoding:'utf8'}).trim();
   assert.equal(isoDate(documents.find(d=>d.path==='index.html').last_modified_at),isoDate(expectedGit));
   assert.deepEqual([...site.posts].sort(sortByModified).map(d=>d.url),site.posts.map(d=>d.url));
   const homepagePosts=documents.filter(d=>d.paginator).sort((a,b)=>a.paginator.page-b.paginator.page).flatMap(d=>d.paginator.posts);
@@ -77,7 +77,7 @@ test('site uses Git modifications, precomputed author lists, and unique output p
       assert.equal(scripts.some(url=>/\/toc(?:\.[a-f0-9]+)?\.js$/.test(url)),Boolean(post.toc));
       assert.ok(!scripts.some(url=>/\/(?:search|gallery)(?:\.[a-f0-9]+)?\.js$/.test(url)),'Optional modules must load only on interaction');
     }
-    const {data}=frontMatter(fs.readFileSync(post.path,'utf8'));
+    const {data}=frontMatter(fs.readFileSync('src/' + post.path,'utf8'));
     if(data.last_modified_at) assert.equal(post.last_modified_at,isoDate(data.last_modified_at));
   }
 });
@@ -109,6 +109,39 @@ test('source exports fall back when Git history is unavailable', () => {
   const result=execFileSync(process.execPath,['--input-type=module','-e',"import {modifiedDates} from './lib/content.js'; console.log(modifiedDates().size)"],
     {encoding:'utf8',env:{...process.env,GIT_DIR:'/private/tmp/dod-goal2/missing-git-directory'},stdio:['ignore','pipe','pipe']});
   assert.equal(result.trim(),'0');
+});
+
+test('Git modification dates recognize both root and src content paths', () => {
+  const folder=fs.mkdtempSync('/private/tmp/dod-history-');
+  let commitDate='2020-01-01T12:00:00Z';
+  const git=(...args)=>execFileSync('git',args,{cwd:folder,stdio:'pipe',
+    env:{...process.env,GIT_AUTHOR_DATE:commitDate,GIT_COMMITTER_DATE:commitDate}});
+  const lookup=()=>JSON.parse(execFileSync(process.execPath,['--input-type=module','-e',
+    `import {modifiedDates} from ${JSON.stringify(new URL('../lib/content.js',import.meta.url).href)}; process.chdir(process.argv[1]); console.log(JSON.stringify([...modifiedDates()]));`,folder],{encoding:'utf8'})).map(([name,date])=>[name,isoDate(date)]);
+  try {
+    git('init','-q');
+    fs.writeFileSync(folder+'/index.html','Home');
+    git('add','index.html');
+    git('-c','user.name=Test','-c','user.email=test@example.org','commit','-qm','Root content');
+    const original=lookup();
+    assert.deepEqual(original,[['index.html',isoDate('2020-01-01T12:00:00Z')]]);
+    fs.mkdirSync(folder+'/src');
+    git('mv','index.html','src/index.html');
+    commitDate='2021-01-01T12:00:00Z';
+    git('-c','user.name=Test','-c','user.email=test@example.org','commit','-qm','Move to src');
+    assert.deepEqual(lookup(),[['index.html',isoDate('2021-01-01T12:00:00Z')]]);
+  } finally {fs.rmSync(folder,{recursive:true,force:true});}
+});
+
+test('Eleventy builds src with public assets and content watching', () => {
+  const copies=[],watched=[];
+  const result=configure({directories:{output:'_site'},on(){},
+    addPassthroughCopy:value=>copies.push(value),addWatchTarget:value=>watched.push(value)});
+  assert.equal(result.dir.input,'src');
+  assert.equal(result.dir.output,'_site');
+  assert.ok(copies.includes('src/assets'));
+  assert.ok(copies.includes('src/admin'));
+  assert.ok(watched.includes('src/_posts/**'));
 });
 
 test('theme translations resolve YAML merges and TOC retains nested theme markup', async () => {
@@ -152,7 +185,7 @@ test('direct asset serving is limited to in-project previews; other builds keep 
         setServerPassthroughCopyBehavior(value){this.behavior=value;},setServerOptions(value){this.server=value;}};
       configure(fake);
       assert.equal(fake.behavior==='passthrough',fast);
-      assert.equal(fake.watchIgnores.has('assets/css/**'),fast);
+      assert.equal(fake.watchIgnores.has('src/assets/css/**'),fast);
       assert.equal(Boolean(fake.server?.aliases?.['/assets/citations/']),fast);
     }
   } finally {

@@ -9,16 +9,17 @@ import {templateEngine} from '../lib/templates.js';
 import {frontMatter} from '../lib/content.js';
 
 test('built assets have content hashes, preserve bytes, and cannot escape assets',()=>{
-  const folder=fs.mkdtempSync('assets/.asset-test-');
+  const folder=fs.mkdtempSync('src/assets/.asset-test-');
   const output=fs.mkdtempSync(path.join(os.tmpdir(),'dod-assets-'));
   try {
     const source=folder+'/sample.js';fs.writeFileSync(source,'const version = 1;');
-    const assets=assetManager();const first=assets.url('/'+source);
+    const sourceUrl='/' + source.slice(4);
+    const assets=assetManager();const first=assets.url(sourceUrl);
     assert.match(first,/\/assets\/built\/sample\.[a-f0-9]{16}\.js$/);
-    assert.equal(assets.url('/'+source),first);
+    assert.equal(assets.url(sourceUrl),first);
     assets.write(output);assert.equal(fs.readFileSync(path.join(output,first),'utf8'),'const version = 1;');
-    fs.writeFileSync(source,'const version = 2;');assert.notEqual(assetManager().url('/'+source),first);
-    assert.equal(assetManager({serve:true}).url('/'+source),'/'+source);
+    fs.writeFileSync(source,'const version = 2;');assert.notEqual(assetManager().url(sourceUrl),first);
+    assert.equal(assetManager({serve:true}).url(sourceUrl),sourceUrl);
     assert.throws(()=>assets.url('/assets/../../package.json'),/inside assets/);
   } finally {fs.rmSync(folder,{recursive:true,force:true});fs.rmSync(output,{recursive:true,force:true});}
 });
@@ -38,7 +39,7 @@ test('local SVG icons support both quote styles and fail visibly on missing icon
 
 test('image sizing preserves aspect ratios and existing attributes without loading remote images',()=>{
   for(const [file,size] of [['assets/images/authors/rjmill10.png',[240,240]],['assets/images/Mission-Interior-from-Lookout.jpg',[1200,900]],['assets/images/optimized/robert-miller.webp',[220,220]]]) {
-    assert.deepEqual(imageDimensions(fs.readFileSync(file)),size);
+    assert.deepEqual(imageDimensions(fs.readFileSync('src/' + file)),size);
   }
   assert.equal(imageDimensions(Buffer.alloc(0)),null);
   const malformed=Buffer.alloc(40,255);malformed[1]=216;
@@ -57,14 +58,14 @@ test('logo variants preserve 88px sizing and sharp high-density choices',()=>{
   assert.match(html,/width="88" height="88"/);
   assert.match(html,/srcset="[^\"]+ 1x, [^\"]+ 2x, [^\"]+ 3x"/);
   for(const [name,size] of [['site-logo-1x',88],['site-logo',176],['site-logo-3x',300]]) {
-    assert.deepEqual(imageDimensions(fs.readFileSync(`assets/images/optimized/${name}.webp`)),[size,size]);
+    assert.deepEqual(imageDimensions(fs.readFileSync(`src/assets/images/optimized/${name}.webp`)),[size,size]);
   }
   site.logo='/assets/images/authors/rjmill10.png';
   assert.ok(!templateEngine(site).engine.renderFileSync('masthead.html',{site}).includes('srcset='));
 });
 
 test('homepage feature images offer correctly sized WebPs without changing their shape',()=>{
-  const page=frontMatter(fs.readFileSync('index.html','utf8')).data;
+  const page=frontMatter(fs.readFileSync('src/index.html','utf8')).data;
   const assets=assetManager();const site={assets};const engine=templateEngine(site).engine;
   const html=engine.renderFileSync('feature_row',{page,site});
   assert.equal((html.match(/srcset=/g)||[]).length,3);
@@ -73,7 +74,7 @@ test('homepage feature images offer correctly sized WebPs without changing their
   for(const feature of page.feature_row) {
     assert.ok(html.includes(`src="${assets.url(feature.image_path)}"`));
     for(const source of feature.image_sources) {
-      assert.deepEqual(imageDimensions(fs.readFileSync(source.path.slice(1))),[source.width,source.width*3/5]);
+      assert.deepEqual(imageDimensions(fs.readFileSync('src' + source.path)),[source.width,source.width*3/5]);
       assert.ok(html.includes(`${assets.url(source.path)} ${source.width}w`));
     }
   }
@@ -81,7 +82,7 @@ test('homepage feature images offer correctly sized WebPs without changing their
 });
 
 test('responsive homepage hero and preloads choose the same WebPs',()=>{
-  const page=frontMatter(fs.readFileSync('index.html','utf8')).data;
+  const page=frontMatter(fs.readFileSync('src/index.html','utf8')).data;
   const site={assets:assetManager(),title:'Test',url:'https://example.org',data:{authors:{}},atom_feed:{hide:true}};
   const engine=templateEngine(site).engine;
   const mobile=site.assets.url(page.header.overlay_image_mobile),wide=site.assets.url(page.header.overlay_image);
@@ -92,7 +93,7 @@ test('responsive homepage hero and preloads choose the same WebPs',()=>{
   assert.ok(head.includes('media="(max-width: 599px)"'));
   assert.ok(head.includes('media="(min-width: 600px)"'));
   assert.ok(head.indexOf('name="viewport"')<head.indexOf('rel="preload"'));
-  assert.deepEqual(imageDimensions(fs.readFileSync(page.header.overlay_image_mobile.slice(1))),[1024,607]);
+  assert.deepEqual(imageDimensions(fs.readFileSync('src' + page.header.overlay_image_mobile)),[1024,607]);
   delete page.header.overlay_image_mobile;
   assert.ok(engine.renderFileSync('page__hero.html',{site,page}).includes(`url('${wide}')`));
   assert.ok(!engine.renderFileSync('head.html',{site,page}).includes('imagesrcset='));

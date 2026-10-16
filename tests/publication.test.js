@@ -103,7 +103,7 @@ test('IndexNow verifies deployed ownership, batches at 10000 URLs, and never sub
 test('Netlify IndexNow plugin skips local and preview deploys and submits only after production success',async()=>{
   const plugin=createRequire(import.meta.url)('../netlify/plugins/indexnow/index.cjs');
   const originalFetch=globalThis.fetch;const env={CONTEXT:process.env.CONTEXT,NETLIFY:process.env.NETLIFY};
-  const config=yaml.load(fs.readFileSync('_config.yml','utf8'));const pluginKey=config.indexnow.key;
+  const config=yaml.load(fs.readFileSync('src/_config.yml','utf8'));const pluginKey=config.indexnow.key;
   const pluginManifest={host:new URL(config.url).host,keyVersion:createHash('sha256').update(pluginKey).digest('hex'),records:[{url:config.url+'/',hash:'a'.repeat(64)}]};
   const folder=fs.mkdtempSync(path.join(os.tmpdir(),'dod-indexnow-'));fs.writeFileSync(path.join(folder,'indexnow.json'),JSON.stringify(pluginManifest));
   const calls=[];

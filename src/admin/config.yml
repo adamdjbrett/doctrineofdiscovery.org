@@ -2,12 +2,13 @@ backend:
   name: git-gateway
   repo: adamdjbrett/doctrineofdiscovery.org
   branch: master # Branch to update (optional; defaults to master)
-media_folder: 'assets/uploads'
+media_folder: 'src/assets/uploads'
+public_folder: '/assets/uploads'
 
 collections:
   - name: 'blog'
     label: 'Blog'
-    folder: '_posts/'
+    folder: 'src/_posts/'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true
     editor:
@@ -40,7 +41,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'page'
     label: 'Page'
-    folder: '_pages/'
+    folder: 'src/_pages/'
     slug: '{{slug}}'
     create: true
     editor:
@@ -55,7 +56,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'categories'
     label: 'Categories'
-    folder: '_pages/categories'
+    folder: 'src/_pages/categories'
     slug: '{{slug}}'
     create: true
     editor:
@@ -85,7 +86,7 @@ collections:
     editor:
       preview: false
     files:
-     - file: "_data/navigation.yml"
+     - file: "src/_data/navigation.yml"
        label: "Navigation Settup"
        name: "navigation"
        widget: object
@@ -114,7 +115,7 @@ collections:
     editor:
       preview: false
     files:
-     - file: "_data/snippets.yml"
+     - file: "src/_data/snippets.yml"
        label: "Snippets Settup"
        name: "snippets"
        widget: object
@@ -142,7 +143,7 @@ collections:
     editor:
       preview: false
     files:
-     - file: "_config.yml"
+     - file: "src/_config.yml"
        label: "Configuration Menu"
        name: "conf"
        widget: list

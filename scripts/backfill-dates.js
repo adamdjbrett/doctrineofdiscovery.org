@@ -2,8 +2,8 @@ import fs from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { files, frontMatter, isoDate, calendarDate } from '../lib/content.js';
 
-const sources = ['_posts', '_pages', '_authors', '_drafts'].flatMap(files)
-  .filter(p => /\.(md|markdown|html|xml)$/.test(p)).concat(['index.html', 'atom.xml', 'metadata.json']);
+const sources = ['src/_posts', 'src/_pages', 'src/_authors', 'src/_drafts'].flatMap(files)
+  .filter(p => /\.(md|markdown|html|xml)$/.test(p)).concat(['src/index.html', 'src/atom.xml', 'src/metadata.json']);
 let added = 0;
 for (const filename of sources) {
   const text = fs.readFileSync(filename, 'utf8');
