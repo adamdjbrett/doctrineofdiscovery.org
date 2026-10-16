@@ -13,10 +13,10 @@ tags:
   - domination
   - religion
   - doctrine-of-discovery
-canonical_url: https://outcome.doctrineofdiscovery.org/featured/essay2/CEMANAHUAC/
+canonical_url: https://doctrineofdiscovery.org/blog/1CEMANAHUAC/
 link: https://outcome.doctrineofdiscovery.org/featured/essay2/CEMANAHUAC/
 permalink: /blog/link/outcome/featured/essay2/CEMANAHUAC/
-author: adam-dj-brett
+author: tupac-enrique-acosta
 date: 2024-11-25
 ---
 

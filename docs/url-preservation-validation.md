@@ -43,9 +43,9 @@ as text instead of broken links to nonexistent sections.
 
 ## Automated protection
 
-`scripts/check_links.py` uses Python's standard library and runs after every
-production build, before deployment can proceed. It also runs during
-`npm run verify`. It checks:
+`scripts/check_links.py` uses Python's standard library and runs manually,
+including through `npm run verify`. It does not run during production builds
+or Netlify deployment. It checks:
 
 - Local HTML links, images, responsive image candidates, module URLs, image/
   URL metadata, inline/standalone CSS URLs, and SVG references.
@@ -63,7 +63,7 @@ rate limits. Related podcast destinations used for repairs were verified.
 All **38 Node tests**, including a Python suite covering six link-checking
 cases, pass. Build verification reports **790 HTML pages, 497 metadata records,
 824 citation pairs, and 506 Standard.site documents**, with **zero broken local
-URL/fragment targets**. The production build, including the preservation gate,
+URL/fragment targets**. The production build at the time, including the preservation gate,
 took **6.94 seconds** locally. No browser JavaScript or dependency was added.
 
 Development HTTP checks confirmed 301 responses for an older review path,

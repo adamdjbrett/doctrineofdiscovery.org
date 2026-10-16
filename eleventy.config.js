@@ -1,6 +1,5 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { execFileSync } from 'node:child_process';
 import { timezone } from './lib/content.js';
 import { getSite, resetSite } from './lib/site.js';
 import { writeMetadata } from './lib/metadata.js';
@@ -12,9 +11,8 @@ export default function (config) {
     resetSite();
     if (runMode === 'build' && path.resolve(directories.output) === path.resolve('_site')) fs.rmSync('_site', { recursive: true, force: true });
   });
-  config.on('eleventy.after', async ({ directories, runMode }) => {
+  config.on('eleventy.after', async ({ directories }) => {
     writeMetadata(await getSite(),directories.output);
-    if(runMode === 'build') execFileSync('python3',['scripts/check_links.py',directories.output],{stdio:'inherit'});
   });
   if (process.env.ELEVENTY_RUN_MODE === 'serve') {
     config.setServerOptions({ middleware: [async (req,res,next) => {

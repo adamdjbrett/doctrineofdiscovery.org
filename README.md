@@ -48,10 +48,11 @@ before upgrading the exact pin.
 
 Public post/page paths and original PDF/image paths are protected by
 `tests/fixtures/public-urls.json`, including the saved Jekyll URLs and known
-historical fingerprinted media URLs. Production builds and `npm run verify`
+historical fingerprinted media URLs. The manual `npm run verify` command can
 check local links, fragments, image metadata, SVG references, CSS URLs, and
 redirect targets with case-sensitive filename matching. A missing protected
-URL or a newly introduced broken link fails the build before Netlify deploys.
+URL or a newly introduced broken link fails verification. Link checking does
+not run during `npm run build` or Netlify deployment.
 
 Keep existing permalinks and media filenames when editing. When a move is
 necessary, retain the old URL with `redirect_from` for content or a permanent
@@ -69,7 +70,6 @@ npm run build
 npm run verify
 ```
 
-The initial build can stop at the new-URL check after writing its output.
 Recording only adds URLs; it never removes historical entries or excuses a
 missing target. External websites are not fetched during builds. See the
 [URL preservation validation](docs/url-preservation-validation.md).
